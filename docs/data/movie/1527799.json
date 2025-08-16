@@ -1,0 +1,26 @@
+{
+  "id": 1527799,
+  "title": "Putra",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-16",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм"
+  ],
+  "original_language": "id",
+  "spoken_languages": [
+    "Indonesian"
+  ],
+  "production_countries": [
+    "ID"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/lA5mVKpayKlnxJ34V3CkepmpIhh.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1527799",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-16T06:09:48.119723+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
