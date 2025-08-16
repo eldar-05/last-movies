@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-08-16T12:23:17.765629+00:00",
+  "fetched_at_utc": "2025-08-16T18:16:11.472744+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -38,9 +38,9 @@
     {
       "id": 1530893,
       "title": "YES, WE EXIST",
-      "release_date": "",
+      "release_date": "2025-08-16",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qd6aBHUbI8L6IAKZzZGFUpBnoiM.jpg",
       "genres": [
         "драма"
       ]

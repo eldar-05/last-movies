@@ -18,9 +18,9 @@
     "CN"
   ],
   "poster_url": "https://image.tmdb.org/t/p/w500/3HEUC2g6AuH7mjFCMIlz4wtG2dh.jpg",
-  "backdrop_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/4uyjUSgZvZRDtdtTdje0y5xOOfD.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1530765",
   "trailer": null,
-  "fetched_at_utc": "2025-08-16T12:23:17.251460+00:00",
+  "fetched_at_utc": "2025-08-16T18:16:10.885063+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
