@@ -1,9 +1,50 @@
 {
-  "fetched_at_utc": "2025-08-16T06:09:48.150921+00:00",
+  "fetched_at_utc": "2025-08-16T12:23:17.765629+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1530943,
+      "title": "Kuruthipunal",
+      "release_date": "2025-08-16",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1530932,
+      "title": "Moira",
+      "release_date": "2025-08-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/velNYwXmxarY7xq1DhhjltI9Pnn.jpg",
+      "genres": [
+        "ужасы",
+        "драма",
+        "триллер",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1530900,
+      "title": "tainted memories",
+      "release_date": "2025-08-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3RakWtUixSrMJYEKyNK7a2vraa8.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1530893,
+      "title": "YES, WE EXIST",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
     {
       "id": 1530765,
       "title": "大哥大",
@@ -21,7 +62,8 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/zN2s2YMHWo7YKnholxhNGHFLjYn.jpg",
       "genres": [
-        "драма"
+        "боевик",
+        "фантастика"
       ]
     },
     {
@@ -64,44 +106,6 @@
       "genres": [
         "триллер",
         "боевик",
-        "драма"
-      ]
-    },
-    {
-      "id": 1529538,
-      "title": "Querencia",
-      "release_date": "2025-08-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hnRSEigg5l33mnD4TqWt5yc8Exf.jpg",
-      "genres": []
-    },
-    {
-      "id": 1528381,
-      "title": "BUCEE AND THE NEON RANGERS",
-      "release_date": "2025-08-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6MYChYyhu3B21DfullJeeam6G0n.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1527799,
-      "title": "Putra",
-      "release_date": "2025-08-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lA5mVKpayKlnxJ34V3CkepmpIhh.jpg",
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1526508,
-      "title": "Concorde",
-      "release_date": "2025-08-16",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wr4N8BSuyprEWgqVshBVyNTAXQ8.jpg",
-      "genres": [
         "драма"
       ]
     }
