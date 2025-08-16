@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Свежие фильмы — обновление каждые 6 часов</title>
+  <meta name="description" content="Самые новые фильмы за последние недели. Данные из TMDB.">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://image.tmdb.org"/>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="bg-neutral-50 text-neutral-900">
+  <header class="sticky top-0 z-10 bg-white/80 backdrop-blur border-b">
+    <div class="max-w-6xl mx-auto px-4 py-4 flex items-center gap-4">
+      <h1 class="text-xl sm:text-2xl font-semibold">Свежие фильмы</h1>
+      <div id="last" class="ml-auto text-sm text-neutral-500">Загрузка…</div>
+    </div>
+  </header>
+
+  <main class="max-w-6xl mx-auto px-4 py-6">
+
+    <section class="mb-4 flex items-center gap-3">
+      <input id="search" type="search" placeholder="Поиск по названию…" 
+             class="w-full md:w-80 rounded-xl border px-3 py-2" />
+      <select id="sort" class="rounded-xl border px-3 py-2">
+        <option value="date_desc">По дате (новые → старые)</option>
+        <option value="rating_desc">По рейтингу</option>
+        <option value="title_asc">По алфавиту</option>
+      </select>
+    </section>
+
+    <section id="grid" class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4">
+    </section>
+
+    <div id="empty" class="hidden text-center text-neutral-500 py-10">Ничего не найдено.</div>
+
+    <footer class="mt-10 pt-6 border-t text-sm text-neutral-500 flex items-center gap-2">
+      <span>Источник: TMDB.</span>
+      <span>Made by <a href="https://www.instagram.com/eldar.xc/">Eldar<a></span>
+    </footer>
+  </main>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

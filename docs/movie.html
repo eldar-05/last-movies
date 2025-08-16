@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Фильм — подробности</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-neutral-50 text-neutral-900">
+  <header class="bg-white border-b sticky top-0">
+    <div class="max-w-5xl mx-auto px-4 py-4 flex items-center gap-4">
+      <a href="index.html" class="text-blue-600 hover:underline">← Назад</a>
+      <div class="ml-auto text-sm text-neutral-500" id="last">Загрузка…</div>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-6">
+    <div id="wrap" class="grid grid-cols-1 md:grid-cols-[220px,1fr] gap-6 items-start">
+      <div id="poster"></div>
+      <div>
+        <h1 id="title" class="text-2xl font-bold mb-1"></h1>
+        <p id="tagline" class="text-neutral-600 italic mb-3"></p>
+        <div id="meta" class="flex flex-wrap gap-2 text-sm text-neutral-700 mb-4"></div>
+        <div id="genres" class="flex flex-wrap gap-2 mb-4"></div>
+        <p id="overview" class="leading-relaxed"></p>
+
+        <div id="trailerBtnWrap" class="mt-6"></div>
+      </div>
+    </div>
+
+    <section id="trailerSec" class="mt-8 hidden">
+      <h2 class="text-xl font-semibold mb-2">Трейлер</h2>
+      <div id="trailer"></div>
+    </section>
+  </main>
+
+  <script>
+    const p = new URLSearchParams(location.search);
+    const id = p.get("id");
+    if (!id) {
+      document.body.innerHTML = "<div class='max-w-3xl mx-auto p-6'>Нет ID фильма</div>";
+    } else {
+      load();
+    }
+
+    async function load() {
+      try {
+        const res = await fetch(`./data/movie/${id}.json`, { cache: "no-store" });
+        const m = await res.json();
+
+        document.getElementById("title").textContent = m.title || "Без названия";
+        document.getElementById("tagline").textContent = m.tagline || "";
+        document.getElementById("overview").textContent = m.overview || "Описание недоступно.";
+        document.getElementById("last").textContent = m.fetched_at_utc ? ("Обновлено: " + new Date(m.fetched_at_utc).toLocaleString()) : "";
+
+        document.getElementById("poster").innerHTML = m.poster_url
+          ? `<img src="${m.poster_url}" alt="${m.title}" class="rounded-2xl w-full object-cover">`
+          : `<div class="w-full aspect-[2/3] bg-neutral-200 grid place-items-center text-neutral-500 rounded-2xl">Нет постера</div>`;
+
+        const meta = [];
+        if (m.release_date) meta.push(m.release_date);
+        if (typeof m.vote_average === "number") meta.push("⭐ " + m.vote_average.toFixed(1));
+        if (m.runtime) meta.push(fmtRuntime(m.runtime));
+        if (m.original_language) meta.push("Язык: " + m.original_language.toUpperCase());
+        document.getElementById("meta").innerHTML = meta.map(x => `<span class="px-2 py-1 rounded-full bg-neutral-100 border">${x}</span>`).join("");
+
+        document.getElementById("genres").innerHTML = (m.genres||[]).map(g => `<span class="text-sm px-2 py-1 rounded-full bg-blue-50 text-blue-700 border border-blue-200">${g}</span>`).join("");
+
+        if (m.trailer && m.trailer.key) {
+          document.getElementById("trailerBtnWrap").innerHTML =
+            `<a href="#trailer" class="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-black text-white hover:opacity-90"
+               onclick="showTrailer('${m.trailer.key}')">▶ Смотреть трейлер</a>`;
+        }
+      } catch (e) {
+        document.body.innerHTML = "<div class='max-w-3xl mx-auto p-6 text-red-600'>Не удалось загрузить данные фильма.</div>";
+        console.error(e);
+      }
+    }
+
+    function fmtRuntime(mins) {
+      const h = Math.floor(mins/60), m = mins%60;
+      return `${h}ч ${m}м`;
+    }
+
+    function showTrailer(key) {
+      const sec = document.getElementById("trailerSec");
+      const box = document.getElementById("trailer");
+      box.innerHTML = `<iframe width="100%" height="460" src="https://www.youtube.com/embed/${key}" frameborder="0" allowfullscreen class="rounded-2xl w-full"></iframe>`;
+      sec.classList.remove("hidden");
+      location.hash = "#trailer";
+    }
+  </script>
+</body>
+</html>
