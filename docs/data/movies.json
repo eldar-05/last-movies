@@ -1,112 +1,113 @@
 {
-  "fetched_at_utc": "2025-08-16T18:16:11.472744+00:00",
+  "fetched_at_utc": "2025-08-17T01:08:25.937753+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1530943,
-      "title": "Kuruthipunal",
-      "release_date": "2025-08-16",
+      "id": 1530873,
+      "title": "Once You Shall Be One Of Those Who Lived Long Ago",
+      "release_date": "2025-08-17",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1530932,
-      "title": "Moira",
-      "release_date": "2025-08-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/velNYwXmxarY7xq1DhhjltI9Pnn.jpg",
-      "genres": [
-        "ужасы",
-        "драма",
-        "триллер",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1530900,
-      "title": "tainted memories",
-      "release_date": "2025-08-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3RakWtUixSrMJYEKyNK7a2vraa8.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1530893,
-      "title": "YES, WE EXIST",
-      "release_date": "2025-08-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qd6aBHUbI8L6IAKZzZGFUpBnoiM.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1530765,
-      "title": "大哥大",
-      "release_date": "2025-08-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3HEUC2g6AuH7mjFCMIlz4wtG2dh.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1530665,
-      "title": "Адель",
-      "release_date": "2025-08-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zN2s2YMHWo7YKnholxhNGHFLjYn.jpg",
-      "genres": [
-        "боевик",
-        "фантастика"
-      ]
-    },
-    {
-      "id": 1530661,
-      "title": "Homo Homini (Человек человеку)",
-      "release_date": "2025-08-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pfIey3I8dQMzRYxgIrBJkIUFhRo.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1530652,
-      "title": "Sunday Sauce",
-      "release_date": "2025-08-16",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "комедия",
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1530134,
-      "title": "La gravedad no espera",
-      "release_date": "2025-08-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wJDmHdEk6UYQntFMXIqFtseoqm8.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1529799,
-      "title": "DOMINOES",
-      "release_date": "2025-08-16",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iyrCOhwxJyJ6jhxmdGaUWEcaBJ3.jpg",
+      "id": 1530027,
+      "title": "SUMPAH PEMUDA",
+      "release_date": "2025-08-17",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
-        "триллер",
-        "боевик",
-        "драма"
+        "документальный"
+      ]
+    },
+    {
+      "id": 1529815,
+      "title": "The Sneeze: Part Two",
+      "release_date": "2025-08-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mLANMSvcOzDoN3aL3x0k3mL9Jyr.jpg",
+      "genres": [
+        "документальный",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1529504,
+      "title": "แด่เธอ ถึงเรา",
+      "release_date": "2025-08-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/acrvsr5tO8441IFr9T5Dcz1ULlk.jpg",
+      "genres": []
+    },
+    {
+      "id": 1527947,
+      "title": "Padung Langit si Inday Opil",
+      "release_date": "2025-08-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/d5YzYujBAukPDrfbM4TLpmDtyuT.jpg",
+      "genres": [
+        "приключения",
+        "фэнтези",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1524970,
+      "title": "Poolside Getaway",
+      "release_date": "2025-08-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4tRweyKU44XfXi0IpmucbNYAHRL.jpg",
+      "genres": [
+        "музыка",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1524774,
+      "title": "Hesse Kassel: Rumbo a La Brea",
+      "release_date": "2025-08-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qTMcBMBLL9zLmHDmCKLQYxpxHa7.jpg",
+      "genres": [
+        "музыка",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1524306,
+      "title": "Байдың Баласы",
+      "release_date": "2025-08-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/t8hiImYqwrekam6sfAW4wfoCwaB.jpg",
+      "genres": [
+        "комедия",
+        "семейный"
+      ]
+    },
+    {
+      "id": 1518187,
+      "title": "Autoretrato - Santiago Vargas",
+      "release_date": "2025-08-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bDxRqT9ICxyWtzKGTUxpNnG7hJY.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1511515,
+      "title": "Imagine",
+      "release_date": "2025-08-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/itDu8Hy7g4E3xtYRbCwKNvnu9R6.jpg",
+      "genres": [
+        "мультфильм",
+        "фантастика",
+        "фэнтези"
       ]
     }
   ],

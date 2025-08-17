@@ -1,0 +1,27 @@
+{
+  "id": 1529815,
+  "title": "The Sneeze: Part Two",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-17",
+  "runtime": 6,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/mLANMSvcOzDoN3aL3x0k3mL9Jyr.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1529815",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-17T01:08:23.516735+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
