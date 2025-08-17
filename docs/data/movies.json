@@ -1,9 +1,31 @@
 {
-  "fetched_at_utc": "2025-08-17T06:18:28.663381+00:00",
+  "fetched_at_utc": "2025-08-17T12:23:52.329712+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1531401,
+      "title": "Quello che...",
+      "release_date": "2025-08-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zaTBnU1633LtKNnyk1UUUlljFDC.jpg",
+      "genres": [
+        "мелодрама",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1531307,
+      "title": "The Hunt For Shannon Matthews",
+      "release_date": "2025-08-17",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный",
+        "криминал"
+      ]
+    },
     {
       "id": 1530873,
       "title": "Once You Shall Be One Of Those Who Lived Long Ago",
@@ -44,6 +66,14 @@
       "genres": []
     },
     {
+      "id": 1528512,
+      "title": "Recollections",
+      "release_date": "2025-08-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oxCzz54TfpMNpGjA1aCc6qX9AEj.jpg",
+      "genres": []
+    },
+    {
       "id": 1527947,
       "title": "Padung Langit si Inday Opil",
       "release_date": "2025-08-17",
@@ -75,39 +105,6 @@
       "genres": [
         "музыка",
         "документальный"
-      ]
-    },
-    {
-      "id": 1524306,
-      "title": "Байдың Баласы",
-      "release_date": "2025-08-17",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/t8hiImYqwrekam6sfAW4wfoCwaB.jpg",
-      "genres": [
-        "комедия",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1518187,
-      "title": "Autoretrato - Santiago Vargas",
-      "release_date": "2025-08-17",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bDxRqT9ICxyWtzKGTUxpNnG7hJY.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1511515,
-      "title": "Imagine",
-      "release_date": "2025-08-17",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/itDu8Hy7g4E3xtYRbCwKNvnu9R6.jpg",
-      "genres": [
-        "мультфильм",
-        "фантастика",
-        "фэнтези"
       ]
     }
   ],
