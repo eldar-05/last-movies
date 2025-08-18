@@ -1,111 +1,106 @@
 {
-  "fetched_at_utc": "2025-08-17T18:17:10.368479+00:00",
+  "fetched_at_utc": "2025-08-18T01:07:39.755877+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1531401,
-      "title": "Quello che...",
-      "release_date": "2025-08-17",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zaTBnU1633LtKNnyk1UUUlljFDC.jpg",
+      "id": 1530928,
+      "title": "Your Mind is on Vacation",
+      "release_date": "2025-08-01",
+      "vote_average": 8.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oRkAUo94QK9mnYrWNtlh6yeWKyb.jpg",
       "genres": [
-        "мелодрама",
-        "комедия"
+        "триллер"
       ]
     },
     {
-      "id": 1531307,
-      "title": "The Hunt For Shannon Matthews",
-      "release_date": "2025-08-17",
+      "id": 1530877,
+      "title": "Tanau'r Lloer",
+      "release_date": "2025-08-18",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "документальный",
-        "криминал"
+        "драма"
       ]
     },
     {
-      "id": 1530873,
-      "title": "Once You Shall Be One Of Those Who Lived Long Ago",
-      "release_date": "2025-08-17",
+      "id": 1530708,
+      "title": "Zombie",
+      "release_date": "2025-08-18",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1530027,
-      "title": "SUMPAH PEMUDA",
-      "release_date": "2025-08-17",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1529815,
-      "title": "The Sneeze: Part Two",
-      "release_date": "2025-08-17",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mLANMSvcOzDoN3aL3x0k3mL9Jyr.jpg",
-      "genres": [
-        "документальный",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1529504,
-      "title": "แด่เธอ ถึงเรา",
-      "release_date": "2025-08-17",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/acrvsr5tO8441IFr9T5Dcz1ULlk.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eIDBSJ5UGntoq6VyCj13XX4nlwn.jpg",
       "genres": []
     },
     {
-      "id": 1528512,
-      "title": "Recollections",
-      "release_date": "2025-08-17",
+      "id": 1529796,
+      "title": "Extrañar",
+      "release_date": "2025-08-18",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oxCzz54TfpMNpGjA1aCc6qX9AEj.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/umHJ8CWVZi2t4wejqn0QpDav9be.jpg",
+      "genres": [
+        "документальный",
+        "драма"
+      ]
+    },
+    {
+      "id": 1527742,
+      "title": "Midnight’s All Ours",
+      "release_date": "2025-08-18",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/7NrwUBL483FzIaRjXothFIfUqIG.jpg",
+      "genres": [
+        "документальный",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1525910,
+      "title": "Day of the Draugr",
+      "release_date": "2025-08-18",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lbxbLhdieda23OEbTPefPGdSwRK.jpg",
+      "genres": [
+        "комедия",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1522950,
+      "title": "Tarik",
+      "release_date": "2025-08-18",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zoyKeE7utGHVjxe27fQcbZFQ16O.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1520583,
+      "title": "백! 스테이지",
+      "release_date": "2025-08-18",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3XViMan1R3Y9M6oFHCecMGr4swi.jpg",
+      "genres": [
+        "музыка",
+        "драма"
+      ]
+    },
+    {
+      "id": 1520300,
+      "title": "Forward, Ever",
+      "release_date": "2025-08-18",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": []
     },
     {
-      "id": 1527947,
-      "title": "Padung Langit si Inday Opil",
-      "release_date": "2025-08-17",
+      "id": 1520295,
+      "title": "A Place to Be Fed",
+      "release_date": "2025-08-18",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/d5YzYujBAukPDrfbM4TLpmDtyuT.jpg",
-      "genres": [
-        "приключения",
-        "фэнтези",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1524970,
-      "title": "Poolside Getaway",
-      "release_date": "2025-08-17",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4tRweyKU44XfXi0IpmucbNYAHRL.jpg",
-      "genres": [
-        "музыка",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1524774,
-      "title": "Hesse Kassel: Rumbo a La Brea",
-      "release_date": "2025-08-17",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qTMcBMBLL9zLmHDmCKLQYxpxHa7.jpg",
-      "genres": [
-        "музыка",
-        "документальный"
-      ]
+      "poster_url": null,
+      "genres": []
     }
   ],
   "source": "TMDB",

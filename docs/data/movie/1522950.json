@@ -1,0 +1,24 @@
+{
+  "id": 1522950,
+  "title": "Tarik",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-18",
+  "runtime": 27,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "sr",
+  "spoken_languages": [
+    "Serbian"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/zoyKeE7utGHVjxe27fQcbZFQ16O.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/izCIYpk2Sikp8yjnqCKnrvFmN6A.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1522950",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-18T01:07:38.935834+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
