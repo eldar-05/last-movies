@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-08-18T12:27:19.509794+00:00",
+  "fetched_at_utc": "2025-08-18T18:19:25.215329+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -91,7 +91,7 @@
       "title": "Forward, Ever",
       "release_date": "2025-08-18",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/d9hKCxanIckbrZaF4XFnMuwtOsD.jpg",
       "genres": []
     },
     {
