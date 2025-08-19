@@ -1,0 +1,28 @@
+{
+  "id": 1531519,
+  "title": "LISTERS: A Glimpse Into Extreme Birdwatching",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-19",
+  "runtime": 119,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "приключения",
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/fXqBOrUjCwaj52rEkb0Gvu3Gsq4.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/z8IB1typKAbstqfv6hFl4rCrkPh.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1531519",
+  "trailer": {
+    "key": "FLWCsw9CdcI",
+    "name": "LISTERS: A Glimpse Into Extreme Birdwatching (Official Movie Trailer)",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-08-19T01:01:15.238437+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1530250,
+  "title": "Snip Snip",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-19",
+  "runtime": 8,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "боевик"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/bobSSL4jdTNILR3xo4GUXtj7DRG.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1530250",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-19T01:01:16.326153+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

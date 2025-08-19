@@ -1,0 +1,24 @@
+{
+  "id": 1531131,
+  "title": "Rahlo",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-19",
+  "runtime": 19,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "hr",
+  "spoken_languages": [
+    "Croatian"
+  ],
+  "production_countries": [
+    "HR"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1531131",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-19T01:01:15.558544+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

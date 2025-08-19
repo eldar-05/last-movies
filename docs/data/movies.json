@@ -1,106 +1,108 @@
 {
-  "fetched_at_utc": "2025-08-18T18:19:25.215329+00:00",
+  "fetched_at_utc": "2025-08-19T01:01:16.326507+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1530928,
-      "title": "Your Mind is on Vacation",
-      "release_date": "2025-08-18",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oRkAUo94QK9mnYrWNtlh6yeWKyb.jpg",
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1530877,
-      "title": "Tanau'r Lloer",
-      "release_date": "2025-08-18",
+      "id": 1532337,
+      "title": "Ceļā ir kaifs",
+      "release_date": "2025-08-19",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1531656,
+      "title": "Karma",
+      "release_date": "2025-08-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rSYVQbwztMxIPjNZ9zGGuWvDRXH.jpg",
+      "genres": [
         "драма"
       ]
     },
     {
-      "id": 1530708,
-      "title": "Zombie",
-      "release_date": "2025-08-18",
+      "id": 1531519,
+      "title": "LISTERS: A Glimpse Into Extreme Birdwatching",
+      "release_date": "2025-08-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eIDBSJ5UGntoq6VyCj13XX4nlwn.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fXqBOrUjCwaj52rEkb0Gvu3Gsq4.jpg",
+      "genres": [
+        "документальный",
+        "приключения",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1531137,
+      "title": "Desert, She",
+      "release_date": "2025-08-19",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": []
     },
     {
-      "id": 1529796,
-      "title": "Extrañar",
-      "release_date": "2025-08-18",
+      "id": 1531131,
+      "title": "Rahlo",
+      "release_date": "2025-08-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/umHJ8CWVZi2t4wejqn0QpDav9be.jpg",
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1531124,
+      "title": "Home, a Space Between Us",
+      "release_date": "2025-08-19",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1530875,
+      "title": "All The Devils Are Here",
+      "release_date": "2025-08-19",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
-        "документальный",
+        "криминал",
         "драма"
       ]
     },
     {
-      "id": 1527742,
-      "title": "Midnight’s All Ours",
-      "release_date": "2025-08-18",
+      "id": 1530298,
+      "title": "后羿之箭神",
+      "release_date": "2025-08-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7NrwUBL483FzIaRjXothFIfUqIG.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4DX2pbVca9FpziF8uTUODs2pBWb.jpg",
       "genres": [
-        "документальный",
-        "музыка"
+        "мультфильм",
+        "фэнтези"
       ]
     },
     {
-      "id": 1525910,
-      "title": "Day of the Draugr",
-      "release_date": "2025-08-18",
+      "id": 1530263,
+      "title": "Terror at Edgewood Manor",
+      "release_date": "2025-08-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lbxbLhdieda23OEbTPefPGdSwRK.jpg",
+      "poster_url": null,
+      "genres": [
+        "ужасы",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1530250,
+      "title": "Snip Snip",
+      "release_date": "2025-08-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bobSSL4jdTNILR3xo4GUXtj7DRG.jpg",
       "genres": [
         "комедия",
-        "ужасы"
+        "боевик"
       ]
-    },
-    {
-      "id": 1522950,
-      "title": "Tarik",
-      "release_date": "2025-08-18",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zoyKeE7utGHVjxe27fQcbZFQ16O.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1520583,
-      "title": "백! 스테이지",
-      "release_date": "2025-08-18",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pLmEfJPjGrZXzzZfcHUtOMIm5DA.jpg",
-      "genres": [
-        "музыка",
-        "драма"
-      ]
-    },
-    {
-      "id": 1520300,
-      "title": "Forward, Ever",
-      "release_date": "2025-08-18",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/d9hKCxanIckbrZaF4XFnMuwtOsD.jpg",
-      "genres": []
-    },
-    {
-      "id": 1520295,
-      "title": "A Place to Be Fed",
-      "release_date": "2025-08-18",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
     }
   ],
   "source": "TMDB",
