@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-08-19T12:25:22.910321+00:00",
+  "fetched_at_utc": "2025-08-19T18:17:42.972722+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -15,9 +15,9 @@
     {
       "id": 1532459,
       "title": "Dreadd",
-      "release_date": "",
+      "release_date": "2025-08-19",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tJy0UcBFbmlyvuJlBj3S2zxFjoa.jpg",
       "genres": [
         "ужасы",
         "триллер"

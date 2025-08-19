@@ -3,18 +3,21 @@
   "title": "Dreadd",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-08-19",
   "runtime": 20,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "ужасы",
+    "триллер"
+  ],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/tJy0UcBFbmlyvuJlBj3S2zxFjoa.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/c3ajcUGtmCXtX2qYPsFSbVxIWNd.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1532459",
   "trailer": null,
-  "fetched_at_utc": "2025-08-19T12:25:21.804276+00:00",
+  "fetched_at_utc": "2025-08-19T18:17:41.599637+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
