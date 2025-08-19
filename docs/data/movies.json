@@ -1,9 +1,28 @@
 {
-  "fetched_at_utc": "2025-08-19T06:19:33.923852+00:00",
+  "fetched_at_utc": "2025-08-19T12:25:22.910321+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1532500,
+      "title": "Sytë e Bernës",
+      "release_date": "2025-08-19",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1532459,
+      "title": "Dreadd",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
     {
       "id": 1532337,
       "title": "Ceļā ir kaifs",
@@ -80,28 +99,6 @@
       "genres": [
         "мультфильм",
         "фэнтези"
-      ]
-    },
-    {
-      "id": 1530263,
-      "title": "Terror at Edgewood Manor",
-      "release_date": "2025-08-19",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "ужасы",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1530250,
-      "title": "Snip Snip",
-      "release_date": "2025-08-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bobSSL4jdTNILR3xo4GUXtj7DRG.jpg",
-      "genres": [
-        "комедия",
-        "боевик"
       ]
     }
   ],

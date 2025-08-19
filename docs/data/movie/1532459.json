@@ -1,23 +1,20 @@
 {
-  "id": 1530875,
-  "title": "All The Devils Are Here",
+  "id": 1532459,
+  "title": "Dreadd",
   "tagline": "",
   "overview": "",
-  "release_date": "2025-08-19",
-  "runtime": 87,
+  "release_date": "",
+  "runtime": 20,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [
-    "криминал",
-    "драма"
-  ],
+  "genres": [],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
   "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1530875",
+  "tmdb_url": "https://www.themoviedb.org/movie/1532459",
   "trailer": null,
-  "fetched_at_utc": "2025-08-19T12:25:22.695766+00:00",
+  "fetched_at_utc": "2025-08-19T12:25:21.804276+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
