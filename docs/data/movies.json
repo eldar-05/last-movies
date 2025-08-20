@@ -1,9 +1,62 @@
 {
-  "fetched_at_utc": "2025-08-20T06:19:48.813498+00:00",
+  "fetched_at_utc": "2025-08-20T12:25:16.814034+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1532963,
+      "title": "Ballad of Him and Her",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1532913,
+      "title": "危情风云",
+      "release_date": "2025-08-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/AsHQuASjZvlqmx1K2pQ8WEChDgX.jpg",
+      "genres": [
+        "боевик",
+        "криминал"
+      ]
+    },
+    {
+      "id": 1532862,
+      "title": "Eros",
+      "release_date": "2025-08-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/v98CSqaka3VTH3fMs7oVqbEX8YJ.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1532831,
+      "title": "Duvet",
+      "release_date": "2025-08-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rtgte6AawjB2L5Yp9nubs9TFSGv.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1532815,
+      "title": "A Afinação do Mundo",
+      "release_date": "2025-08-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/d29QmSbmZFHqSrwbphMDxpWwy95.jpg",
+      "genres": [
+        "документальный",
+        "музыка"
+      ]
+    },
     {
       "id": 1532792,
       "title": "In The Search of Vengeance",
@@ -37,6 +90,17 @@
       ]
     },
     {
+      "id": 1530891,
+      "title": "HEC, admis sans les codes",
+      "release_date": "2025-08-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gx9qN1syaAJuewZvsY1WBefx8jb.jpg",
+      "genres": [
+        "документальный",
+        "телевизионный фильм"
+      ]
+    },
+    {
       "id": 1530833,
       "title": "Гуччи",
       "release_date": "2025-08-20",
@@ -44,67 +108,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/x0ngSCYqm8OnHtFDtfDQRiqg8FT.jpg",
       "genres": [
         "мелодрама"
-      ]
-    },
-    {
-      "id": 1530670,
-      "title": "Бесы. Верховенский",
-      "release_date": "2025-08-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wnHZWhDkOOes1WDFsho2EuugazX.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1530645,
-      "title": "Tutup",
-      "release_date": "2025-08-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kwXUrq2VSWaaVxry0aFKi0rO6HH.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1530450,
-      "title": "Большая медведица",
-      "release_date": "2025-08-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tJpRd9lUQnwdlDghrT66wk2wRTo.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1530448,
-      "title": "Варвара Святая",
-      "release_date": "2025-08-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ig0fyN2XpX3xTWuZ8FqWuY862f2.jpg",
-      "genres": [
-        "драма",
-        "фэнтези"
-      ]
-    },
-    {
-      "id": 1530444,
-      "title": "Весёлая жизнь",
-      "release_date": "2025-08-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/q6Lnjcezi94W8sT6MaT9liJ8nyL.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1530438,
-      "title": "Главное к этой минуте",
-      "release_date": "2025-08-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vjkeBujMOOLblHMefb7NzVVw4B7.jpg",
-      "genres": [
-        "драма"
       ]
     }
   ],
