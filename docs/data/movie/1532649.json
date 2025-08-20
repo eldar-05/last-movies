@@ -1,0 +1,28 @@
+{
+  "id": 1532649,
+  "title": "L'Invaincu",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-20",
+  "runtime": 10,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "боевик"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/pkM0zeMMwKdwnOKlWJGacYEszmu.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/qbAUzfyCkqrQKfPKf7oA5Z5SAuy.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1532649",
+  "trailer": {
+    "key": "PFYn9eWj8fo",
+    "name": "L'Invaincu - Court-métrage 2025 (Rayane SCHMIT) - Production originale",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-08-20T00:59:10.310620+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

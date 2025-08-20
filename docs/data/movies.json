@@ -1,104 +1,110 @@
 {
-  "fetched_at_utc": "2025-08-19T18:17:42.972722+00:00",
+  "fetched_at_utc": "2025-08-20T00:59:13.642128+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1532500,
-      "title": "Sytë e Bernës",
-      "release_date": "2025-08-19",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1532459,
-      "title": "Dreadd",
-      "release_date": "2025-08-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tJy0UcBFbmlyvuJlBj3S2zxFjoa.jpg",
+      "id": 1532792,
+      "title": "In The Search of Vengeance",
+      "release_date": "2025-08-20",
+      "vote_average": 7.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rx5nyHoNGLpIRqbmLjyIX2FV9yO.jpg",
       "genres": [
-        "ужасы",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1532337,
-      "title": "Ceļā ir kaifs",
-      "release_date": "2025-08-19",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1531656,
-      "title": "Karma",
-      "release_date": "2025-08-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rSYVQbwztMxIPjNZ9zGGuWvDRXH.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1531519,
-      "title": "LISTERS: A Glimpse Into Extreme Birdwatching",
-      "release_date": "2025-08-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fXqBOrUjCwaj52rEkb0Gvu3Gsq4.jpg",
-      "genres": [
-        "документальный",
-        "приключения",
+        "вестерн",
+        "боевик",
         "комедия"
       ]
     },
     {
-      "id": 1531137,
-      "title": "Desert, She",
-      "release_date": "2025-08-19",
+      "id": 1532649,
+      "title": "L'Invaincu",
+      "release_date": "2025-08-20",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1531131,
-      "title": "Rahlo",
-      "release_date": "2025-08-19",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1531124,
-      "title": "Home, a Space Between Us",
-      "release_date": "2025-08-19",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1530875,
-      "title": "All The Devils Are Here",
-      "release_date": "2025-08-19",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pkM0zeMMwKdwnOKlWJGacYEszmu.jpg",
       "genres": [
-        "криминал",
+        "боевик"
+      ]
+    },
+    {
+      "id": 1531168,
+      "title": "Seeker",
+      "release_date": "2025-08-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jsM1gr3ZrO0CtIuD3JC5TxxUETI.jpg",
+      "genres": [
+        "детектив"
+      ]
+    },
+    {
+      "id": 1530833,
+      "title": "Гуччи",
+      "release_date": "2025-08-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/x0ngSCYqm8OnHtFDtfDQRiqg8FT.jpg",
+      "genres": [
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1530670,
+      "title": "Бесы. Верховенский",
+      "release_date": "2025-08-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wnHZWhDkOOes1WDFsho2EuugazX.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1530645,
+      "title": "Tutup",
+      "release_date": "2025-08-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kwXUrq2VSWaaVxry0aFKi0rO6HH.jpg",
+      "genres": [
         "драма"
       ]
     },
     {
-      "id": 1530298,
-      "title": "后羿之箭神",
-      "release_date": "2025-08-19",
+      "id": 1530450,
+      "title": "Большая медведица",
+      "release_date": "2025-08-20",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4DX2pbVca9FpziF8uTUODs2pBWb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tJpRd9lUQnwdlDghrT66wk2wRTo.jpg",
       "genres": [
-        "мультфильм",
+        "драма"
+      ]
+    },
+    {
+      "id": 1530448,
+      "title": "Варвара Святая",
+      "release_date": "2025-08-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ig0fyN2XpX3xTWuZ8FqWuY862f2.jpg",
+      "genres": [
+        "драма",
         "фэнтези"
+      ]
+    },
+    {
+      "id": 1530444,
+      "title": "Весёлая жизнь",
+      "release_date": "2025-08-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/q6Lnjcezi94W8sT6MaT9liJ8nyL.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1530438,
+      "title": "Главное к этой минуте",
+      "release_date": "2025-08-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vjkeBujMOOLblHMefb7NzVVw4B7.jpg",
+      "genres": [
+        "драма"
       ]
     }
   ],

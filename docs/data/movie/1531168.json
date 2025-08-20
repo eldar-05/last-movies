@@ -1,0 +1,22 @@
+{
+  "id": 1531168,
+  "title": "Seeker",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-20",
+  "runtime": 17,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "детектив"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/jsM1gr3ZrO0CtIuD3JC5TxxUETI.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/qk0yhoXIXXGMPO3fWntofSOaW5O.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1531168",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-20T00:59:10.694799+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
