@@ -1,113 +1,103 @@
 {
-  "fetched_at_utc": "2025-08-20T18:18:30.517837+00:00",
+  "fetched_at_utc": "2025-08-21T00:58:36.530993+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1532963,
-      "title": "Ballad of Him and Her",
+      "id": 1533210,
+      "title": "Quase Trap",
       "release_date": "",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5ZJl00jAL723jks7h6iYHjBGfs2.jpg",
       "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1532583,
+      "title": "La 42",
+      "release_date": "2025-08-21",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1532517,
+      "title": "Trascender",
+      "release_date": "2025-08-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5nUcJyijQ2kPAEFMnCpr3mbwBoh.jpg",
+      "genres": [
+        "фантастика",
         "драма"
       ]
     },
     {
-      "id": 1532913,
-      "title": "危情风云",
-      "release_date": "2025-08-20",
+      "id": 1532296,
+      "title": "Rabbuní",
+      "release_date": "2025-08-21",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/AsHQuASjZvlqmx1K2pQ8WEChDgX.jpg",
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1532210,
+      "title": "La vie ne tient qu'à un Cornichon",
+      "release_date": "2025-08-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gp1aXCKkM2uY19DXIm7zFNfZbI0.jpg",
       "genres": [
-        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1532191,
+      "title": "I'm Not A Hitman",
+      "release_date": "2025-08-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/uNsQgMNhEUmxw0JlPPUXkwfJ9GJ.jpg",
+      "genres": [
+        "комедия",
         "криминал"
       ]
     },
     {
-      "id": 1532862,
-      "title": "Eros",
-      "release_date": "2025-08-20",
+      "id": 1532091,
+      "title": "Entre la Tierra y el Cielo",
+      "release_date": "2025-08-21",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/v98CSqaka3VTH3fMs7oVqbEX8YJ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ey9yAI7O9MW6Omi78mSRSBkDvEv.jpg",
       "genres": [
-        "драма",
-        "мелодрама"
+        "документальный"
       ]
     },
     {
-      "id": 1532831,
-      "title": "Duvet",
-      "release_date": "2025-08-20",
+      "id": 1532012,
+      "title": "Before The Spotlight",
+      "release_date": "2025-08-21",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rtgte6AawjB2L5Yp9nubs9TFSGv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rcXHyJEgDPJkhoeIY3LOmUqWS1c.jpg",
       "genres": [
-        "комедия"
+        "документальный"
       ]
     },
     {
-      "id": 1532815,
-      "title": "A Afinação do Mundo",
-      "release_date": "2025-08-20",
+      "id": 1531967,
+      "title": "Hvilepuls",
+      "release_date": "2025-08-21",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/d29QmSbmZFHqSrwbphMDxpWwy95.jpg",
-      "genres": [
-        "документальный",
-        "музыка"
-      ]
+      "poster_url": null,
+      "genres": []
     },
     {
-      "id": 1532792,
-      "title": "In The Search of Vengeance",
-      "release_date": "2025-08-20",
-      "vote_average": 7.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rx5nyHoNGLpIRqbmLjyIX2FV9yO.jpg",
-      "genres": [
-        "вестерн",
-        "боевик",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1532649,
-      "title": "L'Invaincu",
-      "release_date": "2025-08-20",
+      "id": 1531965,
+      "title": "Happy Hooker, lust om te leven",
+      "release_date": "2025-08-21",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pkM0zeMMwKdwnOKlWJGacYEszmu.jpg",
+      "poster_url": null,
       "genres": [
-        "боевик"
-      ]
-    },
-    {
-      "id": 1531168,
-      "title": "Seeker",
-      "release_date": "2025-08-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jsM1gr3ZrO0CtIuD3JC5TxxUETI.jpg",
-      "genres": [
-        "детектив"
-      ]
-    },
-    {
-      "id": 1530891,
-      "title": "HEC, admis sans les codes",
-      "release_date": "2025-08-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gx9qN1syaAJuewZvsY1WBefx8jb.jpg",
-      "genres": [
-        "документальный",
-        "телевизионный фильм"
-      ]
-    },
-    {
-      "id": 1530833,
-      "title": "Гуччи",
-      "release_date": "2025-08-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/x0ngSCYqm8OnHtFDtfDQRiqg8FT.jpg",
-      "genres": [
-        "мелодрама"
+        "документальный"
       ]
     }
   ],
