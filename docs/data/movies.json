@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-08-21T00:58:36.530993+00:00",
+  "fetched_at_utc": "2025-08-21T06:28:51.589878+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -7,7 +7,7 @@
     {
       "id": 1533210,
       "title": "Quase Trap",
-      "release_date": "",
+      "release_date": "2025-08-21",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/5ZJl00jAL723jks7h6iYHjBGfs2.jpg",
       "genres": [
@@ -27,7 +27,7 @@
       "title": "Trascender",
       "release_date": "2025-08-21",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5nUcJyijQ2kPAEFMnCpr3mbwBoh.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nG3xPXDdNxwCOe7DbGWVDoeyUXi.jpg",
       "genres": [
         "фантастика",
         "драма"
