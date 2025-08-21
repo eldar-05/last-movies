@@ -1,9 +1,28 @@
 {
-  "fetched_at_utc": "2025-08-21T06:28:51.589878+00:00",
+  "fetched_at_utc": "2025-08-21T12:25:06.869476+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1533424,
+      "title": "La felicidad",
+      "release_date": "2025-08-21",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1533359,
+      "title": "Baby, Baby",
+      "release_date": "2025-08-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gynJN6cHSk6l4Q577a8dP84q2oM.jpg",
+      "genres": [
+        "ужасы",
+        "драма"
+      ]
+    },
     {
       "id": 1533210,
       "title": "Quase Trap",
@@ -12,6 +31,17 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/5ZJl00jAL723jks7h6iYHjBGfs2.jpg",
       "genres": [
         "комедия"
+      ]
+    },
+    {
+      "id": 1533160,
+      "title": "好時光",
+      "release_date": "2025-08-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vS7w1XJlviWQ28nqyk1B6AhL7xu.jpg",
+      "genres": [
+        "документальный",
+        "драма"
       ]
     },
     {
@@ -68,34 +98,6 @@
       "release_date": "2025-08-21",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/ey9yAI7O9MW6Omi78mSRSBkDvEv.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1532012,
-      "title": "Before The Spotlight",
-      "release_date": "2025-08-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rcXHyJEgDPJkhoeIY3LOmUqWS1c.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1531967,
-      "title": "Hvilepuls",
-      "release_date": "2025-08-21",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1531965,
-      "title": "Happy Hooker, lust om te leven",
-      "release_date": "2025-08-21",
-      "vote_average": 0.0,
-      "poster_url": null,
       "genres": [
         "документальный"
       ]
