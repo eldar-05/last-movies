@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-08-22T00:59:37.025121+00:00",
+  "fetched_at_utc": "2025-08-22T06:19:16.649567+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -18,8 +18,8 @@
       "id": 1533610,
       "title": "O Alfaiate",
       "release_date": "2025-08-22",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yWWk4Xi2YUO911MB8y167VH13Ct.jpg",
       "genres": [
         "ужасы",
         "триллер"
