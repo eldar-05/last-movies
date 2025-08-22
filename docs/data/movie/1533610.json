@@ -1,0 +1,27 @@
+{
+  "id": 1533610,
+  "title": "O Alfaiate",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-22",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "триллер"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1533610",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-22T00:59:35.566156+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,104 +1,113 @@
 {
-  "fetched_at_utc": "2025-08-21T18:18:18.647646+00:00",
+  "fetched_at_utc": "2025-08-22T00:59:37.025121+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1533424,
-      "title": "La felicidad",
-      "release_date": "2025-08-21",
+      "id": 1533644,
+      "title": "La Marchesa, La Monaca, La Matta e La Spia",
+      "release_date": "2025-08-22",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/7zopYfsioQHSW0qVGR7ZRVCpENV.jpg",
+      "genres": [
+        "документальный"
+      ]
     },
     {
-      "id": 1533359,
-      "title": "Baby, Baby",
-      "release_date": "2025-08-21",
+      "id": 1533610,
+      "title": "O Alfaiate",
+      "release_date": "2025-08-22",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gynJN6cHSk6l4Q577a8dP84q2oM.jpg",
+      "poster_url": null,
       "genres": [
         "ужасы",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1533464,
+      "title": "NOW",
+      "release_date": "2025-08-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/za2Uv64L6fhHmXuxM6Snx5uu17q.jpg",
+      "genres": [
         "драма"
       ]
     },
     {
-      "id": 1533210,
-      "title": "Quase Trap",
-      "release_date": "2025-08-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5ZJl00jAL723jks7h6iYHjBGfs2.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1533160,
-      "title": "好時光",
-      "release_date": "2025-08-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vS7w1XJlviWQ28nqyk1B6AhL7xu.jpg",
-      "genres": [
-        "документальный",
-        "драма"
-      ]
-    },
-    {
-      "id": 1532583,
-      "title": "La 42",
-      "release_date": "2025-08-21",
+      "id": 1533459,
+      "title": "Печурки од минатото",
+      "release_date": "2025-08-22",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": []
+      "genres": [
+        "документальный"
+      ]
     },
     {
-      "id": 1532517,
-      "title": "Trascender",
-      "release_date": "2025-08-21",
+      "id": 1533253,
+      "title": "Tapestry",
+      "release_date": "2025-08-22",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nG3xPXDdNxwCOe7DbGWVDoeyUXi.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ep9pGrWh73O4Gh0YYh49ENUPlXS.jpg",
       "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1533228,
+      "title": "Fragment d’un discours amoureux",
+      "release_date": "2025-08-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wBdky7lNOQryS0u01Oih0GMLG5K.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1533192,
+      "title": "Cozic",
+      "release_date": "2025-08-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/Dvb4ceH5lbbUmH5cqACVWJfaec.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1532743,
+      "title": "The Life of Silver",
+      "release_date": "2025-08-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/r6w7f6vUOPOfRmbBVklwcGFcco9.jpg",
+      "genres": [
+        "фэнтези",
+        "приключения",
         "фантастика",
-        "драма"
+        "боевик",
+        "комедия",
+        "драма",
+        "семейный"
       ]
     },
     {
-      "id": 1532296,
-      "title": "Rabbuní",
-      "release_date": "2025-08-21",
+      "id": 1532503,
+      "title": "La saveur d’une vie",
+      "release_date": "2025-08-22",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1532210,
-      "title": "La vie ne tient qu'à un Cornichon",
-      "release_date": "2025-08-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gp1aXCKkM2uY19DXIm7zFNfZbI0.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1532191,
-      "title": "I'm Not A Hitman",
-      "release_date": "2025-08-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uNsQgMNhEUmxw0JlPPUXkwfJ9GJ.jpg",
+      "id": 1532275,
+      "title": "#freeschlep",
+      "release_date": "2025-08-22",
+      "vote_average": 10.0,
+      "poster_url": null,
       "genres": [
         "комедия",
-        "криминал"
-      ]
-    },
-    {
-      "id": 1532091,
-      "title": "Entre la Tierra y el Cielo",
-      "release_date": "2025-08-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ey9yAI7O9MW6Omi78mSRSBkDvEv.jpg",
-      "genres": [
         "документальный"
       ]
     }

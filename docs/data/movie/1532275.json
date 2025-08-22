@@ -1,0 +1,23 @@
+{
+  "id": 1532275,
+  "title": "#freeschlep",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-22",
+  "runtime": 10,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "комедия",
+    "документальный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1532275",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-22T00:59:37.024781+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
