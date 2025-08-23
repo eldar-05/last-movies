@@ -1,115 +1,105 @@
 {
-  "fetched_at_utc": "2025-08-22T18:17:37.921759+00:00",
+  "fetched_at_utc": "2025-08-23T00:57:19.756270+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1533644,
-      "title": "La Marchesa, La Monaca, La Matta e La Spia",
-      "release_date": "2025-08-22",
+      "id": 1533784,
+      "title": "ELECTRIC Déco",
+      "release_date": "2025-08-23",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6aKmX6IxJSFy6J48T5hK7u7wpjL.jpg",
+      "genres": [
+        "музыка",
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1533708,
+      "title": "Immagine Vacua",
+      "release_date": "2025-08-23",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7zopYfsioQHSW0qVGR7ZRVCpENV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/A0hxvzmYxsKn0UjcEl8Gmfuj1lk.jpg",
+      "genres": [
+        "детектив"
+      ]
+    },
+    {
+      "id": 1533161,
+      "title": "Last Match",
+      "release_date": "2025-08-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fU5wKuLHBuK8O4TiYfA3x9k3G3N.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1533013,
+      "title": "The Old Bull knows, or Once Knew",
+      "release_date": "2025-08-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ghMms51V8uMBezbIwxUUXZQd9fq.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1533610,
-      "title": "O Alfaiate",
-      "release_date": "2025-08-22",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yWWk4Xi2YUO911MB8y167VH13Ct.jpg",
+      "id": 1532864,
+      "title": "Étrangère, je suis venue, étrangère, je repars.",
+      "release_date": "2025-08-23",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1532469,
+      "title": "Sólo por hoy",
+      "release_date": "2025-08-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6Zt6JoV7u6iAX3JxeegKtBvUpBK.jpg",
+      "genres": []
+    },
+    {
+      "id": 1532423,
+      "title": "Life",
+      "release_date": "2025-08-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/seJBctNd0RnM89ds1h5mLQkXTrA.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1532392,
+      "title": "No Hay Trato",
+      "release_date": "2025-08-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/t8EuTuRJUCchIwbnHRu5aSHeUz6.jpg",
       "genres": [
         "ужасы",
         "триллер"
       ]
     },
     {
-      "id": 1533464,
-      "title": "NOW",
-      "release_date": "2025-08-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/za2Uv64L6fhHmXuxM6Snx5uu17q.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1533459,
-      "title": "Печурки од минатото",
-      "release_date": "2025-08-22",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1533253,
-      "title": "Tapestry",
-      "release_date": "2025-08-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ep9pGrWh73O4Gh0YYh49ENUPlXS.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1533228,
-      "title": "Fragment d’un discours amoureux",
-      "release_date": "2025-08-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wBdky7lNOQryS0u01Oih0GMLG5K.jpg",
-      "genres": [
-        "драма",
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1533192,
-      "title": "Cozic",
-      "release_date": "2025-08-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/Dvb4ceH5lbbUmH5cqACVWJfaec.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1532743,
-      "title": "The Life of Silver",
-      "release_date": "2025-08-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/r6w7f6vUOPOfRmbBVklwcGFcco9.jpg",
-      "genres": [
-        "фэнтези",
-        "приключения",
-        "фантастика",
-        "боевик",
-        "комедия",
-        "драма",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1532503,
-      "title": "La saveur d’une vie",
-      "release_date": "2025-08-22",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1532275,
-      "title": "#freeschlep",
-      "release_date": "2025-08-22",
+      "id": 1531830,
+      "title": "The Damned Shoegaze",
+      "release_date": "2025-08-23",
       "vote_average": 10.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fcmEsvbRoTGSUosxcTt4awD8wwo.jpg",
       "genres": [
-        "комедия",
-        "документальный"
+        "музыка"
       ]
+    },
+    {
+      "id": 1531134,
+      "title": "Unknown, At Large",
+      "release_date": "2025-08-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gOrgpZUa9fxbrcKFunpdag4riH0.jpg",
+      "genres": []
     }
   ],
   "source": "TMDB",

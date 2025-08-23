@@ -1,0 +1,27 @@
+{
+  "id": 1532392,
+  "title": "No Hay Trato",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-23",
+  "runtime": 16,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "триллер"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "AR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/t8EuTuRJUCchIwbnHRu5aSHeUz6.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/jjvI7ORWanJhTSkkWDOKyXHdnHc.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1532392",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-23T00:57:19.383192+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

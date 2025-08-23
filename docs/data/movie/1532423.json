@@ -1,0 +1,26 @@
+{
+  "id": 1532423,
+  "title": "Life",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-23",
+  "runtime": 7,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "No Language"
+  ],
+  "production_countries": [
+    "IN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/seJBctNd0RnM89ds1h5mLQkXTrA.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/p3LfsZ6FM2Pn8hhAgOvvGA9CzHC.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1532423",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-23T00:57:19.168079+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

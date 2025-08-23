@@ -1,0 +1,24 @@
+{
+  "id": 1532469,
+  "title": "Sólo por hoy",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-23",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "CR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/6Zt6JoV7u6iAX3JxeegKtBvUpBK.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/57HlT2uIVGjffoTlBMS7xMbe5mH.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1532469",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-23T00:57:18.992910+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
