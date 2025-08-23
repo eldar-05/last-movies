@@ -1,9 +1,19 @@
 {
-  "fetched_at_utc": "2025-08-23T06:16:54.239643+00:00",
+  "fetched_at_utc": "2025-08-23T12:21:59.981598+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1534390,
+      "title": "Ausencia",
+      "release_date": "2025-08-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oyskEkHBSeRf4LGdD9vib4Vg075.jpg",
+      "genres": [
+        "фантастика"
+      ]
+    },
     {
       "id": 1533784,
       "title": "ELECTRIC Déco",
@@ -92,14 +102,6 @@
       "genres": [
         "музыка"
       ]
-    },
-    {
-      "id": 1531134,
-      "title": "Unknown, At Large",
-      "release_date": "2025-08-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gOrgpZUa9fxbrcKFunpdag4riH0.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",

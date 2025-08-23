@@ -1,0 +1,26 @@
+{
+  "id": 1534390,
+  "title": "Ausencia",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-23",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фантастика"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/oyskEkHBSeRf4LGdD9vib4Vg075.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/aA4JFqzxwJC4XZGgYmS4s9KLZNM.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1534390",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-23T12:21:55.022008+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
