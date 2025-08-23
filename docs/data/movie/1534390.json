@@ -5,8 +5,8 @@
   "overview": "",
   "release_date": "2025-08-23",
   "runtime": 0,
-  "vote_average": 0.0,
-  "vote_count": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
   "genres": [
     "фантастика"
   ],
@@ -21,6 +21,6 @@
   "backdrop_url": "https://image.tmdb.org/t/p/w780/aA4JFqzxwJC4XZGgYmS4s9KLZNM.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1534390",
   "trailer": null,
-  "fetched_at_utc": "2025-08-23T12:21:55.022008+00:00",
+  "fetched_at_utc": "2025-08-23T18:15:18.645499+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

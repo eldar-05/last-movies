@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-08-23T12:21:59.981598+00:00",
+  "fetched_at_utc": "2025-08-23T18:15:20.399990+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -8,7 +8,7 @@
       "id": 1534390,
       "title": "Ausencia",
       "release_date": "2025-08-23",
-      "vote_average": 0.0,
+      "vote_average": 10.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/oyskEkHBSeRf4LGdD9vib4Vg075.jpg",
       "genres": [
         "фантастика"
