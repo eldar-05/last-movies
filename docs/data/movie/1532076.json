@@ -1,0 +1,27 @@
+{
+  "id": 1532076,
+  "title": "Les herbes",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-24",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "детектив"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/xeIUPWv4jTGZ03X1ckCtaezaOF5.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/dtWXaRz0VSmTnRZkS770gC4SKtj.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1532076",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-24T01:05:58.410290+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

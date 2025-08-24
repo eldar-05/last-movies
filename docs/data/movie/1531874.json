@@ -1,0 +1,26 @@
+{
+  "id": 1531874,
+  "title": "Multi Theater",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-24",
+  "runtime": 100,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "am",
+  "spoken_languages": [
+    "Amharic"
+  ],
+  "production_countries": [
+    "ET"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/wjhUXGzLZiyRv0ciVqTg8aIDIfc.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/xYkqQ3mMRSd20WtBGFgxZWDPOFf.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1531874",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-24T01:05:58.794370+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

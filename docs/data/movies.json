@@ -1,106 +1,106 @@
 {
-  "fetched_at_utc": "2025-08-23T18:15:20.399990+00:00",
+  "fetched_at_utc": "2025-08-24T01:05:59.572332+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1534390,
-      "title": "Ausencia",
-      "release_date": "2025-08-23",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oyskEkHBSeRf4LGdD9vib4Vg075.jpg",
+      "id": 1534727,
+      "title": "Sex with an old woman",
+      "release_date": "2025-08-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/7BM6NmdWDH4De4VsHEfD5c96Mj1.jpg",
+      "genres": []
+    },
+    {
+      "id": 1534629,
+      "title": "Diaries: The bookshelf Part 1 of 5",
+      "release_date": "2025-08-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/peDAO0MfvKagpZ2my5mQqrpzpsQ.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1533833,
+      "title": "La Liga",
+      "release_date": "2025-08-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aod4mXw2v0sTeSV6fNzKr4KmVqw.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1533819,
+      "title": "Las Termas de Lolol",
+      "release_date": "2025-08-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rEDwWjGvC2tRophBnLM7wnw9ioq.jpg",
+      "genres": [
+        "драма",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1533167,
+      "title": "Norma también",
+      "release_date": "2025-08-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/izNbhRN9vfZGoDhbJqPczSvYLPk.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1532662,
+      "title": "Drunken Car",
+      "release_date": "2025-08-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hnjG3ZsT65YdIPJzXBqIYNk84Mj.jpg",
+      "genres": []
+    },
+    {
+      "id": 1532076,
+      "title": "Les herbes",
+      "release_date": "2025-08-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xeIUPWv4jTGZ03X1ckCtaezaOF5.jpg",
+      "genres": [
+        "документальный",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1531874,
+      "title": "Multi Theater",
+      "release_date": "2025-08-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wjhUXGzLZiyRv0ciVqTg8aIDIfc.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1531692,
+      "title": "fish",
+      "release_date": "2025-08-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/po8Rhfyy5p2WN2n8OyJgCDSGuP9.jpg",
       "genres": [
         "фантастика"
       ]
     },
     {
-      "id": 1533784,
-      "title": "ELECTRIC Déco",
-      "release_date": "2025-08-23",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6aKmX6IxJSFy6J48T5hK7u7wpjL.jpg",
-      "genres": [
-        "музыка",
-        "ужасы",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1533708,
-      "title": "Immagine Vacua",
-      "release_date": "2025-08-23",
+      "id": 1530668,
+      "title": "Symptoms of Love",
+      "release_date": "2025-08-24",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/A0hxvzmYxsKn0UjcEl8Gmfuj1lk.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6RmXW8Cl1n2vDW67y5SiSWw1Mtb.jpg",
       "genres": [
-        "детектив"
-      ]
-    },
-    {
-      "id": 1533161,
-      "title": "Last Match",
-      "release_date": "2025-08-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fU5wKuLHBuK8O4TiYfA3x9k3G3N.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1533013,
-      "title": "The Old Bull knows, or Once Knew",
-      "release_date": "2025-08-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ghMms51V8uMBezbIwxUUXZQd9fq.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1532864,
-      "title": "Étrangère, je suis venue, étrangère, je repars.",
-      "release_date": "2025-08-23",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1532469,
-      "title": "Sólo por hoy",
-      "release_date": "2025-08-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6Zt6JoV7u6iAX3JxeegKtBvUpBK.jpg",
-      "genres": []
-    },
-    {
-      "id": 1532423,
-      "title": "Life",
-      "release_date": "2025-08-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/seJBctNd0RnM89ds1h5mLQkXTrA.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1532392,
-      "title": "No Hay Trato",
-      "release_date": "2025-08-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/t8EuTuRJUCchIwbnHRu5aSHeUz6.jpg",
-      "genres": [
-        "ужасы",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1531830,
-      "title": "The Damned Shoegaze",
-      "release_date": "2025-08-23",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fcmEsvbRoTGSUosxcTt4awD8wwo.jpg",
-      "genres": [
-        "музыка"
+        "драма",
+        "мелодрама"
       ]
     }
   ],

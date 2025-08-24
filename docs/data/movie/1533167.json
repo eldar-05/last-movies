@@ -1,0 +1,26 @@
+{
+  "id": 1533167,
+  "title": "Norma también",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-24",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "AR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/izNbhRN9vfZGoDhbJqPczSvYLPk.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1533167",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-24T01:05:57.565804+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

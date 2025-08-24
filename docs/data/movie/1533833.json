@@ -1,0 +1,22 @@
+{
+  "id": 1533833,
+  "title": "La Liga",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-24",
+  "runtime": 25,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/aod4mXw2v0sTeSV6fNzKr4KmVqw.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1533833",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-24T01:05:56.794134+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
