@@ -1,9 +1,46 @@
 {
-  "fetched_at_utc": "2025-08-24T06:18:25.376156+00:00",
+  "fetched_at_utc": "2025-08-24T12:22:31.832432+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1534945,
+      "title": "Alô?",
+      "release_date": "2025-08-24",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yHZtKvHG4ppSq054JOkY8jA2yAg.jpg",
+      "genres": [
+        "комедия",
+        "семейный"
+      ]
+    },
+    {
+      "id": 1534927,
+      "title": "AEW x NJPW: Forbidden Door Zero Hour",
+      "release_date": "2025-08-24",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1534881,
+      "title": "Naomi Osaka: The Second Set",
+      "release_date": "2025-08-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/dbzkVAehEmb7jx4e8kVesuMS7dR.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1534828,
+      "title": "Sathyapullu (The Magical Grass)",
+      "release_date": "2025-08-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iolTQyJo2P9PJcyOph63W30ORFS.jpg",
+      "genres": []
+    },
     {
       "id": 1534727,
       "title": "Sex with an old woman",
@@ -60,48 +97,6 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/hnjG3ZsT65YdIPJzXBqIYNk84Mj.jpg",
       "genres": []
-    },
-    {
-      "id": 1532076,
-      "title": "Les herbes",
-      "release_date": "2025-08-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xeIUPWv4jTGZ03X1ckCtaezaOF5.jpg",
-      "genres": [
-        "документальный",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1531874,
-      "title": "Multi Theater",
-      "release_date": "2025-08-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wjhUXGzLZiyRv0ciVqTg8aIDIfc.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1531692,
-      "title": "fish",
-      "release_date": "2025-08-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/po8Rhfyy5p2WN2n8OyJgCDSGuP9.jpg",
-      "genres": [
-        "фантастика"
-      ]
-    },
-    {
-      "id": 1530668,
-      "title": "Symptoms of Love",
-      "release_date": "2025-08-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6RmXW8Cl1n2vDW67y5SiSWw1Mtb.jpg",
-      "genres": [
-        "драма",
-        "мелодрама"
-      ]
     }
   ],
   "source": "TMDB",
