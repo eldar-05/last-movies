@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-08-25T12:25:43.720370+00:00",
+  "fetched_at_utc": "2025-08-25T18:19:01.775696+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -20,7 +20,7 @@
       "title": "Ma mort te dit je t'aime",
       "release_date": "2025-08-25",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mKqWV0OZ5CV0nZiA7J76iaU2fzd.jpg",
       "genres": [
         "детектив",
         "драма"

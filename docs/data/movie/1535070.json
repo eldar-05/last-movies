@@ -23,7 +23,11 @@
   "poster_url": "https://image.tmdb.org/t/p/w500/yqlepFJdrnJ66B1OWoYjDjufdYC.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/hkIXO2kkMauyKJrwGitHCWjgpWF.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1535070",
-  "trailer": null,
-  "fetched_at_utc": "2025-08-25T12:25:41.508318+00:00",
+  "trailer": {
+    "key": "7aQ2uxgJbnY",
+    "name": "aespa 에스파 'Rich Man' Trailer | I am a Rich Man",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-08-25T18:19:00.138620+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

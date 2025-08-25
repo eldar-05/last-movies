@@ -16,10 +16,10 @@
     "French"
   ],
   "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/mKqWV0OZ5CV0nZiA7J76iaU2fzd.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/oYbxO5YVQYHNz731kqeRXLzRPKr.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1535363",
   "trailer": null,
-  "fetched_at_utc": "2025-08-25T12:25:40.718971+00:00",
+  "fetched_at_utc": "2025-08-25T18:18:59.717990+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
