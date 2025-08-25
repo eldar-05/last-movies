@@ -1,0 +1,25 @@
+{
+  "id": 1534900,
+  "title": "Urubu(s)",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-25",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "детектив"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/gAVFJKGu4SCcG5NqKp4mQwz5rRT.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/8bwBCnVnZW9T6IrQ1FChjbjI3EW.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1534900",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-25T01:01:52.809015+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

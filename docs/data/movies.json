@@ -1,102 +1,112 @@
 {
-  "fetched_at_utc": "2025-08-24T18:15:55.887705+00:00",
+  "fetched_at_utc": "2025-08-25T01:01:54.155921+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1534945,
-      "title": "Alô?",
-      "release_date": "2025-08-24",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yHZtKvHG4ppSq054JOkY8jA2yAg.jpg",
-      "genres": [
-        "комедия",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1534927,
-      "title": "AEW x NJPW: Forbidden Door Zero Hour",
-      "release_date": "2025-08-24",
+      "id": 1535131,
+      "title": "STONE MEMORY",
+      "release_date": "",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1534881,
-      "title": "Naomi Osaka: The Second Set",
-      "release_date": "2025-08-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dbzkVAehEmb7jx4e8kVesuMS7dR.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1534828,
-      "title": "Sathyapullu (The Magical Grass)",
-      "release_date": "2025-08-24",
+      "id": 1535070,
+      "title": "I am a Rich Man",
+      "release_date": "2025-08-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iolTQyJo2P9PJcyOph63W30ORFS.jpg",
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/yqlepFJdrnJ66B1OWoYjDjufdYC.jpg",
+      "genres": [
+        "драма"
+      ]
     },
     {
-      "id": 1534727,
-      "title": "Sex with an old woman",
-      "release_date": "2025-08-24",
+      "id": 1534900,
+      "title": "Urubu(s)",
+      "release_date": "2025-08-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7BM6NmdWDH4De4VsHEfD5c96Mj1.jpg",
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/gAVFJKGu4SCcG5NqKp4mQwz5rRT.jpg",
+      "genres": [
+        "триллер",
+        "детектив"
+      ]
     },
     {
-      "id": 1534629,
-      "title": "Diaries: The Bookshelf Part 1 of 5",
-      "release_date": "2025-08-24",
+      "id": 1534519,
+      "title": "Watch Me Burn",
+      "release_date": "2025-08-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/peDAO0MfvKagpZ2my5mQqrpzpsQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/s0eDufKlM0JEn5oAVK01KEQTRl3.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1534516,
+      "title": "Ouija Go Out with Me?",
+      "release_date": "2025-08-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/g6FwUJGDnCy11oC9HPftxf8EyNH.jpg",
+      "genres": [
+        "ужасы",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1534510,
+      "title": "Homecoming",
+      "release_date": "2025-08-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5GcHUimqb6qymV5qymI1Q7R5mNM.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1534506,
+      "title": "Frame",
+      "release_date": "2025-08-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pQ88B2XuYpnsF94zDywfqze2y3n.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1534234,
+      "title": "Love, Jemi.",
+      "release_date": "2025-08-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/twYjeDlWjf4y1gnqElg2ImqK4mR.jpg",
+      "genres": [
+        "мелодрама",
+        "драма"
+      ]
+    },
+    {
+      "id": 1534168,
+      "title": "GRIMMS ALBTRAUM",
+      "release_date": "2025-08-25",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1533833,
-      "title": "La Liga",
-      "release_date": "2025-08-24",
+      "id": 1533603,
+      "title": "THE APRIL MORNING I'LL NEVER FORGET",
+      "release_date": "2025-08-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aod4mXw2v0sTeSV6fNzKr4KmVqw.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zcV9vo6wPHZVhCO6BJ9CHx99Jgw.jpg",
       "genres": [
-        "документальный"
+        "семейный",
+        "драма"
       ]
-    },
-    {
-      "id": 1533819,
-      "title": "Las Termas de Lolol",
-      "release_date": "2025-08-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rEDwWjGvC2tRophBnLM7wnw9ioq.jpg",
-      "genres": [
-        "драма",
-        "документальный"
-      ]
-    },
-    {
-      "id": 1533167,
-      "title": "Norma también",
-      "release_date": "2025-08-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/izNbhRN9vfZGoDhbJqPczSvYLPk.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1532662,
-      "title": "Drunken Car",
-      "release_date": "2025-08-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hnjG3ZsT65YdIPJzXBqIYNk84Mj.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",

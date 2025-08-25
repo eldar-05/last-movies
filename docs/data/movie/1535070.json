@@ -1,0 +1,29 @@
+{
+  "id": 1535070,
+  "title": "I am a Rich Man",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-25",
+  "runtime": 6,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "ko",
+  "spoken_languages": [
+    "Mandarin",
+    "Korean",
+    "English",
+    "Japanese"
+  ],
+  "production_countries": [
+    "KR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/yqlepFJdrnJ66B1OWoYjDjufdYC.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1535070",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-25T01:01:52.640465+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
