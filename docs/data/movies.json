@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-08-25T01:01:54.155921+00:00",
+  "fetched_at_utc": "2025-08-25T06:20:45.118597+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -7,7 +7,7 @@
     {
       "id": 1535131,
       "title": "STONE MEMORY",
-      "release_date": "",
+      "release_date": "2025-08-25",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
