@@ -1,25 +1,25 @@
 {
-  "id": 1534234,
-  "title": "Love, Jemi.",
+  "id": 1535363,
+  "title": "Ma mort te dit je t'aime",
   "tagline": "",
   "overview": "",
   "release_date": "2025-08-25",
-  "runtime": 30,
+  "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "мелодрама",
+    "детектив",
     "драма"
   ],
-  "original_language": "ta",
+  "original_language": "fr",
   "spoken_languages": [
-    "Tamil"
+    "French"
   ],
   "production_countries": [],
-  "poster_url": "https://image.tmdb.org/t/p/w500/twYjeDlWjf4y1gnqElg2ImqK4mR.jpg",
+  "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1534234",
+  "tmdb_url": "https://www.themoviedb.org/movie/1535363",
   "trailer": null,
-  "fetched_at_utc": "2025-08-25T12:25:43.719923+00:00",
+  "fetched_at_utc": "2025-08-25T12:25:40.718971+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

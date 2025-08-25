@@ -1,9 +1,31 @@
 {
-  "fetched_at_utc": "2025-08-25T06:20:45.118597+00:00",
+  "fetched_at_utc": "2025-08-25T12:25:43.720370+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1535394,
+      "title": "If Never Back",
+      "release_date": "2025-08-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ojTMwxWK6tsdSwCBH3GyfTz7d4j.jpg",
+      "genres": [
+        "семейный",
+        "драма"
+      ]
+    },
+    {
+      "id": 1535363,
+      "title": "Ma mort te dit je t'aime",
+      "release_date": "2025-08-25",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "детектив",
+        "драма"
+      ]
+    },
     {
       "id": 1535131,
       "title": "STONE MEMORY",
@@ -84,27 +106,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/twYjeDlWjf4y1gnqElg2ImqK4mR.jpg",
       "genres": [
         "мелодрама",
-        "драма"
-      ]
-    },
-    {
-      "id": 1534168,
-      "title": "GRIMMS ALBTRAUM",
-      "release_date": "2025-08-25",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1533603,
-      "title": "THE APRIL MORNING I'LL NEVER FORGET",
-      "release_date": "2025-08-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zcV9vo6wPHZVhCO6BJ9CHx99Jgw.jpg",
-      "genres": [
-        "семейный",
         "драма"
       ]
     }
