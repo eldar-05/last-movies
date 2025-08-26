@@ -1,9 +1,49 @@
 {
-  "fetched_at_utc": "2025-08-26T12:27:01.068816+00:00",
+  "fetched_at_utc": "2025-08-26T18:17:34.722827+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1536261,
+      "title": "Angst",
+      "release_date": "2025-08-26",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "триллер",
+        "детектив",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1536191,
+      "title": "Ruby Red Handed: Stealing America's Most Famous Pair of Shoes",
+      "release_date": "2025-08-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5TdQVUaMoasmWKiQddkk8QreQot.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1536027,
+      "title": "Experimentalismo With Camera (5 Minutos)",
+      "release_date": "2025-08-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/roVjwZ0LyZt1Z9DvJ3jjl3kGvXE.jpg",
+      "genres": [
+        "приключения"
+      ]
+    },
+    {
+      "id": 1535999,
+      "title": "Ríos en peligro",
+      "release_date": "2025-08-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bsQskOwdMHlp3gGWjmVjE3bNo5R.jpg",
+      "genres": []
+    },
     {
       "id": 1535878,
       "title": "тревожное гуляние с собакой 3:42-3:45",
@@ -45,16 +85,6 @@
       "genres": []
     },
     {
-      "id": 1532676,
-      "title": "Amante",
-      "release_date": "",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/weBVbQt41xuDx1H3HsNJ1xWNLQ9.jpg",
-      "genres": [
-        "приключения"
-      ]
-    },
-    {
       "id": 1532277,
       "title": "Not the Wound but the Scar",
       "release_date": "2025-08-26",
@@ -73,37 +103,6 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/yhdImiiOMVFu8y6B1GQcgaeksDI.jpg",
       "genres": []
-    },
-    {
-      "id": 1530140,
-      "title": "Clearing the Air: The War on Smog",
-      "release_date": "2025-08-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uwpAe4jfVIxIUMnxj45qjwpvws0.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1529625,
-      "title": "How To Make The *Perfect* Paper Airplane",
-      "release_date": "2025-08-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aO8ovGj85QQinqM5YeiJ4vgeWWa.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1526421,
-      "title": "Haralds Sīmanis. Dziesminieks un jumiķis",
-      "release_date": "2025-08-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tAD790MDVteDCmb2oJLCpWnt8mf.jpg",
-      "genres": [
-        "документальный",
-        "музыка"
-      ]
     }
   ],
   "source": "TMDB",

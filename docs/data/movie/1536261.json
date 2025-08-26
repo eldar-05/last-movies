@@ -1,20 +1,26 @@
 {
-  "id": 1533875,
-  "title": "making of haha.mp4",
+  "id": 1536261,
+  "title": "Angst",
   "tagline": "",
   "overview": "",
   "release_date": "2025-08-26",
-  "runtime": 10,
+  "runtime": 3,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "триллер",
+    "детектив",
+    "ужасы"
+  ],
   "original_language": "en",
   "spoken_languages": [],
-  "production_countries": [],
+  "production_countries": [
+    "NP"
+  ],
   "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1533875",
+  "tmdb_url": "https://www.themoviedb.org/movie/1536261",
   "trailer": null,
-  "fetched_at_utc": "2025-08-26T18:17:34.273629+00:00",
+  "fetched_at_utc": "2025-08-26T18:17:32.442180+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
