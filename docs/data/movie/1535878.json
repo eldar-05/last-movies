@@ -1,0 +1,31 @@
+{
+  "id": 1535878,
+  "title": "тревожное гуляние с собакой 3:42-3:45",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-26",
+  "runtime": 3,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "ru",
+  "spoken_languages": [
+    "No Language"
+  ],
+  "production_countries": [
+    "RU",
+    "UA"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/zZliubx8V9RQRzdoGudrDIOHh0r.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/k72CYFvj8azWIvFR84T4P8c30N1.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1535878",
+  "trailer": {
+    "key": "TiZ7-SnPonA",
+    "name": "тревожное гуляние с собакой 3:42-3:45",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-08-26T12:26:57.761133+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

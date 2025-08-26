@@ -7,18 +7,25 @@
   "runtime": 37,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
-  "original_language": "en",
+  "genres": [
+    "документальный",
+    "мелодрама"
+  ],
+  "original_language": "de",
   "spoken_languages": [
     "German"
   ],
   "production_countries": [
     "DE"
   ],
-  "poster_url": null,
-  "backdrop_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/oewWoKHFu8Pd68X8K17CrjYmzXE.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/1QYW9T1u22ZocEbqRkq3BUNpY8Z.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1535842",
-  "trailer": null,
-  "fetched_at_utc": "2025-08-26T06:19:36.226032+00:00",
+  "trailer": {
+    "key": "MbSE2PoJZK0",
+    "name": "Official Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-08-26T12:26:58.042677+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

@@ -1,16 +1,29 @@
 {
-  "fetched_at_utc": "2025-08-26T06:19:37.325578+00:00",
+  "fetched_at_utc": "2025-08-26T12:27:01.068816+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1535878,
+      "title": "тревожное гуляние с собакой 3:42-3:45",
+      "release_date": "2025-08-26",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zZliubx8V9RQRzdoGudrDIOHh0r.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
       "id": 1535842,
       "title": "Maxton Hall: Reunion",
       "release_date": "2025-08-26",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/oewWoKHFu8Pd68X8K17CrjYmzXE.jpg",
+      "genres": [
+        "документальный",
+        "мелодрама"
+      ]
     },
     {
       "id": 1534319,
@@ -30,6 +43,16 @@
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
+    },
+    {
+      "id": 1532676,
+      "title": "Amante",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/weBVbQt41xuDx1H3HsNJ1xWNLQ9.jpg",
+      "genres": [
+        "приключения"
+      ]
     },
     {
       "id": 1532277,
@@ -80,27 +103,6 @@
       "genres": [
         "документальный",
         "музыка"
-      ]
-    },
-    {
-      "id": 1526117,
-      "title": "Wayward Cinema",
-      "release_date": "2025-08-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ij2a9GU885MvnD4OGdGrMy8ffiL.jpg",
-      "genres": [
-        "драма",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1523670,
-      "title": "Pasilip Ni Azi",
-      "release_date": "2025-08-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5mk6IIem4O0RsxRLWw3eumclfSa.jpg",
-      "genres": [
-        "документальный"
       ]
     }
   ],
