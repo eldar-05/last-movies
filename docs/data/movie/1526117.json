@@ -1,0 +1,26 @@
+{
+  "id": 1526117,
+  "title": "Wayward Cinema",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-26",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/ij2a9GU885MvnD4OGdGrMy8ffiL.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1526117",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-26T01:00:14.932080+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,112 +1,106 @@
 {
-  "fetched_at_utc": "2025-08-25T18:19:01.775696+00:00",
+  "fetched_at_utc": "2025-08-26T01:00:15.037826+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1535394,
-      "title": "If Never Back",
-      "release_date": "2025-08-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ojTMwxWK6tsdSwCBH3GyfTz7d4j.jpg",
-      "genres": [
-        "семейный",
-        "драма"
-      ]
-    },
-    {
-      "id": 1535363,
-      "title": "Ma mort te dit je t'aime",
-      "release_date": "2025-08-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mKqWV0OZ5CV0nZiA7J76iaU2fzd.jpg",
-      "genres": [
-        "детектив",
-        "драма"
-      ]
-    },
-    {
-      "id": 1535131,
-      "title": "STONE MEMORY",
-      "release_date": "2025-08-25",
+      "id": 1535842,
+      "title": "Maxton Hall: Reunion",
+      "release_date": "2025-08-26",
       "vote_average": 0.0,
       "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1534319,
+      "title": "Hiking with Herbert",
+      "release_date": "2025-08-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jCTa4NnhI2IoPKF9g2VcpOVOil8.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1533875,
+      "title": "making of haha.mp4",
+      "release_date": "2025-08-26",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1532277,
+      "title": "Not the Wound but the Scar",
+      "release_date": "2025-08-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cxjV9Mw8LrOmANnyGBRarj6qIPa.jpg",
+      "genres": [
+        "триллер",
+        "ужасы",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1530277,
+      "title": "I WANNA BE YOUR DOG!!!",
+      "release_date": "2025-08-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yhdImiiOMVFu8y6B1GQcgaeksDI.jpg",
+      "genres": []
+    },
+    {
+      "id": 1530140,
+      "title": "Clearing the Air: The War on Smog",
+      "release_date": "2025-08-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/uwpAe4jfVIxIUMnxj45qjwpvws0.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1535070,
-      "title": "I am a Rich Man",
-      "release_date": "2025-08-25",
+      "id": 1529625,
+      "title": "How To Make The *Perfect* Paper Airplane",
+      "release_date": "2025-08-26",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yqlepFJdrnJ66B1OWoYjDjufdYC.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aO8ovGj85QQinqM5YeiJ4vgeWWa.jpg",
       "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1534900,
-      "title": "Urubu(s)",
-      "release_date": "2025-08-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gAVFJKGu4SCcG5NqKp4mQwz5rRT.jpg",
-      "genres": [
-        "триллер",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1534519,
-      "title": "Watch Me Burn",
-      "release_date": "2025-08-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/s0eDufKlM0JEn5oAVK01KEQTRl3.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1534516,
-      "title": "Ouija Go Out with Me?",
-      "release_date": "2025-08-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/g6FwUJGDnCy11oC9HPftxf8EyNH.jpg",
-      "genres": [
-        "ужасы",
         "комедия"
       ]
     },
     {
-      "id": 1534510,
-      "title": "Homecoming",
-      "release_date": "2025-08-25",
+      "id": 1526421,
+      "title": "Haralds Sīmanis. Dziesminieks un jumiķis",
+      "release_date": "2025-08-26",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5GcHUimqb6qymV5qymI1Q7R5mNM.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tAD790MDVteDCmb2oJLCpWnt8mf.jpg",
       "genres": [
-        "ужасы"
+        "документальный",
+        "музыка"
       ]
     },
     {
-      "id": 1534506,
-      "title": "Frame",
-      "release_date": "2025-08-25",
+      "id": 1526117,
+      "title": "Wayward Cinema",
+      "release_date": "2025-08-26",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pQ88B2XuYpnsF94zDywfqze2y3n.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ij2a9GU885MvnD4OGdGrMy8ffiL.jpg",
       "genres": [
-        "ужасы"
+        "драма",
+        "комедия"
       ]
     },
     {
-      "id": 1534234,
-      "title": "Love, Jemi.",
-      "release_date": "2025-08-25",
+      "id": 1523670,
+      "title": "Pasilip Ni Azi",
+      "release_date": "2025-08-26",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/twYjeDlWjf4y1gnqElg2ImqK4mR.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5mk6IIem4O0RsxRLWw3eumclfSa.jpg",
       "genres": [
-        "мелодрама",
-        "драма"
+        "документальный"
       ]
     }
   ],
