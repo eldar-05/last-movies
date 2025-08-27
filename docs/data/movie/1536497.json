@@ -1,0 +1,24 @@
+{
+  "id": 1536497,
+  "title": "Driving Song",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-27",
+  "runtime": 4,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "CA"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/kG7f2Sd0PVXqB6YqnaRHxiPa96Z.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1536497",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-27T12:24:27.977938+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,9 +1,57 @@
 {
-  "fetched_at_utc": "2025-08-27T06:18:18.524709+00:00",
+  "fetched_at_utc": "2025-08-27T12:24:29.417627+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1536689,
+      "title": "Tabula Rasa",
+      "release_date": "2025-08-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/i0r40aX4I6Lt3nPwS2CXrhoUjE2.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1536667,
+      "title": "ناجورها",
+      "release_date": "2025-08-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/eMYN7xwMW3y5E4s92Qm6Li0oAlG.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1536537,
+      "title": "Late",
+      "release_date": "2025-08-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lGShs4Gh9xulNqYMpQ6VVfJ3g6h.jpg",
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1536530,
+      "title": "Nightmare No. 1",
+      "release_date": "2025-08-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pGaOq74Ipe2QPXccjBUrqO3raBH.jpg",
+      "genres": [
+        "детектив"
+      ]
+    },
+    {
+      "id": 1536497,
+      "title": "Driving Song",
+      "release_date": "2025-08-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kG7f2Sd0PVXqB6YqnaRHxiPa96Z.jpg",
+      "genres": []
+    },
     {
       "id": 1536462,
       "title": "Descent into the Azure Vale, in an Age of Myth Shaped by Children",
@@ -50,55 +98,6 @@
         "фэнтези",
         "детектив"
       ]
-    },
-    {
-      "id": 1535400,
-      "title": "El Último Acto",
-      "release_date": "2025-08-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/r800gloECFfbGxVuEDwrupv8fP3.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1535161,
-      "title": "Filos de Papel",
-      "release_date": "2025-08-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1XJ9OE4JH0oRkL1m9OJiMrrZA2Y.jpg",
-      "genres": [
-        "драма",
-        "фэнтези"
-      ]
-    },
-    {
-      "id": 1534047,
-      "title": "Picumã",
-      "release_date": "2025-08-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6yki3wwJaL0krrkC9sbBKDRsb6s.jpg",
-      "genres": [
-        "боевик"
-      ]
-    },
-    {
-      "id": 1533430,
-      "title": "Bachu Ni Benpani",
-      "release_date": "2025-08-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/61ok5LTU9yeqn6JT366zMEuvkZu.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1531448,
-      "title": "熊田曜子 甘艶",
-      "release_date": "2025-08-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vV7G1YySeeCNwtqATyZkwHdjI0U.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",
