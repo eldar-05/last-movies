@@ -1,0 +1,30 @@
+{
+  "id": 1533430,
+  "title": "Bachu Ni Benpani",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-27",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "gu",
+  "spoken_languages": [
+    "Gujarati"
+  ],
+  "production_countries": [
+    "IN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/61ok5LTU9yeqn6JT366zMEuvkZu.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/u9z5WeQ85NHRg0LZVWHG07TVsiq.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1533430",
+  "trailer": {
+    "key": "cC0Mkgq53Uc",
+    "name": "Bachu Ni Benpani- Trailer | Siddharth Randeria | Ratna Pathak Shah | Devarshi S | Yukti R | 27th Aug",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-08-27T00:58:17.362206+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
