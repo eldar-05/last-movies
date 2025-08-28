@@ -1,102 +1,112 @@
 {
-  "fetched_at_utc": "2025-08-27T18:17:30.516697+00:00",
+  "fetched_at_utc": "2025-08-28T00:57:40.907846+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1536689,
-      "title": "Tabula Rasa",
-      "release_date": "2025-08-27",
+      "id": 1536867,
+      "title": "Cartão de Memória",
+      "release_date": "2025-08-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/i0r40aX4I6Lt3nPwS2CXrhoUjE2.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tavcgTNQkg9YgALVAKVjxCV7GiV.jpg",
+      "genres": []
+    },
+    {
+      "id": 1536732,
+      "title": "Il est temps d'atterrir",
+      "release_date": "2025-08-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tRsXZxJkkZvh5gEhKzxVuGWet2K.jpg",
       "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1536101,
+      "title": "MURDERED",
+      "release_date": "2025-08-28",
+      "vote_average": 8.5,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qyNaryUN43fHnabp9jxkOTqLS1.jpg",
+      "genres": [
+        "драма",
+        "криминал",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1534702,
+      "title": "খোয়াবনামা",
+      "release_date": "2025-08-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4dEVpUnVQI1MHKJoVCq3RvBlucG.jpg",
+      "genres": [
+        "триллер",
+        "мелодрама",
         "драма"
       ]
     },
     {
-      "id": 1536667,
-      "title": "ناجورها",
-      "release_date": "2025-08-27",
+      "id": 1532880,
+      "title": "Turn It Off",
+      "release_date": "2025-08-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eMYN7xwMW3y5E4s92Qm6Li0oAlG.jpg",
+      "poster_url": null,
+      "genres": [
+        "ужасы",
+        "криминал"
+      ]
+    },
+    {
+      "id": 1532163,
+      "title": "Treći svijet",
+      "release_date": "2025-08-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xUBdwfxVGazVKM7HRoWareKvYCv.jpg",
+      "genres": [
+        "документальный",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1531875,
+      "title": "임영웅 [아임 히어로 2] 청음회",
+      "release_date": "2025-08-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wJTUyuukUVN7nTxNw7fIbU6GSu8.jpg",
+      "genres": [
+        "документальный",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1531109,
+      "title": "ភូមិគ្រឺះអាគម",
+      "release_date": "2025-08-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hOGNfV6VTaDxY1vZfa64yN15zBo.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1529260,
+      "title": "Tupperware",
+      "release_date": "2025-08-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/F9R3VXRSeWiMECdVXRYu6MTci.jpg",
       "genres": [
         "комедия"
       ]
     },
     {
-      "id": 1536537,
-      "title": "Late",
-      "release_date": "2025-08-27",
+      "id": 1527288,
+      "title": "D’un monde à l’autre",
+      "release_date": "2025-08-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lGShs4Gh9xulNqYMpQ6VVfJ3g6h.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/i4E1C6q8zHRx1ttsUTdRSCdKLD5.jpg",
       "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1536530,
-      "title": "Nightmare No. 1",
-      "release_date": "2025-08-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pGaOq74Ipe2QPXccjBUrqO3raBH.jpg",
-      "genres": [
-        "детектив"
-      ]
-    },
-    {
-      "id": 1536497,
-      "title": "Driving Song",
-      "release_date": "2025-08-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kG7f2Sd0PVXqB6YqnaRHxiPa96Z.jpg",
-      "genres": []
-    },
-    {
-      "id": 1536462,
-      "title": "Descent into the Azure Vale, in an Age of Myth Shaped by Children",
-      "release_date": "2025-08-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4zN2guYEjOKPoUy7nvI0LTlRGiL.jpg",
-      "genres": []
-    },
-    {
-      "id": 1536196,
-      "title": "La mer",
-      "release_date": "2025-08-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eLtazYMm8vARQfnTadlOxdnnZk3.jpg",
-      "genres": []
-    },
-    {
-      "id": 1536165,
-      "title": "Outside De Familia",
-      "release_date": "2025-08-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rKmEFhy6XWhy52FZWx1GPv4cmAK.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1536140,
-      "title": "Digital Boy",
-      "release_date": "2025-08-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tNYr9mha86tUtoKERv7S5K0SXmr.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1535947,
-      "title": "狄仁杰之降魔咒",
-      "release_date": "2025-08-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/q6tvsbOPiCBI7lMwbhtFd2fbL1s.jpg",
-      "genres": [
-        "фэнтези",
-        "детектив"
+        "документальный"
       ]
     }
   ],

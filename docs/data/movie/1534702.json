@@ -1,0 +1,32 @@
+{
+  "id": 1534702,
+  "title": "খোয়াবনামা",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-28",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "мелодрама",
+    "драма"
+  ],
+  "original_language": "bn",
+  "spoken_languages": [
+    "Bengali"
+  ],
+  "production_countries": [
+    "BD"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/4dEVpUnVQI1MHKJoVCq3RvBlucG.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1534702",
+  "trailer": {
+    "key": "0cqE9CDDsKA",
+    "name": "Khowabnama - Trailer | Tawsif & Tanjin Tisha | Vicky Zahed| Coming on this 28 August | Capital Drama",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-08-28T00:57:39.925522+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
