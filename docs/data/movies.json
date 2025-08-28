@@ -1,9 +1,58 @@
 {
-  "fetched_at_utc": "2025-08-28T06:19:10.443339+00:00",
+  "fetched_at_utc": "2025-08-28T12:24:47.614604+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1537255,
+      "title": "Circus Camille",
+      "release_date": "2025-08-28",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1537182,
+      "title": "MUSA",
+      "release_date": "2025-08-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kFy7df2dTSvr7ZP3wKhROf5qgc0.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1537181,
+      "title": "Autorretrato",
+      "release_date": "2025-08-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lQ4aOrQ28g5qYivKfg5MjGp3eRw.jpg",
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1537165,
+      "title": "万道剑尊之逆天而行",
+      "release_date": "2025-08-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/56nBMI6lytJHXyUsAUyWEv4EfGk.jpg",
+      "genres": [
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1537136,
+      "title": "新逃学威龙：卧底高校",
+      "release_date": "2025-08-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3fqsPpCHABrEXIMH16FmEeCkJZi.jpg",
+      "genres": [
+        "боевик",
+        "комедия"
+      ]
+    },
     {
       "id": 1536867,
       "title": "Cartão de Memória",
@@ -35,6 +84,16 @@
       ]
     },
     {
+      "id": 1534811,
+      "title": "The Roots of To Your Eternity",
+      "release_date": "2025-08-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mYZLTfm3BfTe19sZdVTGlVz0CU4.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
       "id": 1534702,
       "title": "খোয়াবনামা",
       "release_date": "2025-08-28",
@@ -44,69 +103,6 @@
         "триллер",
         "мелодрама",
         "драма"
-      ]
-    },
-    {
-      "id": 1532880,
-      "title": "Turn It Off",
-      "release_date": "2025-08-28",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "ужасы",
-        "криминал"
-      ]
-    },
-    {
-      "id": 1532163,
-      "title": "Treći svijet",
-      "release_date": "2025-08-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xUBdwfxVGazVKM7HRoWareKvYCv.jpg",
-      "genres": [
-        "документальный",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1531875,
-      "title": "임영웅 [아임 히어로 2] 청음회",
-      "release_date": "2025-08-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wJTUyuukUVN7nTxNw7fIbU6GSu8.jpg",
-      "genres": [
-        "документальный",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1531109,
-      "title": "ភូមិគ្រឺះអាគម",
-      "release_date": "2025-08-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hOGNfV6VTaDxY1vZfa64yN15zBo.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1529260,
-      "title": "Tupperware",
-      "release_date": "2025-08-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/F9R3VXRSeWiMECdVXRYu6MTci.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1527288,
-      "title": "D’un monde à l’autre",
-      "release_date": "2025-08-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/i4E1C6q8zHRx1ttsUTdRSCdKLD5.jpg",
-      "genres": [
-        "документальный"
       ]
     }
   ],

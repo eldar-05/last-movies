@@ -1,0 +1,26 @@
+{
+  "id": 1537182,
+  "title": "MUSA",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-28",
+  "runtime": 1,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "xx",
+  "spoken_languages": [
+    "No Language"
+  ],
+  "production_countries": [
+    "DO"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/kFy7df2dTSvr7ZP3wKhROf5qgc0.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1537182",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-28T12:24:45.976763+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
