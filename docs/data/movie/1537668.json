@@ -11,13 +11,13 @@
     "драма",
     "детектив"
   ],
-  "original_language": "en",
+  "original_language": "es",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/mMQYv32jtWhn6WG6acsrE434CEo.jpg",
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1537668",
   "trailer": null,
-  "fetched_at_utc": "2025-08-29T06:18:53.109020+00:00",
+  "fetched_at_utc": "2025-08-29T12:24:15.422626+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

@@ -1,15 +1,45 @@
 {
-  "fetched_at_utc": "2025-08-29T06:18:55.685575+00:00",
+  "fetched_at_utc": "2025-08-29T12:24:16.367020+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1537800,
+      "title": "মাঝে",
+      "release_date": "2025-08-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ynjiMVmAJ7UAz0Ei6f8uVU7jCvr.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1537797,
+      "title": "Say Who Die",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gcm6NJf660oNEjsQLnj4a6aLXxk.jpg",
+      "genres": [
+        "боевик",
+        "криминал",
+        "драма"
+      ]
+    },
+    {
+      "id": 1537780,
+      "title": "Instintos",
+      "release_date": "2025-08-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/sKjOf6zQgCc5bYwOFanKTD96Obc.jpg",
+      "genres": []
+    },
+    {
       "id": 1537668,
       "title": "PANDEMONIUM MONTAGE 2",
       "release_date": "2025-08-29",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mMQYv32jtWhn6WG6acsrE434CEo.jpg",
       "genres": [
         "драма",
         "детектив"
@@ -66,36 +96,6 @@
     {
       "id": 1537631,
       "title": "Highway 99: A Double Album",
-      "release_date": "2025-08-29",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1537630,
-      "title": "Karl",
-      "release_date": "2025-08-29",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1537628,
-      "title": "Earth to Michael",
-      "release_date": "2025-08-29",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1537627,
-      "title": "Summer Tour",
       "release_date": "2025-08-29",
       "vote_average": 0.0,
       "poster_url": null,

@@ -4,7 +4,7 @@
   "tagline": "",
   "overview": "",
   "release_date": "2025-08-29",
-  "runtime": 0,
+  "runtime": 103,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
@@ -26,6 +26,6 @@
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1537638",
   "trailer": null,
-  "fetched_at_utc": "2025-08-29T06:18:54.249736+00:00",
+  "fetched_at_utc": "2025-08-29T12:24:16.089293+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
