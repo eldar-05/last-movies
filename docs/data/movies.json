@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-08-29T12:24:16.367020+00:00",
+  "fetched_at_utc": "2025-08-29T18:17:13.124455+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -17,7 +17,7 @@
     {
       "id": 1537797,
       "title": "Say Who Die",
-      "release_date": "",
+      "release_date": "2025-08-29",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/gcm6NJf660oNEjsQLnj4a6aLXxk.jpg",
       "genres": [
