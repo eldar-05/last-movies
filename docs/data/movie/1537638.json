@@ -1,0 +1,31 @@
+{
+  "id": 1537638,
+  "title": "Learning to Fly",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-29",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "US",
+    "FR",
+    "CH",
+    "IT",
+    "CN",
+    "HK"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1537638",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-29T00:58:03.271467+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
