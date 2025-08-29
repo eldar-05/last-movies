@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-08-29T00:58:05.131514+00:00",
+  "fetched_at_utc": "2025-08-29T06:18:55.685575+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -86,7 +86,7 @@
     {
       "id": 1537628,
       "title": "Earth to Michael",
-      "release_date": "",
+      "release_date": "2025-08-29",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [

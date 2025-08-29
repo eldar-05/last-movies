@@ -3,18 +3,26 @@
   "title": "Earth to Michael",
   "tagline": "",
   "overview": "",
-  "release_date": "",
-  "runtime": 97,
+  "release_date": "2025-08-29",
+  "runtime": 87,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "документальный"
+  ],
   "original_language": "en",
-  "spoken_languages": [],
-  "production_countries": [],
+  "spoken_languages": [
+    "English",
+    "French",
+    "Spanish"
+  ],
+  "production_countries": [
+    "US"
+  ],
   "poster_url": null,
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1537628",
   "trailer": null,
-  "fetched_at_utc": "2025-08-29T00:58:04.748238+00:00",
+  "fetched_at_utc": "2025-08-29T06:18:55.406236+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
