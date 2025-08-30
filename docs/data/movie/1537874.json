@@ -1,0 +1,24 @@
+{
+  "id": 1537874,
+  "title": "Echec emouvant",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-30",
+  "runtime": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "комедия",
+    "боевик",
+    "военный"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/nDjppXYE0kkURQERLurIbxqFvTu.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/hGiAZsiDM7SLwZGQa4tOUZZ5EoL.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1537874",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-30T00:55:11.203058+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

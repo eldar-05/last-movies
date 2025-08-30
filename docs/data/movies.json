@@ -1,106 +1,107 @@
 {
-  "fetched_at_utc": "2025-08-29T18:17:13.124455+00:00",
+  "fetched_at_utc": "2025-08-30T00:55:14.138453+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1537800,
-      "title": "মাঝে",
-      "release_date": "2025-08-29",
+      "id": 1537904,
+      "title": "The Last Match",
+      "release_date": "2025-08-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ynjiMVmAJ7UAz0Ei6f8uVU7jCvr.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lxiWSL1jzC3zsBtNsnCJNiAzZTD.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1537797,
-      "title": "Say Who Die",
-      "release_date": "2025-08-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gcm6NJf660oNEjsQLnj4a6aLXxk.jpg",
+      "id": 1537874,
+      "title": "Echec emouvant",
+      "release_date": "2025-08-30",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nDjppXYE0kkURQERLurIbxqFvTu.jpg",
       "genres": [
+        "комедия",
         "боевик",
-        "криминал",
-        "драма"
+        "военный"
       ]
     },
     {
-      "id": 1537780,
-      "title": "Instintos",
-      "release_date": "2025-08-29",
+      "id": 1537749,
+      "title": "Fuori di Testa",
+      "release_date": "2025-08-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sKjOf6zQgCc5bYwOFanKTD96Obc.jpg",
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/cZpiPleOUFJ0GaNDcJIe77lID1F.jpg",
+      "genres": [
+        "триллер"
+      ]
     },
     {
-      "id": 1537668,
-      "title": "PANDEMONIUM MONTAGE 2",
-      "release_date": "2025-08-29",
+      "id": 1537737,
+      "title": "Cieca Fortuna",
+      "release_date": "2025-08-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mMQYv32jtWhn6WG6acsrE434CEo.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xEY8GOY1XUp0X22rAKy5UqZV3Ox.jpg",
+      "genres": [
+        "боевик"
+      ]
+    },
+    {
+      "id": 1537734,
+      "title": "Il peso della carne",
+      "release_date": "2025-08-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/z38TncGErf4qLKoS8o7bD90rN12.jpg",
       "genres": [
         "драма",
-        "детектив"
+        "комедия"
       ]
     },
     {
-      "id": 1537652,
-      "title": "Last Days On Lake Trinity",
-      "release_date": "2025-08-29",
+      "id": 1537719,
+      "title": "Cena Gratis",
+      "release_date": "2025-08-30",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xC0alaE2VDVGDrh5o8qCYIrkYnG.jpg",
       "genres": [
-        "документальный"
+        "ужасы",
+        "комедия"
       ]
     },
     {
-      "id": 1537651,
-      "title": "Sallie’s Ashes",
-      "release_date": "2025-08-29",
+      "id": 1537711,
+      "title": "Psicología De Una Mente Que Quiso Ser Feliz",
+      "release_date": "2025-08-30",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/17mg2v2HybW1zUk9b3iOgz1UWSG.jpg",
+      "genres": []
     },
     {
-      "id": 1537649,
-      "title": "Song of My City",
-      "release_date": "2025-08-29",
+      "id": 1537406,
+      "title": "My Last Poem",
+      "release_date": "2025-08-30",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1537638,
-      "title": "Learning to Fly",
-      "release_date": "2025-08-29",
+      "id": 1537366,
+      "title": "Lost in the Jungle",
+      "release_date": "2025-08-30",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rXqt7WSC7HhH0E92SFJNKYD1ZNa.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1537635,
-      "title": "Everywhere Man: The Lives and Times of Peter Asher",
-      "release_date": "2025-08-29",
+      "id": 1537168,
+      "title": "¡Alegre!",
+      "release_date": "2025-08-30",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2HKSEZnIhfjWhjSni1yG16lOIgZ.jpg",
       "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1537631,
-      "title": "Highway 99: A Double Album",
-      "release_date": "2025-08-29",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
+        "мультфильм"
       ]
     }
   ],

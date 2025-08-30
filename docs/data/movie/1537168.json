@@ -1,0 +1,26 @@
+{
+  "id": 1537168,
+  "title": "¡Alegre!",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-30",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм"
+  ],
+  "original_language": "xx",
+  "spoken_languages": [
+    "No Language"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/2HKSEZnIhfjWhjSni1yG16lOIgZ.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/inieD0DCffffm3SvTI6wc3o3W77.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1537168",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-30T00:55:14.138026+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
