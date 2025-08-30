@@ -1,9 +1,50 @@
 {
-  "fetched_at_utc": "2025-08-30T12:21:26.624127+00:00",
+  "fetched_at_utc": "2025-08-30T18:15:15.806820+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1538530,
+      "title": "The Frankstein show",
+      "release_date": "2025-08-30",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1538368,
+      "title": "La Terre en mouvements : Trois éléments pour une planète",
+      "release_date": "2025-08-30",
+      "vote_average": 8.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/b7WPOkSik5u3xNJ09ysByibmZw.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1538363,
+      "title": "Nostalgia is a Sickness",
+      "release_date": "2025-08-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6GSdfpdn2ZNbX3BjxUFFf9W0eS4.jpg",
+      "genres": [
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1538354,
+      "title": "Orangs-outans, nos cousins rouges de la forêt",
+      "release_date": "2025-08-30",
+      "vote_average": 8.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/16qE7gpDxdNs04fEE7A9k3iiCbj.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1537904,
       "title": "The Last Match",
@@ -66,42 +107,6 @@
       "genres": [
         "ужасы",
         "комедия"
-      ]
-    },
-    {
-      "id": 1537711,
-      "title": "Psicología De Una Mente Que Quiso Ser Feliz",
-      "release_date": "2025-08-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/17mg2v2HybW1zUk9b3iOgz1UWSG.jpg",
-      "genres": []
-    },
-    {
-      "id": 1537406,
-      "title": "My Last Poem",
-      "release_date": "2025-08-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ybzTJSpYU2dAgBIcYj6RDBElZM9.jpg",
-      "genres": []
-    },
-    {
-      "id": 1537366,
-      "title": "Lost in the Jungle",
-      "release_date": "2025-08-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rXqt7WSC7HhH0E92SFJNKYD1ZNa.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1537168,
-      "title": "¡Alegre!",
-      "release_date": "2025-08-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2HKSEZnIhfjWhjSni1yG16lOIgZ.jpg",
-      "genres": [
-        "мультфильм"
       ]
     }
   ],

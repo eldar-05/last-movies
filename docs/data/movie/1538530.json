@@ -1,27 +1,27 @@
 {
-  "id": 1537719,
-  "title": "Cena Gratis",
+  "id": 1538530,
+  "title": "The Frankstein show",
   "tagline": "",
   "overview": "",
   "release_date": "2025-08-30",
-  "runtime": 10,
+  "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
     "ужасы",
     "комедия"
   ],
-  "original_language": "it",
+  "original_language": "pt",
   "spoken_languages": [
-    "Italian"
+    "Portuguese"
   ],
   "production_countries": [
-    "IT"
+    "BR"
   ],
-  "poster_url": "https://image.tmdb.org/t/p/w500/xC0alaE2VDVGDrh5o8qCYIrkYnG.jpg",
+  "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1537719",
+  "tmdb_url": "https://www.themoviedb.org/movie/1538530",
   "trailer": null,
-  "fetched_at_utc": "2025-08-30T18:15:15.806386+00:00",
+  "fetched_at_utc": "2025-08-30T18:15:14.338599+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
