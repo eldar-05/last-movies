@@ -1,9 +1,35 @@
 {
-  "fetched_at_utc": "2025-08-31T12:21:57.931165+00:00",
+  "fetched_at_utc": "2025-08-31T18:15:37.445813+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1539014,
+      "title": "Samir Nasri : Rebelle",
+      "release_date": "2025-08-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/137gfEu4cVvkjxw3oG8oZjFtWRr.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1538994,
+      "title": "Suki Waterhouse: Superbloom",
+      "release_date": "2025-08-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1Vxpn3I6UF7umUqGI60LUNnJu8J.jpg",
+      "genres": []
+    },
+    {
+      "id": 1538960,
+      "title": "وقت الحمام",
+      "release_date": "2025-08-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aw3Z3QV2oqLiJowzfQu7h7p366n.jpg",
+      "genres": []
+    },
     {
       "id": 1538935,
       "title": "Le burger, un super pouvoir américain",
@@ -80,36 +106,6 @@
       "genres": [
         "ужасы",
         "фэнтези"
-      ]
-    },
-    {
-      "id": 1537818,
-      "title": "嘘もまことも",
-      "release_date": "2025-08-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/h8h8TVUXFIwVnWdhEPuOVGTCVn9.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1537517,
-      "title": "All The Walls Came Down",
-      "release_date": "2025-08-31",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1537498,
-      "title": "Reminders of Our Friendship",
-      "release_date": "2025-08-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1nQCC8c1bZ1jXQjmVYM7OjmV7I4.jpg",
-      "genres": [
-        "драма"
       ]
     }
   ],
