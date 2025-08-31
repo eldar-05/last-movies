@@ -1,23 +1,23 @@
 {
-  "id": 1538195,
-  "title": "Pink Pilled",
+  "id": 1538788,
+  "title": "I Love This Arrangement",
   "tagline": "",
   "overview": "",
   "release_date": "2025-08-31",
-  "runtime": 4,
+  "runtime": 17,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "ужасы",
-    "фэнтези"
+    "мелодрама",
+    "комедия"
   ],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": "https://image.tmdb.org/t/p/w500/zIZNcqTVRt2a7I4JCbp9E6RcbAk.jpg",
+  "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1538195",
+  "tmdb_url": "https://www.themoviedb.org/movie/1538788",
   "trailer": null,
-  "fetched_at_utc": "2025-08-31T12:21:56.678896+00:00",
+  "fetched_at_utc": "2025-08-31T12:21:54.789995+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

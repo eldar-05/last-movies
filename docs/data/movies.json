@@ -1,9 +1,41 @@
 {
-  "fetched_at_utc": "2025-08-31T06:16:40.688273+00:00",
+  "fetched_at_utc": "2025-08-31T12:21:57.931165+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1538935,
+      "title": "Le burger, un super pouvoir américain",
+      "release_date": "2025-08-31",
+      "vote_average": 8.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/34hmzVhmJX6KrN7kXEwO0Glxq9z.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1538797,
+      "title": "Reflejos",
+      "release_date": "2025-08-31",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "детектив",
+        "драма"
+      ]
+    },
+    {
+      "id": 1538788,
+      "title": "I Love This Arrangement",
+      "release_date": "2025-08-31",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "мелодрама",
+        "комедия"
+      ]
+    },
     {
       "id": 1538783,
       "title": "The Real Question",
@@ -12,6 +44,20 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/gz0PKUQ1MsfczaKyUvpf8xhpvMD.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 1538694,
+      "title": "Plán B",
+      "release_date": "2025-08-31",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/berV2mCKT8Gq7NlwAt0JWpGr9PB.jpg",
+      "genres": [
+        "комедия",
+        "боевик",
+        "драма",
+        "музыка",
+        "приключения"
       ]
     },
     {
@@ -65,42 +111,6 @@
       "genres": [
         "драма"
       ]
-    },
-    {
-      "id": 1536963,
-      "title": "Stay With Me",
-      "release_date": "2025-08-31",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1536932,
-      "title": "Unspoken Lines",
-      "release_date": "2025-08-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eLsI9k7VEG7sJJ1NebrBjpupudH.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1536790,
-      "title": "RUIS",
-      "release_date": "2025-08-31",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1535783,
-      "title": "La Vida de la Puta es Bella",
-      "release_date": "2025-08-31",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
     }
   ],
   "source": "TMDB",
