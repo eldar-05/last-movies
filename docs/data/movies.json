@@ -1,113 +1,106 @@
 {
-  "fetched_at_utc": "2025-08-30T18:15:15.806820+00:00",
+  "fetched_at_utc": "2025-08-31T01:02:00.669886+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1538530,
-      "title": "The Frankstein show",
-      "release_date": "2025-08-30",
+      "id": 1538783,
+      "title": "The Real Question",
+      "release_date": "2025-08-31",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "ужасы",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1538368,
-      "title": "La Terre en mouvements : Trois éléments pour une planète",
-      "release_date": "2025-08-30",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/b7WPOkSik5u3xNJ09ysByibmZw.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1538363,
-      "title": "Nostalgia is a Sickness",
-      "release_date": "2025-08-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6GSdfpdn2ZNbX3BjxUFFf9W0eS4.jpg",
-      "genres": [
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1538354,
-      "title": "Orangs-outans, nos cousins rouges de la forêt",
-      "release_date": "2025-08-30",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/16qE7gpDxdNs04fEE7A9k3iiCbj.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1537904,
-      "title": "The Last Match",
-      "release_date": "2025-08-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lxiWSL1jzC3zsBtNsnCJNiAzZTD.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gz0PKUQ1MsfczaKyUvpf8xhpvMD.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1537874,
-      "title": "Echec emouvant",
-      "release_date": "2025-08-30",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nDjppXYE0kkURQERLurIbxqFvTu.jpg",
-      "genres": [
-        "комедия",
-        "боевик",
-        "военный"
-      ]
-    },
-    {
-      "id": 1537749,
-      "title": "Fuori di Testa",
-      "release_date": "2025-08-30",
+      "id": 1538313,
+      "title": "WWE Clash In Paris 2025",
+      "release_date": "2025-08-31",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cZpiPleOUFJ0GaNDcJIe77lID1F.jpg",
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1537737,
-      "title": "Cieca Fortuna",
-      "release_date": "2025-08-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xEY8GOY1XUp0X22rAKy5UqZV3Ox.jpg",
-      "genres": [
-        "боевик"
-      ]
-    },
-    {
-      "id": 1537734,
-      "title": "Il peso della carne",
-      "release_date": "2025-08-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/z38TncGErf4qLKoS8o7bD90rN12.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4UFDxBhO82tx1SVqSine5CfXyi4.jpg",
       "genres": [
         "драма",
         "комедия"
       ]
     },
     {
-      "id": 1537719,
-      "title": "Cena Gratis",
-      "release_date": "2025-08-30",
+      "id": 1538195,
+      "title": "Pink Pilled",
+      "release_date": "2025-08-31",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xC0alaE2VDVGDrh5o8qCYIrkYnG.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zIZNcqTVRt2a7I4JCbp9E6RcbAk.jpg",
       "genres": [
         "ужасы",
-        "комедия"
+        "фэнтези"
       ]
+    },
+    {
+      "id": 1537818,
+      "title": "嘘もまことも",
+      "release_date": "2025-08-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/h8h8TVUXFIwVnWdhEPuOVGTCVn9.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1537517,
+      "title": "All The Walls Came Down",
+      "release_date": "2025-08-31",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1537498,
+      "title": "Reminders of Our Friendship",
+      "release_date": "2025-08-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1nQCC8c1bZ1jXQjmVYM7OjmV7I4.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1536963,
+      "title": "Stay With Me",
+      "release_date": "2025-08-31",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1536932,
+      "title": "Unspoken Lines",
+      "release_date": "2025-08-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/eLsI9k7VEG7sJJ1NebrBjpupudH.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1536790,
+      "title": "RUIS",
+      "release_date": "2025-08-31",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1535783,
+      "title": "La Vida de la Puta es Bella",
+      "release_date": "2025-08-31",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
     }
   ],
   "source": "TMDB",

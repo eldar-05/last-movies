@@ -1,0 +1,22 @@
+{
+  "id": 1536790,
+  "title": "RUIS",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-31",
+  "runtime": 53,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "nl",
+  "spoken_languages": [
+    "Dutch"
+  ],
+  "production_countries": [],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1536790",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-31T01:02:00.334292+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
