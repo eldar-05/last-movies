@@ -5,8 +5,8 @@
   "overview": "",
   "release_date": "2025-09-01",
   "runtime": 38,
-  "vote_average": 0.0,
-  "vote_count": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
   "genres": [
     "криминал",
     "драма",
@@ -21,6 +21,6 @@
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1538438",
   "trailer": null,
-  "fetched_at_utc": "2025-09-01T06:20:59.742109+00:00",
+  "fetched_at_utc": "2025-09-01T18:16:46.747617+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

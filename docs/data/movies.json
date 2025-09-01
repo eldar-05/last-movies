@@ -1,9 +1,47 @@
 {
-  "fetched_at_utc": "2025-09-01T06:21:00.737575+00:00",
+  "fetched_at_utc": "2025-09-01T18:16:47.257639+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1539666,
+      "title": "Jérémie: rendez-vous à la plage",
+      "release_date": "2025-09-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/g1OUWhOL7Ki0sDLaceelFiBeLlx.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1539652,
+      "title": "Caracas Avenue",
+      "release_date": "2025-09-01",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1539491,
+      "title": "COOKED!",
+      "release_date": "2025-09-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2HZUnoNbnfdnHarLKrbxXckNmMb.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1539433,
+      "title": "donut leave me in such spaces",
+      "release_date": "2025-09-01",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "комедия"
+      ]
+    },
     {
       "id": 1538809,
       "title": "산 MYO TEAMTAGE FOUR 산",
@@ -13,14 +51,6 @@
       "genres": [
         "боевик"
       ]
-    },
-    {
-      "id": 1538790,
-      "title": "Internet Dreams",
-      "release_date": "2025-09-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1PVXe9y0x43bXcL604PmAGRBGSy.jpg",
-      "genres": []
     },
     {
       "id": 1538686,
@@ -34,7 +64,7 @@
       "id": 1538438,
       "title": "the welshman",
       "release_date": "2025-09-01",
-      "vote_average": 0.0,
+      "vote_average": 10.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/3HZoa5VbjKVFUVD8hYPi4xzcw8r.jpg",
       "genres": [
         "криминал",
@@ -77,37 +107,6 @@
       "genres": [
         "драма"
       ]
-    },
-    {
-      "id": 1537057,
-      "title": "Martyr of the Mutes",
-      "release_date": "2025-09-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gZ1NUn59uPvsUShSnPk92SPojYw.jpg",
-      "genres": [
-        "драма",
-        "документальный",
-        "история"
-      ]
-    },
-    {
-      "id": 1536994,
-      "title": "Août ou (Toute ressemblance avec des faits existants serait le fruit d'une coïncidence)",
-      "release_date": "2025-09-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6leqOK6YUUmImUKXJIru3V69IoX.jpg",
-      "genres": [
-        "драма",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1536670,
-      "title": "Nocturnal",
-      "release_date": "2025-09-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5tTTtKXl9Q0KVQBDIiG7MNO9F67.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",
