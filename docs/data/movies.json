@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-09-01T01:08:30.523841+00:00",
+  "fetched_at_utc": "2025-09-01T06:21:00.737575+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -33,7 +33,7 @@
     {
       "id": 1538438,
       "title": "the welshman",
-      "release_date": "",
+      "release_date": "2025-09-01",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/3HZoa5VbjKVFUVD8hYPi4xzcw8r.jpg",
       "genres": [
