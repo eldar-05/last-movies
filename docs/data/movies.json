@@ -1,112 +1,113 @@
 {
-  "fetched_at_utc": "2025-08-31T18:15:37.445813+00:00",
+  "fetched_at_utc": "2025-09-01T01:08:30.523841+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1539014,
-      "title": "Samir Nasri : Rebelle",
-      "release_date": "2025-08-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/137gfEu4cVvkjxw3oG8oZjFtWRr.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1538994,
-      "title": "Suki Waterhouse: Superbloom",
-      "release_date": "2025-08-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1Vxpn3I6UF7umUqGI60LUNnJu8J.jpg",
-      "genres": []
-    },
-    {
-      "id": 1538960,
-      "title": "وقت الحمام",
-      "release_date": "2025-08-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aw3Z3QV2oqLiJowzfQu7h7p366n.jpg",
-      "genres": []
-    },
-    {
-      "id": 1538935,
-      "title": "Le burger, un super pouvoir américain",
-      "release_date": "2025-08-31",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/34hmzVhmJX6KrN7kXEwO0Glxq9z.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1538797,
-      "title": "Reflejos",
-      "release_date": "2025-08-31",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "детектив",
-        "драма"
-      ]
-    },
-    {
-      "id": 1538788,
-      "title": "I Love This Arrangement",
-      "release_date": "2025-08-31",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мелодрама",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1538783,
-      "title": "The Real Question",
-      "release_date": "2025-08-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gz0PKUQ1MsfczaKyUvpf8xhpvMD.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1538694,
-      "title": "Plán B",
-      "release_date": "2025-08-31",
+      "id": 1538809,
+      "title": "산 MYO TEAMTAGE FOUR 산",
+      "release_date": "2025-09-01",
       "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/berV2mCKT8Gq7NlwAt0JWpGr9PB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g0FoFD298QFRVJ2I7C9GGq7T0th.jpg",
       "genres": [
-        "комедия",
-        "боевик",
-        "драма",
-        "музыка",
-        "приключения"
+        "боевик"
       ]
     },
     {
-      "id": 1538313,
-      "title": "WWE Clash In Paris 2025",
-      "release_date": "2025-08-31",
+      "id": 1538790,
+      "title": "Internet Dreams",
+      "release_date": "2025-09-01",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4UFDxBhO82tx1SVqSine5CfXyi4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1PVXe9y0x43bXcL604PmAGRBGSy.jpg",
+      "genres": []
+    },
+    {
+      "id": 1538686,
+      "title": "arise, nostalgiac",
+      "release_date": "2025-09-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cplhtQlA41CkgzQTqFmWt1pPpDx.jpg",
+      "genres": []
+    },
+    {
+      "id": 1538438,
+      "title": "the welshman",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3HZoa5VbjKVFUVD8hYPi4xzcw8r.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1538411,
+      "title": "Prisoners in Space",
+      "release_date": "2025-09-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/25K8FezlGVIlufV1sF01yGsnKQ3.jpg",
+      "genres": [
+        "фантастика",
+        "фэнтези",
+        "боевик",
+        "приключения",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1538114,
+      "title": "Seremos Andantes",
+      "release_date": "2025-09-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cpfbHIti33pV4MSKikCmBvHQDgY.jpg",
+      "genres": [
+        "фэнтези",
+        "ужасы",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1537851,
+      "title": "ラブポーション",
+      "release_date": "2025-09-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jQLUQRavegIohGWq3fUNIxGlm5o.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1537057,
+      "title": "Martyr of the Mutes",
+      "release_date": "2025-09-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gZ1NUn59uPvsUShSnPk92SPojYw.jpg",
+      "genres": [
+        "драма",
+        "документальный",
+        "история"
+      ]
+    },
+    {
+      "id": 1536994,
+      "title": "Août ou (Toute ressemblance avec des faits existants serait le fruit d'une coïncidence)",
+      "release_date": "2025-09-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6leqOK6YUUmImUKXJIru3V69IoX.jpg",
       "genres": [
         "драма",
         "комедия"
       ]
     },
     {
-      "id": 1538195,
-      "title": "Pink Pilled",
-      "release_date": "2025-08-31",
+      "id": 1536670,
+      "title": "Nocturnal",
+      "release_date": "2025-09-01",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zIZNcqTVRt2a7I4JCbp9E6RcbAk.jpg",
-      "genres": [
-        "ужасы",
-        "фэнтези"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/5tTTtKXl9Q0KVQBDIiG7MNO9F67.jpg",
+      "genres": []
     }
   ],
   "source": "TMDB",

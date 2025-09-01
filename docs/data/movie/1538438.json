@@ -1,0 +1,26 @@
+{
+  "id": 1538438,
+  "title": "the welshman",
+  "tagline": "",
+  "overview": "",
+  "release_date": "",
+  "runtime": 40,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "криминал",
+    "драма",
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "GB"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/3HZoa5VbjKVFUVD8hYPi4xzcw8r.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1538438",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-01T01:08:28.953261+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

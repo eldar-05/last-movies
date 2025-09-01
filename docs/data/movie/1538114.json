@@ -1,0 +1,26 @@
+{
+  "id": 1538114,
+  "title": "Seremos Andantes",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-01",
+  "runtime": 11,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фэнтези",
+    "ужасы",
+    "музыка"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/cpfbHIti33pV4MSKikCmBvHQDgY.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/hPyfB7VY4D2LzoPMVs9GoLQhS3R.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1538114",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-01T01:08:29.446294+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1537057,
+  "title": "Martyr of the Mutes",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-01",
+  "runtime": 17,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "документальный",
+    "история"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English",
+    "Thai"
+  ],
+  "production_countries": [
+    "TH",
+    "JP"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/gZ1NUn59uPvsUShSnPk92SPojYw.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/6CXkDP1NlKwk3HuPjKvC927PlkH.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1537057",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-01T01:08:29.987644+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
