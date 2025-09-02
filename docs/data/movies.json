@@ -1,111 +1,107 @@
 {
-  "fetched_at_utc": "2025-09-01T18:16:47.257639+00:00",
+  "fetched_at_utc": "2025-09-02T00:58:53.187911+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1539666,
-      "title": "Jérémie: rendez-vous à la plage",
-      "release_date": "2025-09-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/g1OUWhOL7Ki0sDLaceelFiBeLlx.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1539652,
-      "title": "Caracas Avenue",
-      "release_date": "2025-09-01",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1539491,
-      "title": "COOKED!",
-      "release_date": "2025-09-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2HZUnoNbnfdnHarLKrbxXckNmMb.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1539433,
-      "title": "donut leave me in such spaces",
-      "release_date": "2025-09-01",
+      "id": 1539935,
+      "title": "prettifun: Last Wish",
+      "release_date": "2025-09-02",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1538809,
-      "title": "산 MYO TEAMTAGE FOUR 산",
-      "release_date": "2025-09-01",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/g0FoFD298QFRVJ2I7C9GGq7T0th.jpg",
-      "genres": [
-        "боевик"
-      ]
-    },
-    {
-      "id": 1538686,
-      "title": "arise, nostalgiac",
-      "release_date": "2025-09-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cplhtQlA41CkgzQTqFmWt1pPpDx.jpg",
-      "genres": []
-    },
-    {
-      "id": 1538438,
-      "title": "the welshman",
-      "release_date": "2025-09-01",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3HZoa5VbjKVFUVD8hYPi4xzcw8r.jpg",
-      "genres": [
-        "криминал",
-        "драма",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1538411,
-      "title": "Prisoners in Space",
-      "release_date": "2025-09-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/25K8FezlGVIlufV1sF01yGsnKQ3.jpg",
-      "genres": [
-        "фантастика",
-        "фэнтези",
-        "боевик",
-        "приключения",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1538114,
-      "title": "Seremos Andantes",
-      "release_date": "2025-09-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cpfbHIti33pV4MSKikCmBvHQDgY.jpg",
-      "genres": [
-        "фэнтези",
-        "ужасы",
         "музыка"
       ]
     },
     {
-      "id": 1537851,
-      "title": "ラブポーション",
-      "release_date": "2025-09-01",
+      "id": 1539447,
+      "title": "When the main character tries to make a disguise",
+      "release_date": "2025-09-02",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jQLUQRavegIohGWq3fUNIxGlm5o.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/x9KEWWGZ9kCFZZvejnAvULKH1Nj.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1537918,
+      "title": "Gammy & The Living Things",
+      "release_date": "2025-09-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9yR0kiizKXMBICxbY3PuGhoecXK.jpg",
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1537813,
+      "title": "星野先生は今日も走る",
+      "release_date": "2025-09-02",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 1537786,
+      "title": "もういちどみつめる",
+      "release_date": "2025-09-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qyaugNnxAvGGmJoGfwz8UZik6xr.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1537257,
+      "title": "Poutine et la guerre des cinq mers",
+      "release_date": "2025-09-02",
+      "vote_average": 7.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/dYjdtt5upvJUwdOMuEg6x82GwjI.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1536672,
+      "title": "El plan",
+      "release_date": "2025-09-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/dXfa9R4STZOmEy90ewPWVBTbvN7.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1536661,
+      "title": "003",
+      "release_date": "2025-09-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vrwtFNJvu0I5GLl3jCdcHAkBJB3.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1536075,
+      "title": "孤島紀事2022",
+      "release_date": "2025-09-02",
+      "vote_average": 5.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oxT71F0Jpphp1dtkL3TOAJgg6wq.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1535940,
+      "title": "あしたのありか",
+      "release_date": "2025-09-02",
+      "vote_average": 8.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6rXTUU7OQWgUYN8kYABGYCHiZqh.jpg",
+      "genres": [
+        "мультфильм"
       ]
     }
   ],

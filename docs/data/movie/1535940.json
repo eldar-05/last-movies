@@ -1,0 +1,26 @@
+{
+  "id": 1535940,
+  "title": "あしたのありか",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-02",
+  "runtime": 55,
+  "vote_average": 8.0,
+  "vote_count": 1,
+  "genres": [
+    "мультфильм"
+  ],
+  "original_language": "ja",
+  "spoken_languages": [
+    "Japanese"
+  ],
+  "production_countries": [
+    "JP"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/6rXTUU7OQWgUYN8kYABGYCHiZqh.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/lAAmE3k5lw2xIMz8JXzNFAzSlEt.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1535940",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-02T00:58:53.187491+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
