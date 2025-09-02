@@ -1,9 +1,29 @@
 {
-  "fetched_at_utc": "2025-09-02T06:19:33.611933+00:00",
+  "fetched_at_utc": "2025-09-02T12:25:14.839736+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1540175,
+      "title": "Seperation Station",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lxPEi54QKOrFpmnxwZGA4MUkSZg.jpg",
+      "genres": [
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1540152,
+      "title": "Derealization",
+      "release_date": "2025-09-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/uBvx2GhGkF4j32saEoZSXkTxt81.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
     {
       "id": 1539935,
       "title": "prettifun: Last Wish",
@@ -82,26 +102,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/vrwtFNJvu0I5GLl3jCdcHAkBJB3.jpg",
       "genres": [
         "комедия"
-      ]
-    },
-    {
-      "id": 1536075,
-      "title": "孤島紀事2022",
-      "release_date": "2025-09-02",
-      "vote_average": 5.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oxT71F0Jpphp1dtkL3TOAJgg6wq.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1535940,
-      "title": "あしたのありか",
-      "release_date": "2025-09-02",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6rXTUU7OQWgUYN8kYABGYCHiZqh.jpg",
-      "genres": [
-        "мультфильм"
       ]
     }
   ],

@@ -1,0 +1,24 @@
+{
+  "id": 1540175,
+  "title": "Seperation Station",
+  "tagline": "",
+  "overview": "",
+  "release_date": "",
+  "runtime": 5,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фэнтези"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "AU"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/lxPEi54QKOrFpmnxwZGA4MUkSZg.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/lj42nPv5BJCq7lrhYpaqyNDdZAY.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1540175",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-02T12:25:12.330458+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
