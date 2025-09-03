@@ -1,9 +1,35 @@
 {
-  "fetched_at_utc": "2025-09-03T06:17:58.847150+00:00",
+  "fetched_at_utc": "2025-09-03T12:24:18.950033+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1540657,
+      "title": "I",
+      "release_date": "2025-09-03",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1540646,
+      "title": "CONNECT 覇者への道　11",
+      "release_date": "2025-09-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/j1gmhzN4D27hoaDOULWoK9gDyhD.jpg",
+      "genres": []
+    },
+    {
+      "id": 1540643,
+      "title": "CONNECT 覇者への道　10",
+      "release_date": "2025-09-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/h7cnH8oq3iBVRekbq0ybLQegHkr.jpg",
+      "genres": []
+    },
     {
       "id": 1540511,
       "title": "GUÁCARA",
@@ -66,37 +92,6 @@
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
-    },
-    {
-      "id": 1538773,
-      "title": "La presencia del vacío",
-      "release_date": "2025-09-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/y4aYJbyOO7j13Q0HqvzKwoS7Nwg.jpg",
-      "genres": []
-    },
-    {
-      "id": 1538635,
-      "title": "Cachorro ou Gato",
-      "release_date": "2025-09-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kcURy8oLnQPvXf3m1PhhGRFy2dk.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1537805,
-      "title": "Fjerde Mission",
-      "release_date": "2025-09-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/68bv0CMWli7JCAbthtbO2Oa0KwL.jpg",
-      "genres": [
-        "криминал",
-        "триллер",
-        "драма",
-        "боевик"
-      ]
     }
   ],
   "source": "TMDB",

@@ -1,20 +1,24 @@
 {
-  "id": 1539329,
-  "title": "Cats",
+  "id": 1540657,
+  "title": "I",
   "tagline": "",
   "overview": "",
   "release_date": "2025-09-03",
-  "runtime": 10,
+  "runtime": 6,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "драма"
+  ],
   "original_language": "en",
   "spoken_languages": [],
-  "production_countries": [],
+  "production_countries": [
+    "BE"
+  ],
   "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1539329",
+  "tmdb_url": "https://www.themoviedb.org/movie/1540657",
   "trailer": null,
-  "fetched_at_utc": "2025-09-03T12:24:18.687947+00:00",
+  "fetched_at_utc": "2025-09-03T12:24:17.678382+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
