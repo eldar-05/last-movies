@@ -1,0 +1,29 @@
+{
+  "id": 1537805,
+  "title": "Fjerde Mission",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-03",
+  "runtime": 24,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "криминал",
+    "триллер",
+    "драма",
+    "боевик"
+  ],
+  "original_language": "da",
+  "spoken_languages": [
+    "Danish"
+  ],
+  "production_countries": [
+    "DK"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/68bv0CMWli7JCAbthtbO2Oa0KwL.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/tO48XAjmCQXNnz1Cmv1NTwabCax.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1537805",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-03T00:55:09.957354+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

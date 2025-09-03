@@ -1,0 +1,26 @@
+{
+  "id": 1540511,
+  "title": "GUÁCARA",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-03",
+  "runtime": 11,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "MX"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/ilPfokyflVCS1V3Ao5s1h8uZMqt.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1540511",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-03T00:55:07.144815+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

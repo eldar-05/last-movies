@@ -1,0 +1,27 @@
+{
+  "id": 1539656,
+  "title": "La Suite",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-03",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "фантастика"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/A1RyVN3REc4E4pEV3t1ajGy4uCl.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/p5Id88gSB2MKaH14bg5psRGYoL4.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1539656",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-03T00:55:07.813287+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

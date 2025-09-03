@@ -1,107 +1,101 @@
 {
-  "fetched_at_utc": "2025-09-02T18:15:38.581662+00:00",
+  "fetched_at_utc": "2025-09-03T00:55:09.957753+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1540175,
-      "title": "Seperation Station",
-      "release_date": "",
+      "id": 1540511,
+      "title": "GUÁCARA",
+      "release_date": "2025-09-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lxPEi54QKOrFpmnxwZGA4MUkSZg.jpg",
-      "genres": [
-        "фэнтези"
-      ]
-    },
-    {
-      "id": 1540152,
-      "title": "Derealization",
-      "release_date": "2025-09-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uBvx2GhGkF4j32saEoZSXkTxt81.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1539935,
-      "title": "prettifun: Last Wish",
-      "release_date": "2025-09-02",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "музыка"
-      ]
-    },
-    {
-      "id": 1539447,
-      "title": "When the main character tries to make a disguise",
-      "release_date": "2025-09-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/x9KEWWGZ9kCFZZvejnAvULKH1Nj.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1537918,
-      "title": "Gammy & The Living Things",
-      "release_date": "2025-09-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9yR0kiizKXMBICxbY3PuGhoecXK.jpg",
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1537813,
-      "title": "星野先生は今日も走る",
-      "release_date": "2025-09-02",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ilPfokyflVCS1V3Ao5s1h8uZMqt.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1537786,
-      "title": "もういちどみつめる",
-      "release_date": "2025-09-02",
+      "id": 1540406,
+      "title": "Sheher Ke Under",
+      "release_date": "2025-09-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qyaugNnxAvGGmJoGfwz8UZik6xr.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1537257,
-      "title": "Poutine et la guerre des cinq mers",
-      "release_date": "2025-09-02",
-      "vote_average": 7.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dYjdtt5upvJUwdOMuEg6x82GwjI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xQP9C6hSNeWslpj8gnBbqNd655f.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1536672,
-      "title": "El plan",
-      "release_date": "2025-09-02",
+      "id": 1539656,
+      "title": "La Suite",
+      "release_date": "2025-09-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dXfa9R4STZOmEy90ewPWVBTbvN7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/A1RyVN3REc4E4pEV3t1ajGy4uCl.jpg",
       "genres": [
-        "комедия"
+        "драма",
+        "фантастика"
       ]
     },
     {
-      "id": 1536661,
-      "title": "003",
-      "release_date": "2025-09-02",
+      "id": 1539376,
+      "title": "Beyond the Call of Duty",
+      "release_date": "2025-09-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vrwtFNJvu0I5GLl3jCdcHAkBJB3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/um6EwrZSdua1ruQeqohjGmiejVv.jpg",
+      "genres": []
+    },
+    {
+      "id": 1539329,
+      "title": "Cats",
+      "release_date": "2025-09-03",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1539322,
+      "title": "Ker",
+      "release_date": "2025-09-03",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1539318,
+      "title": "The Quadratschädel",
+      "release_date": "2025-09-03",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1538773,
+      "title": "La presencia del vacío",
+      "release_date": "2025-09-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/y4aYJbyOO7j13Q0HqvzKwoS7Nwg.jpg",
+      "genres": []
+    },
+    {
+      "id": 1538635,
+      "title": "Cachorro ou Gato",
+      "release_date": "2025-09-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kcURy8oLnQPvXf3m1PhhGRFy2dk.jpg",
       "genres": [
-        "комедия"
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1537805,
+      "title": "Fjerde Mission",
+      "release_date": "2025-09-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/68bv0CMWli7JCAbthtbO2Oa0KwL.jpg",
+      "genres": [
+        "криминал",
+        "триллер",
+        "драма",
+        "боевик"
       ]
     }
   ],
