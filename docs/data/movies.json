@@ -1,9 +1,59 @@
 {
-  "fetched_at_utc": "2025-09-04T06:18:10.627819+00:00",
+  "fetched_at_utc": "2025-09-04T12:24:57.859332+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1541182,
+      "title": "There's a Gun in this Movie",
+      "release_date": "2025-09-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/t84Kb89l0wxLdv2PqAHp0MNhjgt.jpg",
+      "genres": [
+        "криминал",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1541163,
+      "title": "Finding Nellie",
+      "release_date": "2025-09-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6ElZyCUAjrRy0Q1MoMVkZluAP0S.jpg",
+      "genres": []
+    },
+    {
+      "id": 1541145,
+      "title": "peace frog",
+      "release_date": "2025-09-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nMTwJDDdmp2boQK8WmtCdsTkplJ.jpg",
+      "genres": [
+        "фэнтези",
+        "приключения"
+      ]
+    },
+    {
+      "id": 1541140,
+      "title": "Crkusrevyen 90 år",
+      "release_date": "2025-09-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8HAnMgjBWbcZWbLzo6VySp5J2YI.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1541131,
+      "title": "Understanding Jarbani",
+      "release_date": "2025-09-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5cEWthgykqkawUPiU6cRxuAig2V.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
     {
       "id": 1539945,
       "title": "Dracula a duex",
@@ -48,57 +98,6 @@
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
-    },
-    {
-      "id": 1537817,
-      "title": "Dois Estranhos",
-      "release_date": "2025-09-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rRbYza2cOu3icd3OFlec8oRKYrD.jpg",
-      "genres": [
-        "мелодрама",
-        "драма"
-      ]
-    },
-    {
-      "id": 1536890,
-      "title": "Whistle",
-      "release_date": "2025-09-04",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1535528,
-      "title": "Taxi Ljubav",
-      "release_date": "2025-09-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/u5apaBsjglTs7ulxxGgNWyDVCk5.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1535135,
-      "title": "Diaries: Colours of Nature and the Way It Affects Our Memories. Part two of five",
-      "release_date": "2025-09-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bFjMbzm222TxDNTgbfc8MVKtfVm.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1532907,
-      "title": "Симбиоз",
-      "release_date": "2025-09-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oEYaBKuZpwdQIOyZza3gFM5iNT6.jpg",
-      "genres": [
-        "документальный"
-      ]
     }
   ],
   "source": "TMDB",

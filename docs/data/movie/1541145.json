@@ -1,23 +1,23 @@
 {
-  "id": 1539945,
-  "title": "Dracula a duex",
+  "id": 1541145,
+  "title": "peace frog",
   "tagline": "",
   "overview": "",
   "release_date": "2025-09-04",
-  "runtime": 2,
+  "runtime": 107,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "мультфильм",
-    "ужасы"
+    "фэнтези",
+    "приключения"
   ],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": "https://image.tmdb.org/t/p/w500/cRveTB33XRzfA5zR56bhybkxtE2.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/nMTwJDDdmp2boQK8WmtCdsTkplJ.jpg",
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1539945",
+  "tmdb_url": "https://www.themoviedb.org/movie/1541145",
   "trailer": null,
-  "fetched_at_utc": "2025-09-04T12:24:56.397328+00:00",
+  "fetched_at_utc": "2025-09-04T12:24:55.231164+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
