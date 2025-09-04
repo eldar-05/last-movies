@@ -1,0 +1,30 @@
+{
+  "id": 1535528,
+  "title": "Taxi Ljubav",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-04",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "hr",
+  "spoken_languages": [
+    "Croatian"
+  ],
+  "production_countries": [
+    "HR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/u5apaBsjglTs7ulxxGgNWyDVCk5.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1535528",
+  "trailer": {
+    "key": "Y0mULHBceGs",
+    "name": "Taxi ljubav | Službeni trailer | 2025",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-09-04T00:55:23.360154+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

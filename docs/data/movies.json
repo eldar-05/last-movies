@@ -1,97 +1,104 @@
 {
-  "fetched_at_utc": "2025-09-03T18:17:14.087666+00:00",
+  "fetched_at_utc": "2025-09-04T00:55:24.296440+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1540657,
-      "title": "I",
-      "release_date": "2025-09-03",
+      "id": 1539945,
+      "title": "Dracula a duex",
+      "release_date": "2025-09-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cRveTB33XRzfA5zR56bhybkxtE2.jpg",
+      "genres": [
+        "мультфильм",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1539925,
+      "title": "Interview with a Passenger",
+      "release_date": "2025-09-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kYnm2UYov5N0WY113qLviDZ3PjZ.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1539802,
+      "title": "Brasil: Entre cores, cantos e desencantos. A natureza de Rugendas e Villa-Lobos",
+      "release_date": "2025-09-04",
       "vote_average": 0.0,
       "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1539780,
+      "title": "Castelos de Areia",
+      "release_date": "2025-09-04",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1539340,
+      "title": "Coruscant",
+      "release_date": "2025-09-04",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1537817,
+      "title": "Dois Estranhos",
+      "release_date": "2025-09-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rRbYza2cOu3icd3OFlec8oRKYrD.jpg",
       "genres": [
+        "мелодрама",
         "драма"
       ]
     },
     {
-      "id": 1540646,
-      "title": "CONNECT 覇者への道　11",
-      "release_date": "2025-09-03",
+      "id": 1536890,
+      "title": "Whistle",
+      "release_date": "2025-09-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/j1gmhzN4D27hoaDOULWoK9gDyhD.jpg",
-      "genres": []
-    },
-    {
-      "id": 1540643,
-      "title": "CONNECT 覇者への道　10",
-      "release_date": "2025-09-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/h7cnH8oq3iBVRekbq0ybLQegHkr.jpg",
-      "genres": []
-    },
-    {
-      "id": 1540511,
-      "title": "GUÁCARA",
-      "release_date": "2025-09-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ilPfokyflVCS1V3Ao5s1h8uZMqt.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1540406,
-      "title": "Sheher Ke Under",
-      "release_date": "2025-09-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xQP9C6hSNeWslpj8gnBbqNd655f.jpg",
+      "poster_url": null,
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1539656,
-      "title": "La Suite",
-      "release_date": "2025-09-03",
+      "id": 1535528,
+      "title": "Taxi Ljubav",
+      "release_date": "2025-09-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/A1RyVN3REc4E4pEV3t1ajGy4uCl.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/u5apaBsjglTs7ulxxGgNWyDVCk5.jpg",
       "genres": [
-        "драма",
-        "фантастика"
+        "драма"
       ]
     },
     {
-      "id": 1539376,
-      "title": "Beyond the Call of Duty",
-      "release_date": "2025-09-03",
+      "id": 1535135,
+      "title": "Diaries: Colours of Nature and the Way It Affects Our Memories. Part two of five",
+      "release_date": "2025-09-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/um6EwrZSdua1ruQeqohjGmiejVv.jpg",
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/bFjMbzm222TxDNTgbfc8MVKtfVm.jpg",
+      "genres": [
+        "документальный"
+      ]
     },
     {
-      "id": 1539329,
-      "title": "Cats",
-      "release_date": "2025-09-03",
+      "id": 1532907,
+      "title": "Симбиоз",
+      "release_date": "2025-09-04",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1539322,
-      "title": "Ker",
-      "release_date": "2025-09-03",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1539318,
-      "title": "The Quadratschädel",
-      "release_date": "2025-09-03",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/oEYaBKuZpwdQIOyZza3gFM5iNT6.jpg",
+      "genres": [
+        "документальный"
+      ]
     }
   ],
   "source": "TMDB",

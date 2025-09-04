@@ -1,0 +1,23 @@
+{
+  "id": 1539945,
+  "title": "Dracula a duex",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-04",
+  "runtime": 2,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм",
+    "ужасы"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/cRveTB33XRzfA5zR56bhybkxtE2.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1539945",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-04T00:55:20.176958+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
