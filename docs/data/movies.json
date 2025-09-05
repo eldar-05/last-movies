@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-09-05T12:23:20.748460+00:00",
+  "fetched_at_utc": "2025-09-05T18:16:09.588366+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -31,7 +31,7 @@
       "title": "Mehar",
       "release_date": "2025-09-05",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9CXI9xvSOeURHrgoEHpoGaH1AOa.jpg",
       "genres": [
         "драма"
       ]

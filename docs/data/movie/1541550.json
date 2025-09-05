@@ -17,7 +17,7 @@
   "production_countries": [
     "IN"
   ],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/9CXI9xvSOeURHrgoEHpoGaH1AOa.jpg",
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1541550",
   "trailer": {
@@ -25,6 +25,6 @@
     "name": "Mehar (Trailer) Raj Kundra | Geeta Basra | Rakesh Mehta| Dreams Music | In Cinemas 5th Sep 2025",
     "type": "Trailer"
   },
-  "fetched_at_utc": "2025-09-05T12:23:19.441316+00:00",
+  "fetched_at_utc": "2025-09-05T18:16:08.431708+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
