@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-09-05T06:18:39.287432+00:00",
+  "fetched_at_utc": "2025-09-05T12:23:20.748460+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -13,6 +13,17 @@
       "genres": [
         "триллер",
         "криминал"
+      ]
+    },
+    {
+      "id": 1541631,
+      "title": "End-iversary",
+      "release_date": "2025-09-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kqPv4pv8SlyyGW49qCfzfxSUnp4.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
       ]
     },
     {
@@ -90,17 +101,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/xfen4I3RVbuOOIykxbxMmd4W29k.jpg",
       "genres": [
         "мультфильм"
-      ]
-    },
-    {
-      "id": 1540578,
-      "title": "Death by Execution",
-      "release_date": "2025-09-05",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "триллер",
-        "комедия"
       ]
     }
   ],
