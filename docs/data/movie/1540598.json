@@ -1,0 +1,26 @@
+{
+  "id": 1540598,
+  "title": "La loma",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-05",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "MX"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/deAejRmJobeagTCCv9n0D8mVdKz.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/eemiWMc9kCgxqlABbm3w87c5N9B.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1540598",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-05T00:56:36.712780+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

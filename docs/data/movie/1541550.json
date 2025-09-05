@@ -1,0 +1,26 @@
+{
+  "id": 1541550,
+  "title": "Mehar",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-05",
+  "runtime": 147,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "pa",
+  "spoken_languages": [
+    "Punjabi"
+  ],
+  "production_countries": [
+    "IN"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1541550",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-05T00:56:34.977011+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

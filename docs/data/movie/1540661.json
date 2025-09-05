@@ -1,0 +1,27 @@
+{
+  "id": 1540661,
+  "title": "Tattoo",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-05",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фэнтези",
+    "ужасы"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "MX"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/vPP0wDuIkTRNi5Hr03yzks2j5d4.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/yK6ePRMKkjhZ6yK4ecVP6CsML5A.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1540661",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-05T00:56:36.149902+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

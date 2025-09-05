@@ -1,103 +1,107 @@
 {
-  "fetched_at_utc": "2025-09-04T18:16:53.585657+00:00",
+  "fetched_at_utc": "2025-09-05T00:56:37.286249+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1541182,
-      "title": "There's a Gun in this Movie",
-      "release_date": "2025-09-04",
+      "id": 1541659,
+      "title": "Has Mother Landed Yet?",
+      "release_date": "2025-09-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/t84Kb89l0wxLdv2PqAHp0MNhjgt.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tH251gVJypb9MvbkqyBDYE9NHgy.jpg",
       "genres": [
-        "криминал",
-        "комедия"
+        "триллер",
+        "криминал"
       ]
     },
     {
-      "id": 1541163,
-      "title": "Finding Nellie",
-      "release_date": "2025-09-04",
+      "id": 1541550,
+      "title": "Mehar",
+      "release_date": "2025-09-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6ElZyCUAjrRy0Q1MoMVkZluAP0S.jpg",
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1541319,
+      "title": "નાનખટાઈ",
+      "release_date": "2025-09-05",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": []
     },
     {
-      "id": 1541145,
-      "title": "peace frog",
-      "release_date": "2025-09-04",
+      "id": 1541106,
+      "title": "1 vs 1 | Fight-Verse",
+      "release_date": "2025-09-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nMTwJDDdmp2boQK8WmtCdsTkplJ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1q9Tr32fJbab1VkI6QjRsk4uOTw.jpg",
       "genres": [
-        "фэнтези",
-        "приключения"
+        "боевик"
       ]
     },
     {
-      "id": 1541140,
-      "title": "Crkusrevyen 90 år",
-      "release_date": "2025-09-04",
+      "id": 1540704,
+      "title": "L'Étrange Musique 2025",
+      "release_date": "2025-09-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8HAnMgjBWbcZWbLzo6VySp5J2YI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/73ZFQ1GWZ4soZhYcm0XLfbRx5Gt.jpg",
+      "genres": []
+    },
+    {
+      "id": 1540661,
+      "title": "Tattoo",
+      "release_date": "2025-09-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vPP0wDuIkTRNi5Hr03yzks2j5d4.jpg",
+      "genres": [
+        "фэнтези",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1540656,
+      "title": "No me dejes",
+      "release_date": "2025-09-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oeRRTskMA2WMc7gHLWhWJvWKNWI.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1540598,
+      "title": "La loma",
+      "release_date": "2025-09-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/deAejRmJobeagTCCv9n0D8mVdKz.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1541131,
-      "title": "Understanding Jarbani",
-      "release_date": "2025-09-04",
+      "id": 1540596,
+      "title": "Te encontré",
+      "release_date": "2025-09-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5cEWthgykqkawUPiU6cRxuAig2V.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xfen4I3RVbuOOIykxbxMmd4W29k.jpg",
       "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1540578,
+      "title": "Death by Execution",
+      "release_date": "2025-09-05",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "триллер",
         "комедия"
       ]
-    },
-    {
-      "id": 1539945,
-      "title": "Dracula a duex",
-      "release_date": "2025-09-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cRveTB33XRzfA5zR56bhybkxtE2.jpg",
-      "genres": [
-        "мультфильм",
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1539925,
-      "title": "Interview with a Passenger",
-      "release_date": "2025-09-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kYnm2UYov5N0WY113qLviDZ3PjZ.jpg",
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1539802,
-      "title": "Brasil: Entre cores, cantos e desencantos. A natureza de Rugendas e Villa-Lobos",
-      "release_date": "2025-09-04",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1539780,
-      "title": "Castelos de Areia",
-      "release_date": "2025-09-04",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1539340,
-      "title": "Coruscant",
-      "release_date": "2025-09-04",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
     }
   ],
   "source": "TMDB",
