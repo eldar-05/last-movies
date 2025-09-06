@@ -1,9 +1,49 @@
 {
-  "fetched_at_utc": "2025-09-06T06:16:02.532842+00:00",
+  "fetched_at_utc": "2025-09-06T12:20:32.385383+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1542299,
+      "title": "特殊安保",
+      "release_date": "2025-09-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fTN2IMXVnxfGoxoB8DYFwswW7eY.jpg",
+      "genres": [
+        "боевик",
+        "криминал"
+      ]
+    },
+    {
+      "id": 1542277,
+      "title": "12:27 pm",
+      "release_date": "2025-09-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nKqYxB6LQ1aHlOQsk2mRMLQnViY.jpg",
+      "genres": []
+    },
+    {
+      "id": 1542159,
+      "title": "Loki IRL",
+      "release_date": "2025-09-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nIn5OvzwT6ll3AQztWuDbnYGEyd.jpg",
+      "genres": [
+        "мультфильм",
+        "приключения"
+      ]
+    },
+    {
+      "id": 1542151,
+      "title": "The Beauty of Letting Go",
+      "release_date": "2025-09-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bxu49lhDkxszfNudxBH10CiIPvM.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
     {
       "id": 1541877,
       "title": "Beast Inside",
@@ -55,42 +95,6 @@
       "release_date": "2025-09-06",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/5hEopK8pXLeVH4cm8AHgbTQ3Rw1.jpg",
-      "genres": []
-    },
-    {
-      "id": 1540634,
-      "title": "Cero de enero",
-      "release_date": "2025-09-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2B7ZJzfhJdexDJcpQkjpbZc1G0G.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1540548,
-      "title": "Em pele de cordeiro",
-      "release_date": "2025-09-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wFSOjkUF1UTLLFM6u6LvqrohlSg.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1540011,
-      "title": "A Day at Oak Street Beach",
-      "release_date": "2025-09-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/auN5gNADDo9k19AQfaHHpIL85ol.jpg",
-      "genres": []
-    },
-    {
-      "id": 1539809,
-      "title": "1 DE ABRIL, É TUDO MENTIRA!",
-      "release_date": "2025-09-06",
-      "vote_average": 0.0,
-      "poster_url": null,
       "genres": []
     }
   ],

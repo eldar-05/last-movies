@@ -1,0 +1,27 @@
+{
+  "id": 1542159,
+  "title": "Loki IRL",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-06",
+  "runtime": 30,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм",
+    "приключения"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/nIn5OvzwT6ll3AQztWuDbnYGEyd.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1542159",
+  "trailer": {
+    "key": "_NUke76oJXU",
+    "name": "Loki IRL Final Trailer [Indie Animation Pilot]",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-09-06T12:20:31.272230+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
