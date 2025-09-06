@@ -1,0 +1,26 @@
+{
+  "id": 1540692,
+  "title": "En el bosque",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-06",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "MX"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/mb8JLTCKekjTqoeQ7UILyxB9TDW.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/coDkuJW7raozi5VN0AxkP6rY6nn.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1540692",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-06T00:55:15.790722+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

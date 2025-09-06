@@ -1,107 +1,97 @@
 {
-  "fetched_at_utc": "2025-09-05T18:16:09.588366+00:00",
+  "fetched_at_utc": "2025-09-06T00:55:17.693726+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1541659,
-      "title": "Has Mother Landed Yet?",
-      "release_date": "2025-09-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tH251gVJypb9MvbkqyBDYE9NHgy.jpg",
-      "genres": [
-        "триллер",
-        "криминал"
-      ]
-    },
-    {
-      "id": 1541631,
-      "title": "End-iversary",
-      "release_date": "2025-09-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kqPv4pv8SlyyGW49qCfzfxSUnp4.jpg",
-      "genres": [
-        "драма",
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1541550,
-      "title": "Mehar",
-      "release_date": "2025-09-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9CXI9xvSOeURHrgoEHpoGaH1AOa.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1541319,
-      "title": "નાનખટાઈ",
-      "release_date": "2025-09-05",
+      "id": 1541877,
+      "title": "Beast Inside",
+      "release_date": "2025-09-06",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1541106,
-      "title": "1 vs 1 | Fight-Verse",
-      "release_date": "2025-09-05",
+      "id": 1541349,
+      "title": "La Gendarmerie à Porto",
+      "release_date": "2025-09-06",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1q9Tr32fJbab1VkI6QjRsk4uOTw.jpg",
-      "genres": [
-        "боевик"
-      ]
-    },
-    {
-      "id": 1540704,
-      "title": "L'Étrange Musique 2025",
-      "release_date": "2025-09-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/73ZFQ1GWZ4soZhYcm0XLfbRx5Gt.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8xYG8jRPszyxp67PKkAx4ESAu0Y.jpg",
       "genres": []
     },
     {
-      "id": 1540661,
-      "title": "Tattoo",
-      "release_date": "2025-09-05",
+      "id": 1540709,
+      "title": "La venganza de un alma",
+      "release_date": "2025-09-06",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vPP0wDuIkTRNi5Hr03yzks2j5d4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1R2Rc9UrkDVyuY5QcMIJCil7n8w.jpg",
+      "genres": []
+    },
+    {
+      "id": 1540692,
+      "title": "En el bosque",
+      "release_date": "2025-09-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mb8JLTCKekjTqoeQ7UILyxB9TDW.jpg",
       "genres": [
-        "фэнтези",
-        "ужасы"
+        "триллер"
       ]
     },
     {
-      "id": 1540656,
-      "title": "No me dejes",
-      "release_date": "2025-09-05",
+      "id": 1540660,
+      "title": "El huevo",
+      "release_date": "2025-09-06",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oeRRTskMA2WMc7gHLWhWJvWKNWI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/HaW1524pwplpvp4yDvVtUXEJS9.jpg",
+      "genres": [
+        "драма",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1540651,
+      "title": "Diosï Meiamu",
+      "release_date": "2025-09-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5hEopK8pXLeVH4cm8AHgbTQ3Rw1.jpg",
+      "genres": []
+    },
+    {
+      "id": 1540634,
+      "title": "Cero de enero",
+      "release_date": "2025-09-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2B7ZJzfhJdexDJcpQkjpbZc1G0G.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1540598,
-      "title": "La loma",
-      "release_date": "2025-09-05",
+      "id": 1540548,
+      "title": "Em pele de cordeiro",
+      "release_date": "2025-09-06",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/deAejRmJobeagTCCv9n0D8mVdKz.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wFSOjkUF1UTLLFM6u6LvqrohlSg.jpg",
       "genres": [
-        "документальный"
+        "драма"
       ]
     },
     {
-      "id": 1540596,
-      "title": "Te encontré",
-      "release_date": "2025-09-05",
+      "id": 1540011,
+      "title": "A Day at Oak Street Beach",
+      "release_date": "2025-09-06",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xfen4I3RVbuOOIykxbxMmd4W29k.jpg",
-      "genres": [
-        "мультфильм"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/auN5gNADDo9k19AQfaHHpIL85ol.jpg",
+      "genres": []
+    },
+    {
+      "id": 1539809,
+      "title": "1 DE ABRIL, É TUDO MENTIRA!",
+      "release_date": "2025-09-06",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
     }
   ],
   "source": "TMDB",
