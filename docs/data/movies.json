@@ -1,9 +1,53 @@
 {
-  "fetched_at_utc": "2025-09-07T06:16:07.966770+00:00",
+  "fetched_at_utc": "2025-09-07T12:21:20.646458+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1542754,
+      "title": "𝗧𝗵𝗲 𝗗𝗶𝘀𝗮𝗽𝗽𝗲𝗮𝗿𝗮𝗻𝗰𝗲 𝗼𝗳 𝗦𝗮𝗱𝗶𝗲 𝗙𝗶𝗻𝗹𝗼𝗰𝗵",
+      "release_date": "2025-09-07",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1542751,
+      "title": "ICare 9000",
+      "release_date": "2025-09-07",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1542697,
+      "title": "Cirkusrevyen 2025",
+      "release_date": "2025-09-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9cgSgjBKXV9UZpefVWDwk0zkpCM.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1542608,
+      "title": "Rebro za rebro",
+      "release_date": "2025-09-07",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8xLpz99I2eA6ZBFuVzdSeoIvGs1.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1542491,
+      "title": "Vivere Pericoloso",
+      "release_date": "2025-09-07",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
     {
       "id": 1542406,
       "title": "Samen Sterk",
@@ -12,6 +56,25 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/3dU2vixnHW9b9sPWn1R26wDdid.jpg",
       "genres": [
         "документальный"
+      ]
+    },
+    {
+      "id": 1542038,
+      "title": "Mica",
+      "release_date": "2025-09-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1sWbFmxfBrFZUWoCfuQ8ornUuO3.jpg",
+      "genres": []
+    },
+    {
+      "id": 1542028,
+      "title": "Screeching Clean",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xQNmryiZAA8wbi8B6i8I4lM6Nn4.jpg",
+      "genres": [
+        "ужасы",
+        "комедия"
       ]
     },
     {
@@ -31,73 +94,6 @@
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
-    },
-    {
-      "id": 1539822,
-      "title": "Paredes Vivas",
-      "release_date": "2025-09-07",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1539820,
-      "title": "Pai de Aluguel",
-      "release_date": "2025-09-07",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1539477,
-      "title": "SuckedIn",
-      "release_date": "2025-09-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/i0NdLOGuAwcSKpsMOfza5edztmt.jpg",
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1538846,
-      "title": "Natalie Portman - Vom Kinderstar zur Hollywood-Ikone",
-      "release_date": "2025-09-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wjhPt9GZJ2HLijOyOPA3sh9WvxU.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1538401,
-      "title": "Safe",
-      "release_date": "2025-09-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/saHj79SdpRP0lwZSUzOJpdLnulb.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1538270,
-      "title": "Knock",
-      "release_date": "2025-09-07",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "ужасы",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1535135,
-      "title": "Diaries: Colours of Nature and the Way It Affects Our Memories. Part two of five",
-      "release_date": "2025-09-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bFjMbzm222TxDNTgbfc8MVKtfVm.jpg",
-      "genres": [
-        "документальный"
-      ]
     }
   ],
   "source": "TMDB",
