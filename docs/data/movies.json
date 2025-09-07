@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-09-07T12:21:20.646458+00:00",
+  "fetched_at_utc": "2025-09-07T18:14:55.411849+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -24,7 +24,7 @@
       "id": 1542697,
       "title": "Cirkusrevyen 2025",
       "release_date": "2025-09-07",
-      "vote_average": 0.0,
+      "vote_average": 10.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/9cgSgjBKXV9UZpefVWDwk0zkpCM.jpg",
       "genres": [
         "комедия"
@@ -69,7 +69,7 @@
     {
       "id": 1542028,
       "title": "Screeching Clean",
-      "release_date": "",
+      "release_date": "2025-09-07",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/xQNmryiZAA8wbi8B6i8I4lM6Nn4.jpg",
       "genres": [
