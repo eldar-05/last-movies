@@ -1,101 +1,103 @@
 {
-  "fetched_at_utc": "2025-09-06T18:14:42.296975+00:00",
+  "fetched_at_utc": "2025-09-07T01:01:16.324979+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1542299,
-      "title": "特殊安保",
-      "release_date": "2025-09-06",
+      "id": 1542406,
+      "title": "Samen Sterk",
+      "release_date": "2025-09-07",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fTN2IMXVnxfGoxoB8DYFwswW7eY.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3dU2vixnHW9b9sPWn1R26wDdid.jpg",
       "genres": [
-        "боевик",
-        "криминал"
+        "документальный"
       ]
     },
     {
-      "id": 1542277,
-      "title": "12:27 pm",
-      "release_date": "2025-09-06",
+      "id": 1541916,
+      "title": "Vietnam, une maîtresse d’école au sommet",
+      "release_date": "2025-09-07",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nKqYxB6LQ1aHlOQsk2mRMLQnViY.jpg",
-      "genres": []
-    },
-    {
-      "id": 1542159,
-      "title": "Loki IRL",
-      "release_date": "2025-09-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nIn5OvzwT6ll3AQztWuDbnYGEyd.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/plSmBfo2awSup6F2zAe9R37TmvZ.jpg",
       "genres": [
-        "мультфильм",
-        "приключения"
+        "документальный"
       ]
     },
     {
-      "id": 1542151,
-      "title": "The Beauty of Letting Go",
-      "release_date": "2025-09-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bxu49lhDkxszfNudxBH10CiIPvM.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1541877,
-      "title": "Beast Inside",
-      "release_date": "2025-09-06",
+      "id": 1539835,
+      "title": "JANELA",
+      "release_date": "2025-09-07",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1541349,
-      "title": "La Gendarmerie à Porto",
-      "release_date": "2025-09-06",
+      "id": 1539822,
+      "title": "Paredes Vivas",
+      "release_date": "2025-09-07",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8xYG8jRPszyxp67PKkAx4ESAu0Y.jpg",
+      "poster_url": null,
       "genres": []
     },
     {
-      "id": 1540709,
-      "title": "La venganza de un alma",
-      "release_date": "2025-09-06",
+      "id": 1539820,
+      "title": "Pai de Aluguel",
+      "release_date": "2025-09-07",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1R2Rc9UrkDVyuY5QcMIJCil7n8w.jpg",
+      "poster_url": null,
       "genres": []
     },
     {
-      "id": 1540692,
-      "title": "En el bosque",
-      "release_date": "2025-09-06",
+      "id": 1539477,
+      "title": "SuckedIn",
+      "release_date": "2025-09-07",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mb8JLTCKekjTqoeQ7UILyxB9TDW.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/i0NdLOGuAwcSKpsMOfza5edztmt.jpg",
       "genres": [
         "триллер"
       ]
     },
     {
-      "id": 1540660,
-      "title": "El huevo",
-      "release_date": "2025-09-06",
+      "id": 1538846,
+      "title": "Natalie Portman - Vom Kinderstar zur Hollywood-Ikone",
+      "release_date": "2025-09-07",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/HaW1524pwplpvp4yDvVtUXEJS9.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wjhPt9GZJ2HLijOyOPA3sh9WvxU.jpg",
       "genres": [
-        "драма",
-        "фэнтези"
+        "документальный"
       ]
     },
     {
-      "id": 1540651,
-      "title": "Diosï Meiamu",
-      "release_date": "2025-09-06",
+      "id": 1538401,
+      "title": "Safe",
+      "release_date": "2025-09-07",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5hEopK8pXLeVH4cm8AHgbTQ3Rw1.jpg",
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/saHj79SdpRP0lwZSUzOJpdLnulb.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1538270,
+      "title": "Knock",
+      "release_date": "2025-09-07",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1535135,
+      "title": "Diaries: Colours of Nature and the Way It Affects Our Memories. Part two of five",
+      "release_date": "2025-09-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bFjMbzm222TxDNTgbfc8MVKtfVm.jpg",
+      "genres": [
+        "документальный"
+      ]
     }
   ],
   "source": "TMDB",
