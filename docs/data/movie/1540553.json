@@ -1,0 +1,27 @@
+{
+  "id": 1540553,
+  "title": "Yuyaymanta",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-08",
+  "runtime": 61,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "qu",
+  "spoken_languages": [
+    "Quechua",
+    "Spanish"
+  ],
+  "production_countries": [
+    "EC"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1540553",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-08T01:00:03.643189+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,96 +1,100 @@
 {
-  "fetched_at_utc": "2025-09-07T18:14:55.411849+00:00",
+  "fetched_at_utc": "2025-09-08T01:00:04.706967+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1542754,
-      "title": "𝗧𝗵𝗲 𝗗𝗶𝘀𝗮𝗽𝗽𝗲𝗮𝗿𝗮𝗻𝗰𝗲 𝗼𝗳 𝗦𝗮𝗱𝗶𝗲 𝗙𝗶𝗻𝗹𝗼𝗰𝗵",
-      "release_date": "2025-09-07",
+      "id": 1543091,
+      "title": "GUTTR THE MUSICAL",
+      "release_date": "2025-09-08",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8jUlSnmV4v05r4cNbFQXhvF2jIA.jpg",
       "genres": []
     },
     {
-      "id": 1542751,
-      "title": "ICare 9000",
-      "release_date": "2025-09-07",
+      "id": 1543050,
+      "title": "La Paye",
+      "release_date": "2025-09-08",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1542697,
-      "title": "Cirkusrevyen 2025",
-      "release_date": "2025-09-07",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9cgSgjBKXV9UZpefVWDwk0zkpCM.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1542608,
-      "title": "Rebro za rebro",
-      "release_date": "2025-09-07",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8xLpz99I2eA6ZBFuVzdSeoIvGs1.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1542491,
-      "title": "Vivere Pericoloso",
-      "release_date": "2025-09-07",
+      "id": 1542444,
+      "title": "The Pair of White Pigeons",
+      "release_date": "2025-09-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mRbvALwzkcdPsxXRrk4iXCTxcSX.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1541971,
+      "title": "Erich Maria Remarque und Marlene Dietrich : Flucht in die Liebe",
+      "release_date": "2025-09-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cIpUynG8LzFifnOR5V5uQlsrxpr.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1541754,
+      "title": "Mikro Soma",
+      "release_date": "2025-09-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/74lNTVUdfWDLx7hNo4cAJ1tjSlz.jpg",
+      "genres": []
+    },
+    {
+      "id": 1541286,
+      "title": "Theatre of Horrors: The Sordid Story of Paris' Grand Guignol",
+      "release_date": "2025-09-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/edHxdnORd4KWT2s7Y6NRaG23YdQ.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1540553,
+      "title": "Yuyaymanta",
+      "release_date": "2025-09-08",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1542406,
-      "title": "Samen Sterk",
-      "release_date": "2025-09-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3dU2vixnHW9b9sPWn1R26wDdid.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1542038,
-      "title": "Mica",
-      "release_date": "2025-09-07",
+      "id": 1538101,
+      "title": "Should virtual petz die?",
+      "release_date": "2025-09-08",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1sWbFmxfBrFZUWoCfuQ8ornUuO3.jpg",
-      "genres": []
-    },
-    {
-      "id": 1542028,
-      "title": "Screeching Clean",
-      "release_date": "2025-09-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xQNmryiZAA8wbi8B6i8I4lM6Nn4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oc8oz7PauSeUy8XziejB1cbd2K6.jpg",
       "genres": [
-        "ужасы",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1541916,
-      "title": "Vietnam, une maîtresse d’école au sommet",
-      "release_date": "2025-09-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/plSmBfo2awSup6F2zAe9R37TmvZ.jpg",
-      "genres": [
+        "мультфильм",
         "документальный"
       ]
     },
     {
-      "id": 1539835,
-      "title": "JANELA",
-      "release_date": "2025-09-07",
+      "id": 1537721,
+      "title": "Wilderness",
+      "release_date": "2025-09-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lZA1z5ErMI58tbJ4Bdoi8aQhpsy.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1534214,
+      "title": "Origin: The Story of the Basketball Africa League",
+      "release_date": "2025-09-08",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
