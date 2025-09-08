@@ -5,8 +5,8 @@
   "overview": "",
   "release_date": "2025-09-08",
   "runtime": 0,
-  "vote_average": 0.0,
-  "vote_count": 0,
+  "vote_average": 8.0,
+  "vote_count": 1,
   "genres": [
     "документальный"
   ],
@@ -18,10 +18,10 @@
   "production_countries": [
     "DE"
   ],
-  "poster_url": "https://image.tmdb.org/t/p/w500/cIpUynG8LzFifnOR5V5uQlsrxpr.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/p903NT1b4s2YMSAsMBeeRXM4VWg.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/774JCUjU6nKukwyOPlfEc1eRXHN.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1541971",
   "trailer": null,
-  "fetched_at_utc": "2025-09-08T06:19:41.202496+00:00",
+  "fetched_at_utc": "2025-09-08T12:26:14.726616+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

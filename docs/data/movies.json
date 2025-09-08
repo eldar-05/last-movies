@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-09-08T06:19:42.831180+00:00",
+  "fetched_at_utc": "2025-09-08T12:26:20.584069+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -17,7 +17,7 @@
       "title": "La Paye",
       "release_date": "2025-09-08",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wyKl62r5gn4YvSZKYSLmJZUW4Dz.jpg",
       "genres": [
         "драма"
       ]
@@ -36,8 +36,8 @@
       "id": 1541971,
       "title": "Erich Maria Remarque und Marlene Dietrich : Flucht in die Liebe",
       "release_date": "2025-09-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cIpUynG8LzFifnOR5V5uQlsrxpr.jpg",
+      "vote_average": 8.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/p903NT1b4s2YMSAsMBeeRXM4VWg.jpg",
       "genres": [
         "документальный"
       ]
