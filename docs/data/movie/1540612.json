@@ -1,0 +1,28 @@
+{
+  "id": 1540612,
+  "title": "Lost In McDonaldland",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-09",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/pZZr9TyovS67FWQIyImfsTSfkMX.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/3X8WbmwXZE36cu5mSsr32bCRKj8.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1540612",
+  "trailer": {
+    "key": "D886nQJNqBc",
+    "name": "Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-09-09T00:57:35.233862+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

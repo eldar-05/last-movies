@@ -1,0 +1,31 @@
+{
+  "id": 1542766,
+  "title": "Κοσμικό Αυγό",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-09",
+  "runtime": 7,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм",
+    "фэнтези"
+  ],
+  "original_language": "el",
+  "spoken_languages": [
+    "Greek"
+  ],
+  "production_countries": [
+    "GR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/qoIa0jSBFyMLSiGnZK46FiBI7Kb.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/7AV50TpUnoIIC22LjA4ycHFEvas.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1542766",
+  "trailer": {
+    "key": "LKF4tzXY130",
+    "name": "#DISFF48 Cosmic Egg, Nefeli Psykou, Christoforos Alamanis",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-09-09T00:57:34.500966+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

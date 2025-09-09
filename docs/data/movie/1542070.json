@@ -1,0 +1,31 @@
+{
+  "id": 1542070,
+  "title": "Ήταν Πολύ Καλή στο να Φεύγει",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-09",
+  "runtime": 26,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "мелодрама"
+  ],
+  "original_language": "el",
+  "spoken_languages": [
+    "Greek"
+  ],
+  "production_countries": [
+    "GR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/rLT8MFvY3mac15EynhGq5Gerdvk.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/pOVIrRmwqbqHRnXU2CcEn2dM5Vg.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1542070",
+  "trailer": {
+    "key": "kw3Se9Bjf0E",
+    "name": "#DISFF48 Leaving Was What She Did Best, Vassilis Pantelidis",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-09-09T00:57:34.746041+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

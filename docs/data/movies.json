@@ -1,103 +1,104 @@
 {
-  "fetched_at_utc": "2025-09-08T18:18:01.100156+00:00",
+  "fetched_at_utc": "2025-09-09T00:57:35.399404+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1543091,
-      "title": "GUTTR THE MUSICAL",
-      "release_date": "2025-09-08",
+      "id": 1543111,
+      "title": "Becoming Thurgood: America's Social Architect",
+      "release_date": "2025-09-09",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8jUlSnmV4v05r4cNbFQXhvF2jIA.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9io98sGYYkwc0RJl1RSjM3fVU8v.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1542921,
+      "title": "VoyageInPittsburgh",
+      "release_date": "2025-09-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aTJpZqlwLvbBbcUeuUhsTQduGDt.jpg",
       "genres": []
     },
     {
-      "id": 1543050,
-      "title": "La Paye",
-      "release_date": "2025-09-08",
+      "id": 1542766,
+      "title": "Κοσμικό Αυγό",
+      "release_date": "2025-09-09",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wyKl62r5gn4YvSZKYSLmJZUW4Dz.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1542444,
-      "title": "The Pair of White Pigeons",
-      "release_date": "2025-09-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mRbvALwzkcdPsxXRrk4iXCTxcSX.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1541971,
-      "title": "Erich Maria Remarque und Marlene Dietrich : Flucht in die Liebe",
-      "release_date": "2025-09-08",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/p903NT1b4s2YMSAsMBeeRXM4VWg.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1541754,
-      "title": "Mikro Soma",
-      "release_date": "2025-09-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/74lNTVUdfWDLx7hNo4cAJ1tjSlz.jpg",
-      "genres": []
-    },
-    {
-      "id": 1541286,
-      "title": "Theatre of Horrors: The Sordid Story of Paris' Grand Guignol",
-      "release_date": "2025-09-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/edHxdnORd4KWT2s7Y6NRaG23YdQ.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1540553,
-      "title": "Yuyaymanta",
-      "release_date": "2025-09-08",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1538101,
-      "title": "Should virtual petz die?",
-      "release_date": "2025-09-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oc8oz7PauSeUy8XziejB1cbd2K6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qoIa0jSBFyMLSiGnZK46FiBI7Kb.jpg",
       "genres": [
         "мультфильм",
-        "документальный"
+        "фэнтези"
       ]
     },
     {
-      "id": 1537721,
-      "title": "Wilderness",
-      "release_date": "2025-09-08",
+      "id": 1542659,
+      "title": "Ngryk",
+      "release_date": "2025-09-09",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lZA1z5ErMI58tbJ4Bdoi8aQhpsy.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4fWsgUxn61qTgOCdxEiYyPvEcd.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1534214,
-      "title": "Origin: The Story of the Basketball Africa League",
-      "release_date": "2025-09-08",
+      "id": 1542070,
+      "title": "Ήταν Πολύ Καλή στο να Φεύγει",
+      "release_date": "2025-09-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rLT8MFvY3mac15EynhGq5Gerdvk.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1542000,
+      "title": "ကော်ဖီခွက်၏ သေတမ်းစာ",
+      "release_date": "2025-09-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/54vLyzHzEBDCv5N8bHXGbylis8l.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1541863,
+      "title": "1 jour",
+      "release_date": "2025-09-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/elTTAZmoZ9NjV6hbPQseTUkIJ4G.jpg",
+      "genres": []
+    },
+    {
+      "id": 1541483,
+      "title": "M4RK",
+      "release_date": "2025-09-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1T0oFaGMpzPBVZw8kNnJzq0rRUL.jpg",
+      "genres": []
+    },
+    {
+      "id": 1540612,
+      "title": "Lost In McDonaldland",
+      "release_date": "2025-09-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pZZr9TyovS67FWQIyImfsTSfkMX.jpg",
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1540603,
+      "title": "遊走族的肖像畫",
+      "release_date": "2025-09-09",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": []
+      "genres": [
+        "документальный"
+      ]
     }
   ],
   "source": "TMDB",
