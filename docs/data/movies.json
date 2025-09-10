@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-09-10T00:56:18.273658+00:00",
+  "fetched_at_utc": "2025-09-10T06:18:38.438581+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -59,7 +59,7 @@
       "id": 1543177,
       "title": "Rosamunde Pilcher: Wer immer du bist",
       "release_date": "2025-09-10",
-      "vote_average": 0.0,
+      "vote_average": 5.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/a1amsnUB3oUTadX45g537LsPsLw.jpg",
       "genres": [
         "мелодрама",
