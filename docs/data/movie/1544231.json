@@ -5,8 +5,8 @@
   "overview": "",
   "release_date": "2025-09-10",
   "runtime": 15,
-  "vote_average": 0.0,
-  "vote_count": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
   "genres": [
     "драма"
   ],
@@ -16,10 +16,10 @@
     "Ukrainian"
   ],
   "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/8OgCgAu9sFsx73lSa2F2KsRdZ8p.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/48yZAaLja4HZLVYR5BFCk23Frd.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1544231",
   "trailer": null,
-  "fetched_at_utc": "2025-09-10T06:18:36.760631+00:00",
+  "fetched_at_utc": "2025-09-10T12:23:32.576970+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

@@ -1,15 +1,37 @@
 {
-  "fetched_at_utc": "2025-09-10T06:18:38.438581+00:00",
+  "fetched_at_utc": "2025-09-10T12:23:33.728970+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1544384,
+      "title": "Hoshi aux Francofolies 2025",
+      "release_date": "2025-09-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/uYSswviDAj59ovKPk9B1rZDh7Bt.jpg",
+      "genres": [
+        "музыка"
+      ]
+    },
+    {
+      "id": 1544265,
+      "title": "September 10th, 1995",
+      "release_date": "2025-09-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gzOWAkhyL0qfQuVmgYPyy8Vvs19.jpg",
+      "genres": [
+        "комедия",
+        "драма",
+        "фантастика"
+      ]
+    },
+    {
       "id": 1544231,
       "title": "сентябрьский кап-кап",
       "release_date": "2025-09-10",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8OgCgAu9sFsx73lSa2F2KsRdZ8p.jpg",
       "genres": [
         "драма"
       ]
@@ -85,22 +107,6 @@
       "genres": [
         "драма"
       ]
-    },
-    {
-      "id": 1540842,
-      "title": "PUPPET-PEOPLE-PUPPET-SCENE",
-      "release_date": "2025-09-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vStJjM5ltO4hsi72zWijlHbICXw.jpg",
-      "genres": []
-    },
-    {
-      "id": 1540796,
-      "title": "A Cabeça",
-      "release_date": "2025-09-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1hgvGTUotIXHBOCPJ727mMRXblV.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",
