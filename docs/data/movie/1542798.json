@@ -1,0 +1,31 @@
+{
+  "id": 1542798,
+  "title": "Χαμένες Γαρδένιες",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-10",
+  "runtime": 13,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "el",
+  "spoken_languages": [
+    "Mandarin"
+  ],
+  "production_countries": [
+    "GR",
+    "CN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/pOGUAx1SHpTzgPaegOos2STF0Hx.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/tGOLs4fu5aVi4AxSZAjifBfSrlQ.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1542798",
+  "trailer": {
+    "key": "CqEJ2nk0VRk",
+    "name": "#DISFF48 Lost Gardenias, Galatia Lagoutar",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-09-10T18:17:28.826475+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

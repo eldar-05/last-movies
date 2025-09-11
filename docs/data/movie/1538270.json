@@ -1,0 +1,25 @@
+{
+  "id": 1538270,
+  "title": "Knock",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-07",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "триллер"
+  ],
+  "original_language": "es",
+  "spoken_languages": [],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1538270",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-07T06:16:07.757638+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

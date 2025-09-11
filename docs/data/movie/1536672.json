@@ -1,0 +1,26 @@
+{
+  "id": 1536672,
+  "title": "El plan",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-02",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/dXfa9R4STZOmEy90ewPWVBTbvN7.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/bZJKitQo0fZ1P8OAYDfsAEgLl2V.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1536672",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-02T18:15:38.337821+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

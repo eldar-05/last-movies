@@ -1,0 +1,22 @@
+{
+  "id": 1540796,
+  "title": "A Cabeça",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-10",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/1hgvGTUotIXHBOCPJ727mMRXblV.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1540796",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-10T06:18:38.438244+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

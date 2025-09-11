@@ -1,0 +1,27 @@
+{
+  "id": 1532163,
+  "title": "Treći svijet",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-28",
+  "runtime": 98,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "музыка"
+  ],
+  "original_language": "hr",
+  "spoken_languages": [
+    "Croatian"
+  ],
+  "production_countries": [
+    "HR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/xUBdwfxVGazVKM7HRoWareKvYCv.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1532163",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-28T06:19:09.267003+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

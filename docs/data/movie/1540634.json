@@ -1,0 +1,30 @@
+{
+  "id": 1540634,
+  "title": "Cero de enero",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-06",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "MX"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/2B7ZJzfhJdexDJcpQkjpbZc1G0G.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/cbwyTgx3KAYyT7xNqjrvfPlJlCD.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1540634",
+  "trailer": {
+    "key": "jlMpvstuioY",
+    "name": "CERO DE ENERO | Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-09-06T06:16:01.683122+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

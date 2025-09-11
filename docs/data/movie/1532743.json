@@ -1,0 +1,32 @@
+{
+  "id": 1532743,
+  "title": "The Life of Silver",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-22",
+  "runtime": 21,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фэнтези",
+    "приключения",
+    "фантастика",
+    "боевик",
+    "комедия",
+    "драма",
+    "семейный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/r6w7f6vUOPOfRmbBVklwcGFcco9.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1532743",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-22T18:17:37.557104+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

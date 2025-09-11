@@ -1,0 +1,24 @@
+{
+  "id": 1531692,
+  "title": "fish",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-24",
+  "runtime": 7,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фантастика"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/po8Rhfyy5p2WN2n8OyJgCDSGuP9.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1531692",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-24T06:18:05.227854+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

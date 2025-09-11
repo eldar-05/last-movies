@@ -1,0 +1,30 @@
+{
+  "id": 1536661,
+  "title": "003",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-02",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Catalan",
+    "Spanish",
+    "French",
+    "English",
+    "Italian"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/vrwtFNJvu0I5GLl3jCdcHAkBJB3.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/y0xcmXhE4ROMhQNScgmlSQUlWQm.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1536661",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-02T18:15:38.581233+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

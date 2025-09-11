@@ -1,0 +1,26 @@
+{
+  "id": 1543050,
+  "title": "La Paye",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-08",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "Haitian; Haitian Creole"
+  ],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/wyKl62r5gn4YvSZKYSLmJZUW4Dz.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1543050",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-08T18:17:58.921568+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

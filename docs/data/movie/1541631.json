@@ -1,0 +1,25 @@
+{
+  "id": 1541631,
+  "title": "End-iversary",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-05",
+  "runtime": 7,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "мелодрама"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "NZ"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/kqPv4pv8SlyyGW49qCfzfxSUnp4.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/z8DlvdIv9RDGBCETmNVprmz5WdW.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1541631",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-05T18:16:08.315721+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

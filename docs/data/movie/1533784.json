@@ -1,0 +1,27 @@
+{
+  "id": 1533784,
+  "title": "ELECTRIC Déco",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-23",
+  "runtime": 40,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "музыка",
+    "ужасы",
+    "триллер"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "English",
+    "Portuguese"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/6aKmX6IxJSFy6J48T5hK7u7wpjL.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/faG9eiaSDmAwslVNbckOecZ7rXe.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1533784",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-23T18:15:18.838926+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

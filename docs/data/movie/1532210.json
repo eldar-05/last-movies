@@ -1,0 +1,26 @@
+{
+  "id": 1532210,
+  "title": "La vie ne tient qu'à un Cornichon",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-21",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/gp1aXCKkM2uY19DXIm7zFNfZbI0.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/jKZST6xZ6imWNgy3GSZSqOqphwv.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1532210",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-21T18:18:18.129116+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

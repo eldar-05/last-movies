@@ -1,0 +1,22 @@
+{
+  "id": 1541863,
+  "title": "1 jour",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-09",
+  "runtime": 24,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/elTTAZmoZ9NjV6hbPQseTUkIJ4G.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1541863",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-09T18:14:53.512692+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

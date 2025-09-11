@@ -1,0 +1,26 @@
+{
+  "id": 1534047,
+  "title": "Picumã",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-27",
+  "runtime": 19,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "боевик"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/6yki3wwJaL0krrkC9sbBKDRsb6s.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/rO0bK38OHGqmypSyzdOSWfZI0og.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1534047",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-27T06:18:18.250686+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

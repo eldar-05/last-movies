@@ -1,0 +1,30 @@
+{
+  "id": 1523670,
+  "title": "Pasilip Ni Azi",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-26",
+  "runtime": 70,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "tl",
+  "spoken_languages": [
+    "Tagalog"
+  ],
+  "production_countries": [
+    "PH"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/5mk6IIem4O0RsxRLWw3eumclfSa.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/kNosUFv6MaJn2RFmTbCihBLN4Yg.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1523670",
+  "trailer": {
+    "key": "PRwoQCEZ5X4",
+    "name": "Pasilip ni Azi Official Trailer | VMX | #AziAcosta #StephanieRaz",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-08-26T06:19:37.325168+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

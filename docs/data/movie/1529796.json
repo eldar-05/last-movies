@@ -1,0 +1,25 @@
+{
+  "id": 1529796,
+  "title": "Extrañar",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-18",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "драма"
+  ],
+  "original_language": "es",
+  "spoken_languages": [],
+  "production_countries": [
+    "MX"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/umHJ8CWVZi2t4wejqn0QpDav9be.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1529796",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-18T18:19:23.417021+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1533464,
+  "title": "NOW",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-22",
+  "runtime": 2,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "GB"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/za2Uv64L6fhHmXuxM6Snx5uu17q.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/okYOnyxmRosnuwxIHAAiyFu5g8S.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1533464",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-22T18:17:36.784472+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

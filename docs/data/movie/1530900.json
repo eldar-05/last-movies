@@ -1,0 +1,28 @@
+{
+  "id": 1530900,
+  "title": "tainted memories",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-16",
+  "runtime": 5,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/3RakWtUixSrMJYEKyNK7a2vraa8.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/3LFOfrx7YvBgq2XWi8jww7psOKB.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1530900",
+  "trailer": {
+    "key": "G2rr92E1nxU",
+    "name": "tainted memories",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-08-16T18:16:10.536781+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1541550,
+  "title": "Mehar",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-05",
+  "runtime": 147,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "pa",
+  "spoken_languages": [
+    "Punjabi"
+  ],
+  "production_countries": [
+    "IN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/9CXI9xvSOeURHrgoEHpoGaH1AOa.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1541550",
+  "trailer": {
+    "key": "Z1tscUJQvDk",
+    "name": "Mehar (Trailer) Raj Kundra | Geeta Basra | Rakesh Mehta| Dreams Music | In Cinemas 5th Sep 2025",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-09-05T18:16:08.431708+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

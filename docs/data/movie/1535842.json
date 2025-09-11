@@ -1,0 +1,31 @@
+{
+  "id": 1535842,
+  "title": "Maxton Hall: Reunion",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-26",
+  "runtime": 37,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "мелодрама"
+  ],
+  "original_language": "de",
+  "spoken_languages": [
+    "German"
+  ],
+  "production_countries": [
+    "DE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/oewWoKHFu8Pd68X8K17CrjYmzXE.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/1QYW9T1u22ZocEbqRkq3BUNpY8Z.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1535842",
+  "trailer": {
+    "key": "MbSE2PoJZK0",
+    "name": "Official Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-08-26T18:17:33.566436+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

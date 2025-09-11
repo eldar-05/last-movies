@@ -1,0 +1,27 @@
+{
+  "id": 1532815,
+  "title": "A Afinação do Mundo",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-20",
+  "runtime": 27,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "музыка"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/d29QmSbmZFHqSrwbphMDxpWwy95.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1532815",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-20T18:18:29.693471+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

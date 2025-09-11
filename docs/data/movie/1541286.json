@@ -1,0 +1,28 @@
+{
+  "id": 1541286,
+  "title": "Theatre of Horrors: The Sordid Story of Paris' Grand Guignol",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-08",
+  "runtime": 87,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/edHxdnORd4KWT2s7Y6NRaG23YdQ.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1541286",
+  "trailer": {
+    "key": "fD9aphRcQmk",
+    "name": "THEATRE OF HORRORS: THE SORDID STORY OF PARIS’ GRAND GUIGNOL (2025) TRAILER",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-09-08T18:17:59.963793+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

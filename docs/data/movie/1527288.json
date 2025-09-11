@@ -1,0 +1,27 @@
+{
+  "id": 1527288,
+  "title": "D’un monde à l’autre",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-28",
+  "runtime": 73,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [
+    "FR",
+    "BE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/i4E1C6q8zHRx1ttsUTdRSCdKLD5.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/gcnLzOUuN4zAPtTlciqBlh20QzT.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1527288",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-28T06:19:10.442979+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

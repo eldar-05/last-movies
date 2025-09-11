@@ -1,0 +1,30 @@
+{
+  "id": 1529260,
+  "title": "Tupperware",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-28",
+  "runtime": 10,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "CA"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/F9R3VXRSeWiMECdVXRYu6MTci.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/zcWidAFY6sAZpaUsSj8rcggEpgz.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1529260",
+  "trailer": {
+    "key": "9pYfIQ0QL9I",
+    "name": "Tupperware trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-08-28T06:19:10.129252+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

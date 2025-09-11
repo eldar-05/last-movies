@@ -1,0 +1,26 @@
+{
+  "id": 1537721,
+  "title": "Wilderness",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-08",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "zh",
+  "spoken_languages": [
+    "Mandarin"
+  ],
+  "production_countries": [
+    "CN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/lZA1z5ErMI58tbJ4Bdoi8aQhpsy.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/zOoamX65hTupvDvPF6C8ajDSRsG.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1537721",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-08T18:18:00.813169+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

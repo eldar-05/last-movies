@@ -1,0 +1,25 @@
+{
+  "id": 1542028,
+  "title": "Screeching Clean",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-07",
+  "runtime": 9,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/xQNmryiZAA8wbi8B6i8I4lM6Nn4.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1542028",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-07T18:14:54.462391+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

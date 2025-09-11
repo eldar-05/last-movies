@@ -1,0 +1,27 @@
+{
+  "id": 1533819,
+  "title": "Las Termas de Lolol",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-24",
+  "runtime": 21,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "документальный"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "CL"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/rEDwWjGvC2tRophBnLM7wnw9ioq.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1533819",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-24T18:15:55.525286+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

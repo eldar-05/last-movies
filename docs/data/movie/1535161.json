@@ -1,0 +1,27 @@
+{
+  "id": 1535161,
+  "title": "Filos de Papel",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-27",
+  "runtime": 12,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "фэнтези"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "DO"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/1XJ9OE4JH0oRkL1m9OJiMrrZA2Y.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1535161",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-27T06:18:18.139870+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

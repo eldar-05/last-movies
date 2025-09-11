@@ -1,0 +1,24 @@
+{
+  "id": 1532012,
+  "title": "Before The Spotlight",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-21",
+  "runtime": 10,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "AU"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/rcXHyJEgDPJkhoeIY3LOmUqWS1c.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/rSIJINhBZ2C44G708rT43nKIyrb.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1532012",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-21T06:28:51.356839+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

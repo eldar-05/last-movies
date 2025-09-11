@@ -1,0 +1,25 @@
+{
+  "id": 1544231,
+  "title": "сентябрьский кап-кап",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-10",
+  "runtime": 15,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "ru",
+  "spoken_languages": [
+    "Russian",
+    "Ukrainian"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/8OgCgAu9sFsx73lSa2F2KsRdZ8p.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/48yZAaLja4HZLVYR5BFCk23Frd.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1544231",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-10T18:17:26.140584+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

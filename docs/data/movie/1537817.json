@@ -1,0 +1,27 @@
+{
+  "id": 1537817,
+  "title": "Dois Estranhos",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-04",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мелодрама",
+    "драма"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/rRbYza2cOu3icd3OFlec8oRKYrD.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1537817",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-04T06:18:09.902768+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1533160,
+  "title": "好時光",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-21",
+  "runtime": 18,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "драма"
+  ],
+  "original_language": "zh",
+  "spoken_languages": [],
+  "production_countries": [
+    "TW"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/vS7w1XJlviWQ28nqyk1B6AhL7xu.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/5ZF8wjxlZYjixmtlGSMsx3qXm4I.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1533160",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-21T18:18:17.068119+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

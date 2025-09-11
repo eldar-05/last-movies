@@ -1,0 +1,24 @@
+{
+  "id": 1544265,
+  "title": "September 10th, 1995",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-10",
+  "runtime": 12,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "драма",
+    "фантастика"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/gzOWAkhyL0qfQuVmgYPyy8Vvs19.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/c8FWxYtCBnswuN0loviOsE4mQhf.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1544265",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-10T18:17:25.584704+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

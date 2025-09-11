@@ -1,106 +1,109 @@
 {
-  "fetched_at_utc": "2025-08-16T06:09:48.150921+00:00",
+  "fetched_at_utc": "2025-09-10T18:17:29.435693+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1530765,
-      "title": "大哥大",
-      "release_date": "2025-08-16",
+      "id": 1544384,
+      "title": "Hoshi aux Francofolies 2025",
+      "release_date": "2025-09-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3HEUC2g6AuH7mjFCMIlz4wtG2dh.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uYSswviDAj59ovKPk9B1rZDh7Bt.jpg",
       "genres": [
-        "комедия"
+        "музыка"
       ]
     },
     {
-      "id": 1530665,
-      "title": "Адель",
-      "release_date": "2025-08-16",
+      "id": 1544265,
+      "title": "September 10th, 1995",
+      "release_date": "2025-09-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zN2s2YMHWo7YKnholxhNGHFLjYn.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1530661,
-      "title": "Homo Homini (Человек человеку)",
-      "release_date": "2025-08-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pfIey3I8dQMzRYxgIrBJkIUFhRo.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1530652,
-      "title": "Sunday Sauce",
-      "release_date": "2025-08-16",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gzOWAkhyL0qfQuVmgYPyy8Vvs19.jpg",
       "genres": [
         "комедия",
-        "ужасы"
+        "драма",
+        "фантастика"
       ]
     },
     {
-      "id": 1530134,
-      "title": "La gravedad no espera",
-      "release_date": "2025-08-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wJDmHdEk6UYQntFMXIqFtseoqm8.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1529799,
-      "title": "DOMINOES",
-      "release_date": "2025-08-16",
+      "id": 1544231,
+      "title": "сентябрьский кап-кап",
+      "release_date": "2025-09-10",
       "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iyrCOhwxJyJ6jhxmdGaUWEcaBJ3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8OgCgAu9sFsx73lSa2F2KsRdZ8p.jpg",
       "genres": [
-        "триллер",
-        "боевик",
         "драма"
       ]
     },
     {
-      "id": 1529538,
-      "title": "Querencia",
-      "release_date": "2025-08-16",
+      "id": 1544187,
+      "title": "Memorias de una vida Ajena",
+      "release_date": "2025-09-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hnRSEigg5l33mnD4TqWt5yc8Exf.jpg",
-      "genres": []
-    },
-    {
-      "id": 1528381,
-      "title": "BUCEE AND THE NEON RANGERS",
-      "release_date": "2025-08-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6MYChYyhu3B21DfullJeeam6G0n.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gwIz1iYqTYmESC1GouV2pjfKq3M.jpg",
       "genres": [
-        "комедия"
+        "драма"
       ]
     },
     {
-      "id": 1527799,
-      "title": "Putra",
-      "release_date": "2025-08-16",
+      "id": 1544173,
+      "title": "A Travessia",
+      "release_date": "2025-09-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lA5mVKpayKlnxJ34V3CkepmpIhh.jpg",
+      "poster_url": null,
       "genres": [
         "мультфильм"
       ]
     },
     {
-      "id": 1526508,
-      "title": "Concorde",
-      "release_date": "2025-08-16",
+      "id": 1544170,
+      "title": "Mundinho",
+      "release_date": "2025-09-10",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1543724,
+      "title": "Di Tengah Dua Saudari 3",
+      "release_date": "2025-09-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iVU70YD74eI0S4zduH3LfFuU72k.jpg",
+      "genres": [
+        "криминал",
+        "драма"
+      ]
+    },
+    {
+      "id": 1543177,
+      "title": "Rosamunde Pilcher: Wer immer du bist",
+      "release_date": "2025-09-10",
+      "vote_average": 5.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/a1amsnUB3oUTadX45g537LsPsLw.jpg",
+      "genres": [
+        "мелодрама",
+        "драма"
+      ]
+    },
+    {
+      "id": 1542798,
+      "title": "Χαμένες Γαρδένιες",
+      "release_date": "2025-09-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pOGUAx1SHpTzgPaegOos2STF0Hx.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1542105,
+      "title": "This Is Not Me",
+      "release_date": "2025-09-10",
       "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wr4N8BSuyprEWgqVshBVyNTAXQ8.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4I7qHJz3SxxSlc5uraFDVxBNUg1.jpg",
       "genres": [
         "драма"
       ]

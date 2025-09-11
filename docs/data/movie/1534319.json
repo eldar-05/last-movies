@@ -1,0 +1,25 @@
+{
+  "id": 1534319,
+  "title": "Hiking with Herbert",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-26",
+  "runtime": 3,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "триллер"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/jCTa4NnhI2IoPKF9g2VcpOVOil8.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/tQIvJNKYLw3drOB6b7vXJYsgu0E.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1534319",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-26T18:17:33.956082+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

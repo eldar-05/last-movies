@@ -1,0 +1,24 @@
+{
+  "id": 1533424,
+  "title": "La felicidad",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-21",
+  "runtime": 18,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "PY"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1533424",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-21T18:18:16.194908+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1530932,
+  "title": "Moira",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-16",
+  "runtime": 9,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "драма",
+    "триллер",
+    "детектив"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/velNYwXmxarY7xq1DhhjltI9Pnn.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/56EXfzh7ayMzpPLvGJ2HmKh9yaR.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1530932",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-16T18:16:10.374731+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

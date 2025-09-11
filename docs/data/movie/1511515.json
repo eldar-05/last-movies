@@ -1,0 +1,28 @@
+{
+  "id": 1511515,
+  "title": "Imagine",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-17",
+  "runtime": 80,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм",
+    "фантастика",
+    "фэнтези"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "AU"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/itDu8Hy7g4E3xtYRbCwKNvnu9R6.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/pDbNO2Vp0wCOMmmWaBZWPTD0yZI.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1511515",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-17T06:18:28.663134+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

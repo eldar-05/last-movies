@@ -1,0 +1,24 @@
+{
+  "id": 1533192,
+  "title": "Cozic",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-08-22",
+  "runtime": 70,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/Dvb4ceH5lbbUmH5cqACVWJfaec.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/pQ5CeKoN6t7WminfDsw9IxE2L2M.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1533192",
+  "trailer": null,
+  "fetched_at_utc": "2025-08-22T18:17:37.388984+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
