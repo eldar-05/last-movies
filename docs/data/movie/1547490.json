@@ -1,0 +1,27 @@
+{
+  "id": 1547490,
+  "title": "reXistence",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-22",
+  "runtime": 10,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_countries": [
+    "CA"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/acnkeiW3rCfT7itKaTXRiAm2jVE.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/bjyZRDFP8WyPpwv0vDKnzvZNSis.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1547490",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-22T17:48:11.165490+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

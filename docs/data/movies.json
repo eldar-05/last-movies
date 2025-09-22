@@ -1,111 +1,110 @@
 {
-  "fetched_at_utc": "2025-09-10T18:17:29.435693+00:00",
+  "fetched_at_utc": "2025-09-22T17:48:11.165937+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1544384,
-      "title": "Hoshi aux Francofolies 2025",
-      "release_date": "2025-09-10",
+      "id": 1550391,
+      "title": "seen",
+      "release_date": "",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uYSswviDAj59ovKPk9B1rZDh7Bt.jpg",
+      "poster_url": null,
       "genres": [
-        "музыка"
+        "семейный",
+        "документальный"
       ]
     },
     {
-      "id": 1544265,
-      "title": "September 10th, 1995",
-      "release_date": "2025-09-10",
+      "id": 1550306,
+      "title": "Lost Teenager",
+      "release_date": "2025-09-22",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gzOWAkhyL0qfQuVmgYPyy8Vvs19.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5bKGiSNZkhaEwTun5bBVtwf7o78.jpg",
       "genres": [
-        "комедия",
+        "драма"
+      ]
+    },
+    {
+      "id": 1550017,
+      "title": "Sous la mousse",
+      "release_date": "2025-09-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pzHNFtBwWDvVURb4kIubHZKh7pR.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1549830,
+      "title": "Още един маниак",
+      "release_date": "2025-09-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qOt0nSs7Z0sVOw6hP724zK2rwyO.jpg",
+      "genres": [
         "драма",
-        "фантастика"
+        "комедия"
       ]
     },
     {
-      "id": 1544231,
-      "title": "сентябрьский кап-кап",
-      "release_date": "2025-09-10",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8OgCgAu9sFsx73lSa2F2KsRdZ8p.jpg",
+      "id": 1549344,
+      "title": "Quincy Jones - Music Man",
+      "release_date": "2025-09-22",
+      "vote_average": 8.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/7lyYwv6TEGw8b6anM8qSml6CDJK.jpg",
+      "genres": [
+        "музыка",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1549215,
+      "title": "Ev",
+      "release_date": "2025-09-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zx6KKbQOYTeh7JXMrSeiGcIuXTD.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1544187,
-      "title": "Memorias de una vida Ajena",
-      "release_date": "2025-09-10",
+      "id": 1548365,
+      "title": "Божиќни светилки",
+      "release_date": "2025-09-22",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gwIz1iYqTYmESC1GouV2pjfKq3M.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kZaWdC4UAONCrdTXotUlRyMzIuH.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1544173,
-      "title": "A Travessia",
-      "release_date": "2025-09-10",
+      "id": 1548333,
+      "title": "Нова енергија",
+      "release_date": "2025-09-22",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oDoa8ojBRECVDg31e3ZYa8RfoJM.jpg",
       "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1544170,
-      "title": "Mundinho",
-      "release_date": "2025-09-10",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1543724,
-      "title": "Di Tengah Dua Saudari 3",
-      "release_date": "2025-09-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iVU70YD74eI0S4zduH3LfFuU72k.jpg",
-      "genres": [
-        "криминал",
         "драма"
       ]
     },
     {
-      "id": 1543177,
-      "title": "Rosamunde Pilcher: Wer immer du bist",
-      "release_date": "2025-09-10",
-      "vote_average": 5.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/a1amsnUB3oUTadX45g537LsPsLw.jpg",
-      "genres": [
-        "мелодрама",
-        "драма"
-      ]
-    },
-    {
-      "id": 1542798,
-      "title": "Χαμένες Γαρδένιες",
-      "release_date": "2025-09-10",
+      "id": 1547839,
+      "title": "J'ai pas les codes : Les aventures inattendues du boulanger de Besançon",
+      "release_date": "2025-09-22",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pOGUAx1SHpTzgPaegOos2STF0Hx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iqRmGDN1TmO4hYEYKNjXe6LVu5I.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1542105,
-      "title": "This Is Not Me",
-      "release_date": "2025-09-10",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4I7qHJz3SxxSlc5uraFDVxBNUg1.jpg",
+      "id": 1547490,
+      "title": "reXistence",
+      "release_date": "2025-09-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/acnkeiW3rCfT7itKaTXRiAm2jVE.jpg",
       "genres": [
-        "драма"
+        "документальный"
       ]
     }
   ],

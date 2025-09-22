@@ -1,0 +1,27 @@
+{
+  "id": 1549830,
+  "title": "Още един маниак",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-22",
+  "runtime": 22,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "комедия"
+  ],
+  "original_language": "bg",
+  "spoken_languages": [
+    "Bulgarian"
+  ],
+  "production_countries": [
+    "BG"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/qOt0nSs7Z0sVOw6hP724zK2rwyO.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/iKOJHcWl9AUhbm1bTkXWc77Iic8.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1549830",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-22T17:48:08.820802+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

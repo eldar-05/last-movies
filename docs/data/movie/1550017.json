@@ -1,0 +1,24 @@
+{
+  "id": 1550017,
+  "title": "Sous la mousse",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-22",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/pzHNFtBwWDvVURb4kIubHZKh7pR.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1550017",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-22T17:48:08.459592+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

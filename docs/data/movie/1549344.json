@@ -1,0 +1,25 @@
+{
+  "id": 1549344,
+  "title": "Quincy Jones - Music Man",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-22",
+  "runtime": 0,
+  "vote_average": 8.0,
+  "vote_count": 1,
+  "genres": [
+    "музыка",
+    "документальный"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/7lyYwv6TEGw8b6anM8qSml6CDJK.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/WzVRyBUcnvdHdK3z5PJIA9svdi.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1549344",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-22T17:48:09.238289+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
