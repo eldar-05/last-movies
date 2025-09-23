@@ -1,9 +1,30 @@
 {
-  "fetched_at_utc": "2025-09-23T06:19:07.895377+00:00",
+  "fetched_at_utc": "2025-09-23T12:24:13.037227+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1550970,
+      "title": "ਪਰਛਾਵੇਂ ਮੱਸਿਆ ਰਾਤਾਂ ਦੇ",
+      "release_date": "2025-09-23",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1550897,
+      "title": "Perfume ZO/Z5 Anniversary \"ネビュラロマンス\" Episode TOKYO DOME",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "музыка",
+        "фантастика"
+      ]
+    },
     {
       "id": 1550735,
       "title": "Distraia-se",
@@ -78,27 +99,6 @@
       "release_date": "2025-09-23",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/hzbDm8WGR8bytlG2QQpzoZteMrF.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1547489,
-      "title": "Lo Sceneggiatore",
-      "release_date": "2025-09-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/br5fq3KnOx7N9Av4wBHZM4CCRn2.jpg",
-      "genres": [
-        "криминал",
-        "драма"
-      ]
-    },
-    {
-      "id": 1547481,
-      "title": "#NoConsiento",
-      "release_date": "2025-09-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5glxv4muy3GRpahcE8bXhj5DIJh.jpg",
       "genres": [
         "документальный"
       ]
