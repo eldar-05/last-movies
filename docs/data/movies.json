@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-09-23T12:24:13.037227+00:00",
+  "fetched_at_utc": "2025-09-23T18:18:28.623801+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -17,9 +17,9 @@
     {
       "id": 1550897,
       "title": "Perfume ZO/Z5 Anniversary \"ネビュラロマンス\" Episode TOKYO DOME",
-      "release_date": "",
+      "release_date": "2025-09-23",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zx2mMJ4qCQuxWJJ2GIEuGcrFIxb.jpg",
       "genres": [
         "музыка",
         "фантастика"

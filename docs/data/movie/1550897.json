@@ -3,8 +3,8 @@
   "title": "Perfume ZO/Z5 Anniversary \"ネビュラロマンス\" Episode TOKYO DOME",
   "tagline": "",
   "overview": "",
-  "release_date": "",
-  "runtime": 0,
+  "release_date": "2025-09-23",
+  "runtime": 158,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
@@ -16,10 +16,10 @@
   "production_countries": [
     "JP"
   ],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/zx2mMJ4qCQuxWJJ2GIEuGcrFIxb.jpg",
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1550897",
   "trailer": null,
-  "fetched_at_utc": "2025-09-23T12:24:11.370365+00:00",
+  "fetched_at_utc": "2025-09-23T18:18:27.319985+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
