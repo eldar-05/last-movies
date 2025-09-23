@@ -1,0 +1,26 @@
+{
+  "id": 1547633,
+  "title": "El Padre Soñado",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-23",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "семейный"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Catalan",
+    "Spanish"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/d5TJDSiKwsAH4cwxHeDVbYAQovT.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/4DVgTSoBzpy3Pw3gi2hycLmQj3m.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1547633",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-23T00:56:05.260817+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

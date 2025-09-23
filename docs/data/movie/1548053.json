@@ -1,0 +1,26 @@
+{
+  "id": 1548053,
+  "title": "Tiro porque me toca",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-23",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "gl",
+  "spoken_languages": [
+    "Galician"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/kaFzL6kkAUJifQTdDWdTatE1Pmm.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/qoSZW6nzH8iz19ibh9F0WLvXrXh.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1548053",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-23T00:56:04.873134+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,108 +1,104 @@
 {
-  "fetched_at_utc": "2025-09-22T18:18:12.260516+00:00",
+  "fetched_at_utc": "2025-09-23T00:56:06.484180+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1550391,
-      "title": "seen",
-      "release_date": "",
+      "id": 1550735,
+      "title": "Distraia-se",
+      "release_date": "2025-09-23",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "семейный",
-        "документальный"
-      ]
-    },
-    {
-      "id": 1550306,
-      "title": "Lost Teenager",
-      "release_date": "2025-09-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5bKGiSNZkhaEwTun5bBVtwf7o78.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/40tiQZ1F17pThbpKEu66xNxtU8F.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1550017,
-      "title": "Sous la mousse",
-      "release_date": "2025-09-22",
+      "id": 1550449,
+      "title": "Redraft",
+      "release_date": "2025-09-23",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pzHNFtBwWDvVURb4kIubHZKh7pR.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eRl50OEkavaDjLXoKRsiPXcqgZM.jpg",
       "genres": [
         "триллер"
       ]
     },
     {
-      "id": 1549830,
-      "title": "Още един маниак",
-      "release_date": "2025-09-22",
+      "id": 1549624,
+      "title": "No Adams Allowed",
+      "release_date": "2025-09-23",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qOt0nSs7Z0sVOw6hP724zK2rwyO.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zi58itYJzNQ33koILinbKoDlAVj.jpg",
+      "genres": []
+    },
+    {
+      "id": 1549513,
+      "title": "A fire 9 kilometers away",
+      "release_date": "2025-09-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iCzMcXcZJIsRP99Fu5p5peXoNBd.jpg",
+      "genres": []
+    },
+    {
+      "id": 1548063,
+      "title": "Caminero O xeneral que intentou evitar unha guerra",
+      "release_date": "2025-09-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fJvJcV8J1L1D7jHxCQlonnIM5az.jpg",
+      "genres": [
+        "документальный",
+        "история"
+      ]
+    },
+    {
+      "id": 1548053,
+      "title": "Tiro porque me toca",
+      "release_date": "2025-09-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kaFzL6kkAUJifQTdDWdTatE1Pmm.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1547633,
+      "title": "El Padre Soñado",
+      "release_date": "2025-09-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/d5TJDSiKwsAH4cwxHeDVbYAQovT.jpg",
       "genres": [
         "драма",
-        "комедия"
+        "семейный"
       ]
     },
     {
-      "id": 1549344,
-      "title": "Quincy Jones - Music Man",
-      "release_date": "2025-09-22",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7lyYwv6TEGw8b6anM8qSml6CDJK.jpg",
-      "genres": [
-        "музыка",
-        "документальный"
-      ]
-    },
-    {
-      "id": 1549215,
-      "title": "Ev",
-      "release_date": "2025-09-22",
+      "id": 1547590,
+      "title": "Novas Raízes – Escolhas do Futuro",
+      "release_date": "2025-09-23",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zx6KKbQOYTeh7JXMrSeiGcIuXTD.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1548365,
-      "title": "Божиќни светилки",
-      "release_date": "2025-09-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kZaWdC4UAONCrdTXotUlRyMzIuH.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1548333,
-      "title": "Нова енергија",
-      "release_date": "2025-09-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oDoa8ojBRECVDg31e3ZYa8RfoJM.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1547839,
-      "title": "J'ai pas les codes : Les aventures inattendues du boulanger de Besançon",
-      "release_date": "2025-09-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iqRmGDN1TmO4hYEYKNjXe6LVu5I.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hzbDm8WGR8bytlG2QQpzoZteMrF.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1547490,
-      "title": "reXistence",
-      "release_date": "2025-09-22",
+      "id": 1547489,
+      "title": "Lo Sceneggiatore",
+      "release_date": "2025-09-23",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/acnkeiW3rCfT7itKaTXRiAm2jVE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/br5fq3KnOx7N9Av4wBHZM4CCRn2.jpg",
+      "genres": [
+        "криминал",
+        "драма"
+      ]
+    },
+    {
+      "id": 1547481,
+      "title": "#NoConsiento",
+      "release_date": "2025-09-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5glxv4muy3GRpahcE8bXhj5DIJh.jpg",
       "genres": [
         "документальный"
       ]

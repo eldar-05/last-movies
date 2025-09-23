@@ -1,0 +1,30 @@
+{
+  "id": 1550449,
+  "title": "Redraft",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-23",
+  "runtime": 20,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/eRl50OEkavaDjLXoKRsiPXcqgZM.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/sJQBHnZ3pjJCX44WKz2rXzrDWb5.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1550449",
+  "trailer": {
+    "key": "OzhUdjmtAts",
+    "name": "Redraft - Teaser Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-09-23T00:56:03.237630+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
