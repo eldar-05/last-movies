@@ -1,107 +1,98 @@
 {
-  "fetched_at_utc": "2025-09-23T18:18:28.623801+00:00",
+  "fetched_at_utc": "2025-09-24T00:56:52.420116+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1550970,
-      "title": "ਪਰਛਾਵੇਂ ਮੱਸਿਆ ਰਾਤਾਂ ਦੇ",
-      "release_date": "2025-09-23",
+      "id": 1551039,
+      "title": "untitled",
+      "release_date": "2025-09-24",
       "vote_average": 0.0,
       "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1550947,
+      "title": "Lieve Mercedes",
+      "release_date": "2025-09-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ssNzhbHw1HCLCVmIUT9OUI1IHH.jpg",
+      "genres": [
+        "музыка"
+      ]
+    },
+    {
+      "id": 1550906,
+      "title": "新年快乐莫德先生",
+      "release_date": "2025-09-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/c0wgrknzL6iSXeuWNyvXVcMstGb.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1550897,
-      "title": "Perfume ZO/Z5 Anniversary \"ネビュラロマンス\" Episode TOKYO DOME",
-      "release_date": "2025-09-23",
+      "id": 1550790,
+      "title": "Sisler Bulvarı'ndan Geçtim: Biket İlhan",
+      "release_date": "2025-09-24",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zx2mMJ4qCQuxWJJ2GIEuGcrFIxb.jpg",
-      "genres": [
-        "музыка",
-        "фантастика"
-      ]
-    },
-    {
-      "id": 1550735,
-      "title": "Distraia-se",
-      "release_date": "2025-09-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/40tiQZ1F17pThbpKEu66xNxtU8F.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1550449,
-      "title": "Redraft",
-      "release_date": "2025-09-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eRl50OEkavaDjLXoKRsiPXcqgZM.jpg",
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1549624,
-      "title": "No Adams Allowed",
-      "release_date": "2025-09-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zi58itYJzNQ33koILinbKoDlAVj.jpg",
-      "genres": []
-    },
-    {
-      "id": 1549513,
-      "title": "A fire 9 kilometers away",
-      "release_date": "2025-09-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iCzMcXcZJIsRP99Fu5p5peXoNBd.jpg",
-      "genres": []
-    },
-    {
-      "id": 1548063,
-      "title": "Caminero O xeneral que intentou evitar unha guerra",
-      "release_date": "2025-09-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fJvJcV8J1L1D7jHxCQlonnIM5az.jpg",
-      "genres": [
-        "документальный",
-        "история"
-      ]
-    },
-    {
-      "id": 1548053,
-      "title": "Tiro porque me toca",
-      "release_date": "2025-09-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kaFzL6kkAUJifQTdDWdTatE1Pmm.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qsbqzGN9OS2ZQjw8EdQnnaOPLXM.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1547633,
-      "title": "El Padre Soñado",
-      "release_date": "2025-09-23",
+      "id": 1550563,
+      "title": "Annemin Solgun Çiçekleri",
+      "release_date": "2025-09-24",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/d5TJDSiKwsAH4cwxHeDVbYAQovT.jpg",
-      "genres": [
-        "драма",
-        "семейный"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/tgFKic6G7gZP0wYp9KOSNn9KjvT.jpg",
+      "genres": []
     },
     {
-      "id": 1547590,
-      "title": "Novas Raízes – Escolhas do Futuro",
-      "release_date": "2025-09-23",
+      "id": 1550085,
+      "title": "El sueño imposible",
+      "release_date": "2025-09-24",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hzbDm8WGR8bytlG2QQpzoZteMrF.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/NJmty3ICgJ5K88cczU3nBvuuNa.jpg",
+      "genres": []
+    },
+    {
+      "id": 1550074,
+      "title": "Mala sangre",
+      "release_date": "2025-09-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/PCFCL33H1LUhBzjewv7iFZPOEn.jpg",
       "genres": [
         "документальный"
       ]
+    },
+    {
+      "id": 1550054,
+      "title": "Medea",
+      "release_date": "2025-09-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rcygBvF7RAVARoP9bjR7vrWK1Fv.jpg",
+      "genres": []
+    },
+    {
+      "id": 1550040,
+      "title": "Manuelita, ¿Dónde estás?",
+      "release_date": "2025-09-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/w3m2TxDxvRUKW3JLsJuOs2Wzbkt.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1550037,
+      "title": "La voz del deseo",
+      "release_date": "2025-09-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wvrfLXWhbxoHnt0S0dkEAR16iEi.jpg",
+      "genres": []
     }
   ],
   "source": "TMDB",

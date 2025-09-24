@@ -1,0 +1,24 @@
+{
+  "id": 1550054,
+  "title": "Medea",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-24",
+  "runtime": 78,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "AR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/rcygBvF7RAVARoP9bjR7vrWK1Fv.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1550054",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-24T00:56:52.041534+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
