@@ -1,97 +1,93 @@
 {
-  "fetched_at_utc": "2025-09-24T12:25:01.241962+00:00",
+  "fetched_at_utc": "2025-09-24T18:17:39.732494+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1551039,
-      "title": "The Tiger",
+      "id": 1551568,
+      "title": "The Historical Staircase",
+      "release_date": "2025-09-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xUCeKUdmNs2mC8xt17vdlr1rdDF.jpg",
+      "genres": [
+        "драма",
+        "ужасы",
+        "история"
+      ]
+    },
+    {
+      "id": 1551561,
+      "title": "Bai",
       "release_date": "2025-09-24",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1550947,
-      "title": "Lieve Mercedes",
+      "id": 1551555,
+      "title": "Bisa",
       "release_date": "2025-09-24",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ssNzhbHw1HCLCVmIUT9OUI1IHH.jpg",
-      "genres": [
-        "музыка"
-      ]
+      "poster_url": null,
+      "genres": []
     },
     {
-      "id": 1550906,
-      "title": "新年快乐莫德先生",
+      "id": 1551554,
+      "title": "Opportunity",
       "release_date": "2025-09-24",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/c0wgrknzL6iSXeuWNyvXVcMstGb.jpg",
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1551551,
+      "title": "Si Balong at Si Doro",
+      "release_date": "2025-09-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wXngzuWm5lYJj7RxzTU2aheYBe2.jpg",
+      "genres": []
+    },
+    {
+      "id": 1551550,
+      "title": "Большое Дерево Дает Приятную Тень",
+      "release_date": "2025-09-24",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1550790,
-      "title": "Sisler Bulvarı'ndan Geçtim: Biket İlhan",
+      "id": 1551549,
+      "title": "Rødder",
       "release_date": "2025-09-24",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qsbqzGN9OS2ZQjw8EdQnnaOPLXM.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1550563,
-      "title": "Annemin Solgun Çiçekleri",
-      "release_date": "2025-09-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tgFKic6G7gZP0wYp9KOSNn9KjvT.jpg",
+      "poster_url": null,
       "genres": []
     },
     {
-      "id": 1550085,
-      "title": "El sueño imposible",
+      "id": 1551546,
+      "title": "Heartbreak Hotel",
       "release_date": "2025-09-24",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/NJmty3ICgJ5K88cczU3nBvuuNa.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/31Ekf0FUkS05qcFPV8CuywV5323.jpg",
       "genres": []
     },
     {
-      "id": 1550074,
-      "title": "Mala sangre",
+      "id": 1551542,
+      "title": "Death by Stereoscopy!",
       "release_date": "2025-09-24",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/PCFCL33H1LUhBzjewv7iFZPOEn.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1550054,
-      "title": "Medea",
-      "release_date": "2025-09-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rcygBvF7RAVARoP9bjR7vrWK1Fv.jpg",
+      "poster_url": null,
       "genres": []
     },
     {
-      "id": 1550040,
-      "title": "Manuelita, ¿Dónde estás?",
+      "id": 1551536,
+      "title": "25 nuances de doc - Portrait d'un père désemparé",
       "release_date": "2025-09-24",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/w3m2TxDxvRUKW3JLsJuOs2Wzbkt.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1550037,
-      "title": "La voz del deseo",
-      "release_date": "2025-09-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wvrfLXWhbxoHnt0S0dkEAR16iEi.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/i60MxNpStozLTxYjgq9R6EFQFLi.jpg",
       "genres": []
     }
   ],
