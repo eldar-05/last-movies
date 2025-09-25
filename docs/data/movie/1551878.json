@@ -23,7 +23,11 @@
   "poster_url": "https://image.tmdb.org/t/p/w500/texx4C8OQesqLb80RTk2weAhWTN.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/rQM1Ynm2AERjw0QBJEfZbFYmkkU.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1551878",
-  "trailer": null,
-  "fetched_at_utc": "2025-09-25T06:19:11.185339+00:00",
+  "trailer": {
+    "key": "DMwK9ucc6-0",
+    "name": "Official Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-09-25T12:25:34.907738+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

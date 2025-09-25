@@ -1,9 +1,29 @@
 {
-  "fetched_at_utc": "2025-09-25T06:19:14.093763+00:00",
+  "fetched_at_utc": "2025-09-25T12:25:36.174173+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1552004,
+      "title": "愛．還記得",
+      "release_date": "2025-09-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lEht5y2eTZZ1nltpMT9mitXL4nn.jpg",
+      "genres": [
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1551939,
+      "title": "Les vrais chercheurs ne savent pas ce qu’ils cherchent",
+      "release_date": "2025-09-25",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1551878,
       "title": "Anorgasmia",
@@ -86,26 +106,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/ibyfPddI1vj4WPal4ZWkRZ1CFZm.jpg",
       "genres": [
         "драма"
-      ]
-    },
-    {
-      "id": 1550237,
-      "title": "Cello",
-      "release_date": "2025-09-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/grlCZp6IFgjYSc55eNV9kbLLm1S.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1549923,
-      "title": "歩く",
-      "release_date": "2025-09-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/or9FOyCajFxtUV5cv9lFNb1HeDl.jpg",
-      "genres": [
-        "документальный"
       ]
     }
   ],
