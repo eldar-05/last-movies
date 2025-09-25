@@ -1,0 +1,27 @@
+{
+  "id": 1551064,
+  "title": "El último anzuelo",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-25",
+  "runtime": 11,
+  "vote_average": 0.0,
+  "vote_count": 1,
+  "genres": [
+    "документальный",
+    "драма"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "AR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/6fancqU6d2OB9cJDmu02AhaBPSe.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/jFbfy0EWObtyTvTftRHXgjBoKaM.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1551064",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-25T00:57:09.111340+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

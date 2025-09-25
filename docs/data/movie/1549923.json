@@ -1,0 +1,26 @@
+{
+  "id": 1549923,
+  "title": "歩く",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-25",
+  "runtime": 105,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "ja",
+  "spoken_languages": [
+    "Japanese"
+  ],
+  "production_countries": [
+    "JP"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/or9FOyCajFxtUV5cv9lFNb1HeDl.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/jNUDCEBcbeJhny0ubbUpcI7lY8v.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1549923",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-25T00:57:10.226473+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1551878,
+  "title": "Anorgasmia",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-25",
+  "runtime": 93,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English",
+    "French"
+  ],
+  "production_countries": [
+    "IS",
+    "CZ",
+    "CA"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/texx4C8OQesqLb80RTk2weAhWTN.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/rQM1Ynm2AERjw0QBJEfZbFYmkkU.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1551878",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-25T00:57:08.478924+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

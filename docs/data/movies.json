@@ -1,94 +1,112 @@
 {
-  "fetched_at_utc": "2025-09-24T18:17:39.732494+00:00",
+  "fetched_at_utc": "2025-09-25T00:57:10.226876+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1551568,
-      "title": "The Historical Staircase",
-      "release_date": "2025-09-24",
+      "id": 1551878,
+      "title": "Anorgasmia",
+      "release_date": "2025-09-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xUCeKUdmNs2mC8xt17vdlr1rdDF.jpg",
-      "genres": [
-        "драма",
-        "ужасы",
-        "история"
-      ]
-    },
-    {
-      "id": 1551561,
-      "title": "Bai",
-      "release_date": "2025-09-24",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1551555,
-      "title": "Bisa",
-      "release_date": "2025-09-24",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1551554,
-      "title": "Opportunity",
-      "release_date": "2025-09-24",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1551551,
-      "title": "Si Balong at Si Doro",
-      "release_date": "2025-09-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wXngzuWm5lYJj7RxzTU2aheYBe2.jpg",
-      "genres": []
-    },
-    {
-      "id": 1551550,
-      "title": "Большое Дерево Дает Приятную Тень",
-      "release_date": "2025-09-24",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/texx4C8OQesqLb80RTk2weAhWTN.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1551549,
-      "title": "Rødder",
-      "release_date": "2025-09-24",
+      "id": 1551519,
+      "title": "Chips or Crackers",
+      "release_date": "2025-09-25",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/qDwInCoulsaIT0tJYaNNylQra7s.jpg",
+      "genres": [
+        "комедия"
+      ]
     },
     {
-      "id": 1551546,
-      "title": "Heartbreak Hotel",
-      "release_date": "2025-09-24",
+      "id": 1551449,
+      "title": "Skenario Kakak Pertama",
+      "release_date": "2025-09-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/31Ekf0FUkS05qcFPV8CuywV5323.jpg",
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/uhXr35f3SQNH6uAsrFwbsXwzmsS.jpg",
+      "genres": [
+        "криминал",
+        "драма"
+      ]
     },
     {
-      "id": 1551542,
-      "title": "Death by Stereoscopy!",
-      "release_date": "2025-09-24",
+      "id": 1551064,
+      "title": "El último anzuelo",
+      "release_date": "2025-09-25",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/6fancqU6d2OB9cJDmu02AhaBPSe.jpg",
+      "genres": [
+        "документальный",
+        "драма"
+      ]
     },
     {
-      "id": 1551536,
-      "title": "25 nuances de doc - Portrait d'un père désemparé",
-      "release_date": "2025-09-24",
+      "id": 1550834,
+      "title": "The Classless Election of Middlebridge High",
+      "release_date": "2025-09-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/i60MxNpStozLTxYjgq9R6EFQFLi.jpg",
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/c2BSYD9h6G6TkCBFOblZnnp4Wp7.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1550819,
+      "title": "寻棺",
+      "release_date": "2025-09-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yIPuTlTglDrvAIO9ocjSlJ3GjgG.jpg",
+      "genres": [
+        "боевик",
+        "приключения"
+      ]
+    },
+    {
+      "id": 1550390,
+      "title": "误入歧途",
+      "release_date": "2025-09-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nvFWN8T3tznOexpqo7Te1z1Pd0G.jpg",
+      "genres": [
+        "драма",
+        "криминал"
+      ]
+    },
+    {
+      "id": 1550331,
+      "title": "别别扭扭的邓沐兰",
+      "release_date": "2025-09-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ibyfPddI1vj4WPal4ZWkRZ1CFZm.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1550237,
+      "title": "Cello",
+      "release_date": "2025-09-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/grlCZp6IFgjYSc55eNV9kbLLm1S.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1549923,
+      "title": "歩く",
+      "release_date": "2025-09-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/or9FOyCajFxtUV5cv9lFNb1HeDl.jpg",
+      "genres": [
+        "документальный"
+      ]
     }
   ],
   "source": "TMDB",
