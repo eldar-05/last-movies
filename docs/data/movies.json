@@ -1,9 +1,27 @@
 {
-  "fetched_at_utc": "2025-09-26T06:18:35.952039+00:00",
+  "fetched_at_utc": "2025-09-26T12:24:23.940130+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1552473,
+      "title": "Hazel",
+      "release_date": "2025-09-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fugpHz554KK29kWPzl5Wu2k2Glf.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1552455,
+      "title": "隐武者：大破青龙会",
+      "release_date": "2025-09-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cOGFpgQ3voj2ez5CEgTFXRmhjQD.jpg",
+      "genres": []
+    },
     {
       "id": 1552117,
       "title": "Chalo Bulaava Aaya Hai",
@@ -34,6 +52,18 @@
       "genres": [
         "документальный",
         "драма"
+      ]
+    },
+    {
+      "id": 1551565,
+      "title": "Mafia",
+      "release_date": "2025-09-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/89iJhQWOVzcGy5ldIgZyT9YGegc.jpg",
+      "genres": [
+        "детектив",
+        "триллер",
+        "криминал"
       ]
     },
     {
@@ -75,32 +105,6 @@
         "триллер",
         "драма"
       ]
-    },
-    {
-      "id": 1551092,
-      "title": "(+33)",
-      "release_date": "2025-09-26",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1551032,
-      "title": "Succede in una notte",
-      "release_date": "2025-09-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3z5otPxWOMhD7hihnoQwbAKEXme.jpg",
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1551016,
-      "title": "Flores (III)",
-      "release_date": "2025-09-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tqktm46r3B3pPf48ATSG0f3ZiSa.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",
