@@ -1,112 +1,106 @@
 {
-  "fetched_at_utc": "2025-09-25T18:18:47.202445+00:00",
+  "fetched_at_utc": "2025-09-26T00:56:34.546802+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1552004,
-      "title": "愛．還記得",
-      "release_date": "2025-09-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lEht5y2eTZZ1nltpMT9mitXL4nn.jpg",
-      "genres": [
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1551939,
-      "title": "Les vrais chercheurs ne savent pas ce qu’ils cherchent",
-      "release_date": "2025-09-25",
+      "id": 1552117,
+      "title": "Chalo Bulaava Aaya Hai",
+      "release_date": "2025-09-26",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "документальный"
+        "драма",
+        "семейный"
       ]
     },
     {
-      "id": 1551878,
-      "title": "Anorgasmia",
-      "release_date": "2025-09-25",
+      "id": 1552010,
+      "title": "The Stars Are Fading Away",
+      "release_date": "2025-09-26",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/texx4C8OQesqLb80RTk2weAhWTN.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kkkTlbI6fI6uiLlOREgDTdVAnOi.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1551519,
-      "title": "Chips or Crackers",
-      "release_date": "2025-09-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qDwInCoulsaIT0tJYaNNylQra7s.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1551449,
-      "title": "Skenario Kakak Pertama",
-      "release_date": "2025-09-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uhXr35f3SQNH6uAsrFwbsXwzmsS.jpg",
-      "genres": [
-        "криминал",
-        "драма"
-      ]
-    },
-    {
-      "id": 1551064,
-      "title": "El último anzuelo",
-      "release_date": "2025-09-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6fancqU6d2OB9cJDmu02AhaBPSe.jpg",
+      "id": 1551942,
+      "title": "La Voz de la Barranca",
+      "release_date": "2025-09-26",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4Evj3wgRblCSLhvgKMjJk0tsosp.jpg",
       "genres": [
         "документальный",
         "драма"
       ]
     },
     {
-      "id": 1550834,
-      "title": "The Classless Election of Middlebridge High",
-      "release_date": "2025-09-25",
+      "id": 1551529,
+      "title": "TRIPLE UGROL",
+      "release_date": "2025-09-26",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/c2BSYD9h6G6TkCBFOblZnnp4Wp7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/os3YGwanwKt2NOTxTOD9qrVJ6n1.jpg",
+      "genres": []
+    },
+    {
+      "id": 1551316,
+      "title": "Three Dates",
+      "release_date": "2025-09-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/h93wwAhETNyFphhKrXhKrXz0Z9q.jpg",
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1551198,
+      "title": "Eric Rushton: Real One",
+      "release_date": "2025-09-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1S9JkbnlSZz1GRzJ40z13DEgBWL.jpg",
       "genres": [
         "комедия"
       ]
     },
     {
-      "id": 1550819,
-      "title": "寻棺",
-      "release_date": "2025-09-25",
+      "id": 1551138,
+      "title": "Right",
+      "release_date": "2025-09-26",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yIPuTlTglDrvAIO9ocjSlJ3GjgG.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yA3g7UZeYkku6kfmrbikZ745PTQ.jpg",
       "genres": [
-        "боевик",
-        "приключения"
-      ]
-    },
-    {
-      "id": 1550390,
-      "title": "误入歧途",
-      "release_date": "2025-09-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nvFWN8T3tznOexpqo7Te1z1Pd0G.jpg",
-      "genres": [
-        "драма",
-        "криминал"
-      ]
-    },
-    {
-      "id": 1550331,
-      "title": "别别扭扭的邓沐兰",
-      "release_date": "2025-09-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ibyfPddI1vj4WPal4ZWkRZ1CFZm.jpg",
-      "genres": [
+        "триллер",
         "драма"
       ]
+    },
+    {
+      "id": 1551092,
+      "title": "(+33)",
+      "release_date": "2025-09-26",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1551032,
+      "title": "Succede in una notte",
+      "release_date": "2025-09-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3z5otPxWOMhD7hihnoQwbAKEXme.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1551016,
+      "title": "Flores (III)",
+      "release_date": "2025-09-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tqktm46r3B3pPf48ATSG0f3ZiSa.jpg",
+      "genres": []
     }
   ],
   "source": "TMDB",

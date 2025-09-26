@@ -1,0 +1,27 @@
+{
+  "id": 1551138,
+  "title": "Right",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-26",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "драма"
+  ],
+  "original_language": "ta",
+  "spoken_languages": [
+    "Tamil"
+  ],
+  "production_countries": [
+    "IN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/yA3g7UZeYkku6kfmrbikZ745PTQ.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/8BhdR1eqbIO6RxIg2EN279EK9BR.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1551138",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-26T00:56:33.355997+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
