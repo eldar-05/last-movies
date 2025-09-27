@@ -4,19 +4,24 @@
   "tagline": "",
   "overview": "",
   "release_date": "2025-09-27",
-  "runtime": 0,
+  "runtime": 206,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "боевик",
+    "драма"
+  ],
   "original_language": "ja",
   "spoken_languages": [
     "Japanese"
   ],
-  "production_countries": [],
+  "production_countries": [
+    "JP"
+  ],
   "poster_url": "https://image.tmdb.org/t/p/w500/mh5PSXiKQ9a1o95S4M2tNa8LAuj.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/8Pj8G1ZjCvEAJ1iBjRJZ85HIvhy.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1552857",
   "trailer": null,
-  "fetched_at_utc": "2025-09-27T12:21:18.817312+00:00",
+  "fetched_at_utc": "2025-09-27T18:15:25.074026+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

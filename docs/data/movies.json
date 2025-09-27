@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-09-27T12:21:20.338703+00:00",
+  "fetched_at_utc": "2025-09-27T18:15:28.071244+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -40,7 +40,7 @@
       "title": "Burning in Galena Manor",
       "release_date": "2025-09-27",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9Y0cJuF1apGE3PyySvPQKev26AP.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dlgUPtg45EWSjVWUwfUTpRgjWY9.jpg",
       "genres": [
         "документальный"
       ]
@@ -94,7 +94,7 @@
       "title": "Those who Choose the Sea",
       "release_date": "2025-09-27",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ymE8kQWRChn2nM5WuRM2Vqz7KNY.jpg",
       "genres": [
         "документальный"
       ]
