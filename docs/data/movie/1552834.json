@@ -1,0 +1,30 @@
+{
+  "id": 1552834,
+  "title": "BLUE",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-27",
+  "runtime": 12,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "мелодрама",
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/ueuMVbIc2Umidppim46wlu5bpnh.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1552834",
+  "trailer": {
+    "key": "VuU5lmna1hE",
+    "name": "BLUE - Short Film Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-09-27T00:54:44.905680+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

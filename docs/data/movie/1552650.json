@@ -1,0 +1,32 @@
+{
+  "id": 1552650,
+  "title": "LA FAMILLE MANJPOT",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-27",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "детектив",
+    "криминал",
+    "ужасы",
+    "история",
+    "фэнтези",
+    "комедия"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/7UIHJUSiVECNcrqCXNlPgXXuTGp.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/p9oXDuXVU1DzWLgOzdQwgLvqPQR.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1552650",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-27T00:54:46.350579+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

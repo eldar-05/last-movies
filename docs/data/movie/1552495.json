@@ -1,0 +1,24 @@
+{
+  "id": 1552495,
+  "title": "The Ozard",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-27",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "nl",
+  "spoken_languages": [
+    "Dutch"
+  ],
+  "production_countries": [
+    "NL"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/A9PEvIM5eGMpn76lQxpcyUrr76z.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/eMdKZyZHz5W5gZCf47IZX8bDfAy.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1552495",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-27T00:54:46.793707+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
