@@ -1,0 +1,26 @@
+{
+  "id": 1551581,
+  "title": "Heem",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-28",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "криминал",
+    "драма",
+    "фантастика"
+  ],
+  "original_language": "nl",
+  "spoken_languages": [
+    "Dutch"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/kWUW8j3YSexHa8kTeQjyW7Pm6Dn.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/9F0Fl9Yt8UuIBSWyvw8LLAeWcza.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1551581",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-28T01:03:03.640084+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

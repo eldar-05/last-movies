@@ -1,54 +1,64 @@
 {
-  "fetched_at_utc": "2025-09-27T18:15:28.071244+00:00",
+  "fetched_at_utc": "2025-09-28T01:03:05.654115+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1552857,
-      "title": "STARDOM in KORAKUEN 2025 Sep.",
-      "release_date": "2025-09-27",
+      "id": 1552449,
+      "title": "Jean-Pierre Elkabbach, autoportrait de mon père",
+      "release_date": "2025-09-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mh5PSXiKQ9a1o95S4M2tNa8LAuj.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ttT30dVz2WMOecMzkISCNyxqFOt.jpg",
+      "genres": [
+        "документальный",
+        "телевизионный фильм"
+      ]
+    },
+    {
+      "id": 1551622,
+      "title": "부서진 여자",
+      "release_date": "2025-09-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oEnq70kNgPfsnXOsFmybmSZXSSt.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1551606,
+      "title": "고도: 기다리는 사람들",
+      "release_date": "2025-09-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bMxknS4jlNq8LC6D4mOYfO6z5Ej.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1551581,
+      "title": "Heem",
+      "release_date": "2025-09-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kWUW8j3YSexHa8kTeQjyW7Pm6Dn.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "фантастика"
+      ]
+    },
+    {
+      "id": 1551559,
+      "title": "Téléphone",
+      "release_date": "2025-09-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/77k4aOYqcSreVqbCnV1Xsn9RsXZ.jpg",
       "genres": []
     },
     {
-      "id": 1552838,
-      "title": "Thank You for Your Time",
-      "release_date": "2025-09-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wOr76sVG1QI02gXQ9QwXJf5iPTP.jpg",
-      "genres": [
-        "драма",
-        "криминал"
-      ]
-    },
-    {
-      "id": 1552834,
-      "title": "BLUE",
-      "release_date": "2025-09-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ueuMVbIc2Umidppim46wlu5bpnh.jpg",
-      "genres": [
-        "драма",
-        "мелодрама",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1552737,
-      "title": "Burning in Galena Manor",
-      "release_date": "2025-09-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dlgUPtg45EWSjVWUwfUTpRgjWY9.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1552730,
-      "title": "Shades",
-      "release_date": "2025-09-27",
+      "id": 1551184,
+      "title": "The Disappearance of Jay Slater",
+      "release_date": "2025-09-28",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
@@ -56,56 +66,40 @@
       ]
     },
     {
-      "id": 1552725,
-      "title": "Mahammoud's Mercedes",
-      "release_date": "2025-09-27",
+      "id": 1550824,
+      "title": "Letters After Rain",
+      "release_date": "2025-09-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2qB3DO7MAqGPfsdvfRqkPDp9zuQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/quuJz05wm8E4ET0T9uhLglqTqZt.jpg",
       "genres": [
-        "документальный"
+        "драма"
       ]
     },
     {
-      "id": 1552650,
-      "title": "LA FAMILLE MANJPOT",
-      "release_date": "2025-09-27",
+      "id": 1550721,
+      "title": "Our Mr. Matsura",
+      "release_date": "2025-09-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7UIHJUSiVECNcrqCXNlPgXXuTGp.jpg",
-      "genres": [
-        "триллер",
-        "детектив",
-        "криминал",
-        "ужасы",
-        "история",
-        "фэнтези",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1552495,
-      "title": "The Ozard",
-      "release_date": "2025-09-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/A9PEvIM5eGMpn76lQxpcyUrr76z.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rDlkDEFagzOUloAs6vRNejmT6xa.jpg",
       "genres": []
     },
     {
-      "id": 1552464,
-      "title": "Those who Choose the Sea",
-      "release_date": "2025-09-27",
+      "id": 1550157,
+      "title": "For Small Creatures",
+      "release_date": "2025-09-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ymE8kQWRChn2nM5WuRM2Vqz7KNY.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nUgZpAg2AR8QzffIorFgzfm2fU3.jpg",
+      "genres": []
+    },
+    {
+      "id": 1549735,
+      "title": "Пока течёт река",
+      "release_date": "2025-09-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wrg1GBj9mQQDww2evr8zWeReerx.jpg",
       "genres": [
         "документальный"
       ]
-    },
-    {
-      "id": 1552430,
-      "title": "The Big Bear Move",
-      "release_date": "2025-09-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rdcAylbfJIjySGcxtfC9pNA5E6z.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",
