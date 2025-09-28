@@ -1,18 +1,46 @@
 {
-  "fetched_at_utc": "2025-09-28T06:16:58.225684+00:00",
+  "fetched_at_utc": "2025-09-28T12:21:37.584789+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1553493,
+      "title": "A Father's Gift",
+      "release_date": "2025-09-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oqQTmcgh1RRhyAQiqQTmtOpEQAf.jpg",
+      "genres": [
+        "драма",
+        "семейный"
+      ]
+    },
+    {
+      "id": 1553482,
+      "title": "Slice of Life",
+      "release_date": "2025-09-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jdl33pNDjlgr4B9Oz3AM5mcnlMH.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1553415,
+      "title": "I Look Like Nicolas Cage",
+      "release_date": "2025-09-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bOVcw7Mgz7bLXbHslGtPDBFQUhc.jpg",
+      "genres": []
+    },
+    {
       "id": 1552449,
       "title": "Jean-Pierre Elkabbach, autoportrait de mon père",
       "release_date": "2025-09-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ttT30dVz2WMOecMzkISCNyxqFOt.jpg",
+      "vote_average": 8.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8XUd52eUp2GoisJttEwm7op3FLm.jpg",
       "genres": [
-        "документальный",
-        "телевизионный фильм"
+        "документальный"
       ]
     },
     {
@@ -73,32 +101,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/quuJz05wm8E4ET0T9uhLglqTqZt.jpg",
       "genres": [
         "драма"
-      ]
-    },
-    {
-      "id": 1550721,
-      "title": "Our Mr. Matsura",
-      "release_date": "2025-09-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rDlkDEFagzOUloAs6vRNejmT6xa.jpg",
-      "genres": []
-    },
-    {
-      "id": 1550157,
-      "title": "For Small Creatures",
-      "release_date": "2025-09-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nUgZpAg2AR8QzffIorFgzfm2fU3.jpg",
-      "genres": []
-    },
-    {
-      "id": 1549735,
-      "title": "Пока течёт река",
-      "release_date": "2025-09-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wrg1GBj9mQQDww2evr8zWeReerx.jpg",
-      "genres": [
-        "документальный"
       ]
     }
   ],

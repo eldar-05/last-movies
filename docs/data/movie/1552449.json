@@ -5,11 +5,10 @@
   "overview": "",
   "release_date": "2025-09-28",
   "runtime": 0,
-  "vote_average": 0.0,
-  "vote_count": 0,
+  "vote_average": 8.0,
+  "vote_count": 1,
   "genres": [
-    "документальный",
-    "телевизионный фильм"
+    "документальный"
   ],
   "original_language": "fr",
   "spoken_languages": [
@@ -18,10 +17,10 @@
   "production_countries": [
     "FR"
   ],
-  "poster_url": "https://image.tmdb.org/t/p/w500/ttT30dVz2WMOecMzkISCNyxqFOt.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/8XUd52eUp2GoisJttEwm7op3FLm.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/fhw95FQ70lNCKWGbPxKsy015BwS.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1552449",
   "trailer": null,
-  "fetched_at_utc": "2025-09-28T06:16:55.648391+00:00",
+  "fetched_at_utc": "2025-09-28T12:21:36.462183+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
