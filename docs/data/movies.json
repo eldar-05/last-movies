@@ -1,9 +1,41 @@
 {
-  "fetched_at_utc": "2025-09-29T06:20:40.015540+00:00",
+  "fetched_at_utc": "2025-09-29T12:25:40.411664+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1553981,
+      "title": "In the Mind of Sodz: The Making of the Sodz Show",
+      "release_date": "2025-09-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/r7KBNVDSpR7PvinG3CxqXzQ8w08.jpg",
+      "genres": [
+        "документальный",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1553475,
+      "title": "Besta",
+      "release_date": "2025-09-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bOXodYndf5wPXloIKyzIEMOnHnU.jpg",
+      "genres": [
+        "фэнтези",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1553466,
+      "title": "Apt. 204, Rua Machado - Sion, Notícias de Mère das 8 às 13",
+      "release_date": "2025-09-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kXGdpZGyFfCzyS3IU8w5R8BnWOo.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1552428,
       "title": "Closing Time",
@@ -71,39 +103,6 @@
       "release_date": "2025-09-29",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/cNv6KJOFKEZjNFDkSN9rxgA82uT.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1544048,
-      "title": "Zutaten fürs Glück",
-      "release_date": "2025-09-29",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "телевизионный фильм",
-        "драма",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1544039,
-      "title": "I Am the Greatest",
-      "release_date": "2025-09-29",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мелодрама",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1544020,
-      "title": "So oder so ist das Leben – Hildegard Knef",
-      "release_date": "2025-09-29",
-      "vote_average": 0.0,
-      "poster_url": null,
       "genres": [
         "документальный"
       ]
