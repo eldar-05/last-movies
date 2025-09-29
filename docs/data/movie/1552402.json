@@ -1,0 +1,29 @@
+{
+  "id": 1552402,
+  "title": "The Tour Before the Tour: The Documentary",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-29",
+  "runtime": 37,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "музыка"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/lknLKqwhzimlCFfmFLq5brq3udO.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1552402",
+  "trailer": {
+    "key": "EOx1xAILtyU",
+    "name": "The Band CAMINO - The Tour Before the Tour - Full Documentary",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-09-29T00:58:31.159075+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

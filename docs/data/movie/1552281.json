@@ -1,0 +1,26 @@
+{
+  "id": 1552281,
+  "title": "El olvido",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-29",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/6uMnd4d2elbkWvE4NMmDLGyoXMj.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/cWWfEBeakDAkG0zdLdEyefvVNz7.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1552281",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-29T00:58:31.759004+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

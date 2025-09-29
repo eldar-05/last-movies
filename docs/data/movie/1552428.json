@@ -1,0 +1,28 @@
+{
+  "id": 1552428,
+  "title": "Closing Time",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-29",
+  "runtime": 20,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/gnaN1TVH6PQVoenPggiFE3iG6Jo.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/wiwqYoYQ7I9mHOAoJ5QWvpC5bbG.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1552428",
+  "trailer": {
+    "key": "w42Qx6gXUQc",
+    "name": "Closing Time (OFFICIAL TRAILER)",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-09-29T00:58:31.035287+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

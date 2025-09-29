@@ -1,0 +1,27 @@
+{
+  "id": 1544039,
+  "title": "I Am the Greatest",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-29",
+  "runtime": 96,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мелодрама",
+    "комедия"
+  ],
+  "original_language": "de",
+  "spoken_languages": [
+    "German"
+  ],
+  "production_countries": [
+    "DE"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1544039",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-29T00:58:32.465594+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

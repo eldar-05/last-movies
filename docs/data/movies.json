@@ -1,106 +1,111 @@
 {
-  "fetched_at_utc": "2025-09-28T18:15:21.600389+00:00",
+  "fetched_at_utc": "2025-09-29T00:58:32.669470+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1553493,
-      "title": "A Father's Gift",
-      "release_date": "2025-09-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oqQTmcgh1RRhyAQiqQTmtOpEQAf.jpg",
+      "id": 1552428,
+      "title": "Closing Time",
+      "release_date": "2025-09-29",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gnaN1TVH6PQVoenPggiFE3iG6Jo.jpg",
       "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1552402,
+      "title": "The Tour Before the Tour: The Documentary",
+      "release_date": "2025-09-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lknLKqwhzimlCFfmFLq5brq3udO.jpg",
+      "genres": [
+        "документальный",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1552333,
+      "title": "O segredo do Fulión",
+      "release_date": "2025-09-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/25VY2whe3pGC2wzc2bic6KQzrQA.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1552286,
+      "title": "Nuno",
+      "release_date": "2025-09-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iBCipkeSssva88XdEovg2ZfocnJ.jpg",
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1552281,
+      "title": "El olvido",
+      "release_date": "2025-09-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6uMnd4d2elbkWvE4NMmDLGyoXMj.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1549557,
+      "title": "Een goede moeder",
+      "release_date": "2025-09-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xk7pOCOdugIV3pU2Q0Vb0u1cXGs.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1547274,
+      "title": "Un viaggio per incontrare Mimì",
+      "release_date": "2025-09-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cNv6KJOFKEZjNFDkSN9rxgA82uT.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1544048,
+      "title": "Zutaten fürs Glück",
+      "release_date": "2025-09-29",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "телевизионный фильм",
         "драма",
         "семейный"
       ]
     },
     {
-      "id": 1553482,
-      "title": "Slice of Life",
-      "release_date": "2025-09-28",
+      "id": 1544039,
+      "title": "I Am the Greatest",
+      "release_date": "2025-09-29",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jdl33pNDjlgr4B9Oz3AM5mcnlMH.jpg",
+      "poster_url": null,
       "genres": [
-        "документальный"
+        "мелодрама",
+        "комедия"
       ]
     },
     {
-      "id": 1553415,
-      "title": "I Look Like Nicolas Cage",
-      "release_date": "2025-09-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bOVcw7Mgz7bLXbHslGtPDBFQUhc.jpg",
-      "genres": []
-    },
-    {
-      "id": 1552449,
-      "title": "Jean-Pierre Elkabbach, autoportrait de mon père",
-      "release_date": "2025-09-28",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8XUd52eUp2GoisJttEwm7op3FLm.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1551622,
-      "title": "부서진 여자",
-      "release_date": "2025-09-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oEnq70kNgPfsnXOsFmybmSZXSSt.jpg",
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1551606,
-      "title": "고도: 기다리는 사람들",
-      "release_date": "2025-09-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bMxknS4jlNq8LC6D4mOYfO6z5Ej.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1551581,
-      "title": "Heem",
-      "release_date": "2025-09-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kWUW8j3YSexHa8kTeQjyW7Pm6Dn.jpg",
-      "genres": [
-        "криминал",
-        "драма",
-        "фантастика"
-      ]
-    },
-    {
-      "id": 1551559,
-      "title": "Téléphone",
-      "release_date": "2025-09-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/77k4aOYqcSreVqbCnV1Xsn9RsXZ.jpg",
-      "genres": []
-    },
-    {
-      "id": 1551184,
-      "title": "The Disappearance of Jay Slater",
-      "release_date": "2025-09-28",
+      "id": 1544020,
+      "title": "So oder so ist das Leben – Hildegard Knef",
+      "release_date": "2025-09-29",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1550824,
-      "title": "Letters After Rain",
-      "release_date": "2025-09-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/quuJz05wm8E4ET0T9uhLglqTqZt.jpg",
-      "genres": [
-        "драма"
       ]
     }
   ],
