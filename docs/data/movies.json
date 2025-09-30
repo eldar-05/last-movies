@@ -1,9 +1,29 @@
 {
-  "fetched_at_utc": "2025-09-30T06:19:16.933670+00:00",
+  "fetched_at_utc": "2025-09-30T12:25:43.280140+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1554753,
+      "title": "El taller de Ruanda",
+      "release_date": "2025-09-30",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1554584,
+      "title": "Faladoiro + Mister",
+      "release_date": "2025-09-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rDHRGWCvu77n5jAzcjpF05Dwbfa.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1554322,
       "title": "Deservoir Rogs",
@@ -81,24 +101,6 @@
       "genres": [
         "комедия",
         "драма"
-      ]
-    },
-    {
-      "id": 1551886,
-      "title": "Jael Drives the Nail",
-      "release_date": "2025-09-30",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1551396,
-      "title": "I See You Lyla",
-      "release_date": "2025-09-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5SHiO2wJw1CvEfiVfaWMhqAdPft.jpg",
-      "genres": [
-        "ужасы"
       ]
     }
   ],

@@ -1,27 +1,27 @@
 {
-  "id": 1554249,
-  "title": "Мушля",
+  "id": 1554753,
+  "title": "El taller de Ruanda",
   "tagline": "",
   "overview": "",
   "release_date": "2025-09-30",
-  "runtime": 12,
+  "runtime": 16,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
     "документальный"
   ],
-  "original_language": "ka",
+  "original_language": "es",
   "spoken_languages": [
-    "Georgian",
-    "Russian"
+    "French"
   ],
   "production_countries": [
-    "GE"
+    "ES",
+    "RW"
   ],
-  "poster_url": "https://image.tmdb.org/t/p/w500/9ioUpB867ESDWWUbGcK1SzlFkOd.jpg",
+  "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1554249",
+  "tmdb_url": "https://www.themoviedb.org/movie/1554753",
   "trailer": null,
-  "fetched_at_utc": "2025-09-30T12:25:42.136073+00:00",
+  "fetched_at_utc": "2025-09-30T12:25:41.548374+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
