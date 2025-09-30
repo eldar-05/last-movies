@@ -1,110 +1,104 @@
 {
-  "fetched_at_utc": "2025-09-29T18:18:39.438465+00:00",
+  "fetched_at_utc": "2025-09-30T00:57:34.193214+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1553981,
-      "title": "In the Mind of Sodz: The Making of the Sodz Show",
-      "release_date": "2025-09-29",
+      "id": 1554322,
+      "title": "Deservoir Rogs",
+      "release_date": "2025-09-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/r7KBNVDSpR7PvinG3CxqXzQ8w08.jpg",
-      "genres": [
-        "документальный",
-        "комедия"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/wpR9WwXQyDkm2ZvwOPRAZ8rmh8m.jpg",
+      "genres": []
     },
     {
-      "id": 1553475,
-      "title": "Besta",
-      "release_date": "2025-09-29",
+      "id": 1554249,
+      "title": "Мушля",
+      "release_date": "2025-09-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bOXodYndf5wPXloIKyzIEMOnHnU.jpg",
-      "genres": [
-        "фэнтези",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1553466,
-      "title": "Apt. 204, Rua Machado - Sion, Notícias de Mère das 8 às 13",
-      "release_date": "2025-09-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kXGdpZGyFfCzyS3IU8w5R8BnWOo.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9ioUpB867ESDWWUbGcK1SzlFkOd.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1552428,
-      "title": "Closing Time",
-      "release_date": "2025-09-29",
+      "id": 1554241,
+      "title": "Де дім українців?",
+      "release_date": "2025-09-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6tkHls5J4ZL2vFZAfktjf3x3qvQ.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1554238,
+      "title": "Jātnieka balss",
+      "release_date": "2025-09-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oKQlY9l6C3kmR6Vd3TqfVARyFUv.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1553909,
+      "title": "Ningún deseo sin mar",
+      "release_date": "2025-09-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aRqaFCfS1fQi8gzocvWAVdcSvKT.jpg",
+      "genres": []
+    },
+    {
+      "id": 1552494,
+      "title": "Vandu",
+      "release_date": "2025-09-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/otcva6P29dLz5lK2f32APhO6NAZ.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1552318,
+      "title": "Can't Kill A Cowboy",
+      "release_date": "2025-09-30",
       "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gnaN1TVH6PQVoenPggiFE3iG6Jo.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tynpsy7rVrwrWYXyDOAf8WZcuDP.jpg",
       "genres": [
+        "комедия",
+        "драма",
+        "вестерн"
+      ]
+    },
+    {
+      "id": 1552089,
+      "title": "Bachelors Handbag",
+      "release_date": "2025-09-30",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/n02RNVQ3TkJpSXxoo57llQqfFc8.jpg",
+      "genres": [
+        "комедия",
         "драма"
       ]
     },
     {
-      "id": 1552402,
-      "title": "The Tour Before the Tour: The Documentary",
-      "release_date": "2025-09-29",
+      "id": 1551886,
+      "title": "Jael Drives the Nail",
+      "release_date": "2025-09-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lknLKqwhzimlCFfmFLq5brq3udO.jpg",
-      "genres": [
-        "документальный",
-        "музыка"
-      ]
+      "poster_url": null,
+      "genres": []
     },
     {
-      "id": 1552333,
-      "title": "O segredo do Fulión",
-      "release_date": "2025-09-29",
+      "id": 1551396,
+      "title": "I See You Lyla",
+      "release_date": "2025-09-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/25VY2whe3pGC2wzc2bic6KQzrQA.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5SHiO2wJw1CvEfiVfaWMhqAdPft.jpg",
       "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1552286,
-      "title": "Nuno",
-      "release_date": "2025-09-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iBCipkeSssva88XdEovg2ZfocnJ.jpg",
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1552281,
-      "title": "El olvido",
-      "release_date": "2025-09-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6uMnd4d2elbkWvE4NMmDLGyoXMj.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1549557,
-      "title": "Een goede moeder",
-      "release_date": "2025-09-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xk7pOCOdugIV3pU2Q0Vb0u1cXGs.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1547274,
-      "title": "Un viaggio per incontrare Mimì",
-      "release_date": "2025-09-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cNv6KJOFKEZjNFDkSN9rxgA82uT.jpg",
-      "genres": [
-        "документальный"
+        "ужасы"
       ]
     }
   ],

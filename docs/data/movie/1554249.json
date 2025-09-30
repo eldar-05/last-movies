@@ -1,0 +1,27 @@
+{
+  "id": 1554249,
+  "title": "Мушля",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-09-30",
+  "runtime": 12,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "ka",
+  "spoken_languages": [
+    "Georgian",
+    "Russian"
+  ],
+  "production_countries": [
+    "GE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/9ioUpB867ESDWWUbGcK1SzlFkOd.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1554249",
+  "trailer": null,
+  "fetched_at_utc": "2025-09-30T00:57:32.771029+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
