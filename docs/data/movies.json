@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-10-01T01:03:53.174090+00:00",
+  "fetched_at_utc": "2025-10-01T06:18:44.117152+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -42,7 +42,7 @@
       "title": "Marilag",
       "release_date": "2025-10-01",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/coPbH1fgtjbzKLOIR8IXx5N8VMV.jpg",
       "genres": [
         "ужасы"
       ]
