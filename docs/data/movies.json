@@ -1,9 +1,30 @@
 {
-  "fetched_at_utc": "2025-10-01T06:18:44.117152+00:00",
+  "fetched_at_utc": "2025-10-01T12:26:14.343111+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1555299,
+      "title": "Revenge of the Ghoul Log",
+      "release_date": "2025-10-01",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1555275,
+      "title": "Døden i paradis",
+      "release_date": "2025-10-01",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yqJ6VSY7Ej1A2AVqRegDiWmYAW1.jpg",
+      "genres": [
+        "документальный",
+        "криминал"
+      ]
+    },
     {
       "id": 1555034,
       "title": "Jeremiah's Return",
@@ -91,27 +112,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/o7N4Ezw2ndvOiIMkqFxxEN0DOkZ.jpg",
       "genres": [
         "драма"
-      ]
-    },
-    {
-      "id": 1553989,
-      "title": "名字: 摧毀與重塑 (嘗試)",
-      "release_date": "2025-10-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8jiAwNIzzEvXGJfSY0xh2cxnEIZ.jpg",
-      "genres": [
-        "драма",
-        "документальный"
-      ]
-    },
-    {
-      "id": 1553950,
-      "title": "TUMBLEWEED",
-      "release_date": "2025-10-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xeW3sihRe229ITgISGaVOeulnXk.jpg",
-      "genres": [
-        "мультфильм"
       ]
     }
   ],

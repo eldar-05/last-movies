@@ -1,0 +1,25 @@
+{
+  "id": 1555275,
+  "title": "Døden i paradis",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-01",
+  "runtime": 0,
+  "vote_average": 10.0,
+  "vote_count": 2,
+  "genres": [
+    "документальный",
+    "криминал"
+  ],
+  "original_language": "da",
+  "spoken_languages": [],
+  "production_countries": [
+    "DK"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/yqJ6VSY7Ej1A2AVqRegDiWmYAW1.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/pmFLME0JhMfSpROgVjKI3MtzobR.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1555275",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-01T12:26:11.625719+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
