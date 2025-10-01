@@ -1,0 +1,24 @@
+{
+  "id": 1554999,
+  "title": "S.O.S",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-01",
+  "runtime": 1,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "детектив",
+    "мелодрама"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/y2iNdmeXkCVXfs1PAutIzq42J4z.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/o24OqqbPa15LgXHv9toHKodf7Nt.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1554999",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-01T01:03:50.686579+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

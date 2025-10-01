@@ -1,106 +1,117 @@
 {
-  "fetched_at_utc": "2025-09-30T18:17:16.269881+00:00",
+  "fetched_at_utc": "2025-10-01T01:03:53.174090+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1554753,
-      "title": "El taller de Ruanda",
-      "release_date": "2025-09-30",
+      "id": 1555034,
+      "title": "Jeremiah's Return",
+      "release_date": "2025-10-01",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/n7AfenH2bMDCTgP6aTLf4Oqsoa2.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vNIVdYcJCqgxSKYfRPi6LUDWTeU.jpg",
       "genres": [
+        "комедия",
         "документальный"
       ]
     },
     {
-      "id": 1554584,
-      "title": "Faladoiro + Mister",
-      "release_date": "2025-09-30",
+      "id": 1555016,
+      "title": "Kauns tevi pazīt",
+      "release_date": "2025-10-01",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rDHRGWCvu77n5jAzcjpF05Dwbfa.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bfVlpPzP4ZsdmotK0Rf7dL6XakH.jpg",
       "genres": [
-        "документальный"
+        "комедия"
       ]
     },
     {
-      "id": 1554322,
-      "title": "Deservoir Rogs",
-      "release_date": "2025-09-30",
+      "id": 1554999,
+      "title": "S.O.S",
+      "release_date": "2025-10-01",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wpR9WwXQyDkm2ZvwOPRAZ8rmh8m.jpg",
-      "genres": []
-    },
-    {
-      "id": 1554249,
-      "title": "Мушля",
-      "release_date": "2025-09-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9ioUpB867ESDWWUbGcK1SzlFkOd.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/y2iNdmeXkCVXfs1PAutIzq42J4z.jpg",
       "genres": [
-        "документальный"
+        "триллер",
+        "детектив",
+        "мелодрама"
       ]
     },
     {
-      "id": 1554241,
-      "title": "Де дім українців?",
-      "release_date": "2025-09-30",
+      "id": 1554955,
+      "title": "Marilag",
+      "release_date": "2025-10-01",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6tkHls5J4ZL2vFZAfktjf3x3qvQ.jpg",
+      "poster_url": null,
       "genres": [
-        "документальный"
+        "ужасы"
       ]
     },
     {
-      "id": 1554238,
-      "title": "Jātnieka balss",
-      "release_date": "2025-09-30",
+      "id": 1554868,
+      "title": "The Last BeerGin",
+      "release_date": "2025-10-01",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oKQlY9l6C3kmR6Vd3TqfVARyFUv.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1553909,
-      "title": "Ningún deseo sin mar",
-      "release_date": "2025-09-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aRqaFCfS1fQi8gzocvWAVdcSvKT.jpg",
-      "genres": []
-    },
-    {
-      "id": 1552494,
-      "title": "Vandu",
-      "release_date": "2025-09-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/otcva6P29dLz5lK2f32APhO6NAZ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1PMB4BUBBq6iIaSGZsnIHU2Lg5U.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1552318,
-      "title": "Can't Kill A Cowboy",
-      "release_date": "2025-09-30",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tynpsy7rVrwrWYXyDOAf8WZcuDP.jpg",
+      "id": 1554610,
+      "title": "The toon dropper Albany slam",
+      "release_date": "2025-10-01",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
+        "семейный",
         "комедия",
+        "мультфильм",
+        "фантастика"
+      ]
+    },
+    {
+      "id": 1554490,
+      "title": "The Rendezvous",
+      "release_date": "2025-10-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yHagEPFd3yCMkgSa11drurlrhEs.jpg",
+      "genres": [
+        "криминал",
+        "боевик",
+        "комедия",
+        "драма"
+      ]
+    },
+    {
+      "id": 1554226,
+      "title": "های کپی",
+      "release_date": "2025-10-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/o7N4Ezw2ndvOiIMkqFxxEN0DOkZ.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1553989,
+      "title": "名字: 摧毀與重塑 (嘗試)",
+      "release_date": "2025-10-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8jiAwNIzzEvXGJfSY0xh2cxnEIZ.jpg",
+      "genres": [
         "драма",
-        "вестерн"
+        "документальный"
       ]
     },
     {
-      "id": 1552089,
-      "title": "Bachelors Handbag",
-      "release_date": "2025-09-30",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/n02RNVQ3TkJpSXxoo57llQqfFc8.jpg",
+      "id": 1553950,
+      "title": "TUMBLEWEED",
+      "release_date": "2025-10-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xeW3sihRe229ITgISGaVOeulnXk.jpg",
       "genres": [
-        "комедия",
-        "драма"
+        "мультфильм"
       ]
     }
   ],

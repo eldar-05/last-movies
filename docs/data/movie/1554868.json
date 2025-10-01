@@ -1,0 +1,28 @@
+{
+  "id": 1554868,
+  "title": "The Last BeerGin",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-01",
+  "runtime": 92,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "tl",
+  "spoken_languages": [
+    "Tagalog"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/1PMB4BUBBq6iIaSGZsnIHU2Lg5U.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/p5KsRuaVKQ6s3FprLvDNYIeexH6.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1554868",
+  "trailer": {
+    "key": "C4UMAlD2Khk",
+    "name": "THE LAST BEERGIN MOVIE FULL TRAILER",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-01T01:03:51.311436+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
