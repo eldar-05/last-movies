@@ -20,7 +20,11 @@
   "poster_url": "https://image.tmdb.org/t/p/w500/sFcVTA8SjnK2gFqln3BVhuar3H1.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/gnPvKJvEKTHgaTC82ndfnXoeuQE.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1555485",
-  "trailer": null,
-  "fetched_at_utc": "2025-10-02T00:55:50.206139+00:00",
+  "trailer": {
+    "key": "iarUL5DRqRs",
+    "name": "OUT OF ORDER OFFICIAL TRAILER | Studio Viva",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-02T06:18:23.564256+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
