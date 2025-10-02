@@ -1,9 +1,73 @@
 {
-  "fetched_at_utc": "2025-10-02T06:18:24.393656+00:00",
+  "fetched_at_utc": "2025-10-02T12:23:24.775928+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1555898,
+      "title": "A voz de todas as cousas",
+      "release_date": "2025-10-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vFqo58pxtyFC1BtqrvR1lbSLbS9.jpg",
+      "genres": [
+        "драма",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1555897,
+      "title": "Apocalypse before",
+      "release_date": "2025-10-02",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1555890,
+      "title": "Tengo algo para darte",
+      "release_date": "2025-10-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/g3eNuqLi9PfzSqOmcnotfnmwuBL.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1555868,
+      "title": "La diva, mi abuela y yo",
+      "release_date": "2025-10-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hm1bVezcclwD31OGAHbxJc6Jmro.jpg",
+      "genres": [
+        "мультфильм",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1555758,
+      "title": "半个老爸",
+      "release_date": "2025-10-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/27swMh8lgZ92FLZ1THIcHGvzX0h.jpg",
+      "genres": [
+        "музыка",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1555736,
+      "title": "The pink mist",
+      "release_date": "2025-10-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5wmcLZCsIAlH8hQpJMcTiLVRQw4.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
     {
       "id": 1555712,
       "title": "Voyerista",
@@ -25,6 +89,14 @@
       ]
     },
     {
+      "id": 1555692,
+      "title": "Florida Panthers' 2025 Stanley Cup Championship Film",
+      "release_date": "2025-10-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nL4rFmvXJXIP5yFMmv0k6Wc3iVl.jpg",
+      "genres": []
+    },
+    {
       "id": 1555675,
       "title": "Amarre",
       "release_date": "2025-10-02",
@@ -32,77 +104,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/4Vhnvkw4tNnmQEgnqoifEE26Vpd.jpg",
       "genres": [
         "ужасы"
-      ]
-    },
-    {
-      "id": 1555658,
-      "title": "Resmin Gölgesinde",
-      "release_date": "2025-10-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oItCmBrdVDCxkq7kD93TmRySFDt.jpg",
-      "genres": [
-        "ужасы",
-        "триллер",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1555485,
-      "title": "Out of Order",
-      "release_date": "2025-10-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sFcVTA8SjnK2gFqln3BVhuar3H1.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1555165,
-      "title": "The Circling | Concept Film",
-      "release_date": "2025-10-02",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "детектив"
-      ]
-    },
-    {
-      "id": 1554473,
-      "title": "Living in Pryde",
-      "release_date": "2025-10-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gx9lfF4rvZk35G05OQTzUPtTUYE.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1553584,
-      "title": "Scents of the Season",
-      "release_date": "2025-10-02",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1553580,
-      "title": "Levures indigènes",
-      "release_date": "2025-10-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xOpJ710lo2YJye980fK8RN6Xu0b.jpg",
-      "genres": []
-    },
-    {
-      "id": 1552385,
-      "title": "Polvo de ángel",
-      "release_date": "2025-10-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cVDRiqR5bHZ1XMbHrtH3JxwiWLS.jpg",
-      "genres": [
-        "ужасы",
-        "триллер"
       ]
     }
   ],

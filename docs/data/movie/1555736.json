@@ -1,0 +1,27 @@
+{
+  "id": 1555736,
+  "title": "The pink mist",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-02",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "MX",
+    "CA"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/5wmcLZCsIAlH8hQpJMcTiLVRQw4.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/sQbJY9ress61v9Pi8BVasdildQY.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1555736",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-02T12:23:23.399430+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

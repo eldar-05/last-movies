@@ -1,0 +1,27 @@
+{
+  "id": 1555868,
+  "title": "La diva, mi abuela y yo",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-02",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм",
+    "документальный"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/hm1bVezcclwD31OGAHbxJc6Jmro.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/y2pxAOg9RjEaR5cpa4jdjL3VC78.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1555868",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-02T12:23:22.660884+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

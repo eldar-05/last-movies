@@ -1,0 +1,27 @@
+{
+  "id": 1555898,
+  "title": "A voz de todas as cousas",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-02",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "музыка"
+  ],
+  "original_language": "gl",
+  "spoken_languages": [
+    "Galician"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/vFqo58pxtyFC1BtqrvR1lbSLbS9.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/aXnyttnjLPU5y2a1Ug0BN71bqXp.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1555898",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-02T12:23:21.546964+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

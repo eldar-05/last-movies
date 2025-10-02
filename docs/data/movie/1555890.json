@@ -1,0 +1,26 @@
+{
+  "id": 1555890,
+  "title": "Tengo algo para darte",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-02",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "xx",
+  "spoken_languages": [
+    "No Language"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/g3eNuqLi9PfzSqOmcnotfnmwuBL.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/lvpZCXVI9FIrP85ZZW2538WmKBS.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1555890",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-02T12:23:22.283586+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
