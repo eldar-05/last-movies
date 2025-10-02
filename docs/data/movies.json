@@ -1,117 +1,108 @@
 {
-  "fetched_at_utc": "2025-10-01T18:17:47.791606+00:00",
+  "fetched_at_utc": "2025-10-02T00:55:51.595212+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1555299,
-      "title": "Revenge of the Ghoul Log",
-      "release_date": "2025-10-01",
+      "id": 1555712,
+      "title": "Voyerista",
+      "release_date": "2025-10-02",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2UDDcu21jwX3Y0zfvCHzalJO4l.jpg",
       "genres": [
         "ужасы"
       ]
     },
     {
-      "id": 1555275,
-      "title": "Døden i paradis",
-      "release_date": "2025-10-01",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yqJ6VSY7Ej1A2AVqRegDiWmYAW1.jpg",
+      "id": 1555704,
+      "title": "El visitante",
+      "release_date": "2025-10-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mWH9DDrMib0eshJPO9M48LgnZSu.jpg",
       "genres": [
-        "документальный",
-        "криминал"
+        "триллер"
       ]
     },
     {
-      "id": 1555034,
-      "title": "Jeremiah's Return",
-      "release_date": "2025-10-01",
+      "id": 1555675,
+      "title": "Amarre",
+      "release_date": "2025-10-02",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vNIVdYcJCqgxSKYfRPi6LUDWTeU.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4Vhnvkw4tNnmQEgnqoifEE26Vpd.jpg",
       "genres": [
-        "комедия",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1555658,
+      "title": "Resmin Gölgesinde",
+      "release_date": "2025-10-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oItCmBrdVDCxkq7kD93TmRySFDt.jpg",
+      "genres": [
+        "ужасы",
+        "триллер",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1555485,
+      "title": "Out of Order",
+      "release_date": "2025-10-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/sFcVTA8SjnK2gFqln3BVhuar3H1.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1555165,
+      "title": "The Circling | Concept Film",
+      "release_date": "2025-10-02",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "детектив"
+      ]
+    },
+    {
+      "id": 1554473,
+      "title": "Living in Pryde",
+      "release_date": "2025-10-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gx9lfF4rvZk35G05OQTzUPtTUYE.jpg",
+      "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1555016,
-      "title": "Kauns tevi pazīt",
-      "release_date": "2025-10-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bfVlpPzP4ZsdmotK0Rf7dL6XakH.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1554999,
-      "title": "S.O.S",
-      "release_date": "2025-10-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/y2iNdmeXkCVXfs1PAutIzq42J4z.jpg",
-      "genres": [
-        "триллер",
-        "детектив",
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1554955,
-      "title": "Marilag",
-      "release_date": "2025-10-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/coPbH1fgtjbzKLOIR8IXx5N8VMV.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1554868,
-      "title": "The Last BeerGin",
-      "release_date": "2025-10-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1PMB4BUBBq6iIaSGZsnIHU2Lg5U.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1554610,
-      "title": "The toon dropper Albany slam",
-      "release_date": "2025-10-01",
+      "id": 1553584,
+      "title": "Scents of the Season",
+      "release_date": "2025-10-02",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "семейный",
-        "комедия",
-        "мультфильм",
-        "фантастика"
-      ]
-    },
-    {
-      "id": 1554490,
-      "title": "The Rendezvous",
-      "release_date": "2025-10-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yHagEPFd3yCMkgSa11drurlrhEs.jpg",
-      "genres": [
-        "криминал",
-        "боевик",
-        "комедия",
         "драма"
       ]
     },
     {
-      "id": 1554226,
-      "title": "های کپی",
-      "release_date": "2025-10-01",
+      "id": 1553580,
+      "title": "Levures indigènes",
+      "release_date": "2025-10-02",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/o7N4Ezw2ndvOiIMkqFxxEN0DOkZ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xOpJ710lo2YJye980fK8RN6Xu0b.jpg",
+      "genres": []
+    },
+    {
+      "id": 1552385,
+      "title": "Polvo de ángel",
+      "release_date": "2025-10-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cVDRiqR5bHZ1XMbHrtH3JxwiWLS.jpg",
       "genres": [
-        "драма"
+        "ужасы",
+        "триллер"
       ]
     }
   ],

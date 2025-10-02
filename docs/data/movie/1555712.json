@@ -1,0 +1,26 @@
+{
+  "id": 1555712,
+  "title": "Voyerista",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-02",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "MX"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/2UDDcu21jwX3Y0zfvCHzalJO4l.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/zc0I8r6STOkuus4IS5tJ2q20WfA.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1555712",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-02T00:55:49.094965+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

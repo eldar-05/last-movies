@@ -1,0 +1,27 @@
+{
+  "id": 1552385,
+  "title": "Polvo de ángel",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-02",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "триллер"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/cVDRiqR5bHZ1XMbHrtH3JxwiWLS.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/eD5qCg8XWvbIRmsXmToAMNS86v5.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1552385",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-02T00:55:51.594787+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

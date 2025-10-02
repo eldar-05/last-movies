@@ -1,0 +1,26 @@
+{
+  "id": 1555675,
+  "title": "Amarre",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-02",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "MX"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/4Vhnvkw4tNnmQEgnqoifEE26Vpd.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/2IQiHG8pXclJUmMWvjINqB5LxX3.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1555675",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-02T00:55:49.635680+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1554473,
+  "title": "Living in Pryde",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-02",
+  "runtime": 38,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/gx9lfF4rvZk35G05OQTzUPtTUYE.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1554473",
+  "trailer": {
+    "key": "qFHMwKbfy8E",
+    "name": "Living in Pryde | Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-02T00:55:50.671425+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
