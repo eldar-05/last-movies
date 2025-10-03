@@ -7,14 +7,19 @@
   "runtime": 90,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "триллер",
+    "криминал"
+  ],
   "original_language": "en",
-  "spoken_languages": [],
+  "spoken_languages": [
+    "English"
+  ],
   "production_countries": [],
   "poster_url": "https://image.tmdb.org/t/p/w500/1HTQCVuhDJ2HSlBypxYhQoc5uAV.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/znEfw279Jgu8mE8OhUPk8jEClmK.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1556076",
   "trailer": null,
-  "fetched_at_utc": "2025-10-03T00:55:49.634349+00:00",
+  "fetched_at_utc": "2025-10-03T06:18:01.793455+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
