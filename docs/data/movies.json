@@ -1,9 +1,45 @@
 {
-  "fetched_at_utc": "2025-10-03T06:18:03.443477+00:00",
+  "fetched_at_utc": "2025-10-03T12:24:06.926894+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1556399,
+      "title": "10.10.99",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1556390,
+      "title": "暗战1931之白乙化",
+      "release_date": "2025-10-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lcplzbFvTcOusoqx0xokx4I3mmp.jpg",
+      "genres": []
+    },
+    {
+      "id": 1556352,
+      "title": "Purple",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xfUfSZuqANKBO0URi0c1cXvCNJ.jpg",
+      "genres": []
+    },
+    {
+      "id": 1556160,
+      "title": "Nouvelle École et après : Réussir ou mourir",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/7M9g0Ua0YlSJDq4IPIpAyuoq5HV.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1556084,
       "title": "3つのグノシエンヌ",
@@ -64,48 +100,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/khWUbcBRJYoTqLm2Lu3GKwiP1ds.jpg",
       "genres": [
         "ужасы"
-      ]
-    },
-    {
-      "id": 1555600,
-      "title": "Corte",
-      "release_date": "2025-10-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sC0GPBDhJVKHAMjrCeAE9PsNPTH.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1555595,
-      "title": "Testamento 1978",
-      "release_date": "2025-10-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/umHlfjYrYj4rKU1Hi8v3T4GrMq7.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1555589,
-      "title": "Con las manos de ella",
-      "release_date": "2025-10-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9P7iLyjEkf7O0esBnCY5HU6n2lz.jpg",
-      "genres": [
-        "драма",
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1555550,
-      "title": "Carta de amor a la muerte",
-      "release_date": "2025-10-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/x4OiZcmL3QKos91wAgSG019al1N.jpg",
-      "genres": [
-        "ужасы",
-        "драма"
       ]
     }
   ],
