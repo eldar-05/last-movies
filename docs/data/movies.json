@@ -1,109 +1,111 @@
 {
-  "fetched_at_utc": "2025-10-02T18:17:38.583933+00:00",
+  "fetched_at_utc": "2025-10-03T00:55:53.347311+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1555898,
-      "title": "A voz de todas as cousas",
-      "release_date": "2025-10-02",
+      "id": 1556084,
+      "title": "3つのグノシエンヌ",
+      "release_date": "2025-10-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vFqo58pxtyFC1BtqrvR1lbSLbS9.jpg",
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1556076,
+      "title": "While They Were Sleeping",
+      "release_date": "2025-10-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1HTQCVuhDJ2HSlBypxYhQoc5uAV.jpg",
       "genres": [
-        "драма",
+        "триллер",
+        "криминал"
+      ]
+    },
+    {
+      "id": 1555998,
+      "title": "アイドリッシュセブン First BEAT! 劇場総集編 前編",
+      "release_date": "2025-10-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3yJVoWc3yQLiVKMdu7XfYtlGC61.jpg",
+      "genres": [
+        "мультфильм",
         "музыка"
       ]
     },
     {
-      "id": 1555897,
-      "title": "Apocalypse before",
-      "release_date": "2025-10-02",
+      "id": 1555950,
+      "title": "Your Move",
+      "release_date": "2025-10-03",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1555890,
-      "title": "Tengo algo para darte",
-      "release_date": "2025-10-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/g3eNuqLi9PfzSqOmcnotfnmwuBL.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1555868,
-      "title": "La diva, mi abuela y yo",
-      "release_date": "2025-10-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hm1bVezcclwD31OGAHbxJc6Jmro.jpg",
-      "genres": [
-        "мультфильм",
-        "документальный"
-      ]
-    },
-    {
-      "id": 1555758,
-      "title": "半个老爸",
-      "release_date": "2025-10-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/27swMh8lgZ92FLZ1THIcHGvzX0h.jpg",
-      "genres": [
-        "музыка",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1555736,
-      "title": "The pink mist",
-      "release_date": "2025-10-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5wmcLZCsIAlH8hQpJMcTiLVRQw4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dFkDaWk1WUtMz9aYutoleBvO9G2.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1555712,
-      "title": "Voyerista",
-      "release_date": "2025-10-02",
+      "id": 1555892,
+      "title": "Pirt dicA",
+      "release_date": "2025-10-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2UDDcu21jwX3Y0zfvCHzalJO4l.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/49WosQKliU6JYnw0zZzJ6WNHSgM.jpg",
+      "genres": [
+        "триллер",
+        "драма",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1555745,
+      "title": "Fúnebre",
+      "release_date": "2025-10-03",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
         "ужасы"
       ]
     },
     {
-      "id": 1555704,
-      "title": "El visitante",
-      "release_date": "2025-10-02",
+      "id": 1555600,
+      "title": "Corte",
+      "release_date": "2025-10-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mWH9DDrMib0eshJPO9M48LgnZSu.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sC0GPBDhJVKHAMjrCeAE9PsNPTH.jpg",
       "genres": [
-        "триллер"
+        "ужасы"
       ]
     },
     {
-      "id": 1555692,
-      "title": "Florida Panthers' 2025 Stanley Cup Championship Film",
-      "release_date": "2025-10-02",
+      "id": 1555595,
+      "title": "Testamento 1978",
+      "release_date": "2025-10-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nL4rFmvXJXIP5yFMmv0k6Wc3iVl.jpg",
-      "genres": []
-    },
-    {
-      "id": 1555675,
-      "title": "Amarre",
-      "release_date": "2025-10-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4Vhnvkw4tNnmQEgnqoifEE26Vpd.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/umHlfjYrYj4rKU1Hi8v3T4GrMq7.jpg",
       "genres": [
         "ужасы"
+      ]
+    },
+    {
+      "id": 1555589,
+      "title": "Con las manos de ella",
+      "release_date": "2025-10-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9P7iLyjEkf7O0esBnCY5HU6n2lz.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1555550,
+      "title": "Carta de amor a la muerte",
+      "release_date": "2025-10-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/x4OiZcmL3QKos91wAgSG019al1N.jpg",
+      "genres": [
+        "ужасы",
+        "драма"
       ]
     }
   ],

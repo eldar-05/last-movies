@@ -1,0 +1,26 @@
+{
+  "id": 1555595,
+  "title": "Testamento 1978",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-03",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "MX"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/umHlfjYrYj4rKU1Hi8v3T4GrMq7.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/88T7GsiTO7Cmd5xQn44rAI3Pl3B.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1555595",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-03T00:55:52.438357+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
