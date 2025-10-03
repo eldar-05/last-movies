@@ -3,18 +3,22 @@
   "title": "10.10.99",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-10-03",
   "runtime": 16,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
-  "original_language": "en",
-  "spoken_languages": [],
+  "genres": [
+    "драма"
+  ],
+  "original_language": "it",
+  "spoken_languages": [
+    "Italian"
+  ],
   "production_countries": [],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/i9CqViyw84RVFvEI9bd3bCdYvHm.jpg",
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1556399",
   "trailer": null,
-  "fetched_at_utc": "2025-10-03T12:24:03.664600+00:00",
+  "fetched_at_utc": "2025-10-03T18:17:19.135043+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

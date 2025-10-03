@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-10-03T12:24:06.926894+00:00",
+  "fetched_at_utc": "2025-10-03T18:17:22.219627+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -7,9 +7,9 @@
     {
       "id": 1556399,
       "title": "10.10.99",
-      "release_date": "",
+      "release_date": "2025-10-03",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/i9CqViyw84RVFvEI9bd3bCdYvHm.jpg",
       "genres": [
         "драма"
       ]
@@ -25,7 +25,7 @@
     {
       "id": 1556352,
       "title": "Purple",
-      "release_date": "",
+      "release_date": "2025-10-03",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/xfUfSZuqANKBO0URi0c1cXvCNJ.jpg",
       "genres": []
@@ -33,8 +33,8 @@
     {
       "id": 1556160,
       "title": "Nouvelle École et après : Réussir ou mourir",
-      "release_date": "",
-      "vote_average": 0.0,
+      "release_date": "2025-10-03",
+      "vote_average": 8.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/7M9g0Ua0YlSJDq4IPIpAyuoq5HV.jpg",
       "genres": [
         "документальный"
@@ -84,7 +84,7 @@
       "id": 1555892,
       "title": "Pirt dicA",
       "release_date": "2025-10-03",
-      "vote_average": 0.0,
+      "vote_average": 10.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/49WosQKliU6JYnw0zZzJ6WNHSgM.jpg",
       "genres": [
         "триллер",

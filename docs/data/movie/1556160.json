@@ -3,10 +3,10 @@
   "title": "Nouvelle École et après : Réussir ou mourir",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-10-03",
   "runtime": 0,
-  "vote_average": 0.0,
-  "vote_count": 0,
+  "vote_average": 8.0,
+  "vote_count": 1,
   "genres": [
     "документальный"
   ],
@@ -18,9 +18,9 @@
     "FR"
   ],
   "poster_url": "https://image.tmdb.org/t/p/w500/7M9g0Ua0YlSJDq4IPIpAyuoq5HV.jpg",
-  "backdrop_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/5xhCZMWx78HnHKMoM1GUt2NJaY5.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1556160",
   "trailer": null,
-  "fetched_at_utc": "2025-10-03T12:24:04.744719+00:00",
+  "fetched_at_utc": "2025-10-03T18:17:20.063688+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
