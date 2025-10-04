@@ -1,6 +1,6 @@
 {
   "id": 1553873,
-  "title": "NJPW Road To King Of Pro-Wrestling 2025 - Day 1",
+  "title": "NJPW Road to King of Pro-Wrestling 2025 - Day 1",
   "tagline": "",
   "overview": "",
   "release_date": "2025-10-04",
@@ -10,13 +10,14 @@
   "genres": [],
   "original_language": "ja",
   "spoken_languages": [
+    "English",
     "Japanese"
   ],
   "production_countries": [],
   "poster_url": null,
-  "backdrop_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/wtH9gm6P77rSWLdliEBvdBtWGwa.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1553873",
   "trailer": null,
-  "fetched_at_utc": "2025-10-04T06:16:20.571755+00:00",
+  "fetched_at_utc": "2025-10-04T12:21:10.273502+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
