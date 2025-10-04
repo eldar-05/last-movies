@@ -1,106 +1,105 @@
 {
-  "fetched_at_utc": "2025-10-03T18:17:22.219627+00:00",
+  "fetched_at_utc": "2025-10-04T00:53:53.926851+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1556399,
-      "title": "10.10.99",
-      "release_date": "2025-10-03",
+      "id": 1556295,
+      "title": "Así Se Siente",
+      "release_date": "2025-10-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/i9CqViyw84RVFvEI9bd3bCdYvHm.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aP7cF9oBqOXxj5xQKkv8Vg7r0ju.jpg",
       "genres": [
-        "драма"
+        "история",
+        "музыка",
+        "мелодрама"
       ]
     },
     {
-      "id": 1556390,
-      "title": "暗战1931之白乙化",
-      "release_date": "2025-10-03",
+      "id": 1556285,
+      "title": "Abs de Pan",
+      "release_date": "2025-10-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lcplzbFvTcOusoqx0xokx4I3mmp.jpg",
-      "genres": []
-    },
-    {
-      "id": 1556352,
-      "title": "Purple",
-      "release_date": "2025-10-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xfUfSZuqANKBO0URi0c1cXvCNJ.jpg",
-      "genres": []
-    },
-    {
-      "id": 1556160,
-      "title": "Nouvelle École et après : Réussir ou mourir",
-      "release_date": "2025-10-03",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7M9g0Ua0YlSJDq4IPIpAyuoq5HV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ypGC8q46rfPf4yvSOs9aMKjA7eG.jpg",
       "genres": [
-        "документальный"
+        "драма",
+        "комедия"
       ]
     },
     {
-      "id": 1556084,
-      "title": "3つのグノシエンヌ",
-      "release_date": "2025-10-03",
+      "id": 1555174,
+      "title": "La Scala Ballet: Peer Gynt",
+      "release_date": "2025-10-04",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1556076,
-      "title": "While They Were Sleeping",
-      "release_date": "2025-10-03",
+      "id": 1554977,
+      "title": "Wicca: Jezabel",
+      "release_date": "2025-10-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1HTQCVuhDJ2HSlBypxYhQoc5uAV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1I6quyYsbpvihpirOtfljCgibHe.jpg",
       "genres": [
-        "триллер",
-        "криминал"
+        "ужасы"
       ]
     },
     {
-      "id": 1555998,
-      "title": "アイドリッシュセブン First BEAT! 劇場総集編 前編",
-      "release_date": "2025-10-03",
+      "id": 1554964,
+      "title": "Insania",
+      "release_date": "2025-10-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3yJVoWc3yQLiVKMdu7XfYtlGC61.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ulEJIh1rnUKuoST32tsVpkJ5tRA.jpg",
       "genres": [
-        "мультфильм",
-        "музыка"
+        "ужасы"
       ]
     },
     {
-      "id": 1555950,
-      "title": "Your Move",
-      "release_date": "2025-10-03",
+      "id": 1554943,
+      "title": "Luz en la oscuridad",
+      "release_date": "2025-10-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dFkDaWk1WUtMz9aYutoleBvO9G2.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yfDVCAoWo7vPdOwTxKZ38HhHP2S.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1554937,
+      "title": "No cambié las cosas de lugar",
+      "release_date": "2025-10-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/heMcs7PTB3ad5DZCAp1xh1QVoJx.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1554302,
+      "title": "Palama: Do You See Me?",
+      "release_date": "2025-10-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hDVNug8Vv5jiAeEuM3NAPayuQEx.jpg",
+      "genres": []
+    },
+    {
+      "id": 1554065,
+      "title": "今日もふたり、スキップで",
+      "release_date": "2025-10-04",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1555892,
-      "title": "Pirt dicA",
-      "release_date": "2025-10-03",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/49WosQKliU6JYnw0zZzJ6WNHSgM.jpg",
-      "genres": [
-        "триллер",
-        "драма",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1555745,
-      "title": "Fúnebre",
-      "release_date": "2025-10-03",
+      "id": 1553873,
+      "title": "NJPW Road To King Of Pro-Wrestling 2025 - Day 1",
+      "release_date": "2025-10-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/khWUbcBRJYoTqLm2Lu3GKwiP1ds.jpg",
-      "genres": [
-        "ужасы"
-      ]
+      "poster_url": null,
+      "genres": []
     }
   ],
   "source": "TMDB",
