@@ -1,0 +1,27 @@
+{
+  "id": 1556968,
+  "title": "Sul vivo",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-05",
+  "runtime": 10,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "триллер"
+  ],
+  "original_language": "it",
+  "spoken_languages": [
+    "Italian"
+  ],
+  "production_countries": [
+    "IT"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/21zphaGIoAUZgIX6menVyR1adV8.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1556968",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-05T01:01:53.766602+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

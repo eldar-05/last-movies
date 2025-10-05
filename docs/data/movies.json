@@ -1,105 +1,109 @@
 {
-  "fetched_at_utc": "2025-10-04T18:15:16.711258+00:00",
+  "fetched_at_utc": "2025-10-05T01:01:55.194863+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1556295,
-      "title": "Así Se Siente",
-      "release_date": "2025-10-04",
+      "id": 1557058,
+      "title": "Hookah Head",
+      "release_date": "2025-10-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aP7cF9oBqOXxj5xQKkv8Vg7r0ju.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oqRTiUD26fanuorvGGnFYkoZZaM.jpg",
       "genres": [
-        "история",
-        "музыка",
-        "мелодрама"
+        "комедия",
+        "драма"
       ]
     },
     {
-      "id": 1556285,
-      "title": "Abs de Pan",
-      "release_date": "2025-10-04",
+      "id": 1556968,
+      "title": "Sul vivo",
+      "release_date": "2025-10-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ypGC8q46rfPf4yvSOs9aMKjA7eG.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/21zphaGIoAUZgIX6menVyR1adV8.jpg",
       "genres": [
         "драма",
-        "комедия"
+        "триллер"
       ]
     },
     {
-      "id": 1555174,
-      "title": "La Scala Ballet: Peer Gynt",
-      "release_date": "2025-10-04",
+      "id": 1556856,
+      "title": "Jangan Ambil Bonekaku..!!",
+      "release_date": "2025-10-05",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1554977,
-      "title": "Wicca: Jezabel",
-      "release_date": "2025-10-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1I6quyYsbpvihpirOtfljCgibHe.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/myAYCtzgmmYJowN9zQYDWJ187pR.jpg",
       "genres": [
-        "ужасы"
+        "криминал",
+        "драма"
       ]
     },
     {
-      "id": 1554964,
-      "title": "Insania",
-      "release_date": "2025-10-04",
+      "id": 1555899,
+      "title": "Los días verdes",
+      "release_date": "2025-10-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ulEJIh1rnUKuoST32tsVpkJ5tRA.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1554943,
-      "title": "Luz en la oscuridad",
-      "release_date": "2025-10-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yfDVCAoWo7vPdOwTxKZ38HhHP2S.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1554937,
-      "title": "No cambié las cosas de lugar",
-      "release_date": "2025-10-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/heMcs7PTB3ad5DZCAp1xh1QVoJx.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1554302,
-      "title": "Palama: Do You See Me?",
-      "release_date": "2025-10-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hDVNug8Vv5jiAeEuM3NAPayuQEx.jpg",
-      "genres": []
-    },
-    {
-      "id": 1554065,
-      "title": "今日もふたり、スキップで",
-      "release_date": "2025-10-04",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fKeHgVD8W3yMMhtgW7AM6d211L0.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1553873,
-      "title": "NJPW Road to King of Pro-Wrestling 2025 - Day 1",
-      "release_date": "2025-10-04",
+      "id": 1555166,
+      "title": "2025 VALORANT Champions Tour | Finals in Cinema",
+      "release_date": "2025-10-05",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
+    },
+    {
+      "id": 1555095,
+      "title": "Magic Balls 3",
+      "release_date": "2025-10-05",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "фантастика",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1554451,
+      "title": "CHINA SUPERNOVA",
+      "release_date": "2025-10-05",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wXy6qIGJt2usmlXlXFH2Xk2tWLF.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1554360,
+      "title": "Building Happiness",
+      "release_date": "2025-10-05",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1552951,
+      "title": "Voces de la Selva Maya: Una Batalla por la Vida",
+      "release_date": "2025-10-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iWpcb56iB6Z8GRx4lezcR0iFqbg.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1552668,
+      "title": "Vampire In Training (V.I.T.)",
+      "release_date": "2025-10-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cC7PNG9zTNkVHY9rp49GKRyVmzu.jpg",
+      "genres": [
+        "ужасы",
+        "комедия"
+      ]
     }
   ],
   "source": "TMDB",
