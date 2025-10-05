@@ -1,9 +1,74 @@
 {
-  "fetched_at_utc": "2025-10-05T06:16:21.610324+00:00",
+  "fetched_at_utc": "2025-10-05T12:21:20.745041+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1557493,
+      "title": "THE SCENT THAT GIVES YOU THE SCENE",
+      "release_date": "2025-10-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fL6KiUyXZo1FHS7oDSwQbpK8xG6.jpg",
+      "genres": []
+    },
+    {
+      "id": 1557490,
+      "title": "NEXUS LOCK",
+      "release_date": "2025-10-05",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "фантастика"
+      ]
+    },
+    {
+      "id": 1557479,
+      "title": "Darwin express - Les nouveaux défis de l'évolution",
+      "release_date": "2025-10-05",
+      "vote_average": 8.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wjZxqfnJYPJLmlKnl6vwaYVPIhK.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1557468,
+      "title": "Badinter contre la peine de mort, le procès Patrick Henry",
+      "release_date": "2025-10-05",
+      "vote_average": 8.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/uWP2nXV8HOU8QUetWrMN42193df.jpg",
+      "genres": [
+        "документальный",
+        "история"
+      ]
+    },
+    {
+      "id": 1557466,
+      "title": "Ein Sommer in Sommerby",
+      "release_date": "2025-10-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aIsB4AtZwU1VPB0ihmbMIPahXQd.jpg",
+      "genres": []
+    },
+    {
+      "id": 1557418,
+      "title": "Instantànies",
+      "release_date": "2025-10-05",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1557410,
+      "title": "موسم زيتون",
+      "release_date": "2025-10-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lJra3yn6J7Fk5AYwbHkPFGIUEkt.jpg",
+      "genres": []
+    },
     {
       "id": 1557058,
       "title": "Hookah Head",
@@ -35,74 +100,6 @@
       "genres": [
         "криминал",
         "драма"
-      ]
-    },
-    {
-      "id": 1555899,
-      "title": "Los días verdes",
-      "release_date": "2025-10-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fKeHgVD8W3yMMhtgW7AM6d211L0.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1555166,
-      "title": "2025 VALORANT Champions Tour | Finals in Cinema",
-      "release_date": "2025-10-05",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1555095,
-      "title": "Magic Balls 3",
-      "release_date": "2025-10-05",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "фантастика",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1554451,
-      "title": "CHINA SUPERNOVA",
-      "release_date": "2025-10-05",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wXy6qIGJt2usmlXlXFH2Xk2tWLF.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1554360,
-      "title": "Building Happiness",
-      "release_date": "2025-10-05",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1552951,
-      "title": "Voces de la Selva Maya: Una Batalla por la Vida",
-      "release_date": "2025-10-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iWpcb56iB6Z8GRx4lezcR0iFqbg.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1552668,
-      "title": "Vampire In Training (V.I.T.)",
-      "release_date": "2025-10-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cC7PNG9zTNkVHY9rp49GKRyVmzu.jpg",
-      "genres": [
-        "ужасы",
-        "комедия"
       ]
     }
   ],
