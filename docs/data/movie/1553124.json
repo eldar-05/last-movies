@@ -1,0 +1,27 @@
+{
+  "id": 1553124,
+  "title": "Le stanze di Verdi",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-06",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "музыка",
+    "документальный"
+  ],
+  "original_language": "it",
+  "spoken_languages": [
+    "Italian"
+  ],
+  "production_countries": [
+    "IT"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/rDuMSRCgBY9rVDl8eVHRTgwSIK3.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1553124",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-06T00:57:44.958321+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

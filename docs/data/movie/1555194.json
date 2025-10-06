@@ -1,0 +1,28 @@
+{
+  "id": 1555194,
+  "title": "Vinho Tinto",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-06",
+  "runtime": 6,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "детектив",
+    "криминал",
+    "триллер"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/vHKHywUu9OlZNzHDxgqR5xi0R94.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/7epL0x8NMMfXzy5rUtr2eB3IMel.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1555194",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-06T00:57:44.402312+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

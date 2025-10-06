@@ -1,0 +1,26 @@
+{
+  "id": 1557356,
+  "title": "Mayorista",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-06",
+  "runtime": 18,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "комедия",
+    "триллер"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/1cyIZY0m1FKSXhLTxmV7IpTr2mm.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1557356",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-06T00:57:43.792271+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1550023,
+  "title": "Plastic dromen",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-06",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "nl",
+  "spoken_languages": [],
+  "production_countries": [
+    "NL"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/iVuxrk1vMrwcFhZpPFDmmP8sgCQ.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/gMWczvLfhpzrlcctm7NYZmTsnKT.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1550023",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-06T00:57:45.116121+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

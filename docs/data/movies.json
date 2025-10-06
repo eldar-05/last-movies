@@ -1,105 +1,108 @@
 {
-  "fetched_at_utc": "2025-10-05T18:15:22.922012+00:00",
+  "fetched_at_utc": "2025-10-06T00:57:45.483640+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1557493,
-      "title": "THE SCENT THAT GIVES YOU THE SCENE",
-      "release_date": "2025-10-05",
+      "id": 1557356,
+      "title": "Mayorista",
+      "release_date": "2025-10-06",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fL6KiUyXZo1FHS7oDSwQbpK8xG6.jpg",
-      "genres": []
-    },
-    {
-      "id": 1557490,
-      "title": "NEXUS LOCK",
-      "release_date": "2025-10-05",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "фантастика"
-      ]
-    },
-    {
-      "id": 1557479,
-      "title": "Darwin express - Les nouveaux défis de l'évolution",
-      "release_date": "2025-10-05",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wjZxqfnJYPJLmlKnl6vwaYVPIhK.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1557468,
-      "title": "Badinter contre la peine de mort, le procès Patrick Henry",
-      "release_date": "2025-10-05",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uWP2nXV8HOU8QUetWrMN42193df.jpg",
-      "genres": [
-        "документальный",
-        "история"
-      ]
-    },
-    {
-      "id": 1557466,
-      "title": "Ein Sommer in Sommerby",
-      "release_date": "2025-10-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aIsB4AtZwU1VPB0ihmbMIPahXQd.jpg",
-      "genres": []
-    },
-    {
-      "id": 1557418,
-      "title": "Instantànies",
-      "release_date": "2025-10-05",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1557410,
-      "title": "موسم زيتون",
-      "release_date": "2025-10-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lJra3yn6J7Fk5AYwbHkPFGIUEkt.jpg",
-      "genres": []
-    },
-    {
-      "id": 1557058,
-      "title": "Hookah Head",
-      "release_date": "2025-10-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oqRTiUD26fanuorvGGnFYkoZZaM.jpg",
-      "genres": [
-        "комедия",
-        "драма"
-      ]
-    },
-    {
-      "id": 1556968,
-      "title": "Sul vivo",
-      "release_date": "2025-10-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/21zphaGIoAUZgIX6menVyR1adV8.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1cyIZY0m1FKSXhLTxmV7IpTr2mm.jpg",
       "genres": [
         "драма",
+        "комедия",
         "триллер"
       ]
     },
     {
-      "id": 1556856,
-      "title": "Jangan Ambil Bonekaku..!!",
-      "release_date": "2025-10-05",
+      "id": 1556272,
+      "title": "Anatomia de uma Tragédia",
+      "release_date": "2025-10-06",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/myAYCtzgmmYJowN9zQYDWJ187pR.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/36nB9gZIe7ngkK3UkX4VA9FPXgS.jpg",
       "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1555639,
+      "title": "Family Guy: A Little Fright Music",
+      "release_date": "2025-10-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4bON8gBbPCG4cyFmYHcZPnHlshm.jpg",
+      "genres": []
+    },
+    {
+      "id": 1555194,
+      "title": "Vinho Tinto",
+      "release_date": "2025-10-06",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vHKHywUu9OlZNzHDxgqR5xi0R94.jpg",
+      "genres": [
+        "детектив",
         "криминал",
-        "драма"
+        "триллер"
+      ]
+    },
+    {
+      "id": 1553875,
+      "title": "NJPW Road to King of Pro-Wrestling 2025 - Day 2",
+      "release_date": "2025-10-06",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1553701,
+      "title": "Des prêtres gays brisent le silence",
+      "release_date": "2025-10-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fw7XLWDKISnTG46u2o2OhzkSSGi.jpg",
+      "genres": []
+    },
+    {
+      "id": 1553124,
+      "title": "Le stanze di Verdi",
+      "release_date": "2025-10-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rDuMSRCgBY9rVDl8eVHRTgwSIK3.jpg",
+      "genres": [
+        "музыка",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1550023,
+      "title": "Plastic dromen",
+      "release_date": "2025-10-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iVuxrk1vMrwcFhZpPFDmmP8sgCQ.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1548261,
+      "title": "31 Minutos: Tiny Desk Concert",
+      "release_date": "2025-10-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zdKnFVdRWjLHv5yqEHccCl16y5b.jpg",
+      "genres": [
+        "музыка"
+      ]
+    },
+    {
+      "id": 1548128,
+      "title": "stair's cam",
+      "release_date": "2025-10-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qyvs3gnlHZRyvxqTWysd4TAkOgt.jpg",
+      "genres": [
+        "детектив",
+        "ужасы",
+        "триллер"
       ]
     }
   ],
