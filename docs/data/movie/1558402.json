@@ -1,0 +1,26 @@
+{
+  "id": 1558402,
+  "title": "A Visitor Looks for a New Home",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-07",
+  "runtime": 2,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "ужасы",
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/wqnBxjvHBHLeAJ1xeNYYc1km7OP.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/dQGcSgLxgct0zUgcXGQWQnO00wt.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1558402",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-07T12:25:46.767006+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
