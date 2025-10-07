@@ -1,0 +1,25 @@
+{
+  "id": 1556404,
+  "title": "O Homem Capivara",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-07",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "комедия"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/qpQ7iqFjHjwtioclfvIhpoyFHbp.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1556404",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-07T00:56:59.356476+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

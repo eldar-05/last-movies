@@ -1,108 +1,107 @@
 {
-  "fetched_at_utc": "2025-10-06T18:18:14.650165+00:00",
+  "fetched_at_utc": "2025-10-07T00:57:02.738855+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1557356,
-      "title": "Mayorista",
-      "release_date": "2025-10-06",
+      "id": 1556404,
+      "title": "O Homem Capivara",
+      "release_date": "2025-10-07",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1cyIZY0m1FKSXhLTxmV7IpTr2mm.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qpQ7iqFjHjwtioclfvIhpoyFHbp.jpg",
       "genres": [
-        "драма",
-        "комедия",
-        "триллер"
+        "ужасы",
+        "комедия"
       ]
     },
     {
-      "id": 1556272,
-      "title": "Anatomia de uma Tragédia",
-      "release_date": "2025-10-06",
+      "id": 1554227,
+      "title": "Lily & Lily",
+      "release_date": "2025-10-07",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/36nB9gZIe7ngkK3UkX4VA9FPXgS.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vkmsFiS6hoJnuVbWNMCrmvEnBjl.jpg",
       "genres": [
-        "документальный"
+        "комедия"
       ]
     },
     {
-      "id": 1555639,
-      "title": "Family Guy: A Little Fright Music",
-      "release_date": "2025-10-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4bON8gBbPCG4cyFmYHcZPnHlshm.jpg",
-      "genres": []
-    },
-    {
-      "id": 1555194,
-      "title": "Vinho Tinto",
-      "release_date": "2025-10-06",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vHKHywUu9OlZNzHDxgqR5xi0R94.jpg",
-      "genres": [
-        "детектив",
-        "криминал",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1553875,
-      "title": "NJPW Road to King of Pro-Wrestling 2025 - Day 2",
-      "release_date": "2025-10-06",
+      "id": 1553865,
+      "title": "NJPW Superhuman Taiji Ishimori Gets Even More Ridiculous",
+      "release_date": "2025-10-07",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1553701,
-      "title": "Des prêtres gays brisent le silence",
-      "release_date": "2025-10-06",
+      "id": 1553857,
+      "title": "LOS OJOS DE HELEN",
+      "release_date": "2025-10-07",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fw7XLWDKISnTG46u2o2OhzkSSGi.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/69Ru9H4mcyqo1k7RBYG7zoPk35L.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1553486,
+      "title": "NXT vs. TNA Showdown",
+      "release_date": "2025-10-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3Arn3Yykg6SoqlEjKIviRifpA2N.jpg",
+      "genres": [
+        "боевик",
+        "телевизионный фильм"
+      ]
+    },
+    {
+      "id": 1551336,
+      "title": "Matt McCusker: A Humble Offering",
+      "release_date": "2025-10-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aj5H3NXD83lGfUWPgeuuyMOpuRj.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1550330,
+      "title": "Girlfriend Missing",
+      "release_date": "2025-10-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/67YXIeAnyEXjNdMzbbqwyEFP0px.jpg",
+      "genres": [
+        "триллер",
+        "телевизионный фильм"
+      ]
+    },
+    {
+      "id": 1550298,
+      "title": "אונר\"א",
+      "release_date": "2025-10-07",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1549897,
+      "title": "The Other Skye",
+      "release_date": "2025-10-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/slhhMEUFm0EXDViIdnQNsibHmM.jpg",
       "genres": []
     },
     {
-      "id": 1553124,
-      "title": "Le stanze di Verdi",
-      "release_date": "2025-10-06",
+      "id": 1547527,
+      "title": "Stay",
+      "release_date": "2025-10-07",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rDuMSRCgBY9rVDl8eVHRTgwSIK3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8CU1zgwlrwptRoOBkgWK5gxKT1o.jpg",
       "genres": [
-        "музыка",
-        "документальный"
-      ]
-    },
-    {
-      "id": 1550023,
-      "title": "Plastic dromen",
-      "release_date": "2025-10-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iVuxrk1vMrwcFhZpPFDmmP8sgCQ.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1548261,
-      "title": "31 Minutos: Tiny Desk Concert",
-      "release_date": "2025-10-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zdKnFVdRWjLHv5yqEHccCl16y5b.jpg",
-      "genres": [
-        "музыка"
-      ]
-    },
-    {
-      "id": 1548128,
-      "title": "stair's cam",
-      "release_date": "2025-10-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qyvs3gnlHZRyvxqTWysd4TAkOgt.jpg",
-      "genres": [
-        "детектив",
-        "ужасы",
-        "триллер"
+        "триллер",
+        "ужасы"
       ]
     }
   ],

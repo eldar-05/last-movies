@@ -1,0 +1,29 @@
+{
+  "id": 1550298,
+  "title": "אונר\"א",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-07",
+  "runtime": 90,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "he",
+  "spoken_languages": [
+    "Arabic",
+    "English",
+    "Hebrew"
+  ],
+  "production_countries": [
+    "IL",
+    "DE"
+  ],
+  "poster_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/aHIz3cZbzaii54qfZhPPxxn4fmJ.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1550298",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-07T00:57:02.085031+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
