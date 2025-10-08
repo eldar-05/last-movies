@@ -1,108 +1,100 @@
 {
-  "fetched_at_utc": "2025-10-07T18:18:22.496212+00:00",
+  "fetched_at_utc": "2025-10-08T00:56:22.524631+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1558402,
-      "title": "A Visitor Looks for a New Home",
-      "release_date": "2025-10-07",
+      "id": 1558273,
+      "title": "Glaciers d'Arctique, état des lieux",
+      "release_date": "2025-10-08",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wqnBxjvHBHLeAJ1xeNYYc1km7OP.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dbTk5IdeBpdhobv7WwTLssgopRH.jpg",
       "genres": [
-        "комедия",
-        "ужасы",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1557936,
+      "title": "Echoes of Resilience: Daughters of Two Rivers",
+      "release_date": "2025-10-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wnoCcp0XWyj91qcuTWxbCKIwQFh.jpg",
+      "genres": []
+    },
+    {
+      "id": 1556930,
+      "title": "Căi ferate",
+      "release_date": "2025-10-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bVwKmSh33NybvuTOtu863NxyMfR.jpg",
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1556383,
+      "title": "Short Sharp Scares: Snare",
+      "release_date": "2025-10-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/u1Oae8zEVY2JOheVCMOB18ngKpb.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1556282,
+      "title": "摸金玦之天星陵",
+      "release_date": "2025-10-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/7aDlJMPmRLauAEV1TFOYrjIpDGs.jpg",
+      "genres": [
+        "приключения",
         "драма"
       ]
     },
     {
-      "id": 1557417,
-      "title": "Rendez-vous avec le crime : L'héritage fantôme",
-      "release_date": "2025-10-07",
+      "id": 1555443,
+      "title": "Clash Of The Comics",
+      "release_date": "2025-10-08",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/m840VLcOxsSk6xZDfPmWxx0kdkw.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tcl4wl9UHOcJt88MPEvac1x5WXP.jpg",
       "genres": []
     },
     {
-      "id": 1556404,
-      "title": "O Homem Capivara",
-      "release_date": "2025-10-07",
+      "id": 1555009,
+      "title": "The Diary Of A CEO: Louis Tomlinson",
+      "release_date": "2025-10-08",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eDBunMx35iAq7ECAN0T1o8zDSW8.jpg",
-      "genres": [
-        "ужасы",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1554227,
-      "title": "Lily & Lily",
-      "release_date": "2025-10-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vkmsFiS6hoJnuVbWNMCrmvEnBjl.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1553865,
-      "title": "NJPW Superhuman Taiji Ishimori Gets Even More Ridiculous",
-      "release_date": "2025-10-07",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jC3iAwxC9W6k9ikyRij4PLIYDVt.jpg",
       "genres": []
     },
     {
-      "id": 1553857,
-      "title": "LOS OJOS DE HELEN",
-      "release_date": "2025-10-07",
+      "id": 1554602,
+      "title": "頂樓",
+      "release_date": "2025-10-08",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/69Ru9H4mcyqo1k7RBYG7zoPk35L.jpg",
-      "genres": [
-        "документальный"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/dqFv5YRqIPvRnw0Wae7A1NCtp8W.jpg",
+      "genres": []
     },
     {
-      "id": 1553486,
-      "title": "NXT vs. TNA Showdown",
-      "release_date": "2025-10-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3Arn3Yykg6SoqlEjKIviRifpA2N.jpg",
-      "genres": [
-        "боевик",
-        "телевизионный фильм"
-      ]
-    },
-    {
-      "id": 1551336,
-      "title": "Matt McCusker: A Humble Offering",
-      "release_date": "2025-10-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aj5H3NXD83lGfUWPgeuuyMOpuRj.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1550330,
-      "title": "Girlfriend Missing",
-      "release_date": "2025-10-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/67YXIeAnyEXjNdMzbbqwyEFP0px.jpg",
-      "genres": [
-        "триллер",
-        "телевизионный фильм"
-      ]
-    },
-    {
-      "id": 1550298,
-      "title": "אונר\"א",
-      "release_date": "2025-10-07",
+      "id": 1554339,
+      "title": "The Wasp or The Sheer Beauty of Accepting Yourself",
+      "release_date": "2025-10-08",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "документальный"
+        "драма"
+      ]
+    },
+    {
+      "id": 1553939,
+      "title": "Niccolò",
+      "release_date": "2025-10-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lFfwEOrrrNcZD8vZxbAZQuBXm77.jpg",
+      "genres": [
+        "мультфильм"
       ]
     }
   ],
