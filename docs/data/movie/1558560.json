@@ -5,8 +5,8 @@
   "overview": "",
   "release_date": "2025-10-08",
   "runtime": 46,
-  "vote_average": 0.0,
-  "vote_count": 0,
+  "vote_average": 10.0,
+  "vote_count": 3,
   "genres": [
     "документальный"
   ],
@@ -19,6 +19,6 @@
   "backdrop_url": "https://image.tmdb.org/t/p/w780/8HzPqG4n4UykaXxy9HSiJ8EUI4F.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1558560",
   "trailer": null,
-  "fetched_at_utc": "2025-10-08T12:25:51.039299+00:00",
+  "fetched_at_utc": "2025-10-08T18:18:50.542282+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
