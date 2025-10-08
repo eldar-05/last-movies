@@ -1,20 +1,22 @@
 {
-  "id": 1557936,
-  "title": "Echoes of Resilience: Daughters of Two Rivers",
+  "id": 1559037,
+  "title": "All In",
   "tagline": "",
   "overview": "",
   "release_date": "2025-10-08",
-  "runtime": 3,
+  "runtime": 7,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "драма"
+  ],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": "https://image.tmdb.org/t/p/w500/wnoCcp0XWyj91qcuTWxbCKIwQFh.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/zCOFnU6UjY5bjjeBx5WqQU2bGQJ.jpg",
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1557936",
+  "tmdb_url": "https://www.themoviedb.org/movie/1559037",
   "trailer": null,
-  "fetched_at_utc": "2025-10-08T12:25:51.843679+00:00",
+  "fetched_at_utc": "2025-10-08T12:25:49.872666+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

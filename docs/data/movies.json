@@ -1,9 +1,65 @@
 {
-  "fetched_at_utc": "2025-10-08T06:19:07.559783+00:00",
+  "fetched_at_utc": "2025-10-08T12:25:52.576285+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1559078,
+      "title": "Metapora",
+      "release_date": "2025-10-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ocNYBBVq0YLKwy4Y7OrE0XkOQ6E.jpg",
+      "genres": []
+    },
+    {
+      "id": 1559074,
+      "title": "Maria",
+      "release_date": "2025-10-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wZ6UejRUleQCE49aMBF62Jjko3E.jpg",
+      "genres": []
+    },
+    {
+      "id": 1559037,
+      "title": "All In",
+      "release_date": "2025-10-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zCOFnU6UjY5bjjeBx5WqQU2bGQJ.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1558899,
+      "title": "Blowie",
+      "release_date": "2025-10-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rHy0d2xrhvZISnH76DgOzNZZatg.jpg",
+      "genres": []
+    },
+    {
+      "id": 1558871,
+      "title": "BRAISE",
+      "release_date": "2025-10-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fWiueABjtvHNRDnltd5p8zrdveT.jpg",
+      "genres": [
+        "триллер",
+        "драма",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1558560,
+      "title": "Steiners Skyggeside",
+      "release_date": "2025-10-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1miH19y5zUgU8nr355Llpwxikyj.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1558273,
       "title": "Glaciers d'Arctique, état des lieux",
@@ -40,61 +96,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/u1Oae8zEVY2JOheVCMOB18ngKpb.jpg",
       "genres": [
         "ужасы"
-      ]
-    },
-    {
-      "id": 1556282,
-      "title": "摸金玦之天星陵",
-      "release_date": "2025-10-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7aDlJMPmRLauAEV1TFOYrjIpDGs.jpg",
-      "genres": [
-        "приключения",
-        "драма"
-      ]
-    },
-    {
-      "id": 1555443,
-      "title": "Clash Of The Comics",
-      "release_date": "2025-10-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tcl4wl9UHOcJt88MPEvac1x5WXP.jpg",
-      "genres": []
-    },
-    {
-      "id": 1555009,
-      "title": "The Diary of a CEO: Louis Tomlinson",
-      "release_date": "2025-10-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jC3iAwxC9W6k9ikyRij4PLIYDVt.jpg",
-      "genres": []
-    },
-    {
-      "id": 1554602,
-      "title": "頂樓",
-      "release_date": "2025-10-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dqFv5YRqIPvRnw0Wae7A1NCtp8W.jpg",
-      "genres": []
-    },
-    {
-      "id": 1554339,
-      "title": "The Wasp or The Sheer Beauty of Accepting Yourself",
-      "release_date": "2025-10-08",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1553939,
-      "title": "Niccolò",
-      "release_date": "2025-10-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lFfwEOrrrNcZD8vZxbAZQuBXm77.jpg",
-      "genres": [
-        "мультфильм"
       ]
     }
   ],
