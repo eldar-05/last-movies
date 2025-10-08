@@ -1,16 +1,22 @@
 {
   "id": 1555009,
-  "title": "The Diary Of A CEO: Louis Tomlinson",
+  "title": "The Diary of a CEO: Louis Tomlinson",
   "tagline": "",
   "overview": "",
   "release_date": "2025-10-08",
-  "runtime": 120,
+  "runtime": 114,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "документальный"
+  ],
   "original_language": "en",
-  "spoken_languages": [],
-  "production_countries": [],
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "GB"
+  ],
   "poster_url": "https://image.tmdb.org/t/p/w500/jC3iAwxC9W6k9ikyRij4PLIYDVt.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/ltGIxks5IausixW3O369YdokLNe.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1555009",
@@ -19,6 +25,6 @@
     "name": "The Diary of a CEO: - Official Teaser Trailer (2025) - Louis Tomlinson, Steven Bartlett",
     "type": "Trailer"
   },
-  "fetched_at_utc": "2025-10-08T00:56:22.114403+00:00",
+  "fetched_at_utc": "2025-10-08T06:19:06.549877+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
