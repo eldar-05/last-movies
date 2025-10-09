@@ -1,20 +1,22 @@
 {
-  "id": 1559413,
-  "title": "why god?",
+  "id": 1559546,
+  "title": "Cigarettes",
   "tagline": "",
   "overview": "",
   "release_date": "2025-10-09",
-  "runtime": 1,
+  "runtime": 15,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "приключения"
+  ],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/3EJT9jmXvd5AntSEAk0zG0oSah7.jpg",
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1559413",
+  "tmdb_url": "https://www.themoviedb.org/movie/1559546",
   "trailer": null,
-  "fetched_at_utc": "2025-10-09T12:24:55.419111+00:00",
+  "fetched_at_utc": "2025-10-09T12:24:55.285264+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

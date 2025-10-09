@@ -1,9 +1,30 @@
 {
-  "fetched_at_utc": "2025-10-09T06:19:27.267321+00:00",
+  "fetched_at_utc": "2025-10-09T12:24:56.386492+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1559596,
+      "title": "Patikim ni Robb Guinto",
+      "release_date": "2025-10-09",
+      "vote_average": 6.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6Tn90cNMzXLOHcWRSb1anRLZ5Bp.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1559546,
+      "title": "Cigarettes",
+      "release_date": "2025-10-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3EJT9jmXvd5AntSEAk0zG0oSah7.jpg",
+      "genres": [
+        "приключения"
+      ]
+    },
     {
       "id": 1559413,
       "title": "why god?",
@@ -82,26 +103,6 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/5Pa5cfR0dV3AuqtTqOHE0To6u6T.jpg",
       "genres": []
-    },
-    {
-      "id": 1558321,
-      "title": "Lemons (Singular)",
-      "release_date": "2025-10-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8vPc9meraAcyqv9lZa5mHVweczN.jpg",
-      "genres": []
-    },
-    {
-      "id": 1558260,
-      "title": "Murmur: Red Hill",
-      "release_date": "2025-10-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dbSaYEC9IT6q3croNyGEQzQxrYo.jpg",
-      "genres": [
-        "ужасы",
-        "драма",
-        "музыка"
-      ]
     }
   ],
   "source": "TMDB",
