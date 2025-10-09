@@ -1,0 +1,26 @@
+{
+  "id": 1559718,
+  "title": "La Dernière Neige",
+  "tagline": "",
+  "overview": "",
+  "release_date": "",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/c2RbgFaaFYYTAbUBgZ4E8luEVx8.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/gLaeD08Cb8UaYXZGkAeHhBL2snh.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1559718",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-09T18:17:49.503154+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

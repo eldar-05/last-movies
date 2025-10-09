@@ -1,18 +1,56 @@
 {
-  "fetched_at_utc": "2025-10-09T12:24:56.386492+00:00",
+  "fetched_at_utc": "2025-10-09T18:17:51.828253+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1559596,
-      "title": "Patikim ni Robb Guinto",
+      "id": 1559777,
+      "title": "Ludmilla",
       "release_date": "2025-10-09",
-      "vote_average": 6.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6Tn90cNMzXLOHcWRSb1anRLZ5Bp.jpg",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gkWCejanjS10aMu5yuFxCRqUmMC.jpg",
       "genres": [
         "драма",
-        "мелодрама"
+        "комедия"
+      ]
+    },
+    {
+      "id": 1559753,
+      "title": "Bourvil : le rire et la tendresse",
+      "release_date": "2025-10-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/x8przAGsn5X6y0QbfM67XSlGL1F.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1559734,
+      "title": "Nerves",
+      "release_date": "2025-10-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/l6buNJeoTDenCezyBmXn6MUravf.jpg",
+      "genres": []
+    },
+    {
+      "id": 1559718,
+      "title": "La Dernière Neige",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/c2RbgFaaFYYTAbUBgZ4E8luEVx8.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1559696,
+      "title": "Arthur Rimbaud : Six mois en enfer",
+      "release_date": "2025-10-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hvVAfnNo1BhXhCLLJtxtGk7E8NP.jpg",
+      "genres": [
+        "документальный"
       ]
     },
     {
@@ -24,14 +62,6 @@
       "genres": [
         "приключения"
       ]
-    },
-    {
-      "id": 1559413,
-      "title": "why god?",
-      "release_date": "2025-10-09",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
     },
     {
       "id": 1559376,
@@ -73,36 +103,6 @@
       "genres": [
         "документальный"
       ]
-    },
-    {
-      "id": 1558951,
-      "title": "In Between",
-      "release_date": "2025-10-09",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1558934,
-      "title": "El oso de peluche",
-      "release_date": "2025-10-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xZy1l9oJ57ClkSs7ndgs7OH7h3W.jpg",
-      "genres": [
-        "драма",
-        "триллер",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1558658,
-      "title": "Kokoro",
-      "release_date": "2025-10-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5Pa5cfR0dV3AuqtTqOHE0To6u6T.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",
