@@ -3,7 +3,7 @@
   "title": "Resurgence",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-10-09",
   "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
@@ -19,9 +19,9 @@
     "FR"
   ],
   "poster_url": "https://image.tmdb.org/t/p/w500/xSdbwKf4zAldLbzO3nUPHECsSFJ.jpg",
-  "backdrop_url": "https://image.tmdb.org/t/p/w780/wKqAIBUsNIRquHlp8LWEGCVVOFq.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/pTTeyDsSpVSM4eFQJmAWWcz8tXZ.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1559376",
   "trailer": null,
-  "fetched_at_utc": "2025-10-09T00:57:08.701603+00:00",
+  "fetched_at_utc": "2025-10-09T06:19:25.794606+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

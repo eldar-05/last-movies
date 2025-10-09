@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-10-09T00:57:10.332859+00:00",
+  "fetched_at_utc": "2025-10-09T06:19:27.267321+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -15,7 +15,7 @@
     {
       "id": 1559376,
       "title": "Resurgence",
-      "release_date": "",
+      "release_date": "2025-10-09",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/xSdbwKf4zAldLbzO3nUPHECsSFJ.jpg",
       "genres": [
