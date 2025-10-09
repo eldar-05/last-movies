@@ -1,101 +1,106 @@
 {
-  "fetched_at_utc": "2025-10-08T18:18:51.920975+00:00",
+  "fetched_at_utc": "2025-10-09T00:57:10.332859+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1559078,
-      "title": "Metapora",
-      "release_date": "2025-10-08",
+      "id": 1559413,
+      "title": "why god?",
+      "release_date": "2025-10-09",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ocNYBBVq0YLKwy4Y7OrE0XkOQ6E.jpg",
+      "poster_url": null,
       "genres": []
     },
     {
-      "id": 1559074,
-      "title": "Maria",
-      "release_date": "2025-10-08",
+      "id": 1559376,
+      "title": "Resurgence",
+      "release_date": "",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wZ6UejRUleQCE49aMBF62Jjko3E.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xSdbwKf4zAldLbzO3nUPHECsSFJ.jpg",
+      "genres": [
+        "фантастика",
+        "ужасы",
+        "детектив",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1559239,
+      "title": "Morirás al alba",
+      "release_date": "2025-10-09",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": []
     },
     {
-      "id": 1559037,
-      "title": "All In",
-      "release_date": "2025-10-08",
+      "id": 1559213,
+      "title": "Cuarto oscuro",
+      "release_date": "2025-10-09",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zCOFnU6UjY5bjjeBx5WqQU2bGQJ.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1558899,
-      "title": "Blowie",
-      "release_date": "2025-10-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rHy0d2xrhvZISnH76DgOzNZZatg.jpg",
-      "genres": []
-    },
-    {
-      "id": 1558871,
-      "title": "BRAISE",
-      "release_date": "2025-10-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fWiueABjtvHNRDnltd5p8zrdveT.jpg",
-      "genres": [
-        "триллер",
-        "драма",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1558560,
-      "title": "Steiners Skyggeside",
-      "release_date": "2025-10-08",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1miH19y5zUgU8nr355Llpwxikyj.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1558273,
-      "title": "Glaciers d'Arctique, état des lieux",
-      "release_date": "2025-10-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dbTk5IdeBpdhobv7WwTLssgopRH.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1557936,
-      "title": "Echoes of Resilience: Daughters of Two Rivers",
-      "release_date": "2025-10-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wnoCcp0XWyj91qcuTWxbCKIwQFh.jpg",
-      "genres": []
-    },
-    {
-      "id": 1556930,
-      "title": "Căi ferate",
-      "release_date": "2025-10-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bVwKmSh33NybvuTOtu863NxyMfR.jpg",
+      "poster_url": null,
       "genres": [
         "мультфильм"
       ]
     },
     {
-      "id": 1556383,
-      "title": "Short Sharp Scares: Snare",
-      "release_date": "2025-10-08",
+      "id": 1558952,
+      "title": "Шувуулахуй",
+      "release_date": "2025-10-09",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/u1Oae8zEVY2JOheVCMOB18ngKpb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4MbJndVy3jTjD8Bam9dYlv6PbKE.jpg",
       "genres": [
-        "ужасы"
+        "документальный"
+      ]
+    },
+    {
+      "id": 1558951,
+      "title": "In Between",
+      "release_date": "2025-10-09",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1558934,
+      "title": "El oso de peluche",
+      "release_date": "2025-10-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xZy1l9oJ57ClkSs7ndgs7OH7h3W.jpg",
+      "genres": [
+        "драма",
+        "триллер",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1558658,
+      "title": "Kokoro",
+      "release_date": "2025-10-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5Pa5cfR0dV3AuqtTqOHE0To6u6T.jpg",
+      "genres": []
+    },
+    {
+      "id": 1558321,
+      "title": "Lemons (Singular)",
+      "release_date": "2025-10-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8vPc9meraAcyqv9lZa5mHVweczN.jpg",
+      "genres": []
+    },
+    {
+      "id": 1558260,
+      "title": "Murmur: Red Hill",
+      "release_date": "2025-10-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/dbSaYEC9IT6q3croNyGEQzQxrYo.jpg",
+      "genres": [
+        "ужасы",
+        "драма",
+        "музыка"
       ]
     }
   ],

@@ -1,0 +1,28 @@
+{
+  "id": 1558934,
+  "title": "El oso de peluche",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-09",
+  "runtime": 20,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "триллер",
+    "детектив"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "AR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/xZy1l9oJ57ClkSs7ndgs7OH7h3W.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1558934",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-09T00:57:09.722942+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
