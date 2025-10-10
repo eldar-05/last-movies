@@ -5,8 +5,8 @@
   "overview": "",
   "release_date": "2025-10-10",
   "runtime": 16,
-  "vote_average": 0.0,
-  "vote_count": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
   "genres": [
     "комедия",
     "криминал",
@@ -16,11 +16,17 @@
   "spoken_languages": [
     "English"
   ],
-  "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/s2BNiY03TOlkBdGFOoWSIGVbZfF.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/sZTl6AIQSnoVqfKgyzc4migZYjw.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1560115",
-  "trailer": null,
-  "fetched_at_utc": "2025-10-10T12:25:27.545260+00:00",
+  "trailer": {
+    "key": "6S2VV1qgYBk",
+    "name": "\"The Bit\" Sneak Peek",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-10T18:17:53.426683+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

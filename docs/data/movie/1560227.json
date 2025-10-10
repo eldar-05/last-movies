@@ -1,0 +1,24 @@
+{
+  "id": 1560227,
+  "title": "UnWelcome",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-10",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/gKhzj7qthbXte3supjVUUsFZAcF.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1560227",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-10T18:17:53.045096+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
