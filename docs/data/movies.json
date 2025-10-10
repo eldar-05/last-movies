@@ -1,9 +1,89 @@
 {
-  "fetched_at_utc": "2025-10-10T06:19:00.403571+00:00",
+  "fetched_at_utc": "2025-10-10T12:25:29.036099+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1560123,
+      "title": "rambo",
+      "release_date": "2025-10-10",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "боевик",
+        "драма"
+      ]
+    },
+    {
+      "id": 1560115,
+      "title": "\"The Bit\"",
+      "release_date": "2025-10-10",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "комедия",
+        "криминал",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1560097,
+      "title": "Regresión",
+      "release_date": "2025-10-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fOgrqTTIalGRrcEzpT26Z0YiUZ5.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1560089,
+      "title": "Fantasmas",
+      "release_date": "2025-10-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9ZDxfOCJM3n0WKAqRD4PrRdIBU4.jpg",
+      "genres": [
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1560086,
+      "title": "Entre Tijeras y Cartón",
+      "release_date": "2025-10-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/sIIMDpRuqdet752D8yVCyzJrJUH.jpg",
+      "genres": [
+        "фэнтези",
+        "драма"
+      ]
+    },
+    {
+      "id": 1560077,
+      "title": "El Porteador",
+      "release_date": "2025-10-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lsuw1nBlOzo02tYeLLH7xBZVnUZ.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1560046,
+      "title": "午后茶香",
+      "release_date": "2025-10-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bAANmptDVZM0ZlN4HbEEvUcfnhE.jpg",
+      "genres": []
+    },
+    {
+      "id": 1560044,
+      "title": "金银决",
+      "release_date": "2025-10-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/48a9UYztlgj73SjX8gOvZlgA5Az.jpg",
+      "genres": []
+    },
     {
       "id": 1559881,
       "title": "Crownless Queen of the Garden",
@@ -20,91 +100,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/8jvHERmDtlFb8jWbxiw7Au9Z6ji.jpg",
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1559620,
-      "title": "Liyu Aleme",
-      "release_date": "2025-10-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bUdwgsmqBcXseXQ3BKB4qWe0zaQ.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1559438,
-      "title": "11:17",
-      "release_date": "2025-10-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aSwzzyB5Cq1iyK6lsmzXX8kdTjd.jpg",
-      "genres": [
-        "драма",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1559368,
-      "title": "El aspirante",
-      "release_date": "2025-10-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bBRC55cBD7IsVGMK8dTURW4gelB.jpg",
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1559243,
-      "title": "Ocre",
-      "release_date": "2025-10-10",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1559092,
-      "title": "Will",
-      "release_date": "2025-10-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7eUMnu3jsZ9RVsV3nooUebKcinn.jpg",
-      "genres": [
-        "криминал",
-        "триллер",
-        "семейный",
-        "драма"
-      ]
-    },
-    {
-      "id": 1558339,
-      "title": "todos os meus irmãos estão numa caixa que fede",
-      "release_date": "2025-10-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tSVbiDDHStQGH27TMjZFTtcbw1f.jpg",
-      "genres": [
-        "история"
-      ]
-    },
-    {
-      "id": 1558252,
-      "title": "Irudhi Muyarchi",
-      "release_date": "2025-10-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/54UDLmD1Ug7fWaUDnu1Ysh2rP1U.jpg",
-      "genres": [
-        "семейный",
-        "драма",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1557889,
-      "title": "Soohe Ve Cheere Waleya",
-      "release_date": "2025-10-10",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мелодрама",
-        "драма"
       ]
     }
   ],

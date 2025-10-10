@@ -1,0 +1,26 @@
+{
+  "id": 1560089,
+  "title": "Fantasmas",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-10",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фэнтези"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "PE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/9ZDxfOCJM3n0WKAqRD4PrRdIBU4.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/b8kDF2nwXi6Xusfyxx6TRTdmh0b.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1560089",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-10T12:25:27.927076+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

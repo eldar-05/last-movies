@@ -1,0 +1,26 @@
+{
+  "id": 1560115,
+  "title": "\"The Bit\"",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-10",
+  "runtime": 16,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "криминал",
+    "детектив"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1560115",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-10T12:25:27.545260+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

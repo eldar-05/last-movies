@@ -1,0 +1,24 @@
+{
+  "id": 1560097,
+  "title": "Regresión",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-10",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "es",
+  "spoken_languages": [],
+  "production_countries": [
+    "PE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/fOgrqTTIalGRrcEzpT26Z0YiUZ5.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/hw6ZXITXTqwYvmQ8MLAe7eeKEdP.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1560097",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-10T12:25:27.738249+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

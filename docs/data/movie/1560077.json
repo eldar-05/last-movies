@@ -1,0 +1,27 @@
+{
+  "id": 1560077,
+  "title": "El Porteador",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-10",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "PE",
+    "RU"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/lsuw1nBlOzo02tYeLLH7xBZVnUZ.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/778sagmne7lgwex9mTMPU1mKzUz.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1560077",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-10T12:25:28.276332+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1560086,
+  "title": "Entre Tijeras y Cartón",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-10",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фэнтези",
+    "драма"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "PE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/sIIMDpRuqdet752D8yVCyzJrJUH.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/ttuvVr1wkAoipjt6mCMiNS4NqyB.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1560086",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-10T12:25:28.091615+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
