@@ -1,0 +1,30 @@
+{
+  "id": 1559620,
+  "title": "Liyu Aleme",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-10",
+  "runtime": 102,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "am",
+  "spoken_languages": [
+    "Amharic"
+  ],
+  "production_countries": [
+    "ET"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/bUdwgsmqBcXseXQ3BKB4qWe0zaQ.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/z40aVSqbysgkcX2J80m4qXtwMTr.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1559620",
+  "trailer": {
+    "key": "868hHVXNQXc",
+    "name": "Liyu Aleme",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-10T00:56:55.658531+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

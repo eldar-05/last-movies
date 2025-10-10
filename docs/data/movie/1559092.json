@@ -1,0 +1,31 @@
+{
+  "id": 1559092,
+  "title": "Will",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-10",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "криминал",
+    "триллер",
+    "семейный",
+    "драма"
+  ],
+  "original_language": "ta",
+  "spoken_languages": [
+    "Tamil"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/7eUMnu3jsZ9RVsV3nooUebKcinn.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/11nQkkjNGvWxXRwHMQRTU7l6JrH.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1559092",
+  "trailer": {
+    "key": "EyP3xI3JaW8",
+    "name": "Will - Tamil Movie Teaser | Vikranth | Sonia Agarwal | S.Sivaraman | Saurabh Aggarwal | Foot Steps",
+    "type": "Teaser"
+  },
+  "fetched_at_utc": "2025-10-10T00:56:56.269302+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1558252,
+  "title": "Irudhi Muyarchi",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-10",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "семейный",
+    "драма",
+    "триллер"
+  ],
+  "original_language": "ta",
+  "spoken_languages": [],
+  "production_countries": [
+    "IN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/54UDLmD1Ug7fWaUDnu1Ysh2rP1U.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/4w2sYa5H2mxNoRkPjgMutD9fOgo.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1558252",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-10T00:56:56.574905+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

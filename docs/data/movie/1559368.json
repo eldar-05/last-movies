@@ -1,0 +1,26 @@
+{
+  "id": 1559368,
+  "title": "El aspirante",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-10",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/bBRC55cBD7IsVGMK8dTURW4gelB.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/9majMoxTAmS8FEEEAvNLNuYkjLQ.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1559368",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-10T00:56:55.997761+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

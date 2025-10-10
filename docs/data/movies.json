@@ -1,107 +1,110 @@
 {
-  "fetched_at_utc": "2025-10-09T18:17:51.828253+00:00",
+  "fetched_at_utc": "2025-10-10T00:56:56.723654+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1559777,
-      "title": "Ludmilla",
-      "release_date": "2025-10-09",
+      "id": 1559881,
+      "title": "Crownless Queen of the Garden",
+      "release_date": "2025-10-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gkWCejanjS10aMu5yuFxCRqUmMC.jpg",
-      "genres": [
-        "драма",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1559753,
-      "title": "Bourvil : le rire et la tendresse",
-      "release_date": "2025-10-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/x8przAGsn5X6y0QbfM67XSlGL1F.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1559734,
-      "title": "Nerves",
-      "release_date": "2025-10-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/l6buNJeoTDenCezyBmXn6MUravf.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lFATzy5Y4pfZE1bt3Q3eKvDvyTx.jpg",
       "genres": []
     },
     {
-      "id": 1559718,
-      "title": "La Dernière Neige",
-      "release_date": "",
+      "id": 1559685,
+      "title": "SOS jeunesse en détresse",
+      "release_date": "2025-10-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/c2RbgFaaFYYTAbUBgZ4E8luEVx8.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1559696,
-      "title": "Arthur Rimbaud : Six mois en enfer",
-      "release_date": "2025-10-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hvVAfnNo1BhXhCLLJtxtGk7E8NP.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8jvHERmDtlFb8jWbxiw7Au9Z6ji.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1559546,
-      "title": "Cigarettes",
-      "release_date": "2025-10-09",
+      "id": 1559620,
+      "title": "Liyu Aleme",
+      "release_date": "2025-10-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3EJT9jmXvd5AntSEAk0zG0oSah7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bUdwgsmqBcXseXQ3BKB4qWe0zaQ.jpg",
       "genres": [
-        "приключения"
+        "драма"
       ]
     },
     {
-      "id": 1559376,
-      "title": "Resurgence",
-      "release_date": "2025-10-09",
+      "id": 1559438,
+      "title": "11:17",
+      "release_date": "2025-10-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xSdbwKf4zAldLbzO3nUPHECsSFJ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aSwzzyB5Cq1iyK6lsmzXX8kdTjd.jpg",
       "genres": [
-        "фантастика",
-        "ужасы",
-        "детектив",
+        "драма",
         "триллер"
       ]
     },
     {
-      "id": 1559239,
-      "title": "Morirás al alba",
-      "release_date": "2025-10-09",
+      "id": 1559368,
+      "title": "El aspirante",
+      "release_date": "2025-10-10",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1559213,
-      "title": "Cuarto oscuro",
-      "release_date": "2025-10-09",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bBRC55cBD7IsVGMK8dTURW4gelB.jpg",
       "genres": [
         "мультфильм"
       ]
     },
     {
-      "id": 1558952,
-      "title": "Шувуулахуй",
-      "release_date": "2025-10-09",
+      "id": 1559243,
+      "title": "Ocre",
+      "release_date": "2025-10-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4MbJndVy3jTjD8Bam9dYlv6PbKE.jpg",
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1559092,
+      "title": "Will",
+      "release_date": "2025-10-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/7eUMnu3jsZ9RVsV3nooUebKcinn.jpg",
       "genres": [
-        "документальный"
+        "криминал",
+        "триллер",
+        "семейный",
+        "драма"
+      ]
+    },
+    {
+      "id": 1558339,
+      "title": "todos os meus irmãos estão numa caixa que fede",
+      "release_date": "2025-10-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tSVbiDDHStQGH27TMjZFTtcbw1f.jpg",
+      "genres": [
+        "история"
+      ]
+    },
+    {
+      "id": 1558252,
+      "title": "Irudhi Muyarchi",
+      "release_date": "2025-10-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/54UDLmD1Ug7fWaUDnu1Ysh2rP1U.jpg",
+      "genres": [
+        "семейный",
+        "драма",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1557889,
+      "title": "Soohe Ve Cheere Waleya",
+      "release_date": "2025-10-10",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "мелодрама",
+        "драма"
       ]
     }
   ],
