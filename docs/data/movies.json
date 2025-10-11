@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-10-11T00:54:18.996712+00:00",
+  "fetched_at_utc": "2025-10-11T06:16:19.374337+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -28,9 +28,9 @@
     {
       "id": 1560416,
       "title": "The Second Chance I Need to Live",
-      "release_date": "",
+      "release_date": "2025-10-11",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fAndzpIQy8a8fak8C5pT4IvWXb2.jpg",
       "genres": [
         "драма",
         "фэнтези"
