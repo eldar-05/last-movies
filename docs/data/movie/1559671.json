@@ -1,0 +1,26 @@
+{
+  "id": 1559671,
+  "title": "Forever, Liam",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-11",
+  "runtime": 22,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "драма"
+  ],
+  "original_language": "es",
+  "spoken_languages": [],
+  "production_countries": [
+    "CA",
+    "VE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/o6lnlMucUErJQTctxUYwlShKWWh.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/1sFFH5ViYAXj13fgsuh8q7t9hIy.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1559671",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-11T12:21:14.496284+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,9 +1,31 @@
 {
-  "fetched_at_utc": "2025-10-11T06:16:19.374337+00:00",
+  "fetched_at_utc": "2025-10-11T12:21:14.496674+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1560688,
+      "title": "带我去飞",
+      "release_date": "2025-10-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1JAjakH40k7Zre38t9OUWK9JPkM.jpg",
+      "genres": [
+        "мультфильм",
+        "военный"
+      ]
+    },
+    {
+      "id": 1560614,
+      "title": "Habitual",
+      "release_date": "2025-10-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/12LLCD3wmfBfNSsoxNy1CMTufue.jpg",
+      "genres": [
+        "триллер",
+        "детектив"
+      ]
+    },
     {
       "id": 1560524,
       "title": "De 4 a 12",
@@ -23,6 +45,17 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/p9JFT944N9bfRcmvyXxJuknTopr.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 1560438,
+      "title": "Replay",
+      "release_date": "2025-10-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/PufAwJbwBcr87X68cXh6oYUzj1.jpg",
+      "genres": [
+        "драма",
+        "музыка"
       ]
     },
     {
@@ -67,43 +100,14 @@
       "genres": []
     },
     {
-      "id": 1559611,
-      "title": "Mon petit ange",
+      "id": 1559671,
+      "title": "Forever, Liam",
       "release_date": "2025-10-11",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/98hqcGzvYzsDxR6WHwuYz9z0lR4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/o6lnlMucUErJQTctxUYwlShKWWh.jpg",
       "genres": [
+        "ужасы",
         "драма"
-      ]
-    },
-    {
-      "id": 1559502,
-      "title": "兔子巷968號",
-      "release_date": "2025-10-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/39UaNDi8W7QM4jy5v4roVOWE0RK.jpg",
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1559281,
-      "title": "Esto es la boca vs. El mundo Plushterciopelo",
-      "release_date": "2025-10-11",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1559278,
-      "title": "En honor a Pepe Biondi",
-      "release_date": "2025-10-11",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
       ]
     }
   ],

@@ -1,0 +1,25 @@
+{
+  "id": 1560438,
+  "title": "Replay",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-11",
+  "runtime": 35,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "музыка"
+  ],
+  "original_language": "th",
+  "spoken_languages": [
+    "Thai"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/PufAwJbwBcr87X68cXh6oYUzj1.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1560438",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-11T12:21:13.458668+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
