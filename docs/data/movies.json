@@ -1,104 +1,109 @@
 {
-  "fetched_at_utc": "2025-10-10T18:17:53.426879+00:00",
+  "fetched_at_utc": "2025-10-11T00:54:18.996712+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1560360,
-      "title": "Baristas vs Billionaires",
-      "release_date": "2025-10-10",
+      "id": 1560524,
+      "title": "De 4 a 12",
+      "release_date": "2025-10-11",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cRBsRS5Ii51KiqMdFVBpZu2mXdC.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1f1nB3M19z5XC1znObmWhsfHa7r.jpg",
       "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1560324,
-      "title": "El Mal de Ojo",
-      "release_date": "",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tN70twNHlp51IE9xSPC0UfjMp3c.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1560295,
-      "title": "Love and Feathers",
-      "release_date": "2025-10-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/k1hSn2iHN6RsbHzIGoQOxpl0M3S.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1560275,
-      "title": "Motel XXX",
-      "release_date": "",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1560260,
-      "title": "Apocalypse",
-      "release_date": "2025-10-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kmGiOBrMN2iEwEHPCS7jsyBUAs3.jpg",
-      "genres": [
+        "драма",
         "комедия"
       ]
     },
     {
-      "id": 1560257,
-      "title": "最強殺し屋伝説国岡外伝 国岡ツアーズ熱海・伊豆編 古代殺し屋文明の謎と、警殺官の襲来",
-      "release_date": "2025-10-10",
+      "id": 1560505,
+      "title": "Odysseys",
+      "release_date": "2025-10-11",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tadUTp6FKVWHT3drloq8hfbLtya.jpg",
-      "genres": []
-    },
-    {
-      "id": 1560239,
-      "title": "Surveillance Film",
-      "release_date": "2025-10-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cNzZ6qy3dZhexi6qjbu7JNE42Z8.jpg",
-      "genres": []
-    },
-    {
-      "id": 1560227,
-      "title": "UnWelcome",
-      "release_date": "2025-10-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gKhzj7qthbXte3supjVUUsFZAcF.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/p9JFT944N9bfRcmvyXxJuknTopr.jpg",
       "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1560123,
-      "title": "rambo",
-      "release_date": "2025-10-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5qFJjFCvD6xxWM6doa5ziu70Rk8.jpg",
-      "genres": [
-        "боевик",
         "драма"
       ]
     },
     {
-      "id": 1560115,
-      "title": "\"The Bit\"",
-      "release_date": "2025-10-10",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/s2BNiY03TOlkBdGFOoWSIGVbZfF.jpg",
+      "id": 1560416,
+      "title": "The Second Chance I Need to Live",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
-        "комедия",
-        "криминал",
-        "детектив"
+        "драма",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1560314,
+      "title": "ODAMADO",
+      "release_date": "2025-10-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/51WETgVUiSTu4MfBpaUZUtlCqp3.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1560202,
+      "title": "The Devil and The Deep Blue Sea",
+      "release_date": "2025-10-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/njVHKkNFKo8VOV6C2eznOBorQ1S.jpg",
+      "genres": [
+        "ужасы",
+        "триллер",
+        "драма"
+      ]
+    },
+    {
+      "id": 1559843,
+      "title": "laugh",
+      "release_date": "2025-10-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rDNvLSkXz9dS9owsVo2egJJ9LNM.jpg",
+      "genres": []
+    },
+    {
+      "id": 1559611,
+      "title": "Mon petit ange",
+      "release_date": "2025-10-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/98hqcGzvYzsDxR6WHwuYz9z0lR4.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1559502,
+      "title": "兔子巷968號",
+      "release_date": "2025-10-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/39UaNDi8W7QM4jy5v4roVOWE0RK.jpg",
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1559281,
+      "title": "Esto es la boca vs. El mundo Plushterciopelo",
+      "release_date": "2025-10-11",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1559278,
+      "title": "En honor a Pepe Biondi",
+      "release_date": "2025-10-11",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
       ]
     }
   ],

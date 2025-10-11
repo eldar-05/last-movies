@@ -1,0 +1,28 @@
+{
+  "id": 1560524,
+  "title": "De 4 a 12",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-11",
+  "runtime": 63,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "комедия"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "French",
+    "Spanish"
+  ],
+  "production_countries": [
+    "EC"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/1f1nB3M19z5XC1znObmWhsfHa7r.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/goj6aRNtml1GHFBWOW28ObizoVf.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1560524",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-11T00:54:15.657341+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

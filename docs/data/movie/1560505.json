@@ -1,0 +1,26 @@
+{
+  "id": 1560505,
+  "title": "Odysseys",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-11",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "pl",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "PL"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/p9JFT944N9bfRcmvyXxJuknTopr.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/a3KtANs5SGu3FgWz8WjcLg5pJcm.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1560505",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-11T00:54:16.017885+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

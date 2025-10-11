@@ -1,0 +1,26 @@
+{
+  "id": 1560202,
+  "title": "The Devil and The Deep Blue Sea",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-11",
+  "runtime": 15,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "триллер",
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "AU"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/njVHKkNFKo8VOV6C2eznOBorQ1S.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1560202",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-11T00:54:17.115273+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
