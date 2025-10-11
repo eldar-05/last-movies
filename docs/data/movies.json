@@ -1,9 +1,99 @@
 {
-  "fetched_at_utc": "2025-10-11T12:21:14.496674+00:00",
+  "fetched_at_utc": "2025-10-11T18:14:43.126186+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1560929,
+      "title": "Stars on Stage Soldaat van Oranje tv-special!",
+      "release_date": "2025-10-11",
+      "vote_average": 9.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8snyJVjmwT0o5wT6vHmDHmj50Oa.jpg",
+      "genres": []
+    },
+    {
+      "id": 1560853,
+      "title": "Guacimara",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1560843,
+      "title": "Vampires",
+      "release_date": "2025-10-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/7xOsIGugFdOLjPWIpw0XeYBUABT.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1560840,
+      "title": "Nora Helmer",
+      "release_date": "2025-10-11",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1560825,
+      "title": "The Dreamer",
+      "release_date": "2025-10-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cha9anJykWOHYl4bdKBVqzCZVGa.jpg",
+      "genres": [
+        "триллер",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1560818,
+      "title": "336 hours",
+      "release_date": "2025-10-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5iQILWoAIt6DEyASPJAzLzefcRm.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1560769,
+      "title": "Loneliness Can Be Murder",
+      "release_date": "2025-10-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2ritn6zM61nASjm2hz9z0A1GKeX.jpg",
+      "genres": [
+        "комедия",
+        "фантастика",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1560753,
+      "title": "La Pena",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2gjmXo82UK2PSKelvAd3MghxpES.jpg",
+      "genres": []
+    },
+    {
+      "id": 1560727,
+      "title": "ไม่เลือนหาย",
+      "release_date": "2025-10-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jNi5gOTzrwzYzi1Q3lDKdpLxJLQ.jpg",
+      "genres": [
+        "семейный",
+        "драма"
+      ]
+    },
     {
       "id": 1560688,
       "title": "带我去飞",
@@ -13,101 +103,6 @@
       "genres": [
         "мультфильм",
         "военный"
-      ]
-    },
-    {
-      "id": 1560614,
-      "title": "Habitual",
-      "release_date": "2025-10-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/12LLCD3wmfBfNSsoxNy1CMTufue.jpg",
-      "genres": [
-        "триллер",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1560524,
-      "title": "De 4 a 12",
-      "release_date": "2025-10-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1f1nB3M19z5XC1znObmWhsfHa7r.jpg",
-      "genres": [
-        "драма",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1560505,
-      "title": "Odysseys",
-      "release_date": "2025-10-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/p9JFT944N9bfRcmvyXxJuknTopr.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1560438,
-      "title": "Replay",
-      "release_date": "2025-10-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/PufAwJbwBcr87X68cXh6oYUzj1.jpg",
-      "genres": [
-        "драма",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1560416,
-      "title": "The Second Chance I Need to Live",
-      "release_date": "2025-10-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fAndzpIQy8a8fak8C5pT4IvWXb2.jpg",
-      "genres": [
-        "драма",
-        "фэнтези"
-      ]
-    },
-    {
-      "id": 1560314,
-      "title": "ODAMADO",
-      "release_date": "2025-10-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/51WETgVUiSTu4MfBpaUZUtlCqp3.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1560202,
-      "title": "The Devil and The Deep Blue Sea",
-      "release_date": "2025-10-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/njVHKkNFKo8VOV6C2eznOBorQ1S.jpg",
-      "genres": [
-        "ужасы",
-        "триллер",
-        "драма"
-      ]
-    },
-    {
-      "id": 1559843,
-      "title": "laugh",
-      "release_date": "2025-10-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rDNvLSkXz9dS9owsVo2egJJ9LNM.jpg",
-      "genres": []
-    },
-    {
-      "id": 1559671,
-      "title": "Forever, Liam",
-      "release_date": "2025-10-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/o6lnlMucUErJQTctxUYwlShKWWh.jpg",
-      "genres": [
-        "ужасы",
-        "драма"
       ]
     }
   ],

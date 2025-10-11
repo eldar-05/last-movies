@@ -1,0 +1,25 @@
+{
+  "id": 1560825,
+  "title": "The Dreamer",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-11",
+  "runtime": 1,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "ужасы"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/cha9anJykWOHYl4bdKBVqzCZVGa.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1560825",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-11T18:14:41.216460+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

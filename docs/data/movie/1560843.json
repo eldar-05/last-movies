@@ -1,0 +1,24 @@
+{
+  "id": 1560843,
+  "title": "Vampires",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-11",
+  "runtime": 1,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/7xOsIGugFdOLjPWIpw0XeYBUABT.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/2uRY8ErVRS715UNsrNX8f60VTVG.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1560843",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-11T18:14:40.490819+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
