@@ -3,7 +3,7 @@
   "title": "Wandering Eyes",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-10-12",
   "runtime": 20,
   "vote_average": 0.0,
   "vote_count": 0,
@@ -20,6 +20,6 @@
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1560606",
   "trailer": null,
-  "fetched_at_utc": "2025-10-12T00:59:36.997136+00:00",
+  "fetched_at_utc": "2025-10-12T06:16:31.301999+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

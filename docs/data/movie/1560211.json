@@ -11,8 +11,10 @@
     "комедия",
     "драма"
   ],
-  "original_language": "en",
-  "spoken_languages": [],
+  "original_language": "th",
+  "spoken_languages": [
+    "Thai"
+  ],
   "production_countries": [],
   "poster_url": "https://image.tmdb.org/t/p/w500/oURcb2qPUiYGvCnbn1KrSaWPmed.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/n559nQraGzgr3FUXLfztYelPWNJ.jpg",
@@ -22,6 +24,6 @@
     "name": "(Official Teaser) Bone Voyage (by Suppachai Jantimee)",
     "type": "Teaser"
   },
-  "fetched_at_utc": "2025-10-12T00:59:37.524383+00:00",
+  "fetched_at_utc": "2025-10-12T06:16:32.235407+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
