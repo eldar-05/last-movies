@@ -1,108 +1,100 @@
 {
-  "fetched_at_utc": "2025-10-11T18:14:43.126186+00:00",
+  "fetched_at_utc": "2025-10-12T00:59:37.927185+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1560929,
-      "title": "Stars on Stage Soldaat van Oranje tv-special!",
-      "release_date": "2025-10-11",
-      "vote_average": 9.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8snyJVjmwT0o5wT6vHmDHmj50Oa.jpg",
-      "genres": []
-    },
-    {
-      "id": 1560853,
-      "title": "Guacimara",
+      "id": 1561015,
+      "title": "Far from Beyrouth",
       "release_date": "",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1560843,
-      "title": "Vampires",
-      "release_date": "2025-10-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7xOsIGugFdOLjPWIpw0XeYBUABT.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1560840,
-      "title": "Nora Helmer",
-      "release_date": "2025-10-11",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1560825,
-      "title": "The Dreamer",
-      "release_date": "2025-10-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cha9anJykWOHYl4bdKBVqzCZVGa.jpg",
-      "genres": [
-        "триллер",
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1560818,
-      "title": "336 hours",
-      "release_date": "2025-10-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5iQILWoAIt6DEyASPJAzLzefcRm.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/l5z8IxlqQlBSSKhqLCiSkyeTpyg.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1560769,
-      "title": "Loneliness Can Be Murder",
-      "release_date": "2025-10-11",
+      "id": 1561005,
+      "title": "O  Thanatos   me   Prosehi",
+      "release_date": "2025-10-12",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2ritn6zM61nASjm2hz9z0A1GKeX.jpg",
-      "genres": [
-        "комедия",
-        "фантастика",
-        "фэнтези"
-      ]
-    },
-    {
-      "id": 1560753,
-      "title": "La Pena",
-      "release_date": "",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2gjmXo82UK2PSKelvAd3MghxpES.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fuOIVBoU5pt2uTfYQc33TGLt242.jpg",
       "genres": []
     },
     {
-      "id": 1560727,
-      "title": "ไม่เลือนหาย",
-      "release_date": "2025-10-11",
+      "id": 1560696,
+      "title": "Nieuwe Stad",
+      "release_date": "2025-10-12",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jNi5gOTzrwzYzi1Q3lDKdpLxJLQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/djDIROKTbg6Syh6Z1RjVXDxYLyu.jpg",
+      "genres": []
+    },
+    {
+      "id": 1560643,
+      "title": "Complacientes Anónimos",
+      "release_date": "2025-10-12",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1560606,
+      "title": "Wandering Eyes",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/z4NxMCqHshqL9vnQSHCOQl6JzHh.jpg",
       "genres": [
-        "семейный",
+        "мелодрама",
         "драма"
       ]
     },
     {
-      "id": 1560688,
-      "title": "带我去飞",
-      "release_date": "2025-10-11",
+      "id": 1560526,
+      "title": "Exchange of Fire",
+      "release_date": "2025-10-12",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1JAjakH40k7Zre38t9OUWK9JPkM.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9lN1QFl8a2qZFj4dl43BY4FFraw.jpg",
+      "genres": []
+    },
+    {
+      "id": 1560513,
+      "title": "Black Joy",
+      "release_date": "2025-10-12",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1560211,
+      "title": "Bone Voyage",
+      "release_date": "2025-10-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oURcb2qPUiYGvCnbn1KrSaWPmed.jpg",
       "genres": [
-        "мультфильм",
-        "военный"
+        "комедия",
+        "драма"
+      ]
+    },
+    {
+      "id": 1559987,
+      "title": "Hay algo detras de ti",
+      "release_date": "2025-10-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/7BwQU7W1A4CCp92HhUBy5RxuEri.jpg",
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1559841,
+      "title": "SONHO QUE VIVIA ACORDADO",
+      "release_date": "2025-10-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9BXfRxagkdGBEntr1vG7OPQxis3.jpg",
+      "genres": [
+        "драма",
+        "документальный"
       ]
     }
   ],

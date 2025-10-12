@@ -1,0 +1,27 @@
+{
+  "id": 1559841,
+  "title": "SONHO QUE VIVIA ACORDADO",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-12",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "документальный"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/9BXfRxagkdGBEntr1vG7OPQxis3.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/oAL9rTZNgsY4etmr2PZ2pukVuJa.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1559841",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-12T00:59:37.926729+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

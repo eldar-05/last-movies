@@ -1,0 +1,27 @@
+{
+  "id": 1560211,
+  "title": "Bone Voyage",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-12",
+  "runtime": 22,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/oURcb2qPUiYGvCnbn1KrSaWPmed.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/n559nQraGzgr3FUXLfztYelPWNJ.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1560211",
+  "trailer": {
+    "key": "D31MXtFzlus",
+    "name": "(Official Teaser) Bone Voyage (by Suppachai Jantimee)",
+    "type": "Teaser"
+  },
+  "fetched_at_utc": "2025-10-12T00:59:37.524383+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

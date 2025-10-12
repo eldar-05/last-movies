@@ -1,0 +1,25 @@
+{
+  "id": 1560513,
+  "title": "Black Joy",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-12",
+  "runtime": 19,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "en",
+  "spoken_languages": [
+    "English",
+    "German"
+  ],
+  "production_countries": [
+    "DE"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1560513",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-12T00:59:37.403383+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

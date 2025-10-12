@@ -1,0 +1,23 @@
+{
+  "id": 1561015,
+  "title": "Far from Beyrouth",
+  "tagline": "",
+  "overview": "",
+  "release_date": "",
+  "runtime": 22,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "en",
+  "spoken_languages": [
+    "Arabic",
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/l5z8IxlqQlBSSKhqLCiSkyeTpyg.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/wQyMLiNDaIk8ubukIBmyN0IEU7p.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1561015",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-12T00:59:36.213050+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
