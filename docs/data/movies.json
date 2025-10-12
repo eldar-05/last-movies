@@ -1,9 +1,21 @@
 {
-  "fetched_at_utc": "2025-10-12T06:16:33.012949+00:00",
+  "fetched_at_utc": "2025-10-12T12:21:30.412952+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1561186,
+      "title": "Первое и последнее видео Ермаковского...",
+      "release_date": "2025-10-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/dHqCoUUwYq5zk0fxHoW03zqJq8E.jpg",
+      "genres": [
+        "документальный",
+        "драма",
+        "военный"
+      ]
+    },
     {
       "id": 1561015,
       "title": "Far from Beyrouth",
@@ -84,17 +96,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/7BwQU7W1A4CCp92HhUBy5RxuEri.jpg",
       "genres": [
         "мультфильм"
-      ]
-    },
-    {
-      "id": 1559841,
-      "title": "SONHO QUE VIVIA ACORDADO",
-      "release_date": "2025-10-12",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9BXfRxagkdGBEntr1vG7OPQxis3.jpg",
-      "genres": [
-        "драма",
-        "документальный"
       ]
     }
   ],
