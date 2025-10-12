@@ -1,0 +1,22 @@
+{
+  "id": 1561281,
+  "title": "Sofia",
+  "tagline": "",
+  "overview": "",
+  "release_date": "",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/j465LQd6KbADvHdGa8nObjFKIxd.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1561281",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-12T18:15:31.080082+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

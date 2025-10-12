@@ -1,9 +1,69 @@
 {
-  "fetched_at_utc": "2025-10-12T12:21:30.412952+00:00",
+  "fetched_at_utc": "2025-10-12T18:15:32.474330+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1561320,
+      "title": "Marieke Twijfelt",
+      "release_date": "2025-10-12",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный",
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1561314,
+      "title": "Solstice",
+      "release_date": "2025-10-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pzcoAtu9ApfqO52Z2n8vWLuqeKT.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1561281,
+      "title": "Sofia",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/j465LQd6KbADvHdGa8nObjFKIxd.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1561279,
+      "title": "RUBY BEAUTY",
+      "release_date": "2025-10-12",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "криминал"
+      ]
+    },
+    {
+      "id": 1561238,
+      "title": "Silent Fractures",
+      "release_date": "2025-10-12",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1561234,
+      "title": "Lo que nos vemos (pero está)",
+      "release_date": "2025-10-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zyUx2wIF0jzQfcWMF1JMcwnPbez.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1561186,
       "title": "Первое и последнее видео Ермаковского...",
@@ -41,62 +101,6 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/djDIROKTbg6Syh6Z1RjVXDxYLyu.jpg",
       "genres": []
-    },
-    {
-      "id": 1560643,
-      "title": "Complacientes Anónimos",
-      "release_date": "2025-10-12",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1560606,
-      "title": "Wandering Eyes",
-      "release_date": "2025-10-12",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/z4NxMCqHshqL9vnQSHCOQl6JzHh.jpg",
-      "genres": [
-        "мелодрама",
-        "драма"
-      ]
-    },
-    {
-      "id": 1560526,
-      "title": "Exchange of Fire",
-      "release_date": "2025-10-12",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9lN1QFl8a2qZFj4dl43BY4FFraw.jpg",
-      "genres": []
-    },
-    {
-      "id": 1560513,
-      "title": "Black Joy",
-      "release_date": "2025-10-12",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1560211,
-      "title": "Bone Voyage",
-      "release_date": "2025-10-12",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oURcb2qPUiYGvCnbn1KrSaWPmed.jpg",
-      "genres": [
-        "комедия",
-        "драма"
-      ]
-    },
-    {
-      "id": 1559987,
-      "title": "Hay algo detras de ti",
-      "release_date": "2025-10-12",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7BwQU7W1A4CCp92HhUBy5RxuEri.jpg",
-      "genres": [
-        "мультфильм"
-      ]
     }
   ],
   "source": "TMDB",
