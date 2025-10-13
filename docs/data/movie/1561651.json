@@ -1,0 +1,26 @@
+{
+  "id": 1561651,
+  "title": "Qué ciudad es esta",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-13",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "PE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/rGFR0FxGwQbqLRtwKm5fw81Ynja.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/xcGdYq5dzPKlM7JtWm3UCS6hXFf.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1561651",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-13T12:25:33.252375+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

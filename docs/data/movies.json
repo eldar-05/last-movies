@@ -1,9 +1,90 @@
 {
-  "fetched_at_utc": "2025-10-13T06:20:22.806855+00:00",
+  "fetched_at_utc": "2025-10-13T12:25:35.418015+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1561652,
+      "title": "Una caja silenciosa",
+      "release_date": "2025-10-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/dBt3B9tVVTMotJyv74WI7zbKSNP.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1561651,
+      "title": "Qué ciudad es esta",
+      "release_date": "2025-10-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rGFR0FxGwQbqLRtwKm5fw81Ynja.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1561648,
+      "title": "Las memorias humanas del jardín rojo",
+      "release_date": "2025-10-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yHd7pdQlKgnTBjCFVZvh4hE9HkA.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1561629,
+      "title": "Llamas",
+      "release_date": "2025-10-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vni5rHjURhsnkOVcSuNwOnxfkt5.jpg",
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1561625,
+      "title": "The Black Jacket",
+      "release_date": "2025-10-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gYE6A0wC4wKnjUx3nntwASdKJAa.jpg",
+      "genres": [
+        "комедия",
+        "боевик"
+      ]
+    },
+    {
+      "id": 1561622,
+      "title": "EXIT",
+      "release_date": "2025-10-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fniSOmRZYkl1gX34CM4lw9O6q7G.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1561619,
+      "title": "César Vallejo IA",
+      "release_date": "2025-10-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qLgFJSKALPEuk4UAnYewUNrsmIY.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1561616,
+      "title": "Aquí",
+      "release_date": "2025-10-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/admY0YA4SxaeukplTHFmHM24tCJ.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1561602,
       "title": "Devil in the Gat",
@@ -15,85 +96,6 @@
     {
       "id": 1561037,
       "title": "On the Rungs of Jacob's Ladder",
-      "release_date": "2025-10-13",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1561028,
-      "title": "Breu Febril",
-      "release_date": "2025-10-13",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1560993,
-      "title": "The Short Film That Goes Wrong",
-      "release_date": "2025-10-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oEGTKMhGp9cvbFcLmY9FexFC2iu.jpg",
-      "genres": [
-        "документальный",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1560840,
-      "title": "Nora Helmer",
-      "release_date": "2025-10-13",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1560731,
-      "title": "EL PINGÜINO",
-      "release_date": "2025-10-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6kHxUwYDKch6BOdRgYr0x4kyZ4Y.jpg",
-      "genres": []
-    },
-    {
-      "id": 1559276,
-      "title": "Disitango, un abrazo feminista",
-      "release_date": "2025-10-13",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1558499,
-      "title": "Shelby",
-      "release_date": "2025-10-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rsxMBHvLbxRVVqd0dgZ0EFjgPqn.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1557702,
-      "title": "Date Night",
-      "release_date": "2025-10-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qudeQFB2LF26bTcjDywZAtjeUT8.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1556561,
-      "title": "Co do... kury?",
       "release_date": "2025-10-13",
       "vote_average": 0.0,
       "poster_url": null,

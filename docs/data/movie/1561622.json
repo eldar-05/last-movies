@@ -1,0 +1,27 @@
+{
+  "id": 1561622,
+  "title": "EXIT",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-13",
+  "runtime": 18,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "my",
+  "spoken_languages": [
+    "Mandarin",
+    "Burmese"
+  ],
+  "production_countries": [
+    "MM"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/fniSOmRZYkl1gX34CM4lw9O6q7G.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/v13cvVYhkIA9QsijJKf2QluKxrH.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1561622",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-13T12:25:34.308850+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

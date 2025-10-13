@@ -1,0 +1,26 @@
+{
+  "id": 1561616,
+  "title": "Aquí",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-13",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "PE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/admY0YA4SxaeukplTHFmHM24tCJ.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/yXjeIKldmkkHj4YR3yHGGregKm3.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1561616",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-13T12:25:34.855253+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

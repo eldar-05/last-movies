@@ -1,0 +1,29 @@
+{
+  "id": 1561625,
+  "title": "The Black Jacket",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-13",
+  "runtime": 10,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "боевик"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "AU"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/gYE6A0wC4wKnjUx3nntwASdKJAa.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1561625",
+  "trailer": {
+    "key": "V9j7Txtx8FE",
+    "name": "The Black Jacket",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-13T12:25:34.018658+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
