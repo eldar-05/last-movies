@@ -1,9 +1,58 @@
 {
-  "fetched_at_utc": "2025-10-13T12:25:35.418015+00:00",
+  "fetched_at_utc": "2025-10-13T18:17:33.388947+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1561860,
+      "title": "La mirada de un extraño",
+      "release_date": "2025-10-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2jQac0qfqPNor6WilEYzby3W0Sl.jpg",
+      "genres": [
+        "триллер",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1561850,
+      "title": "Frankenstein",
+      "release_date": "2025-10-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mAmjEMiNn4RzYy8hf39PeC87e0w.jpg",
+      "genres": [
+        "ужасы",
+        "драма"
+      ]
+    },
+    {
+      "id": 1561842,
+      "title": "Labay",
+      "release_date": "2025-10-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1WOmgpCZRcWLsSSmxN6GuSaAGNo.jpg",
+      "genres": []
+    },
+    {
+      "id": 1561763,
+      "title": "长夜永宁",
+      "release_date": "2025-10-13",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1561762,
+      "title": "مرآة في مرآة",
+      "release_date": "2025-10-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mmzMTDLgqHrDL1mgFhuJELYIHpk.jpg",
+      "genres": [
+        "вестерн",
+        "драма"
+      ]
+    },
     {
       "id": 1561652,
       "title": "Una caja silenciosa",
@@ -53,54 +102,6 @@
       "genres": [
         "комедия",
         "боевик"
-      ]
-    },
-    {
-      "id": 1561622,
-      "title": "EXIT",
-      "release_date": "2025-10-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fniSOmRZYkl1gX34CM4lw9O6q7G.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1561619,
-      "title": "César Vallejo IA",
-      "release_date": "2025-10-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qLgFJSKALPEuk4UAnYewUNrsmIY.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1561616,
-      "title": "Aquí",
-      "release_date": "2025-10-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/admY0YA4SxaeukplTHFmHM24tCJ.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1561602,
-      "title": "Devil in the Gat",
-      "release_date": "2025-10-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jTKdzqrzQOwnt7MtyS1euNlq2Nf.jpg",
-      "genres": []
-    },
-    {
-      "id": 1561037,
-      "title": "On the Rungs of Jacob's Ladder",
-      "release_date": "2025-10-13",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
       ]
     }
   ],
