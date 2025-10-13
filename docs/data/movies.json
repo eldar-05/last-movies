@@ -1,106 +1,105 @@
 {
-  "fetched_at_utc": "2025-10-12T18:15:32.474330+00:00",
+  "fetched_at_utc": "2025-10-13T01:00:58.242039+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1561320,
-      "title": "Marieke Twijfelt",
-      "release_date": "2025-10-12",
+      "id": 1561602,
+      "title": "Devil in the Gat",
+      "release_date": "2025-10-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jTKdzqrzQOwnt7MtyS1euNlq2Nf.jpg",
+      "genres": []
+    },
+    {
+      "id": 1561037,
+      "title": "On the Rungs of Jacob's Ladder",
+      "release_date": "2025-10-13",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "документальный",
-        "мультфильм"
+        "документальный"
       ]
     },
     {
-      "id": 1561314,
-      "title": "Solstice",
-      "release_date": "2025-10-12",
+      "id": 1561028,
+      "title": "Breu Febril",
+      "release_date": "2025-10-13",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pzcoAtu9ApfqO52Z2n8vWLuqeKT.jpg",
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1560993,
+      "title": "The Short Film That Goes Wrong",
+      "release_date": "2025-10-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oEGTKMhGp9cvbFcLmY9FexFC2iu.jpg",
+      "genres": [
+        "документальный",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1560840,
+      "title": "Nora Helmer",
+      "release_date": "2025-10-13",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1561281,
-      "title": "Sofia",
-      "release_date": "",
+      "id": 1560731,
+      "title": "EL PINGÜINO",
+      "release_date": "2025-10-13",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/j465LQd6KbADvHdGa8nObjFKIxd.jpg",
-      "genres": [
-        "драма",
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1561279,
-      "title": "RUBY BEAUTY",
-      "release_date": "2025-10-12",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "криминал"
-      ]
-    },
-    {
-      "id": 1561238,
-      "title": "Silent Fractures",
-      "release_date": "2025-10-12",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6kHxUwYDKch6BOdRgYr0x4kyZ4Y.jpg",
       "genres": []
     },
     {
-      "id": 1561234,
-      "title": "Lo que nos vemos (pero está)",
-      "release_date": "2025-10-12",
+      "id": 1559276,
+      "title": "Disitango, un abrazo feminista",
+      "release_date": "2025-10-13",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zyUx2wIF0jzQfcWMF1JMcwnPbez.jpg",
+      "poster_url": null,
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1561186,
-      "title": "Первое и последнее видео Ермаковского...",
-      "release_date": "2025-10-12",
+      "id": 1558499,
+      "title": "Shelby",
+      "release_date": "2025-10-13",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dHqCoUUwYq5zk0fxHoW03zqJq8E.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rsxMBHvLbxRVVqd0dgZ0EFjgPqn.jpg",
       "genres": [
-        "документальный",
-        "драма",
-        "военный"
+        "драма"
       ]
     },
     {
-      "id": 1561015,
-      "title": "Far from Beyrouth",
-      "release_date": "2025-10-12",
-      "vote_average": 9.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/l5z8IxlqQlBSSKhqLCiSkyeTpyg.jpg",
+      "id": 1557702,
+      "title": "Date Night",
+      "release_date": "2025-10-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qudeQFB2LF26bTcjDywZAtjeUT8.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1556561,
+      "title": "Co do... kury?",
+      "release_date": "2025-10-13",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
         "документальный"
       ]
-    },
-    {
-      "id": 1561005,
-      "title": "O  Thanatos   me   Prosehi",
-      "release_date": "2025-10-12",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fuOIVBoU5pt2uTfYQc33TGLt242.jpg",
-      "genres": []
-    },
-    {
-      "id": 1560696,
-      "title": "Nieuwe Stad",
-      "release_date": "2025-10-12",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/djDIROKTbg6Syh6Z1RjVXDxYLyu.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",

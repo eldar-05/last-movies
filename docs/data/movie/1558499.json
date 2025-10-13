@@ -1,0 +1,22 @@
+{
+  "id": 1558499,
+  "title": "Shelby",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-13",
+  "runtime": 8,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/rsxMBHvLbxRVVqd0dgZ0EFjgPqn.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/bXEPElBLNQdIVOfj0lemnCXEHcW.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1558499",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-13T01:00:57.313062+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

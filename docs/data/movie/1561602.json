@@ -1,0 +1,25 @@
+{
+  "id": 1561602,
+  "title": "Devil in the Gat",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-13",
+  "runtime": 14,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "en",
+  "spoken_languages": [
+    "English",
+    "Maori"
+  ],
+  "production_countries": [
+    "NZ"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/jTKdzqrzQOwnt7MtyS1euNlq2Nf.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1561602",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-13T01:00:54.135976+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

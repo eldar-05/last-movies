@@ -1,0 +1,25 @@
+{
+  "id": 1560993,
+  "title": "The Short Film That Goes Wrong",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-13",
+  "runtime": 33,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/oEGTKMhGp9cvbFcLmY9FexFC2iu.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/el9JAlCeR6TCXI3RFdLU0QKQINL.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1560993",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-13T01:00:55.493408+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
