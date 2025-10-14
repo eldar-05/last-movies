@@ -1,0 +1,24 @@
+{
+  "id": 1560651,
+  "title": "Marindia",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-14",
+  "runtime": 20,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/lyMOqgEOmx0685hv1GcGFXAsewZ.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1560651",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-14T00:57:12.439958+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

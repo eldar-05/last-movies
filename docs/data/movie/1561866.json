@@ -1,0 +1,26 @@
+{
+  "id": 1561866,
+  "title": "CAVA",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-14",
+  "runtime": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "музыка",
+    "приключения",
+    "детектив"
+  ],
+  "original_language": "it",
+  "spoken_languages": [
+    "Italian"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/13Jtf1xECIBxcRhFujVu8LwkaFa.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/9ETvMDA18uAHTHy2lRVvGiV9fOg.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1561866",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-14T00:57:11.501273+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

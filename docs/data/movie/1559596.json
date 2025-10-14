@@ -3,23 +3,24 @@
   "title": "Patikim ni Robb Guinto",
   "tagline": "",
   "overview": "",
-  "release_date": "2025-10-09",
+  "release_date": "2025-10-14",
   "runtime": 0,
   "vote_average": 6.0,
   "vote_count": 1,
   "genres": [
-    "драма",
-    "мелодрама"
+    "документальный"
   ],
-  "original_language": "en",
-  "spoken_languages": [],
+  "original_language": "tl",
+  "spoken_languages": [
+    "Tagalog"
+  ],
   "production_countries": [
     "PH"
   ],
   "poster_url": "https://image.tmdb.org/t/p/w500/6Tn90cNMzXLOHcWRSb1anRLZ5Bp.jpg",
-  "backdrop_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/AarN9NHen3V3z2H4Naw5Izc11x.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1559596",
   "trailer": null,
-  "fetched_at_utc": "2025-10-09T12:24:55.137138+00:00",
+  "fetched_at_utc": "2025-10-14T00:57:12.834186+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

@@ -1,0 +1,27 @@
+{
+  "id": 1559702,
+  "title": "O Bebê de Juliano",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-14",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "комедия"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/yj39xQBfk6xpJBtRH1iFwfQNJId.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1559702",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-14T00:57:12.623276+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,108 +1,107 @@
 {
-  "fetched_at_utc": "2025-10-13T18:17:33.388947+00:00",
+  "fetched_at_utc": "2025-10-14T00:57:13.028544+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1561860,
-      "title": "La mirada de un extraño",
-      "release_date": "2025-10-13",
+      "id": 1561999,
+      "title": "Beating the fear of Jinn into me",
+      "release_date": "2025-10-14",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2jQac0qfqPNor6WilEYzby3W0Sl.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/amlzPCNq8CEeIH6DOfDVtloORRr.jpg",
       "genres": [
-        "триллер",
         "ужасы"
       ]
     },
     {
-      "id": 1561850,
-      "title": "Frankenstein",
-      "release_date": "2025-10-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mAmjEMiNn4RzYy8hf39PeC87e0w.jpg",
+      "id": 1561866,
+      "title": "CAVA",
+      "release_date": "2025-10-14",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/13Jtf1xECIBxcRhFujVu8LwkaFa.jpg",
       "genres": [
-        "ужасы",
-        "драма"
+        "музыка",
+        "приключения",
+        "детектив"
       ]
     },
     {
-      "id": 1561842,
-      "title": "Labay",
-      "release_date": "2025-10-13",
+      "id": 1561628,
+      "title": "Cocky v Wimpy: The Fight of The Century",
+      "release_date": "2025-10-14",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1WOmgpCZRcWLsSSmxN6GuSaAGNo.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/67nMdJWSJAGOivxmr3XixrbJ49W.jpg",
+      "genres": [
+        "боевик",
+        "комедия",
+        "фантастика"
+      ]
+    },
+    {
+      "id": 1561574,
+      "title": "Un Eclipse y el Caos",
+      "release_date": "2025-10-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vTBWEBx9NRrjJx8V0VajlQL7bnx.jpg",
       "genres": []
     },
     {
-      "id": 1561763,
-      "title": "长夜永宁",
-      "release_date": "2025-10-13",
+      "id": 1560661,
+      "title": "Dios llama a la puerta",
+      "release_date": "2025-10-14",
       "vote_average": 0.0,
       "poster_url": null,
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1560656,
+      "title": "Qué hago con todo esto que me dejaste",
+      "release_date": "2025-10-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lVSjhoJZtXAo8IOi8HAsm3WV63p.jpg",
       "genres": []
     },
     {
-      "id": 1561762,
-      "title": "مرآة في مرآة",
-      "release_date": "2025-10-13",
+      "id": 1560651,
+      "title": "Marindia",
+      "release_date": "2025-10-14",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mmzMTDLgqHrDL1mgFhuJELYIHpk.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lyMOqgEOmx0685hv1GcGFXAsewZ.jpg",
       "genres": [
-        "вестерн",
         "драма"
       ]
     },
     {
-      "id": 1561652,
-      "title": "Una caja silenciosa",
-      "release_date": "2025-10-13",
+      "id": 1559702,
+      "title": "O Bebê de Juliano",
+      "release_date": "2025-10-14",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dBt3B9tVVTMotJyv74WI7zbKSNP.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yj39xQBfk6xpJBtRH1iFwfQNJId.jpg",
+      "genres": [
+        "ужасы",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1559596,
+      "title": "Patikim ni Robb Guinto",
+      "release_date": "2025-10-14",
+      "vote_average": 6.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6Tn90cNMzXLOHcWRSb1anRLZ5Bp.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1561651,
-      "title": "Qué ciudad es esta",
-      "release_date": "2025-10-13",
+      "id": 1559273,
+      "title": "De Troya a Malvinas",
+      "release_date": "2025-10-14",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rGFR0FxGwQbqLRtwKm5fw81Ynja.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1561648,
-      "title": "Las memorias humanas del jardín rojo",
-      "release_date": "2025-10-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yHd7pdQlKgnTBjCFVZvh4hE9HkA.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1561629,
-      "title": "Llamas",
-      "release_date": "2025-10-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vni5rHjURhsnkOVcSuNwOnxfkt5.jpg",
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1561625,
-      "title": "The Black Jacket",
-      "release_date": "2025-10-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gYE6A0wC4wKnjUx3nntwASdKJAa.jpg",
-      "genres": [
-        "комедия",
-        "боевик"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/eQAM4H9ekqKCuwIgBQlMgdoqZZJ.jpg",
+      "genres": []
     }
   ],
   "source": "TMDB",
