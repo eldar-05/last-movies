@@ -1,107 +1,107 @@
 {
-  "fetched_at_utc": "2025-10-14T12:26:34.164663+00:00",
+  "fetched_at_utc": "2025-10-14T18:18:41.442194+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1561999,
-      "title": "Beating the fear of Jinn into me",
+      "id": 1562665,
+      "title": "faen",
       "release_date": "2025-10-14",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sKCIjcnEPQDsrhN5CwiNtRaImLF.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1561866,
-      "title": "CAVA",
-      "release_date": "2025-10-14",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/13Jtf1xECIBxcRhFujVu8LwkaFa.jpg",
-      "genres": [
-        "музыка",
-        "приключения",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1561628,
-      "title": "Cocky v Wimpy: The Fight of The Century",
-      "release_date": "2025-10-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/67nMdJWSJAGOivxmr3XixrbJ49W.jpg",
-      "genres": [
-        "боевик",
-        "комедия",
-        "фантастика"
-      ]
-    },
-    {
-      "id": 1561574,
-      "title": "Un Eclipse y el Caos",
-      "release_date": "2025-10-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vTBWEBx9NRrjJx8V0VajlQL7bnx.jpg",
-      "genres": []
-    },
-    {
-      "id": 1560661,
-      "title": "Dios llama a la puerta",
-      "release_date": "2025-10-14",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1560656,
-      "title": "Qué hago con todo esto que me dejaste",
-      "release_date": "2025-10-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lVSjhoJZtXAo8IOi8HAsm3WV63p.jpg",
-      "genres": []
-    },
-    {
-      "id": 1560651,
-      "title": "Marindia",
-      "release_date": "2025-10-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lyMOqgEOmx0685hv1GcGFXAsewZ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xvAwbeL5bhFmweSrJZilmpoktJw.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1559702,
-      "title": "O Bebê de Juliano",
+      "id": 1562651,
+      "title": "Play that song again : Terugblik op 2024",
       "release_date": "2025-10-14",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yj39xQBfk6xpJBtRH1iFwfQNJId.jpg",
-      "genres": [
-        "ужасы",
-        "комедия"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/qpmZOVB7767MJye2OMkwpQZzZ5m.jpg",
+      "genres": []
     },
     {
-      "id": 1559596,
-      "title": "Patikim ni Robb Guinto",
+      "id": 1562650,
+      "title": "Enredadas en el cambio",
       "release_date": "2025-10-14",
-      "vote_average": 6.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6Tn90cNMzXLOHcWRSb1anRLZ5Bp.jpg",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/m6stJIXh8gnP9FBf1MExVTu5UVQ.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1559273,
-      "title": "De Troya a Malvinas",
+      "id": 1562630,
+      "title": "Zaguán",
       "release_date": "2025-10-14",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eQAM4H9ekqKCuwIgBQlMgdoqZZJ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jZW8TzyYyDm96FBEGUwXWdVOJxX.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1562563,
+      "title": "El día que murió la música",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1562558,
+      "title": "等車",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1562492,
+      "title": "Geraubtes Wirtschaftswunder - Die übertünchte Vergangenheit der Deutschen",
+      "release_date": "2025-10-14",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1562482,
+      "title": "Look At Me",
+      "release_date": "2025-10-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/t45b0DdhYjusTtLrOEt7cl9aZnK.jpg",
       "genres": []
+    },
+    {
+      "id": 1562397,
+      "title": "La Saga du Napoléon d'Abel Gance",
+      "release_date": "2025-10-14",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1562389,
+      "title": "Los musicales son una mierda",
+      "release_date": "2025-10-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/f6slyzN7sQroswPEArgZDWJHpqr.jpg",
+      "genres": [
+        "комедия",
+        "музыка"
+      ]
     }
   ],
   "source": "TMDB",

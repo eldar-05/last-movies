@@ -1,0 +1,26 @@
+{
+  "id": 1562630,
+  "title": "Zaguán",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-14",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/jZW8TzyYyDm96FBEGUwXWdVOJxX.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/wqxPUpku3g9odg5YT1rQaEHkBR3.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1562630",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-14T18:18:39.815908+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

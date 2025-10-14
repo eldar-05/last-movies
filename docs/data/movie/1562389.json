@@ -1,0 +1,25 @@
+{
+  "id": 1562389,
+  "title": "Los musicales son una mierda",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-14",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "музыка"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/f6slyzN7sQroswPEArgZDWJHpqr.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/fmAR3YwWnKwoKH1lp3QWQH0vRgi.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1562389",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-14T18:18:41.441962+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

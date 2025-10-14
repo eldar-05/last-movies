@@ -1,0 +1,24 @@
+{
+  "id": 1562665,
+  "title": "faen",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-14",
+  "runtime": 3,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "no",
+  "spoken_languages": [
+    "Norwegian"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/xvAwbeL5bhFmweSrJZilmpoktJw.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/uxbbtuwVGXcedGQ0FZfE5VLrMrF.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1562665",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-14T18:18:39.025047+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

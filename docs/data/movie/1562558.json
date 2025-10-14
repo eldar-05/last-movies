@@ -1,0 +1,28 @@
+{
+  "id": 1562558,
+  "title": "等車",
+  "tagline": "",
+  "overview": "",
+  "release_date": "",
+  "runtime": 6,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "документальный"
+  ],
+  "original_language": "zh",
+  "spoken_languages": [
+    "Mandarin",
+    "English"
+  ],
+  "production_countries": [
+    "TW"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1562558",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-14T18:18:40.363056+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
