@@ -1,9 +1,70 @@
 {
-  "fetched_at_utc": "2025-10-15T12:26:58.053686+00:00",
+  "fetched_at_utc": "2025-10-15T18:19:01.563890+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1563290,
+      "title": "Terror na Faculdade",
+      "release_date": "2025-10-15",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1563266,
+      "title": "Monstruos",
+      "release_date": "2025-10-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iDXLLBxeh0dRcWd528knqVecTs0.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1563132,
+      "title": "Mapuches: El país de antaño",
+      "release_date": "2025-10-15",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1563131,
+      "title": "Retorno del grupo Inti Illimani desde el exilio",
+      "release_date": "2025-10-15",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1563129,
+      "title": "Los Prisioneros: Registro cierre de campaña del NO",
+      "release_date": "2025-10-15",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1563114,
+      "title": "Requin Tetrel",
+      "release_date": "2025-10-15",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "триллер",
+        "боевик",
+        "драма"
+      ]
+    },
     {
       "id": 1562787,
       "title": "Scan",
@@ -25,6 +86,14 @@
       ]
     },
     {
+      "id": 1562030,
+      "title": "Amor chiquito",
+      "release_date": "2025-10-15",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
       "id": 1561859,
       "title": "The Old Man at the Bar",
       "release_date": "2025-10-15",
@@ -33,69 +102,6 @@
       "genres": [
         "драма",
         "мелодрама"
-      ]
-    },
-    {
-      "id": 1561604,
-      "title": "Una Tristeza Fiel",
-      "release_date": "2025-10-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2wRSaugC1qphjgZ06ayapV23e0i.jpg",
-      "genres": []
-    },
-    {
-      "id": 1561586,
-      "title": "La Ley de la Selva",
-      "release_date": "2025-10-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lecuqiO42kwM6RSgeNI0uDPfj3L.jpg",
-      "genres": []
-    },
-    {
-      "id": 1561585,
-      "title": "Bosque de Arena",
-      "release_date": "2025-10-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/l3syOAAb1nq0xnJFUcvMhtZEXLx.jpg",
-      "genres": []
-    },
-    {
-      "id": 1560503,
-      "title": "Tears of the Mountain",
-      "release_date": "2025-10-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tPnEYFdVTPUjYGfU8yTAnjTVnAw.jpg",
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1559590,
-      "title": "Durch die Nacht mit Wanda Wandalis & die krossen Kerle",
-      "release_date": "2025-10-15",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1559507,
-      "title": "Amarre",
-      "release_date": "2025-10-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eO69LVKAoAe2w779H4LOa5euDh5.jpg",
-      "genres": []
-    },
-    {
-      "id": 1559491,
-      "title": "Os Infiéis",
-      "release_date": "2025-10-15",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bmr9giBLgWqDFZkhWg1Z2d2nu18.jpg",
-      "genres": [
-        "мелодрама",
-        "комедия"
       ]
     }
   ],
