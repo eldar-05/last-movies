@@ -1,0 +1,24 @@
+{
+  "id": 1559507,
+  "title": "Amarre",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-15",
+  "runtime": 3,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "CL"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/eO69LVKAoAe2w779H4LOa5euDh5.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1559507",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-15T00:58:26.046865+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

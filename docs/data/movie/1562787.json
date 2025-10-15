@@ -1,0 +1,24 @@
+{
+  "id": 1562787,
+  "title": "Scan",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-15",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "it",
+  "spoken_languages": [],
+  "production_countries": [
+    "IT"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/6dVrxiYN8ZaCaYhvGTkVorAriPK.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1562787",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-15T00:58:23.006378+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

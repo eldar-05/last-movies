@@ -1,106 +1,101 @@
 {
-  "fetched_at_utc": "2025-10-14T18:18:41.442194+00:00",
+  "fetched_at_utc": "2025-10-15T00:58:26.305641+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1562665,
-      "title": "faen",
-      "release_date": "2025-10-14",
+      "id": 1562787,
+      "title": "Scan",
+      "release_date": "2025-10-15",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xvAwbeL5bhFmweSrJZilmpoktJw.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6dVrxiYN8ZaCaYhvGTkVorAriPK.jpg",
       "genres": [
-        "драма"
+        "документальный"
       ]
     },
     {
-      "id": 1562651,
-      "title": "Play that song again : Terugblik op 2024",
-      "release_date": "2025-10-14",
+      "id": 1562282,
+      "title": "Interpretation of a Dream",
+      "release_date": "2025-10-15",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qpmZOVB7767MJye2OMkwpQZzZ5m.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/b4kJpQDtYcn1hzDrimYffZx3lrO.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1561859,
+      "title": "The Old Man at the Bar",
+      "release_date": "2025-10-15",
+      "vote_average": 9.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/koinAuKu36PlNP5fjhBoEHT7Tyr.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1561604,
+      "title": "Una Tristeza Fiel",
+      "release_date": "2025-10-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2wRSaugC1qphjgZ06ayapV23e0i.jpg",
       "genres": []
     },
     {
-      "id": 1562650,
-      "title": "Enredadas en el cambio",
-      "release_date": "2025-10-14",
+      "id": 1561586,
+      "title": "La Ley de la Selva",
+      "release_date": "2025-10-15",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/m6stJIXh8gnP9FBf1MExVTu5UVQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lecuqiO42kwM6RSgeNI0uDPfj3L.jpg",
+      "genres": []
+    },
+    {
+      "id": 1561585,
+      "title": "Bosque de Arena",
+      "release_date": "2025-10-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/l3syOAAb1nq0xnJFUcvMhtZEXLx.jpg",
+      "genres": []
+    },
+    {
+      "id": 1560503,
+      "title": "Tears of the Mountain",
+      "release_date": "2025-10-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tPnEYFdVTPUjYGfU8yTAnjTVnAw.jpg",
       "genres": [
-        "документальный"
+        "мультфильм"
       ]
     },
     {
-      "id": 1562630,
-      "title": "Zaguán",
-      "release_date": "2025-10-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jZW8TzyYyDm96FBEGUwXWdVOJxX.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1562563,
-      "title": "El día que murió la música",
-      "release_date": "",
+      "id": 1559590,
+      "title": "Durch die Nacht mit Wanda Wandalis & die krossen Kerle",
+      "release_date": "2025-10-15",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "драма",
         "комедия"
       ]
     },
     {
-      "id": 1562558,
-      "title": "等車",
-      "release_date": "",
+      "id": 1559507,
+      "title": "Amarre",
+      "release_date": "2025-10-15",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма",
-        "документальный"
-      ]
-    },
-    {
-      "id": 1562492,
-      "title": "Geraubtes Wirtschaftswunder - Die übertünchte Vergangenheit der Deutschen",
-      "release_date": "2025-10-14",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1562482,
-      "title": "Look At Me",
-      "release_date": "2025-10-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/t45b0DdhYjusTtLrOEt7cl9aZnK.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eO69LVKAoAe2w779H4LOa5euDh5.jpg",
       "genres": []
     },
     {
-      "id": 1562397,
-      "title": "La Saga du Napoléon d'Abel Gance",
-      "release_date": "2025-10-14",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "id": 1559491,
+      "title": "Os Infiéis",
+      "release_date": "2025-10-15",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bmr9giBLgWqDFZkhWg1Z2d2nu18.jpg",
       "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1562389,
-      "title": "Los musicales son una mierda",
-      "release_date": "2025-10-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/f6slyzN7sQroswPEArgZDWJHpqr.jpg",
-      "genres": [
-        "комедия",
-        "музыка"
+        "мелодрама",
+        "комедия"
       ]
     }
   ],

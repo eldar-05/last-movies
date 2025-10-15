@@ -1,0 +1,27 @@
+{
+  "id": 1559491,
+  "title": "Os Infiéis",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-15",
+  "runtime": 87,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "мелодрама",
+    "комедия"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/bmr9giBLgWqDFZkhWg1Z2d2nu18.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/unuOdm4s0mhn8z3AJU1skOf3HGC.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1559491",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-15T00:58:26.305312+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
