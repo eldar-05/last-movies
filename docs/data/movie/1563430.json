@@ -3,7 +3,7 @@
   "title": "গ্যাড়াকল",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-10-16",
   "runtime": 32,
   "vote_average": 0.0,
   "vote_count": 0,
@@ -15,15 +15,17 @@
   "spoken_languages": [
     "Bengali"
   ],
-  "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "production_countries": [
+    "BD"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/bTJylbTf6EWyYUS4UVLECLRlmlz.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/xjEsWYHj6rCweJDUIUXHdAxB5Fw.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1563430",
   "trailer": {
     "key": "doQRFolH4dk",
     "name": "Gerakol | Official Trailer",
     "type": "Trailer"
   },
-  "fetched_at_utc": "2025-10-16T06:19:16.183687+00:00",
+  "fetched_at_utc": "2025-10-16T12:26:03.731592+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
