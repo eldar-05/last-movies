@@ -1,0 +1,25 @@
+{
+  "id": 1563430,
+  "title": "গ্যাড়াকল",
+  "tagline": "",
+  "overview": "",
+  "release_date": "",
+  "runtime": 32,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "детектив",
+    "триллер"
+  ],
+  "original_language": "bn",
+  "spoken_languages": [
+    "Bengali"
+  ],
+  "production_countries": [],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1563430",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-16T00:58:17.627115+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

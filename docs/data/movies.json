@@ -1,34 +1,24 @@
 {
-  "fetched_at_utc": "2025-10-15T18:19:01.563890+00:00",
+  "fetched_at_utc": "2025-10-16T00:58:21.218154+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1563290,
-      "title": "Terror na Faculdade",
-      "release_date": "2025-10-15",
+      "id": 1563430,
+      "title": "গ্যাড়াকল",
+      "release_date": "",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "ужасы",
+        "детектив",
         "триллер"
       ]
     },
     {
-      "id": 1563266,
-      "title": "Monstruos",
-      "release_date": "2025-10-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iDXLLBxeh0dRcWd528knqVecTs0.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1563132,
-      "title": "Mapuches: El país de antaño",
-      "release_date": "2025-10-15",
+      "id": 1563396,
+      "title": "Flood",
+      "release_date": "2025-10-16",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
@@ -36,72 +26,77 @@
       ]
     },
     {
-      "id": 1563131,
-      "title": "Retorno del grupo Inti Illimani desde el exilio",
-      "release_date": "2025-10-15",
+      "id": 1563385,
+      "title": "How I Made £1 Million in 90 Days",
+      "release_date": "2025-10-16",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yp1iEfJaPyozuBd8bcd3Sx53WNq.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1563129,
-      "title": "Los Prisioneros: Registro cierre de campaña del NO",
-      "release_date": "2025-10-15",
+      "id": 1563369,
+      "title": "গ্যাড়াকল",
+      "release_date": "2025-10-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bS8n0BkdCuB7TL6d3R0S5MpYPXl.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1563204,
+      "title": "Puercoespín.",
+      "release_date": "2025-10-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3Ez3UFIRuuhnisiGWh9ecmP3Qot.jpg",
+      "genres": []
+    },
+    {
+      "id": 1563191,
+      "title": "Tiempo de Híbridos o Twenty-Six New Gasoline Stations in Mexico",
+      "release_date": "2025-10-16",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1563114,
-      "title": "Requin Tetrel",
-      "release_date": "2025-10-15",
+      "id": 1563169,
+      "title": "幽冥花开",
+      "release_date": "2025-10-16",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6elpKdCxbBgt4mUXFGeIsoDTk7R.jpg",
       "genres": [
-        "триллер",
-        "боевик",
-        "драма"
+        "триллер"
       ]
     },
     {
-      "id": 1562787,
-      "title": "Scan",
-      "release_date": "2025-10-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6dVrxiYN8ZaCaYhvGTkVorAriPK.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1562282,
-      "title": "Interpretation of a Dream",
-      "release_date": "2025-10-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/b4kJpQDtYcn1hzDrimYffZx3lrO.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1562030,
-      "title": "Amor chiquito",
-      "release_date": "2025-10-15",
+      "id": 1563112,
+      "title": "Self Portrait (Decomposed)",
+      "release_date": "2025-10-16",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1561859,
-      "title": "The Old Man at the Bar",
-      "release_date": "2025-10-15",
-      "vote_average": 9.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/koinAuKu36PlNP5fjhBoEHT7Tyr.jpg",
+      "id": 1563009,
+      "title": "Oltre il confine: Le immagini di Mimmo e Francesco Jodice",
+      "release_date": "2025-10-16",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
-        "драма",
-        "мелодрама"
+        "документальный"
+      ]
+    },
+    {
+      "id": 1563003,
+      "title": "La forza del destino",
+      "release_date": "2025-10-16",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
       ]
     }
   ],

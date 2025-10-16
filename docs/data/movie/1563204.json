@@ -1,0 +1,24 @@
+{
+  "id": 1563204,
+  "title": "Puercoespín.",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-16",
+  "runtime": 5,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "MX"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/3Ez3UFIRuuhnisiGWh9ecmP3Qot.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/mOJPtWmHde9pv0BEzE7sIllTN0W.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1563204",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-16T00:58:19.203425+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

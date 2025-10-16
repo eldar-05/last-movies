@@ -1,0 +1,26 @@
+{
+  "id": 1563369,
+  "title": "গ্যাড়াকল",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-16",
+  "runtime": 32,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер"
+  ],
+  "original_language": "bn",
+  "spoken_languages": [
+    "Bengali"
+  ],
+  "production_countries": [
+    "BD"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/bS8n0BkdCuB7TL6d3R0S5MpYPXl.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/rnyIVi9A3hUykjOL3bVDoobTImi.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1563369",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-16T00:58:18.810441+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
