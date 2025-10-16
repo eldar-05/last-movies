@@ -1,15 +1,75 @@
 {
-  "fetched_at_utc": "2025-10-16T12:26:05.696960+00:00",
+  "fetched_at_utc": "2025-10-16T18:18:25.132984+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1563809,
+      "title": "Alfa & Bravo",
+      "release_date": "2025-10-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jgIQ7Rj21YEK6T5T2xcpYKTxO8U.jpg",
+      "genres": [
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1563797,
+      "title": "Kagerō",
+      "release_date": "2025-10-16",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/klnlXWebJq9395tmgUxXRZzevFP.jpg",
+      "genres": [
+        "боевик"
+      ]
+    },
+    {
+      "id": 1563796,
+      "title": "trees",
+      "release_date": "2025-10-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cJnSHCdCh5nGky7kB9YBgmV2H5z.jpg",
+      "genres": []
+    },
+    {
+      "id": 1563758,
+      "title": "The Panic",
+      "release_date": "2025-10-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6PPZrFQMYshcPiKORZdRt7ZkYwq.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1563738,
+      "title": "M.R.I. (or, Michael Returns Indefinitely)",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "фантастика",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1563724,
+      "title": "Ez Daukate",
+      "release_date": "2025-10-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qJAbCbzoWUNpUkMzdHk0YoMz8xV.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
       "id": 1563548,
       "title": "Jangan Ambil Bonekaku..!! 2",
       "release_date": "2025-10-16",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ngBtNvVy10PyEBjRXW4Rvf22UaE.jpg",
       "genres": [
         "криминал",
         "драма"
@@ -42,60 +102,6 @@
       "release_date": "2025-10-16",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/yp1iEfJaPyozuBd8bcd3Sx53WNq.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1563369,
-      "title": "গ্যাড়াকল",
-      "release_date": "2025-10-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bS8n0BkdCuB7TL6d3R0S5MpYPXl.jpg",
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1563204,
-      "title": "Puercoespín.",
-      "release_date": "2025-10-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3Ez3UFIRuuhnisiGWh9ecmP3Qot.jpg",
-      "genres": []
-    },
-    {
-      "id": 1563191,
-      "title": "Tiempo de Híbridos o Twenty-Six New Gasoline Stations in Mexico",
-      "release_date": "2025-10-16",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1563169,
-      "title": "幽冥花开",
-      "release_date": "2025-10-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6elpKdCxbBgt4mUXFGeIsoDTk7R.jpg",
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1563112,
-      "title": "Self Portrait (Decomposed)",
-      "release_date": "2025-10-16",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1563009,
-      "title": "Oltre il confine: Le immagini di Mimmo e Francesco Jodice",
-      "release_date": "2025-10-16",
-      "vote_average": 0.0,
-      "poster_url": null,
       "genres": [
         "документальный"
       ]

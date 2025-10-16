@@ -1,0 +1,28 @@
+{
+  "id": 1563809,
+  "title": "Alfa & Bravo",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-16",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "боевик",
+    "комедия"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "PE",
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/jgIQ7Rj21YEK6T5T2xcpYKTxO8U.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/zC9w1ZopHuLLpNAbMlfXADCQtLb.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1563809",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-16T18:18:23.488179+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
