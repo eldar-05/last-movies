@@ -20,7 +20,11 @@
   "poster_url": "https://image.tmdb.org/t/p/w500/bS8n0BkdCuB7TL6d3R0S5MpYPXl.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/rnyIVi9A3hUykjOL3bVDoobTImi.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1563369",
-  "trailer": null,
-  "fetched_at_utc": "2025-10-16T00:58:18.810441+00:00",
+  "trailer": {
+    "key": "doQRFolH4dk",
+    "name": "Gerakol | Official Trailer | Chorki Flash Fiction | Samira Mahi | Intekhab Dinar | Tanvir",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-16T06:19:16.710293+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

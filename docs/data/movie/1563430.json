@@ -19,7 +19,11 @@
   "poster_url": null,
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1563430",
-  "trailer": null,
-  "fetched_at_utc": "2025-10-16T00:58:17.627115+00:00",
+  "trailer": {
+    "key": "doQRFolH4dk",
+    "name": "Gerakol | Official Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-16T06:19:16.183687+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
