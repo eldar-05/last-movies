@@ -3,11 +3,14 @@
   "title": "Errand Boy",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-10-17",
   "runtime": 6,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "комедия",
+    "боевик"
+  ],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
@@ -15,6 +18,6 @@
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1563954",
   "trailer": null,
-  "fetched_at_utc": "2025-10-17T00:57:57.993311+00:00",
+  "fetched_at_utc": "2025-10-17T06:18:39.034012+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

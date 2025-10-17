@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-10-17T00:58:01.208482+00:00",
+  "fetched_at_utc": "2025-10-17T06:18:40.502225+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -7,7 +7,7 @@
     {
       "id": 1563954,
       "title": "Errand Boy",
-      "release_date": "",
+      "release_date": "2025-10-17",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
@@ -20,7 +20,7 @@
       "title": "The Witch of Glentow",
       "release_date": "2025-10-17",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/emkqQDvLvXrP9xQrKnlB8n0dYLZ.jpg",
       "genres": [
         "ужасы"
       ]
@@ -64,7 +64,7 @@
       "title": "Hivemind Deluxe",
       "release_date": "2025-10-17",
       "vote_average": 9.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zzOjqJvapPGxPztBESXTuc5n8Zx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/m6s86cN6P4GEyZ7SwKxFsP2Mlg5.jpg",
       "genres": [
         "фантастика",
         "триллер",

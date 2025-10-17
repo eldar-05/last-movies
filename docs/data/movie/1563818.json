@@ -15,7 +15,7 @@
   "production_countries": [
     "IE"
   ],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/emkqQDvLvXrP9xQrKnlB8n0dYLZ.jpg",
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1563818",
   "trailer": {
@@ -23,6 +23,6 @@
     "name": "Witch of Glentow Clip",
     "type": "Trailer"
   },
-  "fetched_at_utc": "2025-10-17T00:57:58.236248+00:00",
+  "fetched_at_utc": "2025-10-17T06:18:39.159047+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

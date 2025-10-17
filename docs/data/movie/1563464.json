@@ -17,7 +17,7 @@
     "English"
   ],
   "production_countries": [],
-  "poster_url": "https://image.tmdb.org/t/p/w500/zzOjqJvapPGxPztBESXTuc5n8Zx.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/m6s86cN6P4GEyZ7SwKxFsP2Mlg5.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/30iPk1RoapQOhzICyfodjP29II9.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1563464",
   "trailer": {
@@ -25,6 +25,6 @@
     "name": "Hivemind Deluxe (2025) Trailer",
     "type": "Trailer"
   },
-  "fetched_at_utc": "2025-10-17T00:57:59.610373+00:00",
+  "fetched_at_utc": "2025-10-17T06:18:39.792456+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
