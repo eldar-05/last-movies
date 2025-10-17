@@ -1,0 +1,30 @@
+{
+  "id": 1564181,
+  "title": "Soulmates",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-17",
+  "runtime": 103,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мелодрама",
+    "комедия",
+    "драма"
+  ],
+  "original_language": "hi",
+  "spoken_languages": [
+    "Hindi"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/3nDCYVmxFpQ1MAbdcn61x75m1xw.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/j5yrBAfA5DRQsyO4HGvXOIyruzZ.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1564181",
+  "trailer": {
+    "key": "MD_aS0zL698",
+    "name": "Soulmates Official Trailer | Vijay Raaz, Camille Natta | Bharatbala | Kumar Taurani, Ramesh Taurani",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-17T18:16:25.667078+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

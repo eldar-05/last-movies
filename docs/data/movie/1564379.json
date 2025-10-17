@@ -1,0 +1,26 @@
+{
+  "id": 1564379,
+  "title": "Un buen rato",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-17",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/lTIYjEOT1whzJHGKjoNhUEJMuk8.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/BeIepszBg8NMBpXAyenxAHLHt8.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1564379",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-17T18:16:24.298389+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

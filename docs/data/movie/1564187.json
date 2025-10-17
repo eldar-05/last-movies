@@ -1,0 +1,25 @@
+{
+  "id": 1564187,
+  "title": "Nights and Days",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-17",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "приключения",
+    "драма"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1564187",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-17T18:16:25.417089+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

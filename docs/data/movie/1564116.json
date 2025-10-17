@@ -3,11 +3,13 @@
   "title": "SURORIENTALES",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-10-17",
   "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "документальный"
+  ],
   "original_language": "es",
   "spoken_languages": [
     "Spanish"
@@ -17,6 +19,6 @@
   "backdrop_url": "https://image.tmdb.org/t/p/w780/9X188WbvDJhBXHlOHwRryPnKm77.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1564116",
   "trailer": null,
-  "fetched_at_utc": "2025-10-17T12:24:58.330987+00:00",
+  "fetched_at_utc": "2025-10-17T18:16:26.781868+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

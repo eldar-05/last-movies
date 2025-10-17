@@ -1,15 +1,66 @@
 {
-  "fetched_at_utc": "2025-10-17T12:24:59.421799+00:00",
+  "fetched_at_utc": "2025-10-17T18:16:27.592638+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1564379,
+      "title": "Un buen rato",
+      "release_date": "2025-10-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lTIYjEOT1whzJHGKjoNhUEJMuk8.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1564212,
+      "title": "LP3",
+      "release_date": "2025-10-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nbAifWkIwgZLys4zgEmGB3Mip4Y.jpg",
+      "genres": []
+    },
+    {
+      "id": 1564197,
+      "title": "80 minuti - Italrugby, l’ambizione di arrivare in alto",
+      "release_date": "2025-10-17",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1564187,
+      "title": "Nights and Days",
+      "release_date": "2025-10-17",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "приключения",
+        "драма"
+      ]
+    },
+    {
+      "id": 1564181,
+      "title": "Soulmates",
+      "release_date": "2025-10-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3nDCYVmxFpQ1MAbdcn61x75m1xw.jpg",
+      "genres": [
+        "мелодрама",
+        "комедия",
+        "драма"
+      ]
+    },
+    {
       "id": 1564143,
       "title": "Home / Away From Home",
       "release_date": "2025-10-17",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/q3TvFc5BLvLDyvadcPmysvpSk3c.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/60aLaUHZZtcIFETQIJtQR09GyCe.jpg",
       "genres": []
     },
     {
@@ -25,7 +76,7 @@
     {
       "id": 1564116,
       "title": "SURORIENTALES",
-      "release_date": "",
+      "release_date": "2025-10-17",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/zcjJxFNxYevrTnE7JIFImRr9YcO.jpg",
       "genres": [
@@ -50,61 +101,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/uU2y0RkeSAQ1FYzWcAQiM46aQwq.jpg",
       "genres": [
         "драма"
-      ]
-    },
-    {
-      "id": 1563954,
-      "title": "Errand Boy",
-      "release_date": "2025-10-17",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "комедия",
-        "боевик"
-      ]
-    },
-    {
-      "id": 1563818,
-      "title": "The Witch of Glentow",
-      "release_date": "2025-10-17",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/emkqQDvLvXrP9xQrKnlB8n0dYLZ.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1563628,
-      "title": "Sjena",
-      "release_date": "2025-10-17",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5TicsVtFWkSqwdjwSUABagFxgko.jpg",
-      "genres": [
-        "мультфильм",
-        "фэнтези",
-        "драма"
-      ]
-    },
-    {
-      "id": 1563607,
-      "title": "Pădurea este a mea",
-      "release_date": "2025-10-17",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/buUuLE9Qu8mfd8BOsLZkUEYoyeg.jpg",
-      "genres": [
-        "комедия",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1563577,
-      "title": "Tilbake til nåtiden",
-      "release_date": "2025-10-17",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4hUMwlgAQIFqD4FiUs0JCbNIYPm.jpg",
-      "genres": [
-        "комедия",
-        "музыка"
       ]
     }
   ],
