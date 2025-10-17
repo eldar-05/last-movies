@@ -1,9 +1,57 @@
 {
-  "fetched_at_utc": "2025-10-17T06:18:40.502225+00:00",
+  "fetched_at_utc": "2025-10-17T12:24:59.421799+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1564143,
+      "title": "Home / Away From Home",
+      "release_date": "2025-10-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/q3TvFc5BLvLDyvadcPmysvpSk3c.jpg",
+      "genres": []
+    },
+    {
+      "id": 1564117,
+      "title": "Antes del litio",
+      "release_date": "2025-10-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3aUvLr2Q2sRbk0wqbjtm3fsQ78b.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1564116,
+      "title": "SURORIENTALES",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zcjJxFNxYevrTnE7JIFImRr9YcO.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1564114,
+      "title": "¿Derechos humanos en El Salvador?",
+      "release_date": "2025-10-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/x4Tg3ckcQ3rufoaDiSwz2nsdxyg.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1564109,
+      "title": "Beharrezkoa da",
+      "release_date": "2025-10-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/uU2y0RkeSAQ1FYzWcAQiM46aQwq.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
     {
       "id": 1563954,
       "title": "Errand Boy",
@@ -57,56 +105,6 @@
       "genres": [
         "комедия",
         "музыка"
-      ]
-    },
-    {
-      "id": 1563464,
-      "title": "Hivemind Deluxe",
-      "release_date": "2025-10-17",
-      "vote_average": 9.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/m6s86cN6P4GEyZ7SwKxFsP2Mlg5.jpg",
-      "genres": [
-        "фантастика",
-        "триллер",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1563455,
-      "title": "Boyish",
-      "release_date": "2025-10-17",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1563398,
-      "title": "Pocas nueces",
-      "release_date": "2025-10-17",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4NriIY89CfkZEbbcBFEGjAviUpo.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1563382,
-      "title": "Caminos cruzados",
-      "release_date": "2025-10-17",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5AFBo6VdWPuyGfg61yLi9ee0Dnk.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1563372,
-      "title": "Déjame ayudarte",
-      "release_date": "2025-10-17",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/npZ02dONwJiOoSmWfBWq7QODsZX.jpg",
-      "genres": [
-        "драма"
       ]
     }
   ],

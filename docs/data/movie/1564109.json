@@ -1,0 +1,24 @@
+{
+  "id": 1564109,
+  "title": "Beharrezkoa da",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-17",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "es",
+  "spoken_languages": [],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/uU2y0RkeSAQ1FYzWcAQiM46aQwq.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/jQ57VfsNsKKyLqTGkcljv9nNvBc.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1564109",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-17T12:24:58.651489+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

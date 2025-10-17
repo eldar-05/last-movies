@@ -1,23 +1,20 @@
 {
-  "id": 1563954,
-  "title": "Errand Boy",
+  "id": 1564143,
+  "title": "Home / Away From Home",
   "tagline": "",
   "overview": "",
   "release_date": "2025-10-17",
-  "runtime": 6,
+  "runtime": 10,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [
-    "комедия",
-    "боевик"
-  ],
+  "genres": [],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/q3TvFc5BLvLDyvadcPmysvpSk3c.jpg",
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1563954",
+  "tmdb_url": "https://www.themoviedb.org/movie/1564143",
   "trailer": null,
-  "fetched_at_utc": "2025-10-17T12:24:58.791430+00:00",
+  "fetched_at_utc": "2025-10-17T12:24:57.959480+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

@@ -1,0 +1,22 @@
+{
+  "id": 1564116,
+  "title": "SURORIENTALES",
+  "tagline": "",
+  "overview": "",
+  "release_date": "",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/zcjJxFNxYevrTnE7JIFImRr9YcO.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/9X188WbvDJhBXHlOHwRryPnKm77.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1564116",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-17T12:24:58.330987+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
