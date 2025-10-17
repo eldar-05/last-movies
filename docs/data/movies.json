@@ -1,109 +1,112 @@
 {
-  "fetched_at_utc": "2025-10-16T18:18:25.132984+00:00",
+  "fetched_at_utc": "2025-10-17T00:58:01.208482+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1563809,
-      "title": "Alfa & Bravo",
-      "release_date": "2025-10-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jgIQ7Rj21YEK6T5T2xcpYKTxO8U.jpg",
-      "genres": [
-        "боевик",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1563797,
-      "title": "Kagerō",
-      "release_date": "2025-10-16",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/klnlXWebJq9395tmgUxXRZzevFP.jpg",
-      "genres": [
-        "боевик"
-      ]
-    },
-    {
-      "id": 1563796,
-      "title": "trees",
-      "release_date": "2025-10-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cJnSHCdCh5nGky7kB9YBgmV2H5z.jpg",
-      "genres": []
-    },
-    {
-      "id": 1563758,
-      "title": "The Panic",
-      "release_date": "2025-10-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6PPZrFQMYshcPiKORZdRt7ZkYwq.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1563738,
-      "title": "M.R.I. (or, Michael Returns Indefinitely)",
+      "id": 1563954,
+      "title": "Errand Boy",
       "release_date": "",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "фантастика",
-        "комедия"
+        "комедия",
+        "боевик"
       ]
     },
     {
-      "id": 1563724,
-      "title": "Ez Daukate",
-      "release_date": "2025-10-16",
+      "id": 1563818,
+      "title": "The Witch of Glentow",
+      "release_date": "2025-10-17",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qJAbCbzoWUNpUkMzdHk0YoMz8xV.jpg",
+      "poster_url": null,
       "genres": [
-        "документальный"
+        "ужасы"
       ]
     },
     {
-      "id": 1563548,
-      "title": "Jangan Ambil Bonekaku..!! 2",
-      "release_date": "2025-10-16",
+      "id": 1563628,
+      "title": "Sjena",
+      "release_date": "2025-10-17",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ngBtNvVy10PyEBjRXW4Rvf22UaE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5TicsVtFWkSqwdjwSUABagFxgko.jpg",
       "genres": [
-        "криминал",
+        "мультфильм",
+        "фэнтези",
         "драма"
       ]
     },
     {
-      "id": 1563430,
-      "title": "গ্যাড়াকল",
-      "release_date": "2025-10-16",
+      "id": 1563607,
+      "title": "Pădurea este a mea",
+      "release_date": "2025-10-17",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bTJylbTf6EWyYUS4UVLECLRlmlz.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/buUuLE9Qu8mfd8BOsLZkUEYoyeg.jpg",
       "genres": [
-        "детектив",
+        "комедия",
         "триллер"
       ]
     },
     {
-      "id": 1563396,
-      "title": "Flood",
-      "release_date": "2025-10-16",
+      "id": 1563577,
+      "title": "Tilbake til nåtiden",
+      "release_date": "2025-10-17",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4hUMwlgAQIFqD4FiUs0JCbNIYPm.jpg",
       "genres": [
-        "документальный"
+        "комедия",
+        "музыка"
       ]
     },
     {
-      "id": 1563385,
-      "title": "How I Made £1 Million in 90 Days",
-      "release_date": "2025-10-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yp1iEfJaPyozuBd8bcd3Sx53WNq.jpg",
+      "id": 1563464,
+      "title": "Hivemind Deluxe",
+      "release_date": "2025-10-17",
+      "vote_average": 9.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zzOjqJvapPGxPztBESXTuc5n8Zx.jpg",
       "genres": [
-        "документальный"
+        "фантастика",
+        "триллер",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1563455,
+      "title": "Boyish",
+      "release_date": "2025-10-17",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1563398,
+      "title": "Pocas nueces",
+      "release_date": "2025-10-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4NriIY89CfkZEbbcBFEGjAviUpo.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1563382,
+      "title": "Caminos cruzados",
+      "release_date": "2025-10-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5AFBo6VdWPuyGfg61yLi9ee0Dnk.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1563372,
+      "title": "Déjame ayudarte",
+      "release_date": "2025-10-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/npZ02dONwJiOoSmWfBWq7QODsZX.jpg",
+      "genres": [
+        "драма"
       ]
     }
   ],

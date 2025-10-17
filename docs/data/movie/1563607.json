@@ -1,0 +1,25 @@
+{
+  "id": 1563607,
+  "title": "Pădurea este a mea",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-17",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "триллер"
+  ],
+  "original_language": "ro",
+  "spoken_languages": [
+    "Romanian"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/buUuLE9Qu8mfd8BOsLZkUEYoyeg.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1563607",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-17T00:57:59.003027+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

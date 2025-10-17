@@ -1,0 +1,26 @@
+{
+  "id": 1563372,
+  "title": "Déjame ayudarte",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-17",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/npZ02dONwJiOoSmWfBWq7QODsZX.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/ca2SGAPE0Do4SUtMfZoQRnpbUGO.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1563372",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-17T00:58:01.208029+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

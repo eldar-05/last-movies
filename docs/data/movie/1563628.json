@@ -1,0 +1,28 @@
+{
+  "id": 1563628,
+  "title": "Sjena",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-17",
+  "runtime": 7,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм",
+    "фэнтези",
+    "драма"
+  ],
+  "original_language": "hr",
+  "spoken_languages": [
+    "Croatian"
+  ],
+  "production_countries": [
+    "HR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/5TicsVtFWkSqwdjwSUABagFxgko.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1563628",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-17T00:57:58.637397+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

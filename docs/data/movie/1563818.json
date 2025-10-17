@@ -1,0 +1,28 @@
+{
+  "id": 1563818,
+  "title": "The Witch of Glentow",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-17",
+  "runtime": 19,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "IE"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1563818",
+  "trailer": {
+    "key": "SxHrEbG0JD4",
+    "name": "Witch of Glentow Clip",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-17T00:57:58.236248+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

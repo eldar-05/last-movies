@@ -1,0 +1,27 @@
+{
+  "id": 1563577,
+  "title": "Tilbake til nåtiden",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-17",
+  "runtime": 73,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "музыка"
+  ],
+  "original_language": "no",
+  "spoken_languages": [
+    "Norwegian"
+  ],
+  "production_countries": [
+    "NO"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/4hUMwlgAQIFqD4FiUs0JCbNIYPm.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/nGl1SG3wL9vWtoqXUxYGUItnJ5p.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1563577",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-17T00:57:59.371338+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

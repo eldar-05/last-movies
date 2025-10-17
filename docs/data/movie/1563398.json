@@ -1,0 +1,26 @@
+{
+  "id": 1563398,
+  "title": "Pocas nueces",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-17",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/4NriIY89CfkZEbbcBFEGjAviUpo.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/nBI1gBNKQjq2SVJkH1DkDE6oibZ.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1563398",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-17T00:58:00.415405+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

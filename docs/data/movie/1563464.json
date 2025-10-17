@@ -1,0 +1,30 @@
+{
+  "id": 1563464,
+  "title": "Hivemind Deluxe",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-17",
+  "runtime": 10,
+  "vote_average": 9.0,
+  "vote_count": 1,
+  "genres": [
+    "фантастика",
+    "триллер",
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/zzOjqJvapPGxPztBESXTuc5n8Zx.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/30iPk1RoapQOhzICyfodjP29II9.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1563464",
+  "trailer": {
+    "key": "oCr7-c0Zpjc",
+    "name": "Hivemind Deluxe (2025) Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-17T00:57:59.610373+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
