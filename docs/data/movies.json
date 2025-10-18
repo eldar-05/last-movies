@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-10-18T00:55:14.893541+00:00",
+  "fetched_at_utc": "2025-10-18T06:16:54.463567+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -20,7 +20,7 @@
       "title": "Gilberto Gil: Tempo Rei - A Última Turnê",
       "release_date": "2025-10-18",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4ULPePyuu1FRBzi6tJ6BoC7Hb62.jpg",
       "genres": [
         "музыка",
         "документальный"
@@ -51,7 +51,7 @@
       "title": "AEW WrestleDream 2025: Saturday Tailgate Brawl",
       "release_date": "2025-10-18",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mKSkhXm4OolcVBxie0sjisB6vWC.jpg",
       "genres": []
     },
     {
