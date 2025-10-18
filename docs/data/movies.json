@@ -1,9 +1,59 @@
 {
-  "fetched_at_utc": "2025-10-18T06:16:54.463567+00:00",
+  "fetched_at_utc": "2025-10-18T12:22:03.710408+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1564692,
+      "title": "Les mystères d'Halloween",
+      "release_date": "2025-10-18",
+      "vote_average": 8.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/o5DMtCBK134XkLSyIDRg1K3T6Lq.jpg",
+      "genres": [
+        "документальный",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1564673,
+      "title": "Babacık Kandırdı mı Seni?",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1564634,
+      "title": "¿Qué significa justicia para las mujeres?",
+      "release_date": "2025-10-18",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/inL8cQj4O7YzgmisfPDxu4M832e.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1564630,
+      "title": "Au nom du sang",
+      "release_date": "2025-10-18",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/g5EdsWmxSpg7alZ7n7kPtRzBvnV.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1564535,
+      "title": "黑金村传说",
+      "release_date": "2025-10-18",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qskGgg6gU8H0BKQJ4bgDP2gdDLU.jpg",
+      "genres": [
+        "триллер",
+        "приключения"
+      ]
+    },
     {
       "id": 1564422,
       "title": "Pank u Mramorku!",
@@ -52,54 +102,6 @@
       "release_date": "2025-10-18",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/mKSkhXm4OolcVBxie0sjisB6vWC.jpg",
-      "genres": []
-    },
-    {
-      "id": 1563932,
-      "title": "2022",
-      "release_date": "2025-10-18",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мультфильм",
-        "документальный"
-      ]
-    },
-    {
-      "id": 1563929,
-      "title": "Мій коханий звір",
-      "release_date": "2025-10-18",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "ужасы",
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1563926,
-      "title": "Істина",
-      "release_date": "2025-10-18",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1563923,
-      "title": "Мені сказали я старий",
-      "release_date": "2025-10-18",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1563921,
-      "title": "Тінь з шафи",
-      "release_date": "2025-10-18",
-      "vote_average": 0.0,
-      "poster_url": null,
       "genres": []
     }
   ],

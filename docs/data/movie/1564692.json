@@ -1,0 +1,25 @@
+{
+  "id": 1564692,
+  "title": "Les mystères d'Halloween",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-18",
+  "runtime": 0,
+  "vote_average": 8.0,
+  "vote_count": 1,
+  "genres": [
+    "документальный",
+    "детектив"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [],
+  "production_countries": [
+    "IE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/o5DMtCBK134XkLSyIDRg1K3T6Lq.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/sTaFhwVMD83127zOzQSiEl03us.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1564692",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-18T12:22:01.205720+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
