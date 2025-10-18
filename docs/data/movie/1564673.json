@@ -3,20 +3,20 @@
   "title": "Babacık Kandırdı mı Seni?",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-10-18",
   "runtime": 25,
-  "vote_average": 0.0,
-  "vote_count": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
   "genres": [],
   "original_language": "tr",
   "spoken_languages": [
     "Turkish"
   ],
   "production_countries": [],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/1lqiuedAei6tK5kHUwmr0zRGQBN.jpg",
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1564673",
   "trailer": null,
-  "fetched_at_utc": "2025-10-18T12:22:01.500296+00:00",
+  "fetched_at_utc": "2025-10-18T18:15:43.395131+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

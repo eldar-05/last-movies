@@ -1,9 +1,40 @@
 {
-  "fetched_at_utc": "2025-10-18T12:22:03.710408+00:00",
+  "fetched_at_utc": "2025-10-18T18:15:46.323789+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1564841,
+      "title": "Ainda Me Vejo em Outros Olhos",
+      "release_date": "2025-10-18",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lXRk2dCmKBYUzsoNkSHGih2a8oz.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1564833,
+      "title": "Voir l'automne, une saison en France",
+      "release_date": "2025-10-18",
+      "vote_average": 8.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/95GCpxVRYRAWQ7c8ukfP1DPWTtk.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1564827,
+      "title": "Where Is Bobcat?",
+      "release_date": "2025-10-18",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wNaGkBczFvyMiAjO9SYS5gd7Rz.jpg",
+      "genres": [
+        "детектив",
+        "триллер"
+      ]
+    },
     {
       "id": 1564692,
       "title": "Les mystères d'Halloween",
@@ -18,9 +49,9 @@
     {
       "id": 1564673,
       "title": "Babacık Kandırdı mı Seni?",
-      "release_date": "",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "release_date": "2025-10-18",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1lqiuedAei6tK5kHUwmr0zRGQBN.jpg",
       "genres": []
     },
     {
@@ -75,34 +106,6 @@
         "музыка",
         "документальный"
       ]
-    },
-    {
-      "id": 1564276,
-      "title": "Memorial dos Metacarpos",
-      "release_date": "2025-10-18",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ve7xoEbrhZG4xlMEQNt52uzvMsE.jpg",
-      "genres": [
-        "детектив",
-        "драма",
-        "документальный"
-      ]
-    },
-    {
-      "id": 1564229,
-      "title": "moving objects",
-      "release_date": "2025-10-18",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/81978058BUm3c4eRcZapz1Pucnm.jpg",
-      "genres": []
-    },
-    {
-      "id": 1564182,
-      "title": "AEW WrestleDream 2025: Saturday Tailgate Brawl",
-      "release_date": "2025-10-18",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mKSkhXm4OolcVBxie0sjisB6vWC.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",
