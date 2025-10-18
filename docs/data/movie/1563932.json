@@ -1,0 +1,29 @@
+{
+  "id": 1563932,
+  "title": "2022",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-18",
+  "runtime": 10,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм",
+    "документальный"
+  ],
+  "original_language": "uk",
+  "spoken_languages": [],
+  "production_countries": [
+    "UA"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1563932",
+  "trailer": {
+    "key": "hAIevC_aY7I",
+    "name": "2022 (short film) trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-18T00:55:14.115930+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

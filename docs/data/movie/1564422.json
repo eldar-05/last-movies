@@ -1,0 +1,27 @@
+{
+  "id": 1564422,
+  "title": "Pank u Mramorku!",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-18",
+  "runtime": 60,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "музыка"
+  ],
+  "original_language": "sr",
+  "spoken_languages": [
+    "Serbian"
+  ],
+  "production_countries": [
+    "RS"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/uwaNwYzixyDgieYs8au0EBb0KbU.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1564422",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-18T00:55:13.218451+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

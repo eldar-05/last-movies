@@ -1,0 +1,26 @@
+{
+  "id": 1564276,
+  "title": "Memorial dos Metacarpos",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-18",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "детектив",
+    "драма",
+    "документальный"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/ve7xoEbrhZG4xlMEQNt52uzvMsE.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/xRGvHUkctZFsgtoNCgUPx04gWlo.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1564276",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-18T00:55:13.618972+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
