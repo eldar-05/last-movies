@@ -1,111 +1,99 @@
 {
-  "fetched_at_utc": "2025-10-18T18:15:46.323789+00:00",
+  "fetched_at_utc": "2025-10-19T01:04:50.228300+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1564841,
-      "title": "Ainda Me Vejo em Outros Olhos",
-      "release_date": "2025-10-18",
+      "id": 1564956,
+      "title": "Anatomical soul",
+      "release_date": "2025-10-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lXRk2dCmKBYUzsoNkSHGih2a8oz.jpg",
-      "genres": [
-        "драма"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/sCLPybih8y5exxgKhOklPXhHi9c.jpg",
+      "genres": []
     },
     {
-      "id": 1564833,
-      "title": "Voir l'automne, une saison en France",
-      "release_date": "2025-10-18",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/95GCpxVRYRAWQ7c8ukfP1DPWTtk.jpg",
+      "id": 1564933,
+      "title": "Beyond the Podium: A Formula Racing at UC Davis Documentary",
+      "release_date": "2025-10-19",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1564827,
-      "title": "Where Is Bobcat?",
-      "release_date": "2025-10-18",
+      "id": 1564661,
+      "title": "Не поспішай, подумай!",
+      "release_date": "2025-10-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wNaGkBczFvyMiAjO9SYS5gd7Rz.jpg",
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1564660,
+      "title": "The Dialogue",
+      "release_date": "2025-10-19",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
-        "детектив",
+        "драма"
+      ]
+    },
+    {
+      "id": 1564659,
+      "title": "ВідображеннR",
+      "release_date": "2025-10-19",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1564658,
+      "title": "Півники",
+      "release_date": "2025-10-19",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1564647,
+      "title": "Agent Ching Attacks",
+      "release_date": "2025-10-19",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "боевик"
+      ]
+    },
+    {
+      "id": 1564590,
+      "title": "Thumbing",
+      "release_date": "2025-10-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jrglkwSmjB9pD5wwjAQOxSOstvW.jpg",
+      "genres": [
+        "комедия",
         "триллер"
       ]
     },
     {
-      "id": 1564692,
-      "title": "Les mystères d'Halloween",
-      "release_date": "2025-10-18",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/o5DMtCBK134XkLSyIDRg1K3T6Lq.jpg",
-      "genres": [
-        "документальный",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1564673,
-      "title": "Babacık Kandırdı mı Seni?",
-      "release_date": "2025-10-18",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1lqiuedAei6tK5kHUwmr0zRGQBN.jpg",
+      "id": 1564481,
+      "title": "Відродження",
+      "release_date": "2025-10-19",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": []
     },
     {
-      "id": 1564634,
-      "title": "¿Qué significa justicia para las mujeres?",
-      "release_date": "2025-10-18",
+      "id": 1564224,
+      "title": "Історія кота",
+      "release_date": "2025-10-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/inL8cQj4O7YzgmisfPDxu4M832e.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1564630,
-      "title": "Au nom du sang",
-      "release_date": "2025-10-18",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/g5EdsWmxSpg7alZ7n7kPtRzBvnV.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1564535,
-      "title": "黑金村传说",
-      "release_date": "2025-10-18",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qskGgg6gU8H0BKQJ4bgDP2gdDLU.jpg",
-      "genres": [
-        "триллер",
-        "приключения"
-      ]
-    },
-    {
-      "id": 1564422,
-      "title": "Pank u Mramorku!",
-      "release_date": "2025-10-18",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uwaNwYzixyDgieYs8au0EBb0KbU.jpg",
-      "genres": [
-        "документальный",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1564399,
-      "title": "Gilberto Gil: Tempo Rei - A Última Turnê",
-      "release_date": "2025-10-18",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4ULPePyuu1FRBzi6tJ6BoC7Hb62.jpg",
-      "genres": [
-        "музыка",
-        "документальный"
-      ]
+      "poster_url": null,
+      "genres": []
     }
   ],
   "source": "TMDB",
