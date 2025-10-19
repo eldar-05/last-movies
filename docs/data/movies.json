@@ -1,9 +1,36 @@
 {
-  "fetched_at_utc": "2025-10-19T12:22:06.417299+00:00",
+  "fetched_at_utc": "2025-10-19T18:16:13.455552+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1565268,
+      "title": "Dans les oubliettes de la République : Georges Abdallah",
+      "release_date": "2025-10-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3vUFL8ghosB8yPCEuYv1dt01rFh.jpg",
+      "genres": [
+        "документальный",
+        "история"
+      ]
+    },
+    {
+      "id": 1565193,
+      "title": "Focus sing-in : praise",
+      "release_date": "2025-10-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rLIqBvccFKxz0jPbnHLv8tFog0g.jpg",
+      "genres": []
+    },
+    {
+      "id": 1565132,
+      "title": "Dear Jeeva: An Unconditional Love Story",
+      "release_date": "2025-10-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8t5cXP8e0NJN4wOnwDtJuMBmLxe.jpg",
+      "genres": []
+    },
     {
       "id": 1565056,
       "title": "ClownEaters",
@@ -64,34 +91,6 @@
     {
       "id": 1564661,
       "title": "Не поспішай, подумай!",
-      "release_date": "2025-10-19",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1564660,
-      "title": "The Dialogue",
-      "release_date": "2025-10-19",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1564659,
-      "title": "ВідображеннR",
-      "release_date": "2025-10-19",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1564658,
-      "title": "Півники",
       "release_date": "2025-10-19",
       "vote_average": 0.0,
       "poster_url": null,
