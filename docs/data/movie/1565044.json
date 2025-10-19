@@ -1,0 +1,27 @@
+{
+  "id": 1565044,
+  "title": "Raíces",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-19",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "wo",
+  "spoken_languages": [
+    "Wolof"
+  ],
+  "production_countries": [
+    "SN",
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/4uPt6Mgahvb2HB2NqZGYwqN3ntt.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/x2AyKOm8GuNXtwq0EDFrXTEP21N.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1565044",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-19T12:22:04.717059+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

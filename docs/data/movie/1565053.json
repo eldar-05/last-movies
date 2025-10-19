@@ -1,0 +1,26 @@
+{
+  "id": 1565053,
+  "title": "Ubuntu",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-19",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/a0gaAloCubSEecXpL7WZFQr2u0M.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/Ad6DBwKAmFtqD0yg5NVN1cQWTZJ.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1565053",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-19T12:22:04.437037+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

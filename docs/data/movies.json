@@ -1,9 +1,48 @@
 {
-  "fetched_at_utc": "2025-10-19T06:18:01.559326+00:00",
+  "fetched_at_utc": "2025-10-19T12:22:06.417299+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1565056,
+      "title": "ClownEaters",
+      "release_date": "2025-10-19",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1565054,
+      "title": "Our Last Scar",
+      "release_date": "2025-10-19",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1565053,
+      "title": "Ubuntu",
+      "release_date": "2025-10-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/a0gaAloCubSEecXpL7WZFQr2u0M.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1565044,
+      "title": "Raíces",
+      "release_date": "2025-10-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4uPt6Mgahvb2HB2NqZGYwqN3ntt.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1564956,
       "title": "Anatomical soul",
@@ -53,43 +92,6 @@
     {
       "id": 1564658,
       "title": "Півники",
-      "release_date": "2025-10-19",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1564647,
-      "title": "Agent Ching Attacks",
-      "release_date": "2025-10-19",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "боевик"
-      ]
-    },
-    {
-      "id": 1564590,
-      "title": "Thumbing",
-      "release_date": "2025-10-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jrglkwSmjB9pD5wwjAQOxSOstvW.jpg",
-      "genres": [
-        "комедия",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1564481,
-      "title": "Відродження",
-      "release_date": "2025-10-19",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1564224,
-      "title": "Історія кота",
       "release_date": "2025-10-19",
       "vote_average": 0.0,
       "poster_url": null,
