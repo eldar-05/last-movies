@@ -1,87 +1,53 @@
 {
-  "fetched_at_utc": "2025-10-19T18:16:13.455552+00:00",
+  "fetched_at_utc": "2025-10-20T01:02:46.098001+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1565268,
-      "title": "Dans les oubliettes de la République : Georges Abdallah",
-      "release_date": "2025-10-19",
+      "id": 1565146,
+      "title": "Água Mãe",
+      "release_date": "2025-10-20",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3vUFL8ghosB8yPCEuYv1dt01rFh.jpg",
-      "genres": [
-        "документальный",
-        "история"
-      ]
-    },
-    {
-      "id": 1565193,
-      "title": "Focus sing-in : praise",
-      "release_date": "2025-10-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rLIqBvccFKxz0jPbnHLv8tFog0g.jpg",
-      "genres": []
-    },
-    {
-      "id": 1565132,
-      "title": "Dear Jeeva: An Unconditional Love Story",
-      "release_date": "2025-10-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8t5cXP8e0NJN4wOnwDtJuMBmLxe.jpg",
-      "genres": []
-    },
-    {
-      "id": 1565056,
-      "title": "ClownEaters",
-      "release_date": "2025-10-19",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "ужасы",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1565054,
-      "title": "Our Last Scar",
-      "release_date": "2025-10-19",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1565053,
-      "title": "Ubuntu",
-      "release_date": "2025-10-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/a0gaAloCubSEecXpL7WZFQr2u0M.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yh5HKgE4HCQajbqtrBmPZGRf6n3.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1565044,
-      "title": "Raíces",
-      "release_date": "2025-10-19",
+      "id": 1564826,
+      "title": "Dirty Vote O3: Membaca Kartu-Kartu Politik Oligarki",
+      "release_date": "2025-10-20",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4uPt6Mgahvb2HB2NqZGYwqN3ntt.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7PNLoP73lex91bdvTZDt8MqFBh8.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1564956,
-      "title": "Anatomical soul",
-      "release_date": "2025-10-19",
+      "id": 1564190,
+      "title": "Breaking the Tide",
+      "release_date": "2025-10-20",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sCLPybih8y5exxgKhOklPXhHi9c.jpg",
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/gTiqToZLPCX8v3mhno0Nw78jVfG.jpg",
+      "genres": [
+        "драма"
+      ]
     },
     {
-      "id": 1564933,
-      "title": "Beyond the Podium: A Formula Racing at UC Davis Documentary",
-      "release_date": "2025-10-19",
+      "id": 1563550,
+      "title": "L'œil du diable",
+      "release_date": "2025-10-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iXjc5TWcOZ8ZycEr2TFTbcDdVXi.jpg",
+      "genres": [
+        "криминал"
+      ]
+    },
+    {
+      "id": 1562994,
+      "title": "Dacia, vita mia - Dialoghi giapponesi",
+      "release_date": "2025-10-20",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
@@ -89,12 +55,48 @@
       ]
     },
     {
-      "id": 1564661,
-      "title": "Не поспішай, подумай!",
-      "release_date": "2025-10-19",
+      "id": 1562988,
+      "title": "La commedia non esiste. Salemme prova Eduardo",
+      "release_date": "2025-10-20",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1562830,
+      "title": "Waters that sculpt fire",
+      "release_date": "2025-10-20",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
+    },
+    {
+      "id": 1562827,
+      "title": "apocalipsis",
+      "release_date": "2025-10-20",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1562823,
+      "title": "The Other Side",
+      "release_date": "2025-10-20",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1561507,
+      "title": "Joe Swash: Forgotten Young Dads",
+      "release_date": "2025-10-20",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
     }
   ],
   "source": "TMDB",
