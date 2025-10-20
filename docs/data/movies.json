@@ -1,104 +1,101 @@
 {
-  "fetched_at_utc": "2025-10-20T12:26:33.277503+00:00",
+  "fetched_at_utc": "2025-10-20T18:18:55.283008+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1565472,
-      "title": "What Are You Thinking?",
-      "release_date": "2025-10-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/syJdA31eoIZy0CDRbEsNnoyRqJJ.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1565470,
-      "title": "Endometriosis. Hagamos visible lo invisible",
-      "release_date": "2025-10-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gZfkZb2lWKWh0PsmIKpAj2u3kVS.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1565146,
-      "title": "Água Mãe",
-      "release_date": "2025-10-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yh5HKgE4HCQajbqtrBmPZGRf6n3.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1564826,
-      "title": "Dirty Vote O3: Membaca Kartu-Kartu Politik Oligarki",
-      "release_date": "2025-10-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7PNLoP73lex91bdvTZDt8MqFBh8.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1564190,
-      "title": "Breaking the Tide",
-      "release_date": "2025-10-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gTiqToZLPCX8v3mhno0Nw78jVfG.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1563550,
-      "title": "L'œil du diable",
-      "release_date": "2025-10-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iXjc5TWcOZ8ZycEr2TFTbcDdVXi.jpg",
-      "genres": [
-        "криминал"
-      ]
-    },
-    {
-      "id": 1562994,
-      "title": "Dacia, vita mia - Dialoghi giapponesi",
-      "release_date": "2025-10-20",
+      "id": 1565812,
+      "title": "O SUPER GUIA DEFINITIVAMENTE ÉPICO CHEIROSO E BUNITO DE RPG",
+      "release_date": "",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "документальный"
+        "фантастика",
+        "приключения",
+        "комедия"
       ]
     },
     {
-      "id": 1562988,
-      "title": "La commedia non esiste. Salemme prova Eduardo",
+      "id": 1565766,
+      "title": "First Curling",
       "release_date": "2025-10-20",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/3yDI4GzKvvpIOo0d6xkQ1isMRzq.jpg",
+      "genres": []
     },
     {
-      "id": 1562830,
-      "title": "Waters that sculpt fire",
+      "id": 1565765,
+      "title": "IT'S GOOD THAT YOU'RE ASHAMED",
       "release_date": "2025-10-20",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1562827,
-      "title": "apocalipsis",
+      "id": 1565742,
+      "title": "Vi som solgte landet",
+      "release_date": "2025-10-20",
+      "vote_average": 7.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1565721,
+      "title": "Just ดู it",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/uofVvuq68Re75RSBdKrQvuXpENo.jpg",
+      "genres": []
+    },
+    {
+      "id": 1565716,
+      "title": "When Nobody's Watching",
+      "release_date": "2025-10-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zAlO5VU3ckgDZuuyAgAGWPgDKge.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1565714,
+      "title": "The Last Hour",
+      "release_date": "2025-10-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kCeGx429qnNax2Hu75bRJByymYp.jpg",
+      "genres": []
+    },
+    {
+      "id": 1565662,
+      "title": "La Première Guerre Mondiale vue par l'IA",
+      "release_date": "2025-10-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/uDnA1BFv1ZBhwMFT1JfovJHBv9Z.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1565653,
+      "title": "苏河的母亲",
       "release_date": "2025-10-20",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
+    },
+    {
+      "id": 1565629,
+      "title": "My Otter Diary",
+      "release_date": "2025-10-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kqHxrP6T0AupROhc2yqQw7zdXDM.jpg",
+      "genres": [
+        "документальный",
+        "телевизионный фильм"
+      ]
     }
   ],
   "source": "TMDB",

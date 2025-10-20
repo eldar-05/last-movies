@@ -1,0 +1,22 @@
+{
+  "id": 1565766,
+  "title": "First Curling",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-20",
+  "runtime": 4,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "th",
+  "spoken_languages": [
+    "Thai"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/3yDI4GzKvvpIOo0d6xkQ1isMRzq.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1565766",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-20T18:18:53.264045+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

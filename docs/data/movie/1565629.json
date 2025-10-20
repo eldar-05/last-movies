@@ -1,0 +1,26 @@
+{
+  "id": 1565629,
+  "title": "My Otter Diary",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-20",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "телевизионный фильм"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [],
+  "production_countries": [
+    "IN",
+    "GB"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/kqHxrP6T0AupROhc2yqQw7zdXDM.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/tJtivmDYt98t28SUSESJczQsLsM.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1565629",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-20T18:18:55.282539+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
