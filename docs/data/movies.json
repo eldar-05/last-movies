@@ -1,9 +1,17 @@
 {
-  "fetched_at_utc": "2025-10-21T06:19:35.029264+00:00",
+  "fetched_at_utc": "2025-10-21T12:26:12.509070+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1566096,
+      "title": "IN BRAWL, YOU CAN",
+      "release_date": "2025-10-21",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
     {
       "id": 1565961,
       "title": "Sin derecho a denunciar (Cooperativa El Bosque)",
@@ -89,17 +97,6 @@
       "poster_url": null,
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1564720,
-      "title": "Blooming Death",
-      "release_date": "2025-10-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kKeR5NuRJC7MLnpQBsopAhV914G.jpg",
-      "genres": [
-        "триллер",
-        "ужасы"
       ]
     }
   ],
