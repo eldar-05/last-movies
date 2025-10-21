@@ -1,9 +1,58 @@
 {
-  "fetched_at_utc": "2025-10-21T12:26:12.509070+00:00",
+  "fetched_at_utc": "2025-10-21T18:17:50.287792+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1566384,
+      "title": "ABISMO",
+      "release_date": "2025-10-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6k2nPwmj3IVFva2ZMeTBLaFfhQX.jpg",
+      "genres": []
+    },
+    {
+      "id": 1566267,
+      "title": "H4pPy 6iR7hd4y D3n M4rK",
+      "release_date": "2025-10-21",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9QMsFCtz1ZIS8AhLijTDWM4Mqgh.jpg",
+      "genres": [
+        "комедия",
+        "семейный"
+      ]
+    },
+    {
+      "id": 1566252,
+      "title": "Вратете ни го чаламот",
+      "release_date": "2025-10-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9QcTMZgnG6NH8oZiEFcaJMqQrXv.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1566230,
+      "title": "Michelle Wolf: The Well",
+      "release_date": "2025-10-21",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1566128,
+      "title": "La folle histoire de McDonald’s",
+      "release_date": "2025-10-21",
+      "vote_average": 7.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kqzzHE98MZwj2KjX0MNB7jiGTXg.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1566096,
       "title": "IN BRAWL, YOU CAN",
@@ -11,6 +60,18 @@
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
+    },
+    {
+      "id": 1565984,
+      "title": "Lúgubre Lembrança",
+      "release_date": "2025-10-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4UZp23pvNr1jdN9a8hImgDaMGJU.jpg",
+      "genres": [
+        "мультфильм",
+        "ужасы",
+        "детектив"
+      ]
     },
     {
       "id": 1565961,
@@ -38,65 +99,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/kTUe71mKiY6pr1FrAwOi0UHToMZ.jpg",
       "genres": [
         "драма"
-      ]
-    },
-    {
-      "id": 1565945,
-      "title": "Clownstalker: Episode III",
-      "release_date": "2025-10-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vSh62KrxKdx3vdiGHtDfRodFgv7.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1565941,
-      "title": "La vuelta",
-      "release_date": "2025-10-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wMBVVclsOWxUEC6gSHgu1p8O9as.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1565889,
-      "title": "Heidis Armé – Filmen",
-      "release_date": "2025-10-21",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1565663,
-      "title": "命运方程式",
-      "release_date": "2025-10-21",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1565353,
-      "title": "Synthesis",
-      "release_date": "2025-10-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/scWH5i18yeWsrH6e3mlkRXe1sde.jpg",
-      "genres": [
-        "фантастика"
-      ]
-    },
-    {
-      "id": 1564812,
-      "title": "The Rise of RFK Jr.",
-      "release_date": "2025-10-21",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
       ]
     }
   ],

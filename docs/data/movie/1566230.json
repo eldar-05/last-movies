@@ -1,20 +1,22 @@
 {
-  "id": 1566096,
-  "title": "IN BRAWL, YOU CAN",
+  "id": 1566230,
+  "title": "Michelle Wolf: The Well",
   "tagline": "",
   "overview": "",
   "release_date": "2025-10-21",
-  "runtime": 1,
+  "runtime": 60,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "комедия"
+  ],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
   "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1566096",
+  "tmdb_url": "https://www.themoviedb.org/movie/1566230",
   "trailer": null,
-  "fetched_at_utc": "2025-10-21T18:17:49.539698+00:00",
+  "fetched_at_utc": "2025-10-21T18:17:49.100699+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

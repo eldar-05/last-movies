@@ -1,0 +1,28 @@
+{
+  "id": 1565984,
+  "title": "Lúgubre Lembrança",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-21",
+  "runtime": 4,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм",
+    "ужасы",
+    "детектив"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/4UZp23pvNr1jdN9a8hImgDaMGJU.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1565984",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-21T18:17:49.711571+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
