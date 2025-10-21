@@ -1,0 +1,26 @@
+{
+  "id": 1565941,
+  "title": "La vuelta",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-21",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/wMBVVclsOWxUEC6gSHgu1p8O9as.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/oyNND5RKYLjntlWtcm7jJVDgP9A.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1565941",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-21T00:59:40.960085+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

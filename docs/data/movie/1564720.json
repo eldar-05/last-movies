@@ -1,0 +1,25 @@
+{
+  "id": 1564720,
+  "title": "Blooming Death",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-21",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "ужасы"
+  ],
+  "original_language": "it",
+  "spoken_languages": [],
+  "production_countries": [
+    "IT"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/kKeR5NuRJC7MLnpQBsopAhV914G.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1564720",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-21T00:59:42.291288+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

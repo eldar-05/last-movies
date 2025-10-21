@@ -1,100 +1,105 @@
 {
-  "fetched_at_utc": "2025-10-20T18:18:55.283008+00:00",
+  "fetched_at_utc": "2025-10-21T00:59:42.291487+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1565812,
-      "title": "O SUPER GUIA DEFINITIVAMENTE ÉPICO CHEIROSO E BUNITO DE RPG",
+      "id": 1565961,
+      "title": "Sin derecho a denunciar (Cooperativa El Bosque)",
+      "release_date": "2025-10-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qn5VoEjy5E6WYOBrCZv0MYy9fhh.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1565956,
+      "title": "Agua para la vida. La lucha de Ayllu San Agustín de Puñaca",
+      "release_date": "2025-10-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pB2KZ2XHoIjuLonEWn3jL19uV4Y.jpg",
+      "genres": []
+    },
+    {
+      "id": 1565947,
+      "title": "(In)adaptados",
+      "release_date": "2025-10-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kTUe71mKiY6pr1FrAwOi0UHToMZ.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1565945,
+      "title": "Clownstalker: Episode III",
+      "release_date": "2025-10-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vSh62KrxKdx3vdiGHtDfRodFgv7.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1565941,
+      "title": "La vuelta",
+      "release_date": "2025-10-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wMBVVclsOWxUEC6gSHgu1p8O9as.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1565889,
+      "title": "Heidis Armé – Filmen",
       "release_date": "",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": [
-        "фантастика",
-        "приключения",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1565766,
-      "title": "First Curling",
-      "release_date": "2025-10-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3yDI4GzKvvpIOo0d6xkQ1isMRzq.jpg",
-      "genres": []
-    },
-    {
-      "id": 1565765,
-      "title": "IT'S GOOD THAT YOU'RE ASHAMED",
-      "release_date": "2025-10-20",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1565742,
-      "title": "Vi som solgte landet",
-      "release_date": "2025-10-20",
-      "vote_average": 7.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1565721,
-      "title": "Just ดู it",
-      "release_date": "",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uofVvuq68Re75RSBdKrQvuXpENo.jpg",
-      "genres": []
-    },
-    {
-      "id": 1565716,
-      "title": "When Nobody's Watching",
-      "release_date": "2025-10-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zAlO5VU3ckgDZuuyAgAGWPgDKge.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1565714,
-      "title": "The Last Hour",
-      "release_date": "2025-10-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kCeGx429qnNax2Hu75bRJByymYp.jpg",
-      "genres": []
-    },
-    {
-      "id": 1565662,
-      "title": "La Première Guerre Mondiale vue par l'IA",
-      "release_date": "2025-10-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uDnA1BFv1ZBhwMFT1JfovJHBv9Z.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1565653,
-      "title": "苏河的母亲",
-      "release_date": "2025-10-20",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1565629,
-      "title": "My Otter Diary",
-      "release_date": "2025-10-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kqHxrP6T0AupROhc2yqQw7zdXDM.jpg",
       "genres": [
         "документальный",
-        "телевизионный фильм"
+        "музыка"
+      ]
+    },
+    {
+      "id": 1565663,
+      "title": "命运方程式",
+      "release_date": "2025-10-21",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1565353,
+      "title": "Synthesis",
+      "release_date": "2025-10-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/scWH5i18yeWsrH6e3mlkRXe1sde.jpg",
+      "genres": [
+        "фантастика"
+      ]
+    },
+    {
+      "id": 1564812,
+      "title": "The Rise of RFK Jr.",
+      "release_date": "2025-10-21",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1564720,
+      "title": "Blooming Death",
+      "release_date": "2025-10-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kKeR5NuRJC7MLnpQBsopAhV914G.jpg",
+      "genres": [
+        "триллер",
+        "ужасы"
       ]
     }
   ],
