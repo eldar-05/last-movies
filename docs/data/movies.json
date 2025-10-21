@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-10-21T00:59:42.291487+00:00",
+  "fetched_at_utc": "2025-10-21T06:19:35.029264+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -55,7 +55,7 @@
     {
       "id": 1565889,
       "title": "Heidis Armé – Filmen",
-      "release_date": "",
+      "release_date": "2025-10-21",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
