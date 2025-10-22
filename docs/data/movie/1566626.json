@@ -1,6 +1,6 @@
 {
-  "id": 1566555,
-  "title": "Shrinking Space",
+  "id": 1566626,
+  "title": "Aldarriak",
   "tagline": "",
   "overview": "",
   "release_date": "2025-10-22",
@@ -12,18 +12,16 @@
   ],
   "original_language": "es",
   "spoken_languages": [
-    "Arabic",
     "Spanish",
-    "English"
+    "Basque"
   ],
   "production_countries": [
-    "ES",
-    "PS"
+    "ES"
   ],
-  "poster_url": "https://image.tmdb.org/t/p/w500/qJ2WkYFTojnQolDxFyQxpd9QguM.jpg",
-  "backdrop_url": "https://image.tmdb.org/t/p/w780/6iMhyFsGjB8tNQZWtUmE5NdHzvZ.jpg",
-  "tmdb_url": "https://www.themoviedb.org/movie/1566555",
+  "poster_url": "https://image.tmdb.org/t/p/w500/topB7IwOaURm38EeKazHfiF7LZM.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/p3xnSxW2KQhAXn0qJ0MqCy90Y3.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1566626",
   "trailer": null,
-  "fetched_at_utc": "2025-10-22T12:26:57.291058+00:00",
+  "fetched_at_utc": "2025-10-22T12:26:56.138953+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
