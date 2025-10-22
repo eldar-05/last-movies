@@ -1,0 +1,24 @@
+{
+  "id": 1566565,
+  "title": "La sombra del Baobab",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-22",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "es",
+  "spoken_languages": [],
+  "production_countries": [
+    "TZ"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/5RPkR6iQo1mG9M5cvphgSs9CMb1.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/qRLFEtn2h95E8YHpE0niPEo4jTo.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1566565",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-22T01:00:40.629357+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

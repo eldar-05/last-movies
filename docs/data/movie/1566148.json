@@ -1,0 +1,27 @@
+{
+  "id": 1566148,
+  "title": "Vaza",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-22",
+  "runtime": 19,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "комедия"
+  ],
+  "original_language": "sr",
+  "spoken_languages": [
+    "Serbian"
+  ],
+  "production_countries": [
+    "RS"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1566148",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-22T01:00:41.231173+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

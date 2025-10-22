@@ -1,0 +1,28 @@
+{
+  "id": 1565262,
+  "title": "Call Me At 1:15",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-22",
+  "runtime": 8,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "приключения",
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/w96uRuJ1Y3ksZK9g9gvCziSerK9.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/mXt2bMfYpsH8BUNt8UGQroGQCtz.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1565262",
+  "trailer": {
+    "key": "0i4VpeTG7pY",
+    "name": "Call me at 1:15 | official short film trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-22T01:00:41.936306+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

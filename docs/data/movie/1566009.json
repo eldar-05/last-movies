@@ -1,0 +1,26 @@
+{
+  "id": 1566009,
+  "title": "Mamíferas: el hilo de Ariadna",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-22",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/A8SqNDhUbHdrwqYz2WSzJFrGdFH.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/sb8wtyJRB4kcOG1XAnnGh0UsKbN.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1566009",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-22T01:00:41.422162+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

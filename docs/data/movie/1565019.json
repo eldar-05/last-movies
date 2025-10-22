@@ -1,0 +1,25 @@
+{
+  "id": 1565019,
+  "title": "Dead Race",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-22",
+  "runtime": 3,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "мультфильм",
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/qAheeO7wsGBD4fKCkbwCvgx3b7u.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1565019",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-22T01:00:42.348052+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

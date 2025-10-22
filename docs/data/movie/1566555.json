@@ -1,0 +1,29 @@
+{
+  "id": 1566555,
+  "title": "Shrinking Space",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-22",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Arabic",
+    "Spanish",
+    "English"
+  ],
+  "production_countries": [
+    "ES",
+    "PS"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/qJ2WkYFTojnQolDxFyQxpd9QguM.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/6iMhyFsGjB8tNQZWtUmE5NdHzvZ.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1566555",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-22T01:00:41.043735+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
