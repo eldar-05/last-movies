@@ -1,107 +1,92 @@
 {
-  "fetched_at_utc": "2025-10-22T12:26:59.031898+00:00",
+  "fetched_at_utc": "2025-10-22T18:19:44.711285+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1566632,
-      "title": "Maram: Between Shadow & Light",
+      "id": 1566858,
+      "title": "Ya no sé ni lo que digo",
       "release_date": "2025-10-22",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/FMV1zHuLEp8O8ZJMwpTvHu4zbx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qay9yKCrdPCYesD5hDypqqXSswL.jpg",
       "genres": [
-        "документальный"
+        "комедия"
       ]
     },
     {
-      "id": 1566626,
-      "title": "Aldarriak",
-      "release_date": "2025-10-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/topB7IwOaURm38EeKazHfiF7LZM.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1566565,
-      "title": "La sombra del Baobab",
-      "release_date": "2025-10-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5RPkR6iQo1mG9M5cvphgSs9CMb1.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1566560,
-      "title": "The Woolverstones - Live At Pandora Gallery",
-      "release_date": "2025-10-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kZ70eq8RSD4DLLcqWp2E5Jyawhe.jpg",
-      "genres": []
-    },
-    {
-      "id": 1566555,
-      "title": "Shrinking Space",
-      "release_date": "2025-10-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qJ2WkYFTojnQolDxFyQxpd9QguM.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1566148,
-      "title": "Vaza",
+      "id": 1566786,
+      "title": "Beat It",
       "release_date": "2025-10-22",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": [
-        "драма",
-        "комедия"
-      ]
+      "genres": []
     },
     {
-      "id": 1566009,
-      "title": "Mamíferas: el hilo de Ariadna",
+      "id": 1566784,
+      "title": "Doll Love",
       "release_date": "2025-10-22",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/A8SqNDhUbHdrwqYz2WSzJFrGdFH.jpg",
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1566781,
+      "title": "Sanguine",
+      "release_date": "2025-10-22",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1566779,
+      "title": "Baiestorf Apresenta O Monstro Legume do Espaço 30 Anos",
+      "release_date": "2025-10-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wrSf4e8haefhmEAQAtPA33VyoBi.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1565969,
-      "title": "Não Desligue Nunca!",
+      "id": 1566777,
+      "title": "Mouth Pleasure",
       "release_date": "2025-10-22",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9yYnUKSa7feQkjnKcG8Kmp5ND1z.jpg",
+      "poster_url": null,
       "genres": []
     },
     {
-      "id": 1565472,
-      "title": "What Are You Thinking?",
+      "id": 1566776,
+      "title": "Azimuth",
       "release_date": "2025-10-22",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/syJdA31eoIZy0CDRbEsNnoyRqJJ.jpg",
-      "genres": [
-        "ужасы"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/sw7U1U930k6MeKBhty2hafNPikz.jpg",
+      "genres": []
     },
     {
-      "id": 1565262,
-      "title": "Call Me At 1:15",
+      "id": 1566775,
+      "title": "La Bonne Éducation (The Good Education)",
       "release_date": "2025-10-22",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/w96uRuJ1Y3ksZK9g9gvCziSerK9.jpg",
-      "genres": [
-        "драма",
-        "приключения",
-        "комедия"
-      ]
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1566772,
+      "title": "Alien Invade Me",
+      "release_date": "2025-10-22",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1566766,
+      "title": "Autoerotic Centesis",
+      "release_date": "2025-10-22",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
     }
   ],
   "source": "TMDB",
