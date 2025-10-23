@@ -1,9 +1,30 @@
 {
-  "fetched_at_utc": "2025-10-23T12:26:22.283168+00:00",
+  "fetched_at_utc": "2025-10-23T18:18:35.211614+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1567610,
+      "title": "中场休息",
+      "release_date": "2025-10-23",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1567363,
+      "title": "Be Boris",
+      "release_date": "2025-10-23",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1567329,
       "title": "Délirium Onirique",
@@ -12,6 +33,18 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/rOzSsP1qcKuxXMtyl0zrYTSw5dH.jpg",
       "genres": [
         "детектив"
+      ]
+    },
+    {
+      "id": 1567287,
+      "title": "The Jurassic Games: Extinction",
+      "release_date": "2025-10-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/48JeY5yZudZqNzWpdV6ZVq0YPZI.jpg",
+      "genres": [
+        "триллер",
+        "фэнтези",
+        "приключения"
       ]
     },
     {
@@ -24,16 +57,6 @@
         "мелодрама",
         "драма",
         "боевик"
-      ]
-    },
-    {
-      "id": 1566885,
-      "title": "Rosa",
-      "release_date": "",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fCoRrp3Nsn1UGWM8cOGKh4H1hz.jpg",
-      "genres": [
-        "драма"
       ]
     },
     {
@@ -55,6 +78,17 @@
       ]
     },
     {
+      "id": 1566170,
+      "title": "Stvůry",
+      "release_date": "2025-10-23",
+      "vote_average": 7.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/slEyTawPe6JLe2aBhExyDPkcqe7.jpg",
+      "genres": [
+        "триллер",
+        "криминал"
+      ]
+    },
+    {
       "id": 1566051,
       "title": "에이티즈 [에이 투 지 온 스크린]",
       "release_date": "2025-10-23",
@@ -71,35 +105,6 @@
       "release_date": "2025-10-23",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/f1dGeg59ERZNA37WeRvRfrEE2Fn.jpg",
-      "genres": []
-    },
-    {
-      "id": 1565564,
-      "title": "Maggots",
-      "release_date": "2025-10-23",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1565487,
-      "title": "Washed In The Blood",
-      "release_date": "2025-10-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/57mpONCiuAQKSnrcqYNlCmE7txl.jpg",
-      "genres": [
-        "ужасы",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1565403,
-      "title": "পারফেক্ট ওয়াইফ",
-      "release_date": "2025-10-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nRiZRJRhsVramrUTGacs2o84M6e.jpg",
       "genres": []
     }
   ],

@@ -1,0 +1,28 @@
+{
+  "id": 1567287,
+  "title": "The Jurassic Games: Extinction",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-23",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "фэнтези",
+    "приключения"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/48JeY5yZudZqNzWpdV6ZVq0YPZI.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1567287",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-23T18:18:33.009893+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

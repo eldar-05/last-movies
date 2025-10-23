@@ -1,0 +1,31 @@
+{
+  "id": 1566170,
+  "title": "Stvůry",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-23",
+  "runtime": 90,
+  "vote_average": 7.0,
+  "vote_count": 1,
+  "genres": [
+    "триллер",
+    "криминал"
+  ],
+  "original_language": "cs",
+  "spoken_languages": [
+    "Czech"
+  ],
+  "production_countries": [
+    "CZ"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/slEyTawPe6JLe2aBhExyDPkcqe7.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/foXtiXLGrZzEa9Gxuvc8UjvpHBp.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1566170",
+  "trailer": {
+    "key": "WMpl5pNp6dA",
+    "name": "Stvůry (2025) | Trailer | Film Kolektiv",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-23T18:18:34.357349+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
