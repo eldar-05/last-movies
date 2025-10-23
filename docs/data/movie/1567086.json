@@ -1,0 +1,28 @@
+{
+  "id": 1567086,
+  "title": "Plan B",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-23",
+  "runtime": 62,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мелодрама",
+    "драма",
+    "боевик"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "Bengali"
+  ],
+  "production_countries": [
+    "BD"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/uttcksD7Nb23fSqTntsibJUe47O.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1567086",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-23T00:59:00.894294+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

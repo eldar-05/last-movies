@@ -1,0 +1,28 @@
+{
+  "id": 1566717,
+  "title": "Pescadores de Bubaque",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-23",
+  "runtime": 53,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [],
+  "production_countries": [
+    "PT"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/1oe1YVixecBJbQ5BUOaEsLNVh69.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/p3gJ2syuRSkL7iBpDny9LrjmqoH.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1566717",
+  "trailer": {
+    "key": "AiqEGlSlSsg",
+    "name": "Pescadores de Bubaque, de Pedro Florêncio - Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-23T00:59:01.882934+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

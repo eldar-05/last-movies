@@ -1,92 +1,106 @@
 {
-  "fetched_at_utc": "2025-10-22T18:19:44.711285+00:00",
+  "fetched_at_utc": "2025-10-23T00:59:04.132906+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1566858,
-      "title": "Ya no sé ni lo que digo",
-      "release_date": "2025-10-22",
+      "id": 1567086,
+      "title": "Plan B",
+      "release_date": "2025-10-23",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qay9yKCrdPCYesD5hDypqqXSswL.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uttcksD7Nb23fSqTntsibJUe47O.jpg",
       "genres": [
-        "комедия"
+        "мелодрама",
+        "драма",
+        "боевик"
       ]
     },
     {
-      "id": 1566786,
-      "title": "Beat It",
-      "release_date": "2025-10-22",
+      "id": 1566885,
+      "title": "#Salve Rosa",
+      "release_date": "2025-10-23",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fCoRrp3Nsn1UGWM8cOGKh4H1hz.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1566725,
+      "title": "Contemplação Impasse Tentativa",
+      "release_date": "2025-10-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/uUAVlrdMjwyvWMaF8bd00B32Q9a.jpg",
       "genres": []
     },
     {
-      "id": 1566784,
-      "title": "Doll Love",
-      "release_date": "2025-10-22",
+      "id": 1566717,
+      "title": "Pescadores de Bubaque",
+      "release_date": "2025-10-23",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1566781,
-      "title": "Sanguine",
-      "release_date": "2025-10-22",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1566779,
-      "title": "Baiestorf Apresenta O Monstro Legume do Espaço 30 Anos",
-      "release_date": "2025-10-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wrSf4e8haefhmEAQAtPA33VyoBi.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1oe1YVixecBJbQ5BUOaEsLNVh69.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1566777,
-      "title": "Mouth Pleasure",
-      "release_date": "2025-10-22",
+      "id": 1566051,
+      "title": "에이티즈 [에이 투 지 온 스크린]",
+      "release_date": "2025-10-23",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tNvvXBEGhHGfA0SmhPqYm3Vyp8m.jpg",
+      "genres": [
+        "музыка",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1565757,
+      "title": "Voices Hidden in Static",
+      "release_date": "2025-10-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/f1dGeg59ERZNA37WeRvRfrEE2Fn.jpg",
       "genres": []
     },
     {
-      "id": 1566776,
-      "title": "Azimuth",
-      "release_date": "2025-10-22",
+      "id": 1565564,
+      "title": "Maggots",
+      "release_date": "2025-10-23",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sw7U1U930k6MeKBhty2hafNPikz.jpg",
+      "poster_url": null,
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1565487,
+      "title": "Washed In The Blood",
+      "release_date": "2025-10-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/57mpONCiuAQKSnrcqYNlCmE7txl.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1565403,
+      "title": "পারফেক্ট ওয়াইফ",
+      "release_date": "2025-10-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nRiZRJRhsVramrUTGacs2o84M6e.jpg",
       "genres": []
     },
     {
-      "id": 1566775,
-      "title": "La Bonne Éducation (The Good Education)",
-      "release_date": "2025-10-22",
+      "id": 1565385,
+      "title": "El color gris",
+      "release_date": "2025-10-23",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1566772,
-      "title": "Alien Invade Me",
-      "release_date": "2025-10-22",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1566766,
-      "title": "Autoerotic Centesis",
-      "release_date": "2025-10-22",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/hdY7A7RbWJK1WDVuOgYbZWFJUsx.jpg",
+      "genres": [
+        "комедия"
+      ]
     }
   ],
   "source": "TMDB",

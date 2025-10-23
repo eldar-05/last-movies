@@ -1,0 +1,28 @@
+{
+  "id": 1565403,
+  "title": "পারফেক্ট ওয়াইফ",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-23",
+  "runtime": 37,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "bn",
+  "spoken_languages": [
+    "Bengali"
+  ],
+  "production_countries": [
+    "BD"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/nRiZRJRhsVramrUTGacs2o84M6e.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/pMGXZvEjpZt5mAmiRpSoifUADUZ.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1565403",
+  "trailer": {
+    "key": "9Lq_3AZMvYs",
+    "name": "The Perfect wife | Official Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-23T00:59:03.753226+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
