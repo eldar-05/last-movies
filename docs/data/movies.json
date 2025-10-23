@@ -1,9 +1,19 @@
 {
-  "fetched_at_utc": "2025-10-23T06:19:27.008726+00:00",
+  "fetched_at_utc": "2025-10-23T12:26:22.283168+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1567329,
+      "title": "Délirium Onirique",
+      "release_date": "2025-10-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rOzSsP1qcKuxXMtyl0zrYTSw5dH.jpg",
+      "genres": [
+        "детектив"
+      ]
+    },
     {
       "id": 1567086,
       "title": "Plan B",
@@ -18,8 +28,8 @@
     },
     {
       "id": 1566885,
-      "title": "#Salve Rosa",
-      "release_date": "2025-10-23",
+      "title": "Rosa",
+      "release_date": "",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/fCoRrp3Nsn1UGWM8cOGKh4H1hz.jpg",
       "genres": [
@@ -91,16 +101,6 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/nRiZRJRhsVramrUTGacs2o84M6e.jpg",
       "genres": []
-    },
-    {
-      "id": 1565385,
-      "title": "El color gris",
-      "release_date": "2025-10-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hdY7A7RbWJK1WDVuOgYbZWFJUsx.jpg",
-      "genres": [
-        "комедия"
-      ]
     }
   ],
   "source": "TMDB",

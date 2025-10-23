@@ -1,9 +1,9 @@
 {
   "id": 1566885,
-  "title": "#Salve Rosa",
+  "title": "Rosa",
   "tagline": "",
   "overview": "",
-  "release_date": "2025-10-23",
+  "release_date": "",
   "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
@@ -19,6 +19,6 @@
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1566885",
   "trailer": null,
-  "fetched_at_utc": "2025-10-23T06:19:25.545135+00:00",
+  "fetched_at_utc": "2025-10-23T12:26:21.129068+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
