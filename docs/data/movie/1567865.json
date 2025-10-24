@@ -1,0 +1,24 @@
+{
+  "id": 1567865,
+  "title": "Cosa Mala",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-24",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "es",
+  "spoken_languages": [],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/cw6gCTyS6jWgZTdoy1fiksF4WIl.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/rNwWb4nNHoIbFPXT2XBKpJnsJzk.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1567865",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-24T12:26:22.179002+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

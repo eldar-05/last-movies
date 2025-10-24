@@ -18,10 +18,10 @@
     "NO",
     "US"
   ],
-  "poster_url": null,
-  "backdrop_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/4vgUBeAxvlkixnkf0O7A7do5zNy.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/2gT1CLXQXR7Snwxn1aGWURrs7CL.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1567425",
   "trailer": null,
-  "fetched_at_utc": "2025-10-24T06:18:33.867717+00:00",
+  "fetched_at_utc": "2025-10-24T12:26:23.169484+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

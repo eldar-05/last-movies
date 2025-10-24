@@ -1,9 +1,48 @@
 {
-  "fetched_at_utc": "2025-10-24T06:18:35.096677+00:00",
+  "fetched_at_utc": "2025-10-24T12:26:23.864270+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1567933,
+      "title": "Parallel 2",
+      "release_date": "2025-10-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3wd3sdLVz69HCW9tO9n2m17Dpw8.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1567872,
+      "title": "Parable",
+      "release_date": "2025-10-24",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1567865,
+      "title": "Cosa Mala",
+      "release_date": "2025-10-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cw6gCTyS6jWgZTdoy1fiksF4WIl.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1567851,
+      "title": "My Dog Accidentally Turned Into a Human!",
+      "release_date": "2025-10-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4exZzxcwtwseydIpnoosfIEIzAh.jpg",
+      "genres": []
+    },
     {
       "id": 1567546,
       "title": "翹課雨天回家路上",
@@ -30,7 +69,7 @@
       "title": "Leprous: An Evening of Atonement",
       "release_date": "2025-10-24",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4vgUBeAxvlkixnkf0O7A7do5zNy.jpg",
       "genres": [
         "музыка"
       ]
@@ -64,45 +103,6 @@
       "genres": [
         "триллер"
       ]
-    },
-    {
-      "id": 1567051,
-      "title": "Juliette",
-      "release_date": "2025-10-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2U8ygYxCCoP5cMyzmXC1Yj3LAUN.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1566716,
-      "title": "In the Shade of Strands",
-      "release_date": "2025-10-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/frIddEHikSqIOZxcQ41RXagHszy.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1566511,
-      "title": "ચણિયા ટોળી",
-      "release_date": "2025-10-24",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "приключения",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1566447,
-      "title": "Utopía",
-      "release_date": "2025-10-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tVl8JPQgcqFYajL2mMQXQ7KMaAT.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",
