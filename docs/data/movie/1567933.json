@@ -18,7 +18,11 @@
   "poster_url": "https://image.tmdb.org/t/p/w500/3wd3sdLVz69HCW9tO9n2m17Dpw8.jpg",
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1567933",
-  "trailer": null,
-  "fetched_at_utc": "2025-10-24T12:26:21.615756+00:00",
+  "trailer": {
+    "key": "CGfSQrgmNYo",
+    "name": "Parallel 2 | Official Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-24T18:18:45.639546+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

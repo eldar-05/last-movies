@@ -1,23 +1,20 @@
 {
-  "id": 1567872,
-  "title": "Parable",
+  "id": 1568087,
+  "title": "Moving wall",
   "tagline": "",
   "overview": "",
-  "release_date": "2025-10-24",
-  "runtime": 6,
+  "release_date": "",
+  "runtime": 60,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [
-    "драма",
-    "детектив"
-  ],
+  "genres": [],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
   "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1567872",
+  "tmdb_url": "https://www.themoviedb.org/movie/1568087",
   "trailer": null,
-  "fetched_at_utc": "2025-10-24T18:18:46.001800+00:00",
+  "fetched_at_utc": "2025-10-24T18:18:45.383537+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

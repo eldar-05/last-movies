@@ -1,9 +1,48 @@
 {
-  "fetched_at_utc": "2025-10-24T12:26:23.864270+00:00",
+  "fetched_at_utc": "2025-10-24T18:18:47.497315+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1568153,
+      "title": "Alessandro Santin",
+      "release_date": "2025-10-24",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fmXoa9aaKQXsFykZKYO7HMTHCoM.jpg",
+      "genres": [
+        "детектив"
+      ]
+    },
+    {
+      "id": 1568147,
+      "title": "平妖传之使命召唤",
+      "release_date": "2025-10-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cs2qQZT1wjS9Vma6JDnCnbFHMsO.jpg",
+      "genres": [
+        "детектив",
+        "приключения"
+      ]
+    },
+    {
+      "id": 1568135,
+      "title": "Glamping",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vvX1IXzmLRa6PzmQbc7rWo2QMdV.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1568087,
+      "title": "Moving wall",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
     {
       "id": 1567933,
       "title": "Parallel 2",
@@ -44,6 +83,18 @@
       "genres": []
     },
     {
+      "id": 1567666,
+      "title": "Das Plattbodenschiff",
+      "release_date": "2025-10-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/sFMNJjqBK5HHGBPJ3SFMbKXM1E7.jpg",
+      "genres": [
+        "документальный",
+        "ужасы",
+        "детектив"
+      ]
+    },
+    {
       "id": 1567546,
       "title": "翹課雨天回家路上",
       "release_date": "2025-10-24",
@@ -51,57 +102,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/f6NtM0CFiQJSa5YtNhPIWfVauYs.jpg",
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1567537,
-      "title": "Solo un poco aquí",
-      "release_date": "2025-10-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rrdsfIR8ZXP7ALChY4wGYmZuTBO.jpg",
-      "genres": [
-        "драма",
-        "фантастика"
-      ]
-    },
-    {
-      "id": 1567425,
-      "title": "Leprous: An Evening of Atonement",
-      "release_date": "2025-10-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4vgUBeAxvlkixnkf0O7A7do5zNy.jpg",
-      "genres": [
-        "музыка"
-      ]
-    },
-    {
-      "id": 1567326,
-      "title": "Ghosts of Alderney: Hitler's Island Slaves",
-      "release_date": "2025-10-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wdGA5RkHZUujW6QfFDJlfjnLSs7.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1567206,
-      "title": "El show de Muet",
-      "release_date": "2025-10-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kVOWPz0cCYueM23ns8MSlqxZVlr.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1567138,
-      "title": "8pm to 8am",
-      "release_date": "2025-10-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pfzHaoHI3iAhcaKd6qRjO8406f2.jpg",
-      "genres": [
-        "триллер"
       ]
     }
   ],
