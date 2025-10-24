@@ -1,0 +1,26 @@
+{
+  "id": 1567206,
+  "title": "El show de Muet",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-24",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "MX"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/kVOWPz0cCYueM23ns8MSlqxZVlr.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/gzxQnF3LsiAp6X4ISPErL59q9Ym.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1567206",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-24T00:55:52.294274+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

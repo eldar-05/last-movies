@@ -1,0 +1,31 @@
+{
+  "id": 1566511,
+  "title": "ચણિયા ટોળી",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-24",
+  "runtime": 130,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "приключения",
+    "комедия"
+  ],
+  "original_language": "gu",
+  "spoken_languages": [
+    "Gujarati"
+  ],
+  "production_countries": [
+    "IN"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1566511",
+  "trailer": {
+    "key": "LON1x9Oss9g",
+    "name": "Chaniya Toli | Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-24T00:55:52.891199+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

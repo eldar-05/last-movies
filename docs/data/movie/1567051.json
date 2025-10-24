@@ -1,0 +1,24 @@
+{
+  "id": 1567051,
+  "title": "Juliette",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-24",
+  "runtime": 6,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/2U8ygYxCCoP5cMyzmXC1Yj3LAUN.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1567051",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-24T00:55:52.562763+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

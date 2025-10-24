@@ -1,0 +1,28 @@
+{
+  "id": 1567138,
+  "title": "8pm to 8am",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-24",
+  "runtime": 65,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/pfzHaoHI3iAhcaKd6qRjO8406f2.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/lrClcGLlKDW5KgvDJR8uxRQWCXz.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1567138",
+  "trailer": {
+    "key": "4vWi6YtU9xA",
+    "name": "8PM TO 8AM INDEPENDENT FILM TRAILER",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-24T00:55:52.435487+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
