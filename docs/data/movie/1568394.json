@@ -3,20 +3,26 @@
   "title": "Purple spots",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-10-25",
   "runtime": 1,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "семейный"
+    "семейный",
+    "триллер",
+    "криминал"
   ],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/cDgFSpBmFnHX1ENVH1FzPMKDMdW.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/tDuhsPznawGr5VvtG0r2bLCCuRT.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1568394",
-  "trailer": null,
-  "fetched_at_utc": "2025-10-25T06:16:50.491452+00:00",
+  "trailer": {
+    "key": "gUKFwW7Lm_4",
+    "name": "purple spots final edit",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-25T12:21:38.158544+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

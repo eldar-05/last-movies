@@ -1,15 +1,25 @@
 {
-  "fetched_at_utc": "2025-10-25T06:16:51.957615+00:00",
+  "fetched_at_utc": "2025-10-25T12:21:39.654362+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1568468,
+      "title": "Kin Akhten",
+      "release_date": "2025-10-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5vuvGYsyWk1JeRLKpVSm4fUXGgz.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
       "id": 1568394,
       "title": "Purple spots",
-      "release_date": "",
+      "release_date": "2025-10-25",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cDgFSpBmFnHX1ENVH1FzPMKDMdW.jpg",
       "genres": [
         "семейный",
         "триллер",
@@ -93,14 +103,6 @@
         "ужасы",
         "триллер"
       ]
-    },
-    {
-      "id": 1566234,
-      "title": "Filos",
-      "release_date": "2025-10-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8QG9lS6aOUK4cX3NV9LnniE9V2g.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",
