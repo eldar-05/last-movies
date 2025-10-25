@@ -1,0 +1,27 @@
+{
+  "id": 1568610,
+  "title": "Mocos verdes",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-25",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фэнтези",
+    "комедия"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/xJ0nwF2ZQyQnCCA4ZZ1bhLW1eIS.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/maWNvRBXhrG6QdTzlDxWLn3E975.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1568610",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-25T18:15:54.789040+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

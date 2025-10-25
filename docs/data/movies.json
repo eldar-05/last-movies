@@ -1,9 +1,58 @@
 {
-  "fetched_at_utc": "2025-10-25T12:21:39.654362+00:00",
+  "fetched_at_utc": "2025-10-25T18:15:55.888870+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1568757,
+      "title": "MEATCANYON",
+      "release_date": "2025-10-25",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы",
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1568644,
+      "title": "凡人传之相忘江湖",
+      "release_date": "2025-10-25",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1568633,
+      "title": "Bir Ayrılığın Anatomisi",
+      "release_date": "2025-10-25",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1568610,
+      "title": "Mocos verdes",
+      "release_date": "2025-10-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xJ0nwF2ZQyQnCCA4ZZ1bhLW1eIS.jpg",
+      "genres": [
+        "фэнтези",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1568604,
+      "title": "Unprovidence",
+      "release_date": "2025-10-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fH9QNxfvpp5P9VlCjmEMdLF1wdz.jpg",
+      "genres": [
+        "приключения",
+        "фэнтези"
+      ]
+    },
     {
       "id": 1568468,
       "title": "Kin Akhten",
@@ -50,59 +99,8 @@
       "title": "in thin air",
       "release_date": "2025-10-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tBGWA7Jd2fVe3XravT9LMCwGNhf.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7UCnrCVzJUpFWFsu0Iz9jZQDKiP.jpg",
       "genres": []
-    },
-    {
-      "id": 1567779,
-      "title": "NAGORDOLA - THE FERRIS WHEEL",
-      "release_date": "2025-10-25",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1567108,
-      "title": "The Morning After the Night Before",
-      "release_date": "2025-10-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1we3CtY0aj6g5MV372ocH8igoMb.jpg",
-      "genres": [
-        "драма",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1566825,
-      "title": "CATILINA",
-      "release_date": "2025-10-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uZvnXbzUfpzG5z2H1DcNwZ2vNji.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1566664,
-      "title": "Red Bull Stalen Ros 2025",
-      "release_date": "2025-10-25",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iZzlrLWHV8rwEegsyhUzhJwsRl0.jpg",
-      "genres": [
-        "приключения",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1566483,
-      "title": "The Pledge",
-      "release_date": "2025-10-25",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "ужасы",
-        "триллер"
-      ]
     }
   ],
   "source": "TMDB",
