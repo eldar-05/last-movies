@@ -1,0 +1,26 @@
+{
+  "id": 1566825,
+  "title": "CATILINA",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-25",
+  "runtime": 44,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "Norwegian"
+  ],
+  "production_countries": [
+    "NO"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/uZvnXbzUfpzG5z2H1DcNwZ2vNji.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1566825",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-25T00:57:16.181591+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

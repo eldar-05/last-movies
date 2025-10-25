@@ -1,108 +1,106 @@
 {
-  "fetched_at_utc": "2025-10-24T18:18:47.497315+00:00",
+  "fetched_at_utc": "2025-10-25T00:57:16.799358+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1568153,
-      "title": "Alessandro Santin",
-      "release_date": "2025-10-24",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fmXoa9aaKQXsFykZKYO7HMTHCoM.jpg",
-      "genres": [
-        "детектив"
-      ]
-    },
-    {
-      "id": 1568147,
-      "title": "平妖传之使命召唤",
-      "release_date": "2025-10-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cs2qQZT1wjS9Vma6JDnCnbFHMsO.jpg",
-      "genres": [
-        "детектив",
-        "приключения"
-      ]
-    },
-    {
-      "id": 1568135,
-      "title": "Glamping",
+      "id": 1568394,
+      "title": "Purple spots",
       "release_date": "",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vvX1IXzmLRa6PzmQbc7rWo2QMdV.jpg",
+      "poster_url": null,
       "genres": [
-        "ужасы"
+        "семейный",
+        "триллер",
+        "криминал"
       ]
     },
     {
-      "id": 1568087,
-      "title": "Moving wall",
-      "release_date": "",
+      "id": 1568168,
+      "title": "Muslimgauze: Electronic Intifada",
+      "release_date": "2025-10-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zwnnfIrLkClXifGKxlTToIRkC9z.jpg",
+      "genres": []
+    },
+    {
+      "id": 1568146,
+      "title": "Sultan's Organ-A Gift",
+      "release_date": "2025-10-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/s0k7lQwgSJ6eJJ4S2VZ8n0GF1fE.jpg",
+      "genres": [
+        "история",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1568130,
+      "title": "in thin air",
+      "release_date": "2025-10-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tBGWA7Jd2fVe3XravT9LMCwGNhf.jpg",
+      "genres": []
+    },
+    {
+      "id": 1567779,
+      "title": "NAGORDOLA - THE FERRIS WHEEL",
+      "release_date": "2025-10-25",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1567933,
-      "title": "Parallel 2",
-      "release_date": "2025-10-24",
+      "id": 1567108,
+      "title": "The Morning After the Night Before",
+      "release_date": "2025-10-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3wd3sdLVz69HCW9tO9n2m17Dpw8.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1567872,
-      "title": "Parable",
-      "release_date": "2025-10-24",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1we3CtY0aj6g5MV372ocH8igoMb.jpg",
       "genres": [
         "драма",
         "детектив"
       ]
     },
     {
-      "id": 1567865,
-      "title": "Cosa Mala",
-      "release_date": "2025-10-24",
+      "id": 1566825,
+      "title": "CATILINA",
+      "release_date": "2025-10-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cw6gCTyS6jWgZTdoy1fiksF4WIl.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uZvnXbzUfpzG5z2H1DcNwZ2vNji.jpg",
       "genres": [
-        "ужасы"
+        "драма"
       ]
     },
     {
-      "id": 1567851,
-      "title": "My Dog Accidentally Turned Into a Human!",
-      "release_date": "2025-10-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4exZzxcwtwseydIpnoosfIEIzAh.jpg",
-      "genres": []
+      "id": 1566664,
+      "title": "Red Bull Stalen Ros 2025",
+      "release_date": "2025-10-25",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iZzlrLWHV8rwEegsyhUzhJwsRl0.jpg",
+      "genres": [
+        "приключения",
+        "семейный"
+      ]
     },
     {
-      "id": 1567666,
-      "title": "Das Plattbodenschiff",
-      "release_date": "2025-10-27",
+      "id": 1566483,
+      "title": "The Pledge",
+      "release_date": "2025-10-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sFMNJjqBK5HHGBPJ3SFMbKXM1E7.jpg",
+      "poster_url": null,
       "genres": [
-        "документальный",
         "ужасы",
-        "детектив"
+        "триллер"
       ]
     },
     {
-      "id": 1567546,
-      "title": "翹課雨天回家路上",
-      "release_date": "2025-10-24",
+      "id": 1566234,
+      "title": "Filos",
+      "release_date": "2025-10-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/f6NtM0CFiQJSa5YtNhPIWfVauYs.jpg",
-      "genres": [
-        "документальный"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/8QG9lS6aOUK4cX3NV9LnniE9V2g.jpg",
+      "genres": []
     }
   ],
   "source": "TMDB",

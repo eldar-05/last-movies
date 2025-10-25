@@ -1,0 +1,23 @@
+{
+  "id": 1566483,
+  "title": "The Pledge",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-25",
+  "runtime": 5,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "триллер"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1566483",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-25T00:57:16.554587+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

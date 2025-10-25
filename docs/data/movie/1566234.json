@@ -1,0 +1,24 @@
+{
+  "id": 1566234,
+  "title": "Filos",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-25",
+  "runtime": 50,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "tr",
+  "spoken_languages": [
+    "Turkish"
+  ],
+  "production_countries": [
+    "TR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/8QG9lS6aOUK4cX3NV9LnniE9V2g.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1566234",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-25T00:57:16.798985+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
