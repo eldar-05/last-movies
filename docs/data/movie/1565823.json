@@ -1,0 +1,26 @@
+{
+  "id": 1565823,
+  "title": "Brain Rot",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-26",
+  "runtime": 3,
+  "vote_average": 8.0,
+  "vote_count": 1,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/zqqQD19YdDflnS9z4OIsV491y2q.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/ouFWd090ENk5IZgWFFZukPsEI7f.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1565823",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-26T01:02:53.739334+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

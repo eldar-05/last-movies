@@ -1,0 +1,27 @@
+{
+  "id": 1568524,
+  "title": "Memiliki Viola 5",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-26",
+  "runtime": 10,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "криминал"
+  ],
+  "original_language": "id",
+  "spoken_languages": [
+    "Indonesian"
+  ],
+  "production_countries": [
+    "ID"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/AeMVRq4p5Fvil5kfPOVvlPhNAis.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/ucG1K5Qu302EIPNB7R1bVXPjjt1.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1568524",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-26T01:02:50.721923+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,106 +1,113 @@
 {
-  "fetched_at_utc": "2025-10-25T18:15:55.888870+00:00",
+  "fetched_at_utc": "2025-10-26T01:02:53.739734+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1568757,
-      "title": "MEATCANYON",
-      "release_date": "2025-10-25",
+      "id": 1568733,
+      "title": "Familiar",
+      "release_date": "2025-10-26",
       "vote_average": 0.0,
       "poster_url": null,
+      "genres": [
+        "криминал",
+        "драма",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1568524,
+      "title": "Memiliki Viola 5",
+      "release_date": "2025-10-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/AeMVRq4p5Fvil5kfPOVvlPhNAis.jpg",
+      "genres": [
+        "драма",
+        "криминал"
+      ]
+    },
+    {
+      "id": 1568312,
+      "title": "Murder They Talked About",
+      "release_date": "2025-10-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/msdVWRgynihAbWq5XlNHKB0L4Cr.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1567874,
+      "title": "Untitled Nate Rod Film",
+      "release_date": "2025-10-26",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1567856,
+      "title": "Unreliable Witness",
+      "release_date": "2025-10-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yNh2PONRjZ8RiWHHAROYKs7PKwm.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1567695,
+      "title": "Fossil",
+      "release_date": "2025-10-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jFCBf02UtaDkvs5pUCxcyYUBOfx.jpg",
+      "genres": [
+        "детектив",
+        "музыка",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1566928,
+      "title": "Kyle Popovich's Haunted Nightmare House",
+      "release_date": "2025-10-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2tIwrIaVRemDfr9LyMNSLyuAird.jpg",
       "genres": [
         "ужасы",
         "мультфильм"
       ]
     },
     {
-      "id": 1568644,
-      "title": "凡人传之相忘江湖",
-      "release_date": "2025-10-25",
+      "id": 1566430,
+      "title": "Симфонія Дзвіночка",
+      "release_date": "2025-10-26",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1568633,
-      "title": "Bir Ayrılığın Anatomisi",
-      "release_date": "2025-10-25",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1568610,
-      "title": "Mocos verdes",
-      "release_date": "2025-10-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xJ0nwF2ZQyQnCCA4ZZ1bhLW1eIS.jpg",
       "genres": [
-        "фэнтези",
-        "комедия"
+        "документальный",
+        "музыка"
       ]
     },
     {
-      "id": 1568604,
-      "title": "Unprovidence",
-      "release_date": "2025-10-25",
+      "id": 1566243,
+      "title": "Gündüz ve Gece",
+      "release_date": "2025-10-26",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fH9QNxfvpp5P9VlCjmEMdLF1wdz.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6EBVFUxKHSJpjphu7I3PRWrsozX.jpg",
       "genres": [
-        "приключения",
-        "фэнтези"
+        "драма"
       ]
     },
     {
-      "id": 1568468,
-      "title": "Kin Akhten",
-      "release_date": "2025-10-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5vuvGYsyWk1JeRLKpVSm4fUXGgz.jpg",
+      "id": 1565823,
+      "title": "Brain Rot",
+      "release_date": "2025-10-26",
+      "vote_average": 8.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zqqQD19YdDflnS9z4OIsV491y2q.jpg",
       "genres": [
         "ужасы"
       ]
-    },
-    {
-      "id": 1568394,
-      "title": "Purple spots",
-      "release_date": "2025-10-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cDgFSpBmFnHX1ENVH1FzPMKDMdW.jpg",
-      "genres": [
-        "семейный",
-        "триллер",
-        "криминал"
-      ]
-    },
-    {
-      "id": 1568168,
-      "title": "Muslimgauze: Electronic Intifada",
-      "release_date": "2025-10-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zwnnfIrLkClXifGKxlTToIRkC9z.jpg",
-      "genres": []
-    },
-    {
-      "id": 1568146,
-      "title": "Sultan's Organ-A Gift",
-      "release_date": "2025-10-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/s0k7lQwgSJ6eJJ4S2VZ8n0GF1fE.jpg",
-      "genres": [
-        "история",
-        "документальный"
-      ]
-    },
-    {
-      "id": 1568130,
-      "title": "in thin air",
-      "release_date": "2025-10-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7UCnrCVzJUpFWFsu0Iz9jZQDKiP.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",
