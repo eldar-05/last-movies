@@ -1,9 +1,70 @@
 {
-  "fetched_at_utc": "2025-10-26T06:17:22.264797+00:00",
+  "fetched_at_utc": "2025-10-26T12:22:41.553824+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1569058,
+      "title": "Cuentagotas",
+      "release_date": "2025-10-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nyg0MkapwU18y5vi46I47tPDSR9.jpg",
+      "genres": []
+    },
+    {
+      "id": 1569045,
+      "title": "Retuscherade minnen",
+      "release_date": "2025-10-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8x1wyA0DQyGEdWx22GjLIDhlvGt.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1569043,
+      "title": "మెన్ విల్ బి మెన్",
+      "release_date": "2025-10-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fbA0Pj8jNY9wHBA8eR1NkRWMzdf.jpg",
+      "genres": [
+        "драма",
+        "комедия",
+        "боевик"
+      ]
+    },
+    {
+      "id": 1569012,
+      "title": "The First Degree Burn",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1568995,
+      "title": "Wide Shot",
+      "release_date": "2025-10-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/koZZNa60m73NdzAhlEDAF94fc0P.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1568945,
+      "title": "Penumbra",
+      "release_date": "2025-10-26",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/waEgFlF6SsgDXAxiNLcJL3kuKRk.jpg",
+      "genres": [
+        "мультфильм",
+        "драма"
+      ]
+    },
     {
       "id": 1568733,
       "title": "Familiar",
@@ -44,70 +105,6 @@
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
-    },
-    {
-      "id": 1567856,
-      "title": "Unreliable Witness",
-      "release_date": "2025-10-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yNh2PONRjZ8RiWHHAROYKs7PKwm.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1567695,
-      "title": "Fossil",
-      "release_date": "2025-10-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jFCBf02UtaDkvs5pUCxcyYUBOfx.jpg",
-      "genres": [
-        "детектив",
-        "музыка",
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1566928,
-      "title": "Kyle Popovich's Haunted Nightmare House",
-      "release_date": "2025-10-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2tIwrIaVRemDfr9LyMNSLyuAird.jpg",
-      "genres": [
-        "ужасы",
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1566430,
-      "title": "Симфонія Дзвіночка",
-      "release_date": "2025-10-26",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1566243,
-      "title": "Gündüz ve Gece",
-      "release_date": "2025-10-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6EBVFUxKHSJpjphu7I3PRWrsozX.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1565823,
-      "title": "Brain Rot",
-      "release_date": "2025-10-26",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zqqQD19YdDflnS9z4OIsV491y2q.jpg",
-      "genres": [
-        "ужасы"
-      ]
     }
   ],
   "source": "TMDB",

@@ -1,22 +1,22 @@
 {
-  "id": 1568312,
-  "title": "Murder They Talked About",
+  "id": 1568995,
+  "title": "Wide Shot",
   "tagline": "",
   "overview": "",
   "release_date": "2025-10-26",
-  "runtime": 5,
+  "runtime": 21,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "комедия"
+    "триллер"
   ],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": "https://image.tmdb.org/t/p/w500/msdVWRgynihAbWq5XlNHKB0L4Cr.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/koZZNa60m73NdzAhlEDAF94fc0P.jpg",
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1568312",
+  "tmdb_url": "https://www.themoviedb.org/movie/1568995",
   "trailer": null,
-  "fetched_at_utc": "2025-10-26T12:22:41.141655+00:00",
+  "fetched_at_utc": "2025-10-26T12:22:39.646289+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
