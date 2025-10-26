@@ -3,20 +3,28 @@
   "title": "The First Degree Burn",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-10-26",
   "runtime": 1,
-  "vote_average": 0.0,
-  "vote_count": 0,
-  "genres": [],
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "ужасы"
+  ],
   "original_language": "en",
   "spoken_languages": [
     "English"
   ],
-  "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "production_countries": [
+    "IN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/1A1soJ8AdidthMgR3s4pSfzThC3.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/oIOGN22bpebsZF3sJD7neONpKzG.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1569012",
-  "trailer": null,
-  "fetched_at_utc": "2025-10-26T12:22:39.289364+00:00",
+  "trailer": {
+    "key": "iQWAHleQqPE",
+    "name": "THE FIRST DEGREE BURN (2025) - Chhatrapal Sahu | Official Short Film | screencart |",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-26T18:16:35.881905+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

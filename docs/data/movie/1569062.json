@@ -1,0 +1,28 @@
+{
+  "id": 1569062,
+  "title": "Subur",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-26",
+  "runtime": 2,
+  "vote_average": 8.0,
+  "vote_count": 1,
+  "genres": [
+    "ужасы",
+    "драма",
+    "триллер"
+  ],
+  "original_language": "id",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/cxGGZSvYTki2mBaygaTfME3e2qC.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/6wZ4d87xbPKhlUHzwurI2wp4D73.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1569062",
+  "trailer": {
+    "key": "OW3T4jFmYUU",
+    "name": "SUBUR",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-26T18:16:34.523299+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

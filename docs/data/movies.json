@@ -1,9 +1,64 @@
 {
-  "fetched_at_utc": "2025-10-26T12:22:41.553824+00:00",
+  "fetched_at_utc": "2025-10-26T18:16:36.249318+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1569319,
+      "title": "Anja Kasi Divaneh Nist",
+      "release_date": "2025-10-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vILI8rXzmz7svGiw9WcUSYxStwt.jpg",
+      "genres": [
+        "комедия",
+        "семейный"
+      ]
+    },
+    {
+      "id": 1569238,
+      "title": "Robert Rauschenberg, précurseur du pop art",
+      "release_date": "2025-10-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/f0C1IZslHs6AnhxoMbwTOMyPX6N.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1569096,
+      "title": "Actions Speak Louder",
+      "release_date": "2025-10-26",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный",
+        "военный"
+      ]
+    },
+    {
+      "id": 1569075,
+      "title": "Ils étaient tirailleurs, voix oubliées de la Grande Guerre",
+      "release_date": "2025-10-26",
+      "vote_average": 8.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tBYidiML2PWA0sqOCKURyDsDfzB.jpg",
+      "genres": [
+        "документальный",
+        "история"
+      ]
+    },
+    {
+      "id": 1569062,
+      "title": "Subur",
+      "release_date": "2025-10-26",
+      "vote_average": 8.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cxGGZSvYTki2mBaygaTfME3e2qC.jpg",
+      "genres": [
+        "ужасы",
+        "драма",
+        "триллер"
+      ]
+    },
     {
       "id": 1569058,
       "title": "Cuentagotas",
@@ -37,9 +92,9 @@
     {
       "id": 1569012,
       "title": "The First Degree Burn",
-      "release_date": "",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "release_date": "2025-10-26",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1A1soJ8AdidthMgR3s4pSfzThC3.jpg",
       "genres": [
         "ужасы"
       ]
@@ -53,58 +108,6 @@
       "genres": [
         "триллер"
       ]
-    },
-    {
-      "id": 1568945,
-      "title": "Penumbra",
-      "release_date": "2025-10-26",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/waEgFlF6SsgDXAxiNLcJL3kuKRk.jpg",
-      "genres": [
-        "мультфильм",
-        "драма"
-      ]
-    },
-    {
-      "id": 1568733,
-      "title": "Familiar",
-      "release_date": "2025-10-26",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "криминал",
-        "драма",
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1568524,
-      "title": "Memiliki Viola 5",
-      "release_date": "2025-10-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/AeMVRq4p5Fvil5kfPOVvlPhNAis.jpg",
-      "genres": [
-        "драма",
-        "криминал"
-      ]
-    },
-    {
-      "id": 1568312,
-      "title": "Murder They Talked About",
-      "release_date": "2025-10-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/msdVWRgynihAbWq5XlNHKB0L4Cr.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1567874,
-      "title": "Untitled Nate Rod Film",
-      "release_date": "2025-10-26",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
     }
   ],
   "source": "TMDB",
