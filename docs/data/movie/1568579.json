@@ -1,0 +1,28 @@
+{
+  "id": 1568579,
+  "title": "Remnants",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-27",
+  "runtime": 7,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "ужасы",
+    "фэнтези"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "HK"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/9tj8tlzWYJ2tiHdRJAOpihZcy3A.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/kq4RMwOhoZzzi7Jsefnz0boLocD.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1568579",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-27T01:04:41.146932+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

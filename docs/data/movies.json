@@ -1,112 +1,104 @@
 {
-  "fetched_at_utc": "2025-10-26T18:16:36.249318+00:00",
+  "fetched_at_utc": "2025-10-27T01:04:42.808427+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1569319,
-      "title": "Anja Kasi Divaneh Nist",
-      "release_date": "2025-10-26",
+      "id": 1569418,
+      "title": "Extrait de la solitude d'un exilé volontaire",
+      "release_date": "2025-10-27",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vILI8rXzmz7svGiw9WcUSYxStwt.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6SikyjZDrMs0gcesImsrP9z8NDg.jpg",
       "genres": [
-        "комедия",
-        "семейный"
+        "драма"
       ]
     },
     {
-      "id": 1569238,
-      "title": "Robert Rauschenberg, précurseur du pop art",
-      "release_date": "2025-10-26",
+      "id": 1568579,
+      "title": "Remnants",
+      "release_date": "2025-10-27",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/f0C1IZslHs6AnhxoMbwTOMyPX6N.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9tj8tlzWYJ2tiHdRJAOpihZcy3A.jpg",
       "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1569096,
-      "title": "Actions Speak Louder",
-      "release_date": "2025-10-26",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный",
-        "военный"
-      ]
-    },
-    {
-      "id": 1569075,
-      "title": "Ils étaient tirailleurs, voix oubliées de la Grande Guerre",
-      "release_date": "2025-10-26",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tBYidiML2PWA0sqOCKURyDsDfzB.jpg",
-      "genres": [
-        "документальный",
-        "история"
-      ]
-    },
-    {
-      "id": 1569062,
-      "title": "Subur",
-      "release_date": "2025-10-26",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cxGGZSvYTki2mBaygaTfME3e2qC.jpg",
-      "genres": [
-        "ужасы",
         "драма",
-        "триллер"
+        "ужасы",
+        "фэнтези"
       ]
     },
     {
-      "id": 1569058,
-      "title": "Cuentagotas",
-      "release_date": "2025-10-26",
+      "id": 1568563,
+      "title": "後殖民皇后",
+      "release_date": "2025-10-27",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nyg0MkapwU18y5vi46I47tPDSR9.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/51s6a5RC4tdVysRc2j16eWPMjNz.jpg",
       "genres": []
     },
     {
-      "id": 1569045,
-      "title": "Retuscherade minnen",
-      "release_date": "2025-10-26",
+      "id": 1568372,
+      "title": "Midnight in the War Room",
+      "release_date": "2025-10-27",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8x1wyA0DQyGEdWx22GjLIDhlvGt.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/26yj9KWDdViGgpUgECrEC1XykJb.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1569043,
-      "title": "మెన్ విల్ బి మెన్",
-      "release_date": "2025-10-26",
+      "id": 1567983,
+      "title": "眼淚的果實",
+      "release_date": "2025-10-27",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fbA0Pj8jNY9wHBA8eR1NkRWMzdf.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qpFzDnSR2M17IwCDjgEiEpcJ3zL.jpg",
       "genres": [
-        "драма",
-        "комедия",
+        "мультфильм",
+        "драма"
+      ]
+    },
+    {
+      "id": 1567953,
+      "title": "芳草碧連天",
+      "release_date": "2025-10-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/AfVQf8iOXmfZn5TuDEOvZI50kkk.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1566838,
+      "title": "31 Minutos: Bodoque contra el metano",
+      "release_date": "2025-10-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bsGWeuXnvZTObYpzly6LTFQcNfv.jpg",
+      "genres": []
+    },
+    {
+      "id": 1566503,
+      "title": "Two Futures",
+      "release_date": "2025-10-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xbFz6ua4TIKoLg7nc5CdfmLnpcl.jpg",
+      "genres": []
+    },
+    {
+      "id": 1566155,
+      "title": "Star Wars 10Kâtre",
+      "release_date": "2025-10-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hge4Y26wcG3xJDJlLsPC29fqauW.jpg",
+      "genres": [
         "боевик"
       ]
     },
     {
-      "id": 1569012,
-      "title": "The First Degree Burn",
-      "release_date": "2025-10-26",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1A1soJ8AdidthMgR3s4pSfzThC3.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1568995,
-      "title": "Wide Shot",
-      "release_date": "2025-10-26",
+      "id": 1565473,
+      "title": "Alma Errante – Hibakusha",
+      "release_date": "2025-10-27",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/koZZNa60m73NdzAhlEDAF94fc0P.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yg6YnbBHO9EiZS9H4S9khfXSnYZ.jpg",
       "genres": [
-        "триллер"
+        "документальный"
       ]
     }
   ],

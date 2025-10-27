@@ -1,0 +1,29 @@
+{
+  "id": 1568563,
+  "title": "後殖民皇后",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-27",
+  "runtime": 13,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "cn",
+  "spoken_languages": [
+    "Cantonese",
+    "English"
+  ],
+  "production_countries": [
+    "HK"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/51s6a5RC4tdVysRc2j16eWPMjNz.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/6hYwAshJzVKY5vMeT2nXi0wRrpe.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1568563",
+  "trailer": {
+    "key": "iVDNaAybYMg",
+    "name": "Postcolonial Queen | Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-27T01:04:41.270936+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

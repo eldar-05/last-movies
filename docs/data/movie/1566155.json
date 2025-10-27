@@ -1,0 +1,26 @@
+{
+  "id": 1566155,
+  "title": "Star Wars 10Kâtre",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-27",
+  "runtime": 60,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "боевик"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "English",
+    "French",
+    "Portuguese"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/hge4Y26wcG3xJDJlLsPC29fqauW.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/dkK5A1NMWccOXDu97tpgFMofAdW.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1566155",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-27T01:04:42.559108+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

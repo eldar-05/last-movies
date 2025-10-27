@@ -1,0 +1,28 @@
+{
+  "id": 1568372,
+  "title": "Midnight in the War Room",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-27",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/26yj9KWDdViGgpUgECrEC1XykJb.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/7zfy73kcdEOPjmA2olTaOrBnHTM.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1568372",
+  "trailer": {
+    "key": "Fm6L271GByY",
+    "name": "Midnight In The War Room | Official Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-27T01:04:41.399524+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
