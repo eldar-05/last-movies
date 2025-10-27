@@ -1,9 +1,17 @@
 {
-  "fetched_at_utc": "2025-10-27T12:26:14.913225+00:00",
+  "fetched_at_utc": "2025-10-27T18:19:02.111043+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1569847,
+      "title": "Commodore Barry",
+      "release_date": "2025-10-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/czVOmIxNd1G3N5LzlccFgvPvOcO.jpg",
+      "genres": []
+    },
     {
       "id": 1569650,
       "title": "Adult Animation",
@@ -91,18 +99,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/AfVQf8iOXmfZn5TuDEOvZI50kkk.jpg",
       "genres": [
         "драма"
-      ]
-    },
-    {
-      "id": 1567695,
-      "title": "Fossil",
-      "release_date": "2025-10-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jFCBf02UtaDkvs5pUCxcyYUBOfx.jpg",
-      "genres": [
-        "детектив",
-        "музыка",
-        "мелодрама"
       ]
     }
   ],
