@@ -1,0 +1,26 @@
+{
+  "id": 1569585,
+  "title": "BELL",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-27",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/moY1x8oiNIHbk1kty8VOmInKSzx.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/euEQCfYcuoVW888N4pJYoOCc3dL.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1569585",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-27T12:26:12.291803+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

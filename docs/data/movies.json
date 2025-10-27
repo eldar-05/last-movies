@@ -1,9 +1,37 @@
 {
-  "fetched_at_utc": "2025-10-27T06:21:34.956469+00:00",
+  "fetched_at_utc": "2025-10-27T12:26:14.913225+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1569650,
+      "title": "Adult Animation",
+      "release_date": "2025-10-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oKYOVXtW7Cw2ABYYCfgZ0E2fw8W.jpg",
+      "genres": []
+    },
+    {
+      "id": 1569585,
+      "title": "BELL",
+      "release_date": "2025-10-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/moY1x8oiNIHbk1kty8VOmInKSzx.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1569575,
+      "title": "València, anys quaranta – El cinema amateur de Luis Roig d’Alós",
+      "release_date": "2025-10-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vbeA67OJ5BFMQDGmf4i3oqaUwib.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1569418,
       "title": "Extrait de la solitude d'un exilé volontaire",
@@ -66,39 +94,15 @@
       ]
     },
     {
-      "id": 1566838,
-      "title": "31 Minutos: Bodoque contra el metano",
+      "id": 1567695,
+      "title": "Fossil",
       "release_date": "2025-10-27",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bsGWeuXnvZTObYpzly6LTFQcNfv.jpg",
-      "genres": []
-    },
-    {
-      "id": 1566503,
-      "title": "Two Futures",
-      "release_date": "2025-10-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xbFz6ua4TIKoLg7nc5CdfmLnpcl.jpg",
-      "genres": []
-    },
-    {
-      "id": 1566155,
-      "title": "Star Wars 10Kâtre",
-      "release_date": "2025-10-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hge4Y26wcG3xJDJlLsPC29fqauW.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jFCBf02UtaDkvs5pUCxcyYUBOfx.jpg",
       "genres": [
-        "боевик"
-      ]
-    },
-    {
-      "id": 1565473,
-      "title": "Alma Errante – Hibakusha",
-      "release_date": "2025-10-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yg6YnbBHO9EiZS9H4S9khfXSnYZ.jpg",
-      "genres": [
-        "документальный"
+        "детектив",
+        "музыка",
+        "мелодрама"
       ]
     }
   ],

@@ -3,7 +3,7 @@
   "title": "Fossil",
   "tagline": "",
   "overview": "",
-  "release_date": "2025-10-26",
+  "release_date": "2025-10-27",
   "runtime": 40,
   "vote_average": 0.0,
   "vote_count": 0,
@@ -21,6 +21,6 @@
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1567695",
   "trailer": null,
-  "fetched_at_utc": "2025-10-26T06:17:21.068547+00:00",
+  "fetched_at_utc": "2025-10-27T12:26:14.912549+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
