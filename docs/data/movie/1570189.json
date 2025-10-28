@@ -1,0 +1,26 @@
+{
+  "id": 1570189,
+  "title": "Fumigón",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-28",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/mqd1HPBgW4gv61OrKJDJQtw1E8b.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/nFRth1kYg5V8RSflYpjPfLZ85vr.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1570189",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-28T12:25:26.495841+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

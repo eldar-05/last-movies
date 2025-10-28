@@ -1,9 +1,49 @@
 {
-  "fetched_at_utc": "2025-10-28T06:20:27.232295+00:00",
+  "fetched_at_utc": "2025-10-28T12:25:27.762361+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1570231,
+      "title": "The Heist: The Louvre's Stolen Crown Jewels",
+      "release_date": "2025-10-28",
+      "vote_average": 7.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/igfg07V1l50ANBbaYvU6PWh5Epj.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1570197,
+      "title": "The Night Nanny",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1570193,
+      "title": "Stigmate",
+      "release_date": "2025-10-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/e8NzMBh9JIdjD52rBNs3PB4pj8E.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1570189,
+      "title": "Fumigón",
+      "release_date": "2025-10-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mqd1HPBgW4gv61OrKJDJQtw1E8b.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
     {
       "id": 1569905,
       "title": "SOMOS LA NOCHE",
@@ -63,40 +103,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/3zAS1KaYo2nl5NZEVMNkYstC5Cq.jpg",
       "genres": [
         "мультфильм"
-      ]
-    },
-    {
-      "id": 1567962,
-      "title": "נעמיד פני חברים",
-      "release_date": "2025-10-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6VpflEckBVOiOu2YID3LhwMVxDO.jpg",
-      "genres": []
-    },
-    {
-      "id": 1567655,
-      "title": "El comisario",
-      "release_date": "2025-10-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/viow6YqgmiDfAC38E8kGLgfeYKo.jpg",
-      "genres": []
-    },
-    {
-      "id": 1566568,
-      "title": "26.2",
-      "release_date": "2025-10-28",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/n6ki2fvGv95cejmuTjkYsUKrNp4.jpg",
-      "genres": []
-    },
-    {
-      "id": 1566251,
-      "title": "Tuvaldeki Sır",
-      "release_date": "2025-10-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/RZ0ndsmkwt2AVGAYEyUCuVxuCw.jpg",
-      "genres": [
-        "драма"
       ]
     }
   ],
