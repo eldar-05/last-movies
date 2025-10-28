@@ -1,9 +1,27 @@
 {
-  "fetched_at_utc": "2025-10-28T12:25:27.762361+00:00",
+  "fetched_at_utc": "2025-10-28T18:19:37.952339+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1570456,
+      "title": "Las capas de la memoria",
+      "release_date": "2025-10-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9n2ebgrZbK2j7yee032RZDZBvvg.jpg",
+      "genres": []
+    },
+    {
+      "id": 1570454,
+      "title": "La folle histoire de Coca-Cola",
+      "release_date": "2025-10-28",
+      "vote_average": 8.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vtWLGB9cTUNCNklW5qd58EKfVWu.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1570231,
       "title": "The Heist: The Louvre's Stolen Crown Jewels",
@@ -17,9 +35,9 @@
     {
       "id": 1570197,
       "title": "The Night Nanny",
-      "release_date": "",
+      "release_date": "2025-10-28",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rwJsFL54oD0NPr1A82ejSGaxl5H.jpg",
       "genres": [
         "ужасы"
       ]
@@ -84,26 +102,6 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/otBKTa2CzThiDeYwMT114knjXUr.jpg",
       "genres": []
-    },
-    {
-      "id": 1568447,
-      "title": "FISH",
-      "release_date": "2025-10-28",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1568170,
-      "title": "紅叮青叮",
-      "release_date": "2025-10-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3zAS1KaYo2nl5NZEVMNkYstC5Cq.jpg",
-      "genres": [
-        "мультфильм"
-      ]
     }
   ],
   "source": "TMDB",

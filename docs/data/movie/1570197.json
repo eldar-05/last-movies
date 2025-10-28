@@ -3,18 +3,22 @@
   "title": "The Night Nanny",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-10-28",
   "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "ужасы"
+  ],
   "original_language": "es",
   "spoken_languages": [],
-  "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "production_countries": [
+    "IR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/rwJsFL54oD0NPr1A82ejSGaxl5H.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/m0bO8Ols38LYMrRhs0pit1FAgs.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1570197",
   "trailer": null,
-  "fetched_at_utc": "2025-10-28T12:25:26.096009+00:00",
+  "fetched_at_utc": "2025-10-28T18:19:36.943184+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
