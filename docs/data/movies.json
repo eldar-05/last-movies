@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-10-28T00:57:48.457488+00:00",
+  "fetched_at_utc": "2025-10-28T06:20:27.232295+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -7,7 +7,7 @@
     {
       "id": 1569905,
       "title": "SOMOS LA NOCHE",
-      "release_date": "",
+      "release_date": "2025-10-28",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/5gYLHsyhQ5Mw8Z63sc3UEiU1yG8.jpg",
       "genres": [
@@ -22,7 +22,7 @@
       "title": "Halloween Dream",
       "release_date": "2025-10-28",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nLhAMhqznmOWKdPn5lPSSUPJO30.jpg",
       "genres": [
         "комедия"
       ]

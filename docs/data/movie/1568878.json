@@ -7,14 +7,16 @@
   "runtime": 13,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "комедия"
+  ],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/nLhAMhqznmOWKdPn5lPSSUPJO30.jpg",
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1568878",
   "trailer": null,
-  "fetched_at_utc": "2025-10-28T00:57:46.194791+00:00",
+  "fetched_at_utc": "2025-10-28T06:20:25.223307+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

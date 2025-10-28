@@ -3,18 +3,27 @@
   "title": "SOMOS LA NOCHE",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-10-28",
   "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "ужасы",
+    "мелодрама",
+    "фэнтези",
+    "музыка"
+  ],
   "original_language": "es",
-  "spoken_languages": [],
-  "production_countries": [],
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "MX"
+  ],
   "poster_url": "https://image.tmdb.org/t/p/w500/5gYLHsyhQ5Mw8Z63sc3UEiU1yG8.jpg",
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1569905",
   "trailer": null,
-  "fetched_at_utc": "2025-10-28T00:57:45.926107+00:00",
+  "fetched_at_utc": "2025-10-28T06:20:24.978964+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
