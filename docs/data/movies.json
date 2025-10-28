@@ -1,102 +1,100 @@
 {
-  "fetched_at_utc": "2025-10-27T18:19:02.111043+00:00",
+  "fetched_at_utc": "2025-10-28T00:57:48.457488+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1569847,
-      "title": "Commodore Barry",
-      "release_date": "2025-10-27",
+      "id": 1569905,
+      "title": "SOMOS LA NOCHE",
+      "release_date": "",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/czVOmIxNd1G3N5LzlccFgvPvOcO.jpg",
-      "genres": []
-    },
-    {
-      "id": 1569650,
-      "title": "Adult Animation",
-      "release_date": "2025-10-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oKYOVXtW7Cw2ABYYCfgZ0E2fw8W.jpg",
-      "genres": []
-    },
-    {
-      "id": 1569585,
-      "title": "BELL",
-      "release_date": "2025-10-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/moY1x8oiNIHbk1kty8VOmInKSzx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5gYLHsyhQ5Mw8Z63sc3UEiU1yG8.jpg",
       "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1569575,
-      "title": "València, anys quaranta – El cinema amateur de Luis Roig d’Alós",
-      "release_date": "2025-10-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vbeA67OJ5BFMQDGmf4i3oqaUwib.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1569418,
-      "title": "Extrait de la solitude d'un exilé volontaire",
-      "release_date": "2025-10-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6SikyjZDrMs0gcesImsrP9z8NDg.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1568579,
-      "title": "Remnants",
-      "release_date": "2025-10-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9tj8tlzWYJ2tiHdRJAOpihZcy3A.jpg",
-      "genres": [
-        "драма",
         "ужасы",
-        "фэнтези"
+        "мелодрама",
+        "фэнтези",
+        "музыка"
       ]
     },
     {
-      "id": 1568563,
-      "title": "後殖民皇后",
-      "release_date": "2025-10-27",
+      "id": 1568878,
+      "title": "Halloween Dream",
+      "release_date": "2025-10-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/51s6a5RC4tdVysRc2j16eWPMjNz.jpg",
+      "poster_url": null,
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1568639,
+      "title": "Pizza Time",
+      "release_date": "2025-10-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nGdl9tEcxC59PLw1NumqeKIfBxx.jpg",
+      "genres": [
+        "криминал"
+      ]
+    },
+    {
+      "id": 1568620,
+      "title": "我照跑",
+      "release_date": "2025-10-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/otBKTa2CzThiDeYwMT114knjXUr.jpg",
       "genres": []
     },
     {
-      "id": 1568372,
-      "title": "Midnight in the War Room",
-      "release_date": "2025-10-27",
+      "id": 1568447,
+      "title": "FISH",
+      "release_date": "2025-10-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/26yj9KWDdViGgpUgECrEC1XykJb.jpg",
+      "poster_url": null,
       "genres": [
-        "документальный"
+        "мультфильм"
       ]
     },
     {
-      "id": 1567983,
-      "title": "眼淚的果實",
-      "release_date": "2025-10-27",
+      "id": 1568170,
+      "title": "紅叮青叮",
+      "release_date": "2025-10-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qpFzDnSR2M17IwCDjgEiEpcJ3zL.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3zAS1KaYo2nl5NZEVMNkYstC5Cq.jpg",
       "genres": [
-        "мультфильм",
-        "драма"
+        "мультфильм"
       ]
     },
     {
-      "id": 1567953,
-      "title": "芳草碧連天",
-      "release_date": "2025-10-27",
+      "id": 1567962,
+      "title": "נעמיד פני חברים",
+      "release_date": "2025-10-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/AfVQf8iOXmfZn5TuDEOvZI50kkk.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6VpflEckBVOiOu2YID3LhwMVxDO.jpg",
+      "genres": []
+    },
+    {
+      "id": 1567655,
+      "title": "El comisario",
+      "release_date": "2025-10-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/viow6YqgmiDfAC38E8kGLgfeYKo.jpg",
+      "genres": []
+    },
+    {
+      "id": 1566568,
+      "title": "26.2",
+      "release_date": "2025-10-28",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/n6ki2fvGv95cejmuTjkYsUKrNp4.jpg",
+      "genres": []
+    },
+    {
+      "id": 1566251,
+      "title": "Tuvaldeki Sır",
+      "release_date": "2025-10-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/RZ0ndsmkwt2AVGAYEyUCuVxuCw.jpg",
       "genres": [
         "драма"
       ]

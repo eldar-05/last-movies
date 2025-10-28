@@ -1,0 +1,24 @@
+{
+  "id": 1568620,
+  "title": "我照跑",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-28",
+  "runtime": 16,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "cn",
+  "spoken_languages": [
+    "Cantonese"
+  ],
+  "production_countries": [
+    "HK"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/otBKTa2CzThiDeYwMT114knjXUr.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/y5n0Y6H98ltITxL3iGKGKjN0UbM.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1568620",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-28T00:57:46.762191+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

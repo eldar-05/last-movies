@@ -1,0 +1,26 @@
+{
+  "id": 1566251,
+  "title": "Tuvaldeki Sır",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-28",
+  "runtime": 84,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "tr",
+  "spoken_languages": [
+    "Turkish"
+  ],
+  "production_countries": [
+    "TR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/RZ0ndsmkwt2AVGAYEyUCuVxuCw.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/1MYlJskUK6MqlQrTwc53YutIKTB.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1566251",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-28T00:57:48.457091+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
