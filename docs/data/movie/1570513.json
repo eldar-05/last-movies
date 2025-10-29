@@ -16,10 +16,14 @@
     "English"
   ],
   "production_countries": [],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/hUlFq9hBL97wIC3zbuvPf5vsZJI.jpg",
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1570513",
-  "trailer": null,
-  "fetched_at_utc": "2025-10-29T01:02:00.207746+00:00",
+  "trailer": {
+    "key": "BT-BwVWu1oA",
+    "name": "The Wingfeather Saga \"The Journey Begins\" | Official Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-10-29T06:20:38.809699+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

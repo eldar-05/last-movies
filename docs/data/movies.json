@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-10-29T01:02:00.885304+00:00",
+  "fetched_at_utc": "2025-10-29T06:20:39.574477+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -27,9 +27,9 @@
     {
       "id": 1570631,
       "title": "บทสนทนาใต้ผ้าห่ม",
-      "release_date": "",
+      "release_date": "2025-10-29",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8Gnz39P78MQETGRDMBvOoySKkje.jpg",
       "genres": [
         "детектив",
         "ужасы",
@@ -61,7 +61,7 @@
       "title": "The Wingfeather Saga: The Journey Begins",
       "release_date": "2025-10-29",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hUlFq9hBL97wIC3zbuvPf5vsZJI.jpg",
       "genres": [
         "фэнтези",
         "мультфильм"
@@ -82,7 +82,7 @@
       "title": "Carrot Farmer",
       "release_date": "2025-10-29",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/AatglmSqWPotrjhbGDDMrXUtg7P.jpg",
       "genres": [
         "комедия"
       ]
