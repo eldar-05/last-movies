@@ -1,107 +1,111 @@
 {
-  "fetched_at_utc": "2025-10-28T18:19:37.952339+00:00",
+  "fetched_at_utc": "2025-10-29T01:02:00.885304+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1570456,
-      "title": "Las capas de la memoria",
-      "release_date": "2025-10-28",
+      "id": 1570722,
+      "title": "Against the odds",
+      "release_date": "2025-10-29",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9n2ebgrZbK2j7yee032RZDZBvvg.jpg",
-      "genres": []
-    },
-    {
-      "id": 1570454,
-      "title": "La folle histoire de Coca-Cola",
-      "release_date": "2025-10-28",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vtWLGB9cTUNCNklW5qd58EKfVWu.jpg",
+      "poster_url": null,
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1570231,
-      "title": "The Heist: The Louvre's Stolen Crown Jewels",
-      "release_date": "2025-10-28",
-      "vote_average": 7.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/igfg07V1l50ANBbaYvU6PWh5Epj.jpg",
+      "id": 1570688,
+      "title": "Counterintuitive",
+      "release_date": "2025-10-29",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1570197,
-      "title": "The Night Nanny",
-      "release_date": "2025-10-28",
+      "id": 1570631,
+      "title": "บทสนทนาใต้ผ้าห่ม",
+      "release_date": "",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rwJsFL54oD0NPr1A82ejSGaxl5H.jpg",
+      "poster_url": null,
       "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1570193,
-      "title": "Stigmate",
-      "release_date": "2025-10-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/e8NzMBh9JIdjD52rBNs3PB4pj8E.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1570189,
-      "title": "Fumigón",
-      "release_date": "2025-10-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mqd1HPBgW4gv61OrKJDJQtw1E8b.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1569905,
-      "title": "SOMOS LA NOCHE",
-      "release_date": "2025-10-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5gYLHsyhQ5Mw8Z63sc3UEiU1yG8.jpg",
-      "genres": [
+        "детектив",
         "ужасы",
-        "мелодрама",
-        "фэнтези",
-        "музыка"
+        "документальный"
       ]
     },
     {
-      "id": 1568878,
-      "title": "Halloween Dream",
-      "release_date": "2025-10-28",
+      "id": 1570588,
+      "title": "Cumberland Terrace",
+      "release_date": "2025-10-29",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nLhAMhqznmOWKdPn5lPSSUPJO30.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ypPGLs6oflfn6y6kQeZqc69Fp38.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1570542,
+      "title": "Chère Fin",
+      "release_date": "2025-10-29",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1570513,
+      "title": "The Wingfeather Saga: The Journey Begins",
+      "release_date": "2025-10-29",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "фэнтези",
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1570299,
+      "title": "Pırıl: Saklı Robotlar",
+      "release_date": "2025-10-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bEaXXsJwKtWkqY44XtHeu7dMhyb.jpg",
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1570227,
+      "title": "Carrot Farmer",
+      "release_date": "2025-10-29",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
         "комедия"
       ]
     },
     {
-      "id": 1568639,
-      "title": "Pizza Time",
-      "release_date": "2025-10-28",
+      "id": 1570211,
+      "title": "Short Sharp Scares: Cassette",
+      "release_date": "2025-10-29",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nGdl9tEcxC59PLw1NumqeKIfBxx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8r22BJNlBD8WDcJFxtwTrYU1nzk.jpg",
       "genres": [
-        "криминал"
+        "ужасы"
       ]
     },
     {
-      "id": 1568620,
-      "title": "我照跑",
-      "release_date": "2025-10-28",
+      "id": 1570127,
+      "title": "All the Time in the World",
+      "release_date": "2025-10-29",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/otBKTa2CzThiDeYwMT114knjXUr.jpg",
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/fDQGFaZAJimSn16xDnuknVolaHE.jpg",
+      "genres": [
+        "комедия"
+      ]
     }
   ],
   "source": "TMDB",

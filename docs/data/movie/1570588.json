@@ -1,0 +1,24 @@
+{
+  "id": 1570588,
+  "title": "Cumberland Terrace",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-29",
+  "runtime": 26,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "CA"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/ypPGLs6oflfn6y6kQeZqc69Fp38.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1570588",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-29T01:01:59.836112+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
