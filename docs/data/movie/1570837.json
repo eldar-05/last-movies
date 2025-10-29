@@ -1,0 +1,27 @@
+{
+  "id": 1570837,
+  "title": "Echo",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-29",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "ужасы"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "CA"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/ogtgHT9YFc8MDhqWX1IiYo7DAGV.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/2Gcxcb4HWF6w9wlXTa1sme1vwMz.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1570837",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-29T12:27:04.690556+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

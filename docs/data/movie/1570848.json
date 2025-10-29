@@ -1,0 +1,27 @@
+{
+  "id": 1570848,
+  "title": "The Mountain",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-29",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фантастика",
+    "триллер"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/sWKqvRfWCYLUcmeTidvZabwO9Cf.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/vXapM8MXWIvTdZ3r9CxXFvTuKv4.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1570848",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-29T12:27:04.419524+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

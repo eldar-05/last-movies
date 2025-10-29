@@ -1,9 +1,89 @@
 {
-  "fetched_at_utc": "2025-10-29T06:20:39.574477+00:00",
+  "fetched_at_utc": "2025-10-29T12:27:05.492302+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1570888,
+      "title": "The Class Of 2025",
+      "release_date": "2025-10-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1MpHSIKBZlVVdC7EKgIfELQjOnX.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1570876,
+      "title": "Le retour des baleines à bosse",
+      "release_date": "2025-10-29",
+      "vote_average": 8.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/uZ2r8KAOOkq4aGfeADwiWgBFG96.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1570872,
+      "title": "Degiya",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1570860,
+      "title": "Hall Rent",
+      "release_date": "2025-10-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zzlbfJ3uruqf2pjGzCWWcIQWOWm.jpg",
+      "genres": [
+        "вестерн"
+      ]
+    },
+    {
+      "id": 1570850,
+      "title": "آقای زالو",
+      "release_date": "2025-10-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/r8b774a167No3XahgSjgRfQ7X3N.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1570848,
+      "title": "The Mountain",
+      "release_date": "2025-10-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/sWKqvRfWCYLUcmeTidvZabwO9Cf.jpg",
+      "genres": [
+        "фантастика",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1570837,
+      "title": "Echo",
+      "release_date": "2025-10-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ogtgHT9YFc8MDhqWX1IiYo7DAGV.jpg",
+      "genres": [
+        "триллер",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1570773,
+      "title": "追凶",
+      "release_date": "2025-10-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1ejjVL9oIsMYmJroOB8GPVskVDs.jpg",
+      "genres": []
+    },
     {
       "id": 1570722,
       "title": "Against the odds",
@@ -22,89 +102,6 @@
       "poster_url": null,
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1570631,
-      "title": "บทสนทนาใต้ผ้าห่ม",
-      "release_date": "2025-10-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8Gnz39P78MQETGRDMBvOoySKkje.jpg",
-      "genres": [
-        "детектив",
-        "ужасы",
-        "документальный"
-      ]
-    },
-    {
-      "id": 1570588,
-      "title": "Cumberland Terrace",
-      "release_date": "2025-10-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ypPGLs6oflfn6y6kQeZqc69Fp38.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1570542,
-      "title": "Chère Fin",
-      "release_date": "2025-10-29",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1570513,
-      "title": "The Wingfeather Saga: The Journey Begins",
-      "release_date": "2025-10-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hUlFq9hBL97wIC3zbuvPf5vsZJI.jpg",
-      "genres": [
-        "фэнтези",
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1570299,
-      "title": "Pırıl: Saklı Robotlar",
-      "release_date": "2025-10-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bEaXXsJwKtWkqY44XtHeu7dMhyb.jpg",
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1570227,
-      "title": "Carrot Farmer",
-      "release_date": "2025-10-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/AatglmSqWPotrjhbGDDMrXUtg7P.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1570211,
-      "title": "Short Sharp Scares: Cassette",
-      "release_date": "2025-10-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8r22BJNlBD8WDcJFxtwTrYU1nzk.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1570127,
-      "title": "All the Time in the World",
-      "release_date": "2025-10-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fDQGFaZAJimSn16xDnuknVolaHE.jpg",
-      "genres": [
-        "комедия"
       ]
     }
   ],
