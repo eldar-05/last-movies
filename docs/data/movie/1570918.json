@@ -1,0 +1,29 @@
+{
+  "id": 1570918,
+  "title": "Mr. Vapey Man",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-29",
+  "runtime": 1,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм",
+    "ужасы",
+    "комедия",
+    "музыка"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "GB"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/o5Puw7hIpKgUsipF2o7jByIOVXb.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/cycSSM3u5zaZqiz4VAYxzcQcPrk.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1570918",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-29T18:19:33.774295+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

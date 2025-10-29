@@ -1,0 +1,28 @@
+{
+  "id": 1571120,
+  "title": "Tiempo de Ignorantes",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-29",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "комедия"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish",
+    "English"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/wA3CGl26abkwydVRJB5KahEZ0vI.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/a0g5Pf0logxUbDfIWfVzX4aHA97.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1571120",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-29T18:19:32.687447+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

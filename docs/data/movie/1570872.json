@@ -3,20 +3,24 @@
   "title": "Degiya",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-10-29",
   "runtime": 120,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
-  "original_language": "en",
+  "genres": [
+    "драма"
+  ],
+  "original_language": "am",
   "spoken_languages": [
     "Amharic"
   ],
-  "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "production_countries": [
+    "ET"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/o38cT62pOmm3S1qdp1Iz42pzXC3.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/6PLacVaDv9Z6eDq8ykrOMucfpmT.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1570872",
   "trailer": null,
-  "fetched_at_utc": "2025-10-29T12:27:03.650677+00:00",
+  "fetched_at_utc": "2025-10-29T18:19:34.881541+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

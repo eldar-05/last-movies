@@ -1,9 +1,51 @@
 {
-  "fetched_at_utc": "2025-10-29T12:27:05.492302+00:00",
+  "fetched_at_utc": "2025-10-29T18:19:35.990602+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1571120,
+      "title": "Tiempo de Ignorantes",
+      "release_date": "2025-10-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wA3CGl26abkwydVRJB5KahEZ0vI.jpg",
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1571118,
+      "title": "SIMBIOSE 2",
+      "release_date": "2025-10-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qDk6UQTpnQzPFSDjUyz21oHEp8Z.jpg",
+      "genres": []
+    },
+    {
+      "id": 1571046,
+      "title": "THE HUNT",
+      "release_date": "2025-10-29",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1570918,
+      "title": "Mr. Vapey Man",
+      "release_date": "2025-10-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/o5Puw7hIpKgUsipF2o7jByIOVXb.jpg",
+      "genres": [
+        "мультфильм",
+        "ужасы",
+        "комедия",
+        "музыка"
+      ]
+    },
     {
       "id": 1570888,
       "title": "The Class Of 2025",
@@ -27,9 +69,9 @@
     {
       "id": 1570872,
       "title": "Degiya",
-      "release_date": "",
+      "release_date": "2025-10-29",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/o38cT62pOmm3S1qdp1Iz42pzXC3.jpg",
       "genres": [
         "драма"
       ]
@@ -63,45 +105,6 @@
       "genres": [
         "фантастика",
         "триллер"
-      ]
-    },
-    {
-      "id": 1570837,
-      "title": "Echo",
-      "release_date": "2025-10-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ogtgHT9YFc8MDhqWX1IiYo7DAGV.jpg",
-      "genres": [
-        "триллер",
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1570773,
-      "title": "追凶",
-      "release_date": "2025-10-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1ejjVL9oIsMYmJroOB8GPVskVDs.jpg",
-      "genres": []
-    },
-    {
-      "id": 1570722,
-      "title": "Against the odds",
-      "release_date": "2025-10-29",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1570688,
-      "title": "Counterintuitive",
-      "release_date": "2025-10-29",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
       ]
     }
   ],
