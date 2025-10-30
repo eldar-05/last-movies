@@ -1,6 +1,6 @@
 {
-  "id": 1571314,
-  "title": "Bocado",
+  "id": 1571439,
+  "title": "Luz de Penumbra",
   "tagline": "",
   "overview": "",
   "release_date": "2025-10-30",
@@ -8,8 +8,7 @@
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "триллер",
-    "мелодрама"
+    "ужасы"
   ],
   "original_language": "es",
   "spoken_languages": [
@@ -18,10 +17,10 @@
   "production_countries": [
     "MX"
   ],
-  "poster_url": "https://image.tmdb.org/t/p/w500/qEdaRQZZvMRvNr2KUDZRmBUwLIN.jpg",
-  "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1571314",
+  "poster_url": "https://image.tmdb.org/t/p/w500/7Sd8YaybwOHmGR4B5FW9I0IdIX3.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/wDmxJwgEsZyaAa74PdnCrPTywyQ.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1571439",
   "trailer": null,
-  "fetched_at_utc": "2025-10-30T12:25:35.942886+00:00",
+  "fetched_at_utc": "2025-10-30T12:25:35.582245+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

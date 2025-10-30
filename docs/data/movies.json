@@ -1,9 +1,29 @@
 {
-  "fetched_at_utc": "2025-10-30T06:19:19.045442+00:00",
+  "fetched_at_utc": "2025-10-30T12:25:37.233117+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1571439,
+      "title": "Luz de Penumbra",
+      "release_date": "2025-10-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/7Sd8YaybwOHmGR4B5FW9I0IdIX3.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1571365,
+      "title": "X-SLASHER",
+      "release_date": "2025-10-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mjw3rD3IdEcJx8fSxx9NmeKywYS.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
     {
       "id": 1571314,
       "title": "Bocado",
@@ -87,22 +107,6 @@
       "genres": [
         "триллер"
       ]
-    },
-    {
-      "id": 1570108,
-      "title": "Eterno: 100 años de Colo-Colo",
-      "release_date": "2025-10-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5X2XqZkUuhxr3pbwKLbE98pz3GA.jpg",
-      "genres": []
-    },
-    {
-      "id": 1569764,
-      "title": "Der Schlagbaum",
-      "release_date": "2025-10-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/YuyrzA1ZT5rQ0CHJ4cWuzdfcWC.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",
