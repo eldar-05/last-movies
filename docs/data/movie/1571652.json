@@ -1,6 +1,6 @@
 {
-  "id": 1571314,
-  "title": "Bocado",
+  "id": 1571652,
+  "title": "La Habitación",
   "tagline": "",
   "overview": "",
   "release_date": "2025-10-30",
@@ -8,8 +8,8 @@
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "триллер",
-    "мелодрама"
+    "ужасы",
+    "драма"
   ],
   "original_language": "es",
   "spoken_languages": [
@@ -18,10 +18,10 @@
   "production_countries": [
     "MX"
   ],
-  "poster_url": "https://image.tmdb.org/t/p/w500/qEdaRQZZvMRvNr2KUDZRmBUwLIN.jpg",
-  "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1571314",
+  "poster_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/n3uNlhJXcoxkwmjChaIq49AWN9y.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1571652",
   "trailer": null,
-  "fetched_at_utc": "2025-10-30T18:18:09.548193+00:00",
+  "fetched_at_utc": "2025-10-30T18:18:08.121095+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

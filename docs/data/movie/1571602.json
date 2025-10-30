@@ -1,0 +1,27 @@
+{
+  "id": 1571602,
+  "title": "AlbertCamus",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-30",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фантастика",
+    "детектив"
+  ],
+  "original_language": "it",
+  "spoken_languages": [
+    "Italian"
+  ],
+  "production_countries": [
+    "IT"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/6a3dpFebKHrxyoFFWQyF2Qk6t4d.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/mFwHw5WgDbPXl4vHGlBuHHF1Tz9.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1571602",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-30T18:18:08.682904+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

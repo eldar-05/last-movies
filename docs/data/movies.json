@@ -1,9 +1,88 @@
 {
-  "fetched_at_utc": "2025-10-30T12:25:37.233117+00:00",
+  "fetched_at_utc": "2025-10-30T18:18:09.548411+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1571662,
+      "title": "The Piano Tuner",
+      "release_date": "2025-10-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3vMS47gDNDPQAYOFOPAYNaGa11T.jpg",
+      "genres": [
+        "документальный",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1571652,
+      "title": "La Habitación",
+      "release_date": "2025-10-30",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы",
+        "драма"
+      ]
+    },
+    {
+      "id": 1571614,
+      "title": "Threshold",
+      "release_date": "2025-10-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nnIvS2G78CiOXfZdx9L4ijYEpT6.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1571606,
+      "title": "Update",
+      "release_date": "2025-10-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/a8Jm1O0kehkGhTZPEkix6PfsVtc.jpg",
+      "genres": [
+        "фантастика",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1571602,
+      "title": "AlbertCamus",
+      "release_date": "2025-10-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6a3dpFebKHrxyoFFWQyF2Qk6t4d.jpg",
+      "genres": [
+        "фантастика",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1571594,
+      "title": "La fotógrafa",
+      "release_date": "2025-10-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/95pZ9yB5SABddzaINITvZd7SvER.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1571470,
+      "title": "The Rats: A Witcher Tale",
+      "release_date": "2025-10-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5Gr4amaB1xxeYAEMOdrVutaWwgz.jpg",
+      "genres": [
+        "фэнтези",
+        "драма",
+        "фантастика",
+        "боевик",
+        "приключения"
+      ]
+    },
     {
       "id": 1571439,
       "title": "Luz de Penumbra",
@@ -33,79 +112,6 @@
       "genres": [
         "триллер",
         "мелодрама"
-      ]
-    },
-    {
-      "id": 1571289,
-      "title": "Ser Feliz Por Nenhum Motivo",
-      "release_date": "2025-10-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/z6AgUUZpleT7OwJdfC5t3LbeLdA.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1571022,
-      "title": "Les excuses",
-      "release_date": "2025-10-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6DhhK22eR7ldLXf2AnOZtLbQPQn.jpg",
-      "genres": [
-        "драма",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1570858,
-      "title": "Kōauau",
-      "release_date": "2025-10-30",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/krp1Dx3fwIAPeNGSfClfxaBDLUU.jpg",
-      "genres": [
-        "драма",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1570654,
-      "title": "The Knife Wore Perfume",
-      "release_date": "2025-10-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6pLeWUcfqnrWlNh8QbaCjDXRmZn.jpg",
-      "genres": [
-        "ужасы",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1570591,
-      "title": "Na Czerwonym Globie",
-      "release_date": "2025-10-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rhaL95owcipNYsQ3jmaVe3NMmbm.jpg",
-      "genres": [
-        "детектив"
-      ]
-    },
-    {
-      "id": 1570553,
-      "title": "Mário Carneiro, gravura feita com luz",
-      "release_date": "2025-10-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yTduErtbdk8s9ph32RInl2p02io.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1570490,
-      "title": "Sola y borracha",
-      "release_date": "2025-10-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oOaim65MGI0EvjW7qrfRriz8eRx.jpg",
-      "genres": [
-        "триллер"
       ]
     }
   ],

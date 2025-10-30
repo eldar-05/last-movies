@@ -1,0 +1,27 @@
+{
+  "id": 1571606,
+  "title": "Update",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-30",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фантастика",
+    "триллер"
+  ],
+  "original_language": "it",
+  "spoken_languages": [
+    "Italian"
+  ],
+  "production_countries": [
+    "IT"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/a8Jm1O0kehkGhTZPEkix6PfsVtc.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/3oiC1AOr2VDyOfuBUuK1k3hgNHI.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1571606",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-30T18:18:08.511549+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

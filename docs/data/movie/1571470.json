@@ -1,0 +1,28 @@
+{
+  "id": 1571470,
+  "title": "The Rats: A Witcher Tale",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-30",
+  "runtime": 82,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фэнтези",
+    "драма",
+    "фантастика",
+    "боевик",
+    "приключения"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/5Gr4amaB1xxeYAEMOdrVutaWwgz.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/en0NbTEjf3qKokHvwGeaq9DBPIP.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1571470",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-30T18:18:09.039014+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
