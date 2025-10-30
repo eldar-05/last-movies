@@ -1,0 +1,27 @@
+{
+  "id": 1570654,
+  "title": "The Knife Wore Perfume",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-30",
+  "runtime": 22,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "GB"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/6pLeWUcfqnrWlNh8QbaCjDXRmZn.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/pvLdl5Rlv7VDPLQKayLqt2de6m2.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1570654",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-30T01:01:35.156808+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

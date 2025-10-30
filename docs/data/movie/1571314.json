@@ -1,0 +1,27 @@
+{
+  "id": 1571314,
+  "title": "Bocado",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-30",
+  "runtime": 11,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "мелодрама"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "MX"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/qEdaRQZZvMRvNr2KUDZRmBUwLIN.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1571314",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-30T01:01:34.480047+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

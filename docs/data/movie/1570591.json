@@ -1,0 +1,25 @@
+{
+  "id": 1570591,
+  "title": "Na Czerwonym Globie",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-30",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "детектив"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Polish",
+    "Portuguese"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/rhaL95owcipNYsQ3jmaVe3NMmbm.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1570591",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-30T01:01:35.337886+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

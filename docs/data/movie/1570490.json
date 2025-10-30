@@ -1,0 +1,26 @@
+{
+  "id": 1570490,
+  "title": "Sola y borracha",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-30",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/oOaim65MGI0EvjW7qrfRriz8eRx.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/7QktSnGWgKPGJHUVqEZgdKSJn0h.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1570490",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-30T01:01:35.667589+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

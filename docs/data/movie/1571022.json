@@ -1,0 +1,27 @@
+{
+  "id": 1571022,
+  "title": "Les excuses",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-30",
+  "runtime": 17,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "комедия"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/6DhhK22eR7ldLXf2AnOZtLbQPQn.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1571022",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-30T01:01:34.806730+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
