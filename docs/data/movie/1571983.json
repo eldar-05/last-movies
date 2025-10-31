@@ -1,0 +1,25 @@
+{
+  "id": 1571983,
+  "title": "Dead Tidy",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-31",
+  "runtime": 10,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "ужасы"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/nbLCfyUGDfkNM8is6JTVIINdZKN.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1571983",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-31T12:26:23.618519+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1572040,
+  "title": "The Hunter's Ballad",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-31",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "es",
+  "spoken_languages": [],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/32lnXCxTtGgCtRKwZdPpXmoZiXa.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/qLyH2fUi51FmUgwEnIOSA2yw6hn.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1572040",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-31T12:26:22.710987+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

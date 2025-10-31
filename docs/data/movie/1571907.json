@@ -1,6 +1,6 @@
 {
   "id": 1571907,
-  "title": "Eidolon",
+  "title": "EIDOLON",
   "tagline": "",
   "overview": "",
   "release_date": "2025-10-31",
@@ -14,10 +14,10 @@
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/6r2zbwk9RxglIN8BPsG5pBiaTv.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/6WBL0AwdvjG3AiCAZu6TQDRHpL3.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1571907",
   "trailer": null,
-  "fetched_at_utc": "2025-10-31T06:19:33.001346+00:00",
+  "fetched_at_utc": "2025-10-31T12:26:25.512245+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

@@ -4,7 +4,7 @@
   "tagline": "",
   "overview": "",
   "release_date": "2025-10-31",
-  "runtime": 0,
+  "runtime": 146,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
@@ -13,15 +13,15 @@
   ],
   "original_language": "hi",
   "spoken_languages": [
-    "Hindi",
-    "Tamil",
-    "Telugu"
+    "Hindi"
   ],
-  "production_countries": [],
+  "production_countries": [
+    "IN"
+  ],
   "poster_url": "https://image.tmdb.org/t/p/w500/7DwucLIfkRQDcX0EvLbaXrbnD22.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/rJQenqQFAOjrwbIzHaIAP9aaCXd.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1571782",
   "trailer": null,
-  "fetched_at_utc": "2025-10-31T06:19:33.388626+00:00",
+  "fetched_at_utc": "2025-10-31T12:26:26.630997+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

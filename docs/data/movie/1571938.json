@@ -1,0 +1,23 @@
+{
+  "id": 1571938,
+  "title": "Cruel Melody",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-31",
+  "runtime": 9,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/1u60CgFanFjK6We0pte395Nnnr8.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/dnu2wVxZmvu0YPjuiRlH61c0llG.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1571938",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-31T12:26:25.062420+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

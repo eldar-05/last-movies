@@ -3,20 +3,20 @@
   "title": "Esplêndida Feiura",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-10-31",
   "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
-  "original_language": "pt",
-  "spoken_languages": [
-    "Portuguese"
+  "genres": [
+    "ужасы"
   ],
+  "original_language": "pt",
+  "spoken_languages": [],
   "production_countries": [],
   "poster_url": "https://image.tmdb.org/t/p/w500/ny6xlfrojkXiF2AhG67vVsp73Bq.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/q6LoVdI2oX01AR5NcUQJyzNJPri.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1571829",
   "trailer": null,
-  "fetched_at_utc": "2025-10-31T06:19:33.186091+00:00",
+  "fetched_at_utc": "2025-10-31T12:26:26.068877+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

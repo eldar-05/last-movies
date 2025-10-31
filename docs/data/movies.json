@@ -1,15 +1,86 @@
 {
-  "fetched_at_utc": "2025-10-31T06:19:34.670600+00:00",
+  "fetched_at_utc": "2025-10-31T12:26:26.631457+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1571907,
-      "title": "Eidolon",
+      "id": 1572053,
+      "title": "淫欲のコード 誘惑エンジェル危機一発",
+      "release_date": "2025-10-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bsF0LZMO2T4LnDV2XI2cPMDABfc.jpg",
+      "genres": []
+    },
+    {
+      "id": 1572040,
+      "title": "The Hunter's Ballad",
+      "release_date": "2025-10-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/32lnXCxTtGgCtRKwZdPpXmoZiXa.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1572012,
+      "title": "gowillog",
       "release_date": "2025-10-31",
       "vote_average": 0.0,
       "poster_url": null,
+      "genres": [
+        "музыка",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1571983,
+      "title": "Dead Tidy",
+      "release_date": "2025-10-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nbLCfyUGDfkNM8is6JTVIINdZKN.jpg",
+      "genres": [
+        "комедия",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1571974,
+      "title": "Doodlepops",
+      "release_date": "2025-10-31",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1571966,
+      "title": "Beautiful Day",
+      "release_date": "2025-10-31",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1571938,
+      "title": "Cruel Melody",
+      "release_date": "2025-10-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1u60CgFanFjK6We0pte395Nnnr8.jpg",
+      "genres": [
+        "ужасы",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1571907,
+      "title": "EIDOLON",
+      "release_date": "2025-10-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6r2zbwk9RxglIN8BPsG5pBiaTv.jpg",
       "genres": [
         "ужасы",
         "триллер"
@@ -18,7 +89,7 @@
     {
       "id": 1571829,
       "title": "Esplêndida Feiura",
-      "release_date": "",
+      "release_date": "2025-10-31",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/ny6xlfrojkXiF2AhG67vVsp73Bq.jpg",
       "genres": [
@@ -34,82 +105,6 @@
       "genres": [
         "боевик",
         "криминал"
-      ]
-    },
-    {
-      "id": 1571731,
-      "title": "The Tall-N-Short Halloween Special - Vol. VI",
-      "release_date": "2025-10-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jCPbCvd8NvPASkpJRYcDaKv8Fm5.jpg",
-      "genres": [
-        "ужасы",
-        "фэнтези",
-        "фантастика"
-      ]
-    },
-    {
-      "id": 1571600,
-      "title": "Skull Forever",
-      "release_date": "2025-10-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4CMHOrIg7evAmWPSG1JKYCunvok.jpg",
-      "genres": [
-        "ужасы",
-        "комедия",
-        "приключения",
-        "фэнтези"
-      ]
-    },
-    {
-      "id": 1571478,
-      "title": "Ye Demena Dankiregnoch",
-      "release_date": "2025-10-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nV4zSzSAwOjfCdZsuDr7FjvbW0L.jpg",
-      "genres": []
-    },
-    {
-      "id": 1571367,
-      "title": "Beer... Run!",
-      "release_date": "2025-10-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2loI52WfLo2vffm2vZlV4N4eo2O.jpg",
-      "genres": [
-        "ужасы",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1571342,
-      "title": "ATLAS",
-      "release_date": "2025-10-31",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "фэнтези",
-        "фантастика"
-      ]
-    },
-    {
-      "id": 1571233,
-      "title": "Cidade Conquista",
-      "release_date": "2025-10-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gMEj1BXCwKVfeFWa4xFR6JYHlWX.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1571098,
-      "title": "El Huésped",
-      "release_date": "2025-10-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1sT8ksPVHgYOvMKXsG8pfqcCu6Z.jpg",
-      "genres": [
-        "ужасы",
-        "детектив"
       ]
     }
   ],
