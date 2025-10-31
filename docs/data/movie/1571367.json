@@ -1,0 +1,25 @@
+{
+  "id": 1571367,
+  "title": "Beer... Run!",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-31",
+  "runtime": 6,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/2loI52WfLo2vffm2vZlV4N4eo2O.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1571367",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-31T00:59:58.350859+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

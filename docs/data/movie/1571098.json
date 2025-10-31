@@ -1,0 +1,27 @@
+{
+  "id": 1571098,
+  "title": "El Huésped",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-31",
+  "runtime": 19,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "детектив"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/1sT8ksPVHgYOvMKXsG8pfqcCu6Z.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1571098",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-31T00:59:58.971307+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,117 +1,115 @@
 {
-  "fetched_at_utc": "2025-10-30T18:18:09.548411+00:00",
+  "fetched_at_utc": "2025-10-31T00:59:58.971835+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1571662,
-      "title": "The Piano Tuner",
-      "release_date": "2025-10-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3vMS47gDNDPQAYOFOPAYNaGa11T.jpg",
-      "genres": [
-        "документальный",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1571652,
-      "title": "La Habitación",
-      "release_date": "2025-10-30",
+      "id": 1571907,
+      "title": "Eidolon",
+      "release_date": "2025-10-31",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
         "ужасы",
-        "драма"
+        "триллер"
       ]
     },
     {
-      "id": 1571614,
-      "title": "Threshold",
-      "release_date": "2025-10-30",
+      "id": 1571829,
+      "title": "Esplêndida Feiura",
+      "release_date": "",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nnIvS2G78CiOXfZdx9L4ijYEpT6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ny6xlfrojkXiF2AhG67vVsp73Bq.jpg",
       "genres": [
         "ужасы"
       ]
     },
     {
-      "id": 1571606,
-      "title": "Update",
-      "release_date": "2025-10-30",
+      "id": 1571782,
+      "title": "Rangbaaz: The Bihar Chapter",
+      "release_date": "2025-10-31",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/a8Jm1O0kehkGhTZPEkix6PfsVtc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/quV0VvQ2y78PeQvUMLgXGof8gNF.jpg",
       "genres": [
-        "фантастика",
-        "триллер"
+        "боевик",
+        "криминал"
       ]
     },
     {
-      "id": 1571602,
-      "title": "AlbertCamus",
-      "release_date": "2025-10-30",
+      "id": 1571731,
+      "title": "The Tall-N-Short Halloween Special - Vol. VI",
+      "release_date": "2025-10-31",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6a3dpFebKHrxyoFFWQyF2Qk6t4d.jpg",
-      "genres": [
-        "фантастика",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1571594,
-      "title": "La fotógrafa",
-      "release_date": "2025-10-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/95pZ9yB5SABddzaINITvZd7SvER.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jCPbCvd8NvPASkpJRYcDaKv8Fm5.jpg",
       "genres": [
         "ужасы",
-        "триллер"
+        "фэнтези",
+        "фантастика"
       ]
     },
     {
-      "id": 1571470,
-      "title": "The Rats: A Witcher Tale",
-      "release_date": "2025-10-30",
+      "id": 1571600,
+      "title": "Skull Forever",
+      "release_date": "2025-10-31",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5Gr4amaB1xxeYAEMOdrVutaWwgz.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4CMHOrIg7evAmWPSG1JKYCunvok.jpg",
+      "genres": [
+        "ужасы",
+        "комедия",
+        "приключения",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1571478,
+      "title": "Ye Demena Dankiregnoch",
+      "release_date": "2025-10-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nV4zSzSAwOjfCdZsuDr7FjvbW0L.jpg",
+      "genres": []
+    },
+    {
+      "id": 1571367,
+      "title": "Beer... Run!",
+      "release_date": "2025-10-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2loI52WfLo2vffm2vZlV4N4eo2O.jpg",
+      "genres": [
+        "ужасы",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1571342,
+      "title": "ATLAS",
+      "release_date": "2025-10-31",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
         "фэнтези",
-        "драма",
-        "фантастика",
-        "боевик",
-        "приключения"
+        "фантастика"
       ]
     },
     {
-      "id": 1571439,
-      "title": "Luz de Penumbra",
-      "release_date": "2025-10-30",
+      "id": 1571233,
+      "title": "Cidade Conquista",
+      "release_date": "2025-10-31",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7Sd8YaybwOHmGR4B5FW9I0IdIX3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gMEj1BXCwKVfeFWa4xFR6JYHlWX.jpg",
       "genres": [
-        "ужасы"
+        "документальный"
       ]
     },
     {
-      "id": 1571365,
-      "title": "X-SLASHER",
-      "release_date": "2025-10-30",
+      "id": 1571098,
+      "title": "El Huésped",
+      "release_date": "2025-10-31",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mjw3rD3IdEcJx8fSxx9NmeKywYS.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1sT8ksPVHgYOvMKXsG8pfqcCu6Z.jpg",
       "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1571314,
-      "title": "Bocado",
-      "release_date": "2025-10-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qEdaRQZZvMRvNr2KUDZRmBUwLIN.jpg",
-      "genres": [
-        "триллер",
-        "мелодрама"
+        "ужасы",
+        "детектив"
       ]
     }
   ],

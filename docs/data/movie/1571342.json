@@ -1,0 +1,25 @@
+{
+  "id": 1571342,
+  "title": "ATLAS",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-31",
+  "runtime": 40,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фэнтези",
+    "фантастика"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1571342",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-31T00:59:58.545814+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
