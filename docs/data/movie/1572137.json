@@ -1,0 +1,26 @@
+{
+  "id": 1572137,
+  "title": "Voisins",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-31",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/g6NByKWEF0s6UK8ImwEyjeOCJdl.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/518bUjKJNbD2rHOKJC22bnbgyJi.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1572137",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-31T18:19:01.425388+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

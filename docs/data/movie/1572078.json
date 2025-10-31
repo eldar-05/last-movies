@@ -1,0 +1,28 @@
+{
+  "id": 1572078,
+  "title": "Onun Kanatları",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-10-31",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "триллер",
+    "ужасы"
+  ],
+  "original_language": "tr",
+  "spoken_languages": [
+    "Turkish"
+  ],
+  "production_countries": [
+    "TR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/wDiD6mSJXZrGGK27VnWIvroeFDa.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/84FwpRIOGF7IfljWV9yZSQg8CMW.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1572078",
+  "trailer": null,
+  "fetched_at_utc": "2025-10-31T18:19:01.808208+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
