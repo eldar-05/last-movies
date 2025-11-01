@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-11-01T01:02:59.287518+00:00",
+  "fetched_at_utc": "2025-11-01T06:17:16.791631+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -17,7 +17,7 @@
       "title": "MISU~MISU",
       "release_date": "2025-11-01",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gcgGFb5FfdjYruL81Nwtkrm21BH.jpg",
       "genres": [
         "ужасы"
       ]
@@ -50,7 +50,7 @@
       "id": 1572381,
       "title": "Thanksgiving, Again?!",
       "release_date": "2025-11-01",
-      "vote_average": 0.0,
+      "vote_average": 10.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/fX3WucwxWLcoAQekwN0zwNGssUd.jpg",
       "genres": [
         "комедия"
@@ -67,7 +67,7 @@
     {
       "id": 1572360,
       "title": "Eyes",
-      "release_date": "",
+      "release_date": "2025-11-01",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []

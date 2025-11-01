@@ -5,8 +5,8 @@
   "overview": "",
   "release_date": "2025-11-01",
   "runtime": 99,
-  "vote_average": 0.0,
-  "vote_count": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
   "genres": [
     "комедия"
   ],
@@ -18,7 +18,11 @@
   "poster_url": "https://image.tmdb.org/t/p/w500/fX3WucwxWLcoAQekwN0zwNGssUd.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/uKkS6XeUZxYvT0iW7aw8vm17ENt.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1572381",
-  "trailer": null,
-  "fetched_at_utc": "2025-11-01T01:02:58.158017+00:00",
+  "trailer": {
+    "key": "mBdz8RVo3-A",
+    "name": "Thanksgiving, Again?! First Trailer!",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-11-01T06:17:15.477396+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
