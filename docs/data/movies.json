@@ -1,110 +1,93 @@
 {
-  "fetched_at_utc": "2025-10-31T18:19:01.808626+00:00",
+  "fetched_at_utc": "2025-11-01T01:02:59.287518+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1572334,
-      "title": "Y como no se ve nada más que mar y cielo, es cosa muy triste",
-      "release_date": "2025-10-31",
+      "id": 1572494,
+      "title": "La Vénus Cannibale",
+      "release_date": "2025-11-01",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1572316,
-      "title": "Echoes of the Absent",
-      "release_date": "2025-10-31",
+      "id": 1572483,
+      "title": "MISU~MISU",
+      "release_date": "2025-11-01",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "ужасы",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1572315,
-      "title": "ВОШ: The Movie",
-      "release_date": "2025-10-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/20uGnSQvRYfxtOyQyFqUihKKPtd.jpg",
-      "genres": [
-        "комедия",
-        "боевик",
-        "драма",
-        "фантастика",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1572235,
-      "title": "Butchered",
-      "release_date": "2025-10-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yltgwCQj4v138tr3FAsLo21c1gH.jpg",
-      "genres": [
         "ужасы"
       ]
     },
     {
-      "id": 1572219,
-      "title": "Ocular Silence",
-      "release_date": "2025-10-31",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pq8WhZ0ijZsSLHQOnkDOwJg0qrX.jpg",
+      "id": 1572442,
+      "title": "Subject",
+      "release_date": "2025-11-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gjJ7TOw38zBtNjxRMj2F4yjjpeM.jpg",
+      "genres": []
+    },
+    {
+      "id": 1572438,
+      "title": "Sporen van de Zon",
+      "release_date": "2025-11-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oVAhIalu6yUaOcVKxe3rZfDg3aA.jpg",
+      "genres": []
+    },
+    {
+      "id": 1572435,
+      "title": "Fathoming Dinner",
+      "release_date": "2025-11-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bz83L6DBbdfbeI8MDGHtNOg4HZ1.jpg",
+      "genres": []
+    },
+    {
+      "id": 1572381,
+      "title": "Thanksgiving, Again?!",
+      "release_date": "2025-11-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fX3WucwxWLcoAQekwN0zwNGssUd.jpg",
       "genres": [
-        "ужасы"
+        "комедия"
       ]
     },
     {
-      "id": 1572190,
-      "title": "Tap Tap",
+      "id": 1572361,
+      "title": "Exit",
+      "release_date": "2025-11-01",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1572360,
+      "title": "Eyes",
       "release_date": "",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1572189,
-      "title": "VON",
-      "release_date": "2025-10-31",
+      "id": 1572359,
+      "title": "Lotus",
+      "release_date": "2025-11-01",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1572137,
-      "title": "Voisins",
-      "release_date": "2025-10-31",
+      "id": 1571186,
+      "title": "Nunca más para servirle",
+      "release_date": "2025-11-01",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/g6NByKWEF0s6UK8ImwEyjeOCJdl.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iFMCAtsYMyb6SFKsBh39hLitYzd.jpg",
       "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1572107,
-      "title": "BRAT",
-      "release_date": "2025-10-31",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "боевик",
-        "триллер",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1572078,
-      "title": "Onun Kanatları",
-      "release_date": "2025-10-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wDiD6mSJXZrGGK27VnWIvroeFDa.jpg",
-      "genres": [
-        "драма",
-        "триллер",
-        "ужасы"
+        "документальный"
       ]
     }
   ],
