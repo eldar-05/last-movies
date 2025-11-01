@@ -1,9 +1,29 @@
 {
-  "fetched_at_utc": "2025-11-01T12:22:01.316601+00:00",
+  "fetched_at_utc": "2025-11-01T18:15:59.195979+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1572843,
+      "title": "Os Retornados",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gYATNkclC4k50gmpKXV0qZ7OT9j.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1572741,
+      "title": "October Glow",
+      "release_date": "2025-11-01",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
     {
       "id": 1572641,
       "title": "COSMOS Embassy: Ho Chi Minh City, Vietnam",
@@ -17,7 +37,7 @@
     {
       "id": 1572631,
       "title": "Madriguera",
-      "release_date": "",
+      "release_date": "2025-11-01",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/44SqQCVcPYyyS4X9qoUaZKPKJec.jpg",
       "genres": [
@@ -31,7 +51,9 @@
       "release_date": "2025-11-01",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/eQteHaXaO66p5i0fGaRxJwZpIJn.jpg",
-      "genres": []
+      "genres": [
+        "комедия"
+      ]
     },
     {
       "id": 1572494,
@@ -73,24 +95,6 @@
       "release_date": "2025-11-01",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/bz83L6DBbdfbeI8MDGHtNOg4HZ1.jpg",
-      "genres": []
-    },
-    {
-      "id": 1572381,
-      "title": "Thanksgiving, Again?!",
-      "release_date": "2025-11-01",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fX3WucwxWLcoAQekwN0zwNGssUd.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1572361,
-      "title": "Exit",
-      "release_date": "2025-11-01",
-      "vote_average": 0.0,
-      "poster_url": null,
       "genres": []
     }
   ],
