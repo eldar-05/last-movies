@@ -1,0 +1,22 @@
+{
+  "id": 1572631,
+  "title": "Madriguera",
+  "tagline": "",
+  "overview": "",
+  "release_date": "",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/44SqQCVcPYyyS4X9qoUaZKPKJec.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1572631",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-01T12:21:58.592961+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

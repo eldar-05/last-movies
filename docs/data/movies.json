@@ -1,9 +1,38 @@
 {
-  "fetched_at_utc": "2025-11-01T06:17:16.791631+00:00",
+  "fetched_at_utc": "2025-11-01T12:22:01.316601+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1572641,
+      "title": "COSMOS Embassy: Ho Chi Minh City, Vietnam",
+      "release_date": "2025-11-01",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1572631,
+      "title": "Madriguera",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/44SqQCVcPYyyS4X9qoUaZKPKJec.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1572584,
+      "title": "Nixon",
+      "release_date": "2025-11-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/eQteHaXaO66p5i0fGaRxJwZpIJn.jpg",
+      "genres": []
+    },
     {
       "id": 1572494,
       "title": "La Vénus Cannibale",
@@ -63,32 +92,6 @@
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
-    },
-    {
-      "id": 1572360,
-      "title": "Eyes",
-      "release_date": "2025-11-01",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1572359,
-      "title": "Lotus",
-      "release_date": "2025-11-01",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1571186,
-      "title": "Nunca más para servirle",
-      "release_date": "2025-11-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iFMCAtsYMyb6SFKsBh39hLitYzd.jpg",
-      "genres": [
-        "документальный"
-      ]
     }
   ],
   "source": "TMDB",
