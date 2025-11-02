@@ -1,0 +1,26 @@
+{
+  "id": 1570718,
+  "title": "Monoblock",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-02",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "AR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/x7U69HJbyp7uCb8ywK5LMEsx0WN.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/5Zu2DvM6IXXSvxPltn7Qm4dsEfD.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1570718",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-02T01:04:00.814878+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

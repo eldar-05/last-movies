@@ -1,0 +1,30 @@
+{
+  "id": 1572093,
+  "title": "Merijn Scholten: Team Solo",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-02",
+  "runtime": 90,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "nl",
+  "spoken_languages": [
+    "Dutch"
+  ],
+  "production_countries": [
+    "NL"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/pD4zLKXJwYTpQLYomWtnkpHEHpj.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/sRk8WhS9iotI1VgUDo7KcEmCTAp.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1572093",
+  "trailer": {
+    "key": "J3AhpZzgOYo",
+    "name": "MERIJN SCHOLTEN - VEILIGHEID",
+    "type": "Teaser"
+  },
+  "fetched_at_utc": "2025-11-02T01:04:00.145822+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

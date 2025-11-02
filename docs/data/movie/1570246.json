@@ -1,0 +1,30 @@
+{
+  "id": 1570246,
+  "title": "My Head Hurts",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-02",
+  "runtime": 8,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "AU"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/kl6tqWD5AywUfdsrl9gMMJbma4D.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1570246",
+  "trailer": {
+    "key": "c5wg1rgzj_0",
+    "name": "My Head Hurts - OFFICIAL TRAILER",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-11-02T01:04:01.072485+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,33 +1,64 @@
 {
-  "fetched_at_utc": "2025-11-01T18:15:59.195979+00:00",
+  "fetched_at_utc": "2025-11-02T01:04:01.072773+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1572843,
-      "title": "Os Retornados",
-      "release_date": "",
+      "id": 1572752,
+      "title": "Divertente",
+      "release_date": "2025-11-02",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gYATNkclC4k50gmpKXV0qZ7OT9j.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rFpn70MiP8yMsWZ5YT5sHt9D3Ic.jpg",
       "genres": [
-        "триллер"
+        "ужасы"
       ]
     },
     {
       "id": 1572741,
       "title": "October Glow",
-      "release_date": "2025-11-01",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "release_date": "2025-11-02",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/89mYSek8r2AThkqu7BBbHYzS7zq.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1572641,
-      "title": "COSMOS Embassy: Ho Chi Minh City, Vietnam",
-      "release_date": "2025-11-01",
+      "id": 1572374,
+      "title": "Una Película de Parque Chas",
+      "release_date": "2025-11-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hxFquHjSLT1pOhQHjlIS717vyIE.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1572093,
+      "title": "Merijn Scholten: Team Solo",
+      "release_date": "2025-11-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pD4zLKXJwYTpQLYomWtnkpHEHpj.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1572062,
+      "title": "Paradise Morbid",
+      "release_date": "2025-11-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/j6fMxuW9FfUjGgB7tY6VJ7bbzEa.jpg",
+      "genres": [
+        "ужасы",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1571980,
+      "title": "我和我的8bit",
+      "release_date": "2025-11-02",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
@@ -35,67 +66,40 @@
       ]
     },
     {
-      "id": 1572631,
-      "title": "Madriguera",
-      "release_date": "2025-11-01",
+      "id": 1571567,
+      "title": "Stars on stage liam ao special",
+      "release_date": "2025-11-02",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/44SqQCVcPYyyS4X9qoUaZKPKJec.jpg",
-      "genres": [
-        "ужасы",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1572584,
-      "title": "Nixon",
-      "release_date": "2025-11-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eQteHaXaO66p5i0fGaRxJwZpIJn.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1572494,
-      "title": "La Vénus Cannibale",
-      "release_date": "2025-11-01",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yMlNlFEmHstETcyq8szVFYFToYJ.jpg",
       "genres": []
     },
     {
-      "id": 1572483,
-      "title": "MISU~MISU",
-      "release_date": "2025-11-01",
+      "id": 1570718,
+      "title": "Monoblock",
+      "release_date": "2025-11-02",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gcgGFb5FfdjYruL81Nwtkrm21BH.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/x7U69HJbyp7uCb8ywK5LMEsx0WN.jpg",
       "genres": [
         "ужасы"
       ]
     },
     {
-      "id": 1572442,
-      "title": "Subject",
-      "release_date": "2025-11-01",
+      "id": 1570390,
+      "title": "Suwariyên Şengalê",
+      "release_date": "2025-11-02",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gjJ7TOw38zBtNjxRMj2F4yjjpeM.jpg",
+      "poster_url": null,
       "genres": []
     },
     {
-      "id": 1572438,
-      "title": "Sporen van de Zon",
-      "release_date": "2025-11-01",
+      "id": 1570246,
+      "title": "My Head Hurts",
+      "release_date": "2025-11-02",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oVAhIalu6yUaOcVKxe3rZfDg3aA.jpg",
-      "genres": []
-    },
-    {
-      "id": 1572435,
-      "title": "Fathoming Dinner",
-      "release_date": "2025-11-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bz83L6DBbdfbeI8MDGHtNOg4HZ1.jpg",
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/kl6tqWD5AywUfdsrl9gMMJbma4D.jpg",
+      "genres": [
+        "драма"
+      ]
     }
   ],
   "source": "TMDB",

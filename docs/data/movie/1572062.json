@@ -1,0 +1,27 @@
+{
+  "id": 1572062,
+  "title": "Paradise Morbid",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-02",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "документальный"
+  ],
+  "original_language": "nl",
+  "spoken_languages": [
+    "Dutch"
+  ],
+  "production_countries": [
+    "NL"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/j6fMxuW9FfUjGgB7tY6VJ7bbzEa.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/8RTSfRNW4v0hmdFRNhtiUOKQHSX.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1572062",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-02T01:04:00.305006+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

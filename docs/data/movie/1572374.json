@@ -1,0 +1,26 @@
+{
+  "id": 1572374,
+  "title": "Una Película de Parque Chas",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-02",
+  "runtime": 64,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "es",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/hxFquHjSLT1pOhQHjlIS717vyIE.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1572374",
+  "trailer": {
+    "key": "8SPKvXNhsdI",
+    "name": "Una película de Parque Chas. Teaser",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-11-02T01:04:00.053875+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

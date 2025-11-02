@@ -3,10 +3,10 @@
   "title": "October Glow",
   "tagline": "",
   "overview": "",
-  "release_date": "2025-11-01",
+  "release_date": "2025-11-02",
   "runtime": 9,
-  "vote_average": 0.0,
-  "vote_count": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
   "genres": [
     "драма"
   ],
@@ -15,10 +15,10 @@
     "English"
   ],
   "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/89mYSek8r2AThkqu7BBbHYzS7zq.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/r2R1FLpWO8uUypcPL9iBJX725L1.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1572741",
   "trailer": null,
-  "fetched_at_utc": "2025-11-01T18:15:57.818745+00:00",
+  "fetched_at_utc": "2025-11-02T01:03:59.911461+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
