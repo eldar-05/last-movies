@@ -1,9 +1,42 @@
 {
-  "fetched_at_utc": "2025-11-02T12:21:53.058108+00:00",
+  "fetched_at_utc": "2025-11-02T18:15:36.745936+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1573371,
+      "title": "湘西惊魂录",
+      "release_date": "2025-11-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/grNX0tlbMbR2dHDglN6VcOEX6X2.jpg",
+      "genres": [
+        "ужасы",
+        "комедия",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1573370,
+      "title": "Bloodman Returns",
+      "release_date": "2025-11-02",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1573354,
+      "title": "MANHUNT",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы"
+      ]
+    },
     {
       "id": 1573221,
       "title": "Tombeau de Glace",
@@ -72,37 +105,6 @@
       "release_date": "2025-11-02",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/hxFquHjSLT1pOhQHjlIS717vyIE.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1572093,
-      "title": "Merijn Scholten: Team Solo",
-      "release_date": "2025-11-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pD4zLKXJwYTpQLYomWtnkpHEHpj.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1572062,
-      "title": "Paradise Morbid",
-      "release_date": "2025-11-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/j6fMxuW9FfUjGgB7tY6VJ7bbzEa.jpg",
-      "genres": [
-        "ужасы",
-        "документальный"
-      ]
-    },
-    {
-      "id": 1571980,
-      "title": "我和我的8bit",
-      "release_date": "2025-11-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zamEqpbO2PevxnAZyQRKVeZPpPv.jpg",
       "genres": [
         "документальный"
       ]
