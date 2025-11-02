@@ -1,9 +1,51 @@
 {
-  "fetched_at_utc": "2025-11-02T06:18:21.262040+00:00",
+  "fetched_at_utc": "2025-11-02T12:21:53.058108+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1573221,
+      "title": "Tombeau de Glace",
+      "release_date": "2025-11-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/sfrQI5fYxZppggkziyI172Iovjq.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1573214,
+      "title": "您許下的三顆星星",
+      "release_date": "2025-11-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/uTi2C5ZcenmT8d1k5dy4p8zrYu9.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1573199,
+      "title": "Até o Caroco",
+      "release_date": "2025-11-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jUKxYsk6VW8dUChYY3djYdDh3XE.jpg",
+      "genres": [
+        "ужасы",
+        "семейный"
+      ]
+    },
+    {
+      "id": 1573162,
+      "title": "It did happen",
+      "release_date": "2025-11-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aINnbKsKlQpLCRjQ5oQRppnsrmw.jpg",
+      "genres": [
+        "комедия",
+        "ужасы"
+      ]
+    },
     {
       "id": 1572752,
       "title": "Divertente",
@@ -60,45 +102,9 @@
       "title": "我和我的8bit",
       "release_date": "2025-11-02",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zamEqpbO2PevxnAZyQRKVeZPpPv.jpg",
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1571567,
-      "title": "Stars on stage liam ao special",
-      "release_date": "2025-11-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yMlNlFEmHstETcyq8szVFYFToYJ.jpg",
-      "genres": []
-    },
-    {
-      "id": 1570718,
-      "title": "Monoblock",
-      "release_date": "2025-11-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/x7U69HJbyp7uCb8ywK5LMEsx0WN.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1570390,
-      "title": "Suwariyên Şengalê",
-      "release_date": "2025-11-02",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1570246,
-      "title": "My Head Hurts",
-      "release_date": "2025-11-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kl6tqWD5AywUfdsrl9gMMJbma4D.jpg",
-      "genres": [
-        "драма"
       ]
     }
   ],

@@ -1,6 +1,6 @@
 {
-  "id": 1571980,
-  "title": "我和我的8bit",
+  "id": 1573214,
+  "title": "您許下的三顆星星",
   "tagline": "",
   "overview": "",
   "release_date": "2025-11-02",
@@ -8,7 +8,7 @@
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "документальный"
+    "драма"
   ],
   "original_language": "zh",
   "spoken_languages": [
@@ -17,10 +17,10 @@
   "production_countries": [
     "TW"
   ],
-  "poster_url": "https://image.tmdb.org/t/p/w500/zamEqpbO2PevxnAZyQRKVeZPpPv.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/uTi2C5ZcenmT8d1k5dy4p8zrYu9.jpg",
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1571980",
+  "tmdb_url": "https://www.themoviedb.org/movie/1573214",
   "trailer": null,
-  "fetched_at_utc": "2025-11-02T12:21:53.057826+00:00",
+  "fetched_at_utc": "2025-11-02T12:21:52.028146+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

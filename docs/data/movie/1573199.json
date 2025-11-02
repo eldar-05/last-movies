@@ -1,0 +1,27 @@
+{
+  "id": 1573199,
+  "title": "Até o Caroco",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-02",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "семейный"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/jUKxYsk6VW8dUChYY3djYdDh3XE.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/ahxF1RuyiqvDr0yuRF1qDZCaK8D.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1573199",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-02T12:21:52.212267+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

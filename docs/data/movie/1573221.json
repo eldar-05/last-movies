@@ -1,0 +1,26 @@
+{
+  "id": 1573221,
+  "title": "Tombeau de Glace",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-02",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "sv",
+  "spoken_languages": [
+    "Swedish"
+  ],
+  "production_countries": [
+    "SE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/sfrQI5fYxZppggkziyI172Iovjq.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/6jirJq63JRgv5fbOeEps2T2ijFM.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1573221",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-02T12:21:51.888831+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
