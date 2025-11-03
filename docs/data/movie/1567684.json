@@ -1,0 +1,25 @@
+{
+  "id": 1567684,
+  "title": "Diegohead",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-03",
+  "runtime": 24,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "комедия"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/gRI1jlRaGx1fhSnq64EQHWHIE9q.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/6dprjS2RzHn0A0CqJ3Tb0IeLobq.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1567684",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-03T01:03:12.335580+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

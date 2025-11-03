@@ -1,0 +1,26 @@
+{
+  "id": 1564102,
+  "title": "ColorBlind",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-03",
+  "runtime": 5,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "музыка"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/bsq8K7SRtyZK4sAxDgvnEdCVKCl.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/uaTM8US6vxdmdmnA6fsrA0eGRQ7.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1564102",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-03T01:03:14.018359+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

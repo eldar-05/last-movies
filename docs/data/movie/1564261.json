@@ -1,0 +1,26 @@
+{
+  "id": 1564261,
+  "title": "The Café",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-03",
+  "runtime": 52,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "GB"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/oRXRJZ26LwfCw3EFU07GnP9VhmE.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/2ZQoQaQ5eTDQsCAQcyAiCXfnBgs.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1564261",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-03T01:03:13.795230+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

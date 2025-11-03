@@ -1,0 +1,27 @@
+{
+  "id": 1564431,
+  "title": "Burton's Dream",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-03",
+  "runtime": 6,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм",
+    "фэнтези"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/xWYwaEA43O7CzzqgxTqKZ67Kd0H.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/9XxoV9eewGkUEJm8AJ5Zr35XQ3X.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1564431",
+  "trailer": {
+    "key": "LrpLgG5ufbk",
+    "name": "BURTON'S DREAM - Official Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-11-03T01:03:13.457435+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

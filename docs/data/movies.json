@@ -1,112 +1,108 @@
 {
-  "fetched_at_utc": "2025-11-02T18:15:36.745936+00:00",
+  "fetched_at_utc": "2025-11-03T01:03:14.018798+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1573371,
-      "title": "湘西惊魂录",
-      "release_date": "2025-11-02",
+      "id": 1573650,
+      "title": "DDT Ultimate Party 2025",
+      "release_date": "2025-11-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/grNX0tlbMbR2dHDglN6VcOEX6X2.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yNi1SvR6wyuGvpoYm8QqjU4AhA8.jpg",
+      "genres": []
+    },
+    {
+      "id": 1571981,
+      "title": "Méduses les souveraines des océans",
+      "release_date": "2025-11-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/eOuAELAP8H5N7ToQAdLdjmDHNrq.jpg",
       "genres": [
-        "ужасы",
-        "комедия",
-        "фэнтези"
+        "документальный"
       ]
     },
     {
-      "id": 1573370,
-      "title": "Bloodman Returns",
-      "release_date": "2025-11-02",
+      "id": 1571160,
+      "title": "Big Leather: Lemon Lanes",
+      "release_date": "2025-11-03",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aNNZSJL4FFNXZuULv81WsmNfaDk.jpg",
+      "genres": [
+        "музыка"
+      ]
+    },
+    {
+      "id": 1567684,
+      "title": "Diegohead",
+      "release_date": "2025-11-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gRI1jlRaGx1fhSnq64EQHWHIE9q.jpg",
       "genres": [
         "ужасы",
         "комедия"
       ]
     },
     {
-      "id": 1573354,
-      "title": "MANHUNT",
-      "release_date": "",
+      "id": 1567489,
+      "title": "Leanne Morgan: Unspeakable Things",
+      "release_date": "2025-11-03",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1566294,
+      "title": "Soulmatch",
+      "release_date": "2025-11-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ixHnbybQasEmqZP1FRo7iK3cTxl.jpg",
+      "genres": [
+        "триллер",
         "ужасы"
       ]
     },
     {
-      "id": 1573221,
-      "title": "Tombeau de Glace",
-      "release_date": "2025-11-02",
+      "id": 1565173,
+      "title": "Sleeppers",
+      "release_date": "2025-11-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sfrQI5fYxZppggkziyI172Iovjq.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1573214,
-      "title": "您許下的三顆星星",
-      "release_date": "2025-11-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uTi2C5ZcenmT8d1k5dy4p8zrYu9.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rjoglqCimaCaFgPrr1J6btTrF5y.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1573199,
-      "title": "Até o Caroco",
-      "release_date": "2025-11-02",
+      "id": 1564431,
+      "title": "Burton's Dream",
+      "release_date": "2025-11-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jUKxYsk6VW8dUChYY3djYdDh3XE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xWYwaEA43O7CzzqgxTqKZ67Kd0H.jpg",
       "genres": [
-        "ужасы",
-        "семейный"
+        "мультфильм",
+        "фэнтези"
       ]
     },
     {
-      "id": 1573162,
-      "title": "It did happen",
-      "release_date": "2025-11-02",
+      "id": 1564261,
+      "title": "The Café",
+      "release_date": "2025-11-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aINnbKsKlQpLCRjQ5oQRppnsrmw.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oRXRJZ26LwfCw3EFU07GnP9VhmE.jpg",
       "genres": [
-        "комедия",
-        "ужасы"
+        "триллер"
       ]
     },
     {
-      "id": 1572752,
-      "title": "Divertente",
-      "release_date": "2025-11-02",
+      "id": 1564102,
+      "title": "ColorBlind",
+      "release_date": "2025-11-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rFpn70MiP8yMsWZ5YT5sHt9D3Ic.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bsq8K7SRtyZK4sAxDgvnEdCVKCl.jpg",
       "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1572741,
-      "title": "October Glow",
-      "release_date": "2025-11-02",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/89mYSek8r2AThkqu7BBbHYzS7zq.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1572374,
-      "title": "Una Película de Parque Chas",
-      "release_date": "2025-11-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hxFquHjSLT1pOhQHjlIS717vyIE.jpg",
-      "genres": [
-        "документальный"
+        "музыка"
       ]
     }
   ],
