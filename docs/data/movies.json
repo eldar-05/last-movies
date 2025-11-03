@@ -1,9 +1,19 @@
 {
-  "fetched_at_utc": "2025-11-03T06:20:51.451251+00:00",
+  "fetched_at_utc": "2025-11-03T12:27:14.878005+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1573680,
+      "title": "crhumness 3",
+      "release_date": "2025-11-03",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы"
+      ]
+    },
     {
       "id": 1573650,
       "title": "DDT Ultimate Party 2025",
@@ -93,16 +103,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/oRXRJZ26LwfCw3EFU07GnP9VhmE.jpg",
       "genres": [
         "триллер"
-      ]
-    },
-    {
-      "id": 1564102,
-      "title": "ColorBlind",
-      "release_date": "2025-11-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bsq8K7SRtyZK4sAxDgvnEdCVKCl.jpg",
-      "genres": [
-        "музыка"
       ]
     }
   ],
