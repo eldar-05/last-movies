@@ -1,109 +1,106 @@
 {
-  "fetched_at_utc": "2025-11-03T18:18:30.406373+00:00",
+  "fetched_at_utc": "2025-11-04T01:00:23.086391+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1573680,
-      "title": "crhumness 3",
-      "release_date": "2025-11-03",
+      "id": 1574247,
+      "title": "MELANYEL",
+      "release_date": "2025-11-04",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "ужасы"
+        "фэнтези",
+        "мелодрама",
+        "драма"
       ]
     },
     {
-      "id": 1573650,
-      "title": "DDT Ultimate Party 2025",
-      "release_date": "2025-11-03",
+      "id": 1574165,
+      "title": "In the Dead of the Night",
+      "release_date": "",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yNi1SvR6wyuGvpoYm8QqjU4AhA8.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pCrYqQ7oG1ryIBdzIVV6FNmwa8v.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1574098,
+      "title": "suits",
+      "release_date": "2025-11-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/o7CgPAcECj2Uudh4rOqHzDpFr0E.jpg",
       "genres": []
     },
     {
-      "id": 1571981,
-      "title": "Méduses les souveraines des océans",
-      "release_date": "2025-11-03",
+      "id": 1574042,
+      "title": "Predator: Wastelands",
+      "release_date": "2025-11-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eOuAELAP8H5N7ToQAdLdjmDHNrq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bQ0neJZ5QAD6jRHIbbdx2rtMBUb.jpg",
+      "genres": [
+        "фантастика",
+        "боевик"
+      ]
+    },
+    {
+      "id": 1573537,
+      "title": "Jeg Elsker Deg, Dario",
+      "release_date": "2025-11-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nclQB25spEn2MFXffjYrpRm5plp.jpg",
+      "genres": [
+        "ужасы",
+        "комедия",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1571793,
+      "title": "Der Tag vor dem Abend",
+      "release_date": "2025-11-04",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1571294,
+      "title": "Polecat – Europe’s Relentless Hunter",
+      "release_date": "2025-11-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kfANou1dmm8WC7EWEomyoiZR4rj.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1571160,
-      "title": "Big Leather: Lemon Lanes",
-      "release_date": "2025-11-03",
+      "id": 1570377,
+      "title": "Tenryu Genichiro Retirement 10th Anniversary Event",
+      "release_date": "2025-11-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aNNZSJL4FFNXZuULv81WsmNfaDk.jpg",
-      "genres": [
-        "музыка"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/1EXv4vBTvpe8JxSELjVQT7QueXo.jpg",
+      "genres": []
     },
     {
-      "id": 1567684,
-      "title": "Diegohead",
-      "release_date": "2025-11-03",
+      "id": 1569105,
+      "title": "Kravges",
+      "release_date": "2025-11-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gRI1jlRaGx1fhSnq64EQHWHIE9q.jpg",
-      "genres": [
-        "ужасы",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1567489,
-      "title": "Leanne Morgan: Unspeakable Things",
-      "release_date": "2025-11-03",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1566294,
-      "title": "Soulmatch",
-      "release_date": "2025-11-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ixHnbybQasEmqZP1FRo7iK3cTxl.jpg",
-      "genres": [
-        "триллер",
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1565173,
-      "title": "Sleeppers",
-      "release_date": "2025-11-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rjoglqCimaCaFgPrr1J6btTrF5y.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ywhmATepTMwIFwxqdXX0ZvB1tuf.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1564431,
-      "title": "Burton's Dream",
-      "release_date": "2025-11-03",
+      "id": 1567591,
+      "title": "Nightfall",
+      "release_date": "2025-11-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xWYwaEA43O7CzzqgxTqKZ67Kd0H.jpg",
-      "genres": [
-        "мультфильм",
-        "фэнтези"
-      ]
-    },
-    {
-      "id": 1564261,
-      "title": "The Café",
-      "release_date": "2025-11-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oRXRJZ26LwfCw3EFU07GnP9VhmE.jpg",
-      "genres": [
-        "триллер"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/yrkBR4jytDSa2GKa9C54g5sDLJb.jpg",
+      "genres": []
     }
   ],
   "source": "TMDB",

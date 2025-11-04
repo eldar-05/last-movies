@@ -1,0 +1,26 @@
+{
+  "id": 1574247,
+  "title": "MELANYEL",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-04",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фэнтези",
+    "мелодрама",
+    "драма"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1574247",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-04T01:00:21.229945+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
