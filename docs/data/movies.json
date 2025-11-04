@@ -1,9 +1,38 @@
 {
-  "fetched_at_utc": "2025-11-04T06:20:00.362130+00:00",
+  "fetched_at_utc": "2025-11-04T12:28:04.271267+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1574349,
+      "title": "Cat’s in the Cradle: The Song That Changed Our Lives",
+      "release_date": "2025-11-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zqegyX71xpNTvJcBUbsKAcXZ1C4.jpg",
+      "genres": [
+        "документальный",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1574341,
+      "title": "Orgulho e Preconceito",
+      "release_date": "2025-11-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3WyGPhxrn96yKht1DQLzm64Si2i.jpg",
+      "genres": []
+    },
+    {
+      "id": 1574317,
+      "title": "Black Hollow",
+      "release_date": "2025-11-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6OrVFi90eMtnardezRuzjZnNGCz.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
     {
       "id": 1574247,
       "title": "MELANYEL",
@@ -37,7 +66,7 @@
     },
     {
       "id": 1574042,
-      "title": "Predator: Wastelands",
+      "title": "Predator Wastelands",
       "release_date": "2025-11-04",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/bQ0neJZ5QAD6jRHIbbdx2rtMBUb.jpg",
@@ -75,32 +104,6 @@
       "genres": [
         "документальный"
       ]
-    },
-    {
-      "id": 1570377,
-      "title": "Tenryu Genichiro Retirement 10th Anniversary Event",
-      "release_date": "2025-11-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1EXv4vBTvpe8JxSELjVQT7QueXo.jpg",
-      "genres": []
-    },
-    {
-      "id": 1569105,
-      "title": "Kravges",
-      "release_date": "2025-11-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ywhmATepTMwIFwxqdXX0ZvB1tuf.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1567591,
-      "title": "Nightfall",
-      "release_date": "2025-11-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yrkBR4jytDSa2GKa9C54g5sDLJb.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",
