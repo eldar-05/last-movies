@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-11-04T12:28:04.271267+00:00",
+  "fetched_at_utc": "2025-11-04T18:18:41.892734+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -46,6 +46,14 @@
       ]
     },
     {
+      "id": 1574230,
+      "title": "No Mar e na Guerra",
+      "release_date": "2025-11-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4AAkch23wsTLKcSMYVP2OXQf02E.jpg",
+      "genres": []
+    },
+    {
       "id": 1574165,
       "title": "In the Dead of the Night",
       "release_date": "2025-11-04",
@@ -76,6 +84,16 @@
       ]
     },
     {
+      "id": 1573705,
+      "title": "羅茲威爾殺人事件",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 1573537,
       "title": "Jeg Elsker Deg, Dario",
       "release_date": "2025-11-04",
@@ -85,24 +103,6 @@
         "ужасы",
         "комедия",
         "мелодрама"
-      ]
-    },
-    {
-      "id": 1571793,
-      "title": "Der Tag vor dem Abend",
-      "release_date": "2025-11-04",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1571294,
-      "title": "Polecat – Europe’s Relentless Hunter",
-      "release_date": "2025-11-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kfANou1dmm8WC7EWEomyoiZR4rj.jpg",
-      "genres": [
-        "документальный"
       ]
     }
   ],
