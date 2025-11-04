@@ -3,22 +3,25 @@
   "title": "In the Dead of the Night",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-11-04",
   "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "ужасы"
+    "ужасы",
+    "триллер"
   ],
   "original_language": "tr",
   "spoken_languages": [
     "Turkish"
   ],
-  "production_countries": [],
+  "production_countries": [
+    "TR"
+  ],
   "poster_url": "https://image.tmdb.org/t/p/w500/pCrYqQ7oG1ryIBdzIVV6FNmwa8v.jpg",
-  "backdrop_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/sNRuFd6zPDDM82aedhGZzTxZjN1.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1574165",
   "trailer": null,
-  "fetched_at_utc": "2025-11-04T01:00:21.442943+00:00",
+  "fetched_at_utc": "2025-11-04T06:19:59.114737+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-11-04T01:00:23.086391+00:00",
+  "fetched_at_utc": "2025-11-04T06:20:00.362130+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -19,7 +19,7 @@
     {
       "id": 1574165,
       "title": "In the Dead of the Night",
-      "release_date": "",
+      "release_date": "2025-11-04",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/pCrYqQ7oG1ryIBdzIVV6FNmwa8v.jpg",
       "genres": [
