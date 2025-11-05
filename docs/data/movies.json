@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-11-05T01:01:57.238233+00:00",
+  "fetched_at_utc": "2025-11-05T06:19:58.046516+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -71,7 +71,7 @@
     {
       "id": 1574125,
       "title": "Inevitable Nostalgia",
-      "release_date": "",
+      "release_date": "2025-11-05",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/4rxrw6xn7SaHa6m9GsfVAke5CRC.jpg",
       "genres": [
