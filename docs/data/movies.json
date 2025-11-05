@@ -1,16 +1,58 @@
 {
-  "fetched_at_utc": "2025-11-05T12:26:15.942525+00:00",
+  "fetched_at_utc": "2025-11-05T18:18:37.077861+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1575266,
+      "title": "Swipe. Bet. Repeat.",
+      "release_date": "2025-11-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bRpZAoUwAkq4XjLtJSeH1s63YZ9.jpg",
+      "genres": []
+    },
+    {
+      "id": 1575234,
+      "title": "a curiosa, o acaso, a vítima e o devaneio",
+      "release_date": "2025-11-05",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1575209,
+      "title": "Lonely Rider",
+      "release_date": "2025-11-05",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1575199,
+      "title": "hemtjänst.majd.undersöker",
+      "release_date": "2025-11-05",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1575198,
+      "title": "Arütmia",
+      "release_date": "2025-11-05",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
     {
       "id": 1575059,
       "title": "Roland Emmerich - Weltenzerstörer, Weltenerbauer",
       "release_date": "2025-11-05",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/gyzm5VmKhBu32nfxerBNJkyaKMm.jpg",
-      "genres": []
+      "genres": [
+        "документальный"
+      ]
     },
     {
       "id": 1575002,
@@ -51,51 +93,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/enHQ0zD5dXIwqyOkeFEApWChBBk.jpg",
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1574775,
-      "title": "کشیدن نخ‌ها",
-      "release_date": "2025-11-05",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1574718,
-      "title": "Bigay hilig: Sexual Fetish",
-      "release_date": "2025-11-05",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cZ53ujfSc8duZcheemIKsC2Zpf9.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1574674,
-      "title": "Ηλέκτρα7",
-      "release_date": "2025-11-05",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1574158,
-      "title": "The Drawer",
-      "release_date": "2025-11-05",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cBoSyLtFglRkpwmwWatndZs3FFC.jpg",
-      "genres": []
-    },
-    {
-      "id": 1574125,
-      "title": "Inevitable Nostalgia",
-      "release_date": "2025-11-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4rxrw6xn7SaHa6m9GsfVAke5CRC.jpg",
-      "genres": [
-        "драма",
-        "ужасы"
       ]
     }
   ],
