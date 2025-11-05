@@ -1,15 +1,34 @@
 {
-  "fetched_at_utc": "2025-11-05T06:19:58.046516+00:00",
+  "fetched_at_utc": "2025-11-05T12:26:15.942525+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1575059,
+      "title": "Roland Emmerich - Weltenzerstörer, Weltenerbauer",
+      "release_date": "2025-11-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gyzm5VmKhBu32nfxerBNJkyaKMm.jpg",
+      "genres": []
+    },
+    {
+      "id": 1575002,
+      "title": "Jangan Ambil Bonekaku..!! 3",
+      "release_date": "2025-11-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bNVdewNz4KNGctJkqwsgMBYThf5.jpg",
+      "genres": [
+        "криминал",
+        "драма"
+      ]
+    },
+    {
       "id": 1574995,
       "title": "Prisczilla",
       "release_date": "2025-11-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sxhLfwmYjFd8xKA3MNjNGHbSEU6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yCO5tw6Xf97Fdq0JL2qCvSLGJFf.jpg",
       "genres": [
         "триллер",
         "комедия",
@@ -47,7 +66,7 @@
       "title": "Bigay hilig: Sexual Fetish",
       "release_date": "2025-11-05",
       "vote_average": 8.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cZ53ujfSc8duZcheemIKsC2Zpf9.jpg",
       "genres": [
         "драма"
       ]
@@ -77,28 +96,6 @@
       "genres": [
         "драма",
         "ужасы"
-      ]
-    },
-    {
-      "id": 1573715,
-      "title": "Ghost Fish",
-      "release_date": "2025-11-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dt0lLq2UVCDZ9OswmMU8c8Ns2TS.jpg",
-      "genres": [
-        "фэнтези",
-        "криминал",
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1573667,
-      "title": "Real Korean Cooking Stories",
-      "release_date": "2025-11-05",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
       ]
     }
   ],
