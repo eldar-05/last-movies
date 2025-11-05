@@ -1,0 +1,28 @@
+{
+  "id": 1574995,
+  "title": "Prisczilla",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-05",
+  "runtime": 71,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "комедия",
+    "фантастика"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "AU",
+    "GB",
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/sxhLfwmYjFd8xKA3MNjNGHbSEU6.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1574995",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-05T01:01:55.510634+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

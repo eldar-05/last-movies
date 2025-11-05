@@ -1,0 +1,24 @@
+{
+  "id": 1573715,
+  "title": "Ghost Fish",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-05",
+  "runtime": 61,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фэнтези",
+    "криминал",
+    "ужасы"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/dt0lLq2UVCDZ9OswmMU8c8Ns2TS.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1573715",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-05T01:01:57.105436+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

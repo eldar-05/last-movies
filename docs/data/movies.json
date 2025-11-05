@@ -1,108 +1,104 @@
 {
-  "fetched_at_utc": "2025-11-04T18:18:41.892734+00:00",
+  "fetched_at_utc": "2025-11-05T01:01:57.238233+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1574349,
-      "title": "Cat’s in the Cradle: The Song That Changed Our Lives",
-      "release_date": "2025-11-04",
+      "id": 1574995,
+      "title": "Prisczilla",
+      "release_date": "2025-11-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zqegyX71xpNTvJcBUbsKAcXZ1C4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sxhLfwmYjFd8xKA3MNjNGHbSEU6.jpg",
       "genres": [
-        "документальный",
-        "музыка"
+        "триллер",
+        "комедия",
+        "фантастика"
       ]
     },
     {
-      "id": 1574341,
-      "title": "Orgulho e Preconceito",
-      "release_date": "2025-11-04",
+      "id": 1574908,
+      "title": "هفت پیکر",
+      "release_date": "2025-11-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3WyGPhxrn96yKht1DQLzm64Si2i.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pounwU8OlutLYB1q1V8MwenBXwu.jpg",
       "genres": []
     },
     {
-      "id": 1574317,
-      "title": "Black Hollow",
-      "release_date": "2025-11-04",
+      "id": 1574810,
+      "title": "Zaragoza, pionera del cine",
+      "release_date": "2025-11-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6OrVFi90eMtnardezRuzjZnNGCz.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/enHQ0zD5dXIwqyOkeFEApWChBBk.jpg",
       "genres": [
-        "ужасы"
+        "документальный"
       ]
     },
     {
-      "id": 1574247,
-      "title": "MELANYEL",
-      "release_date": "2025-11-04",
+      "id": 1574775,
+      "title": "کشیدن نخ‌ها",
+      "release_date": "2025-11-05",
       "vote_average": 0.0,
       "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1574718,
+      "title": "Bigay hilig: Sexual Fetish",
+      "release_date": "2025-11-05",
+      "vote_average": 8.0,
+      "poster_url": null,
       "genres": [
-        "фэнтези",
-        "мелодрама",
         "драма"
       ]
     },
     {
-      "id": 1574230,
-      "title": "No Mar e na Guerra",
-      "release_date": "2025-11-04",
+      "id": 1574674,
+      "title": "Ηλέκτρα7",
+      "release_date": "2025-11-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4AAkch23wsTLKcSMYVP2OXQf02E.jpg",
+      "poster_url": null,
       "genres": []
     },
     {
-      "id": 1574165,
-      "title": "In the Dead of the Night",
-      "release_date": "2025-11-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pCrYqQ7oG1ryIBdzIVV6FNmwa8v.jpg",
-      "genres": [
-        "ужасы",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1574098,
-      "title": "suits",
-      "release_date": "2025-11-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/o7CgPAcECj2Uudh4rOqHzDpFr0E.jpg",
+      "id": 1574158,
+      "title": "The Drawer",
+      "release_date": "2025-11-05",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cBoSyLtFglRkpwmwWatndZs3FFC.jpg",
       "genres": []
     },
     {
-      "id": 1574042,
-      "title": "Predator Wastelands",
-      "release_date": "2025-11-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bQ0neJZ5QAD6jRHIbbdx2rtMBUb.jpg",
-      "genres": [
-        "фантастика",
-        "боевик"
-      ]
-    },
-    {
-      "id": 1573705,
-      "title": "羅茲威爾殺人事件",
+      "id": 1574125,
+      "title": "Inevitable Nostalgia",
       "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4rxrw6xn7SaHa6m9GsfVAke5CRC.jpg",
+      "genres": [
+        "драма",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1573715,
+      "title": "Ghost Fish",
+      "release_date": "2025-11-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/dt0lLq2UVCDZ9OswmMU8c8Ns2TS.jpg",
+      "genres": [
+        "фэнтези",
+        "криминал",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1573667,
+      "title": "Real Korean Cooking Stories",
+      "release_date": "2025-11-05",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1573537,
-      "title": "Jeg Elsker Deg, Dario",
-      "release_date": "2025-11-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nclQB25spEn2MFXffjYrpRm5plp.jpg",
-      "genres": [
-        "ужасы",
-        "комедия",
-        "мелодрама"
+        "документальный"
       ]
     }
   ],
