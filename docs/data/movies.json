@@ -1,14 +1,44 @@
 {
-  "fetched_at_utc": "2025-11-06T12:26:07.551052+00:00",
+  "fetched_at_utc": "2025-11-06T18:19:28.170218+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1575830,
+      "title": "Attentats du 13 novembre 2015 : les héros du chaos",
+      "release_date": "2025-11-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/z9yxDxEmEFXDSskxdSEjpFscHnk.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1575750,
+      "title": "Wallace & Gromit x Barbour",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1575704,
+      "title": "NANA NA épisode 1",
+      "release_date": "2025-11-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cPt3ZZ7d8jaNnXoeviHzebaP6zh.jpg",
+      "genres": [
+        "детектив"
+      ]
+    },
+    {
       "id": 1575635,
       "title": "7.83",
       "release_date": "2025-11-06",
-      "vote_average": 0.0,
+      "vote_average": 10.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/68yDCPMJvXl5GTpzKCmkaFBtH4g.jpg",
       "genres": [
         "драма",
@@ -49,6 +79,17 @@
       ]
     },
     {
+      "id": 1575612,
+      "title": "Santa Zeta",
+      "release_date": "2025-11-06",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "триллер",
+        "ужасы"
+      ]
+    },
+    {
       "id": 1575484,
       "title": "Merhaba Tatlım",
       "release_date": "2025-11-06",
@@ -65,38 +106,6 @@
       "genres": [
         "драма"
       ]
-    },
-    {
-      "id": 1575375,
-      "title": "DDT Ryogoku After ~It's a Wonderful Battle~",
-      "release_date": "2025-11-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vkLHjqJXdx1IZnI9w1eMMNL1BBO.jpg",
-      "genres": []
-    },
-    {
-      "id": 1575243,
-      "title": "Willi macht rüber",
-      "release_date": "2025-11-06",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1575219,
-      "title": "Kutte",
-      "release_date": "2025-11-06",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1575206,
-      "title": "Em Assumes Death",
-      "release_date": "2025-11-06",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
     }
   ],
   "source": "TMDB",

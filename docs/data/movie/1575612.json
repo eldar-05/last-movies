@@ -1,20 +1,25 @@
 {
-  "id": 1575484,
-  "title": "Merhaba Tatlım",
+  "id": 1575612,
+  "title": "Santa Zeta",
   "tagline": "",
   "overview": "",
   "release_date": "2025-11-06",
   "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
-  "original_language": "tr",
-  "spoken_languages": [],
+  "genres": [
+    "триллер",
+    "ужасы"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
   "production_countries": [],
   "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1575484",
+  "tmdb_url": "https://www.themoviedb.org/movie/1575612",
   "trailer": null,
-  "fetched_at_utc": "2025-11-06T18:19:27.751732+00:00",
+  "fetched_at_utc": "2025-11-06T18:19:27.329708+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
