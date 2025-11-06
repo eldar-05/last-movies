@@ -1,9 +1,53 @@
 {
-  "fetched_at_utc": "2025-11-06T06:20:08.435944+00:00",
+  "fetched_at_utc": "2025-11-06T12:26:07.551052+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1575635,
+      "title": "7.83",
+      "release_date": "2025-11-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/68yDCPMJvXl5GTpzKCmkaFBtH4g.jpg",
+      "genres": [
+        "драма",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1575628,
+      "title": "血染凤凰",
+      "release_date": "2025-11-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kKwU2Jl32sXcI9CPd2fHeJoiQje.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1575620,
+      "title": "I Love You and I Am Going to Fix You",
+      "release_date": "2025-11-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/im2cKXDwqK4x8ZijYhbIY1yGnIn.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "ужасы",
+        "история"
+      ]
+    },
+    {
+      "id": 1575619,
+      "title": "A Knock in the Dark",
+      "release_date": "2025-11-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jkEkEmUOLXQds0SpChZlVe2dYbO.jpg",
+      "genres": [
+        "мультфильм"
+      ]
+    },
     {
       "id": 1575484,
       "title": "Merhaba Tatlım",
@@ -53,43 +97,6 @@
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
-    },
-    {
-      "id": 1574935,
-      "title": "El Correcaminos",
-      "release_date": "2025-11-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sj0P8eLJT5SGMbjPZwUwGRW60m3.jpg",
-      "genres": []
-    },
-    {
-      "id": 1574583,
-      "title": "Vanja Orico - Ao Arrepio do Tempo",
-      "release_date": "2025-11-06",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1573843,
-      "title": "The Haunted Moustache",
-      "release_date": "2025-11-06",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1573749,
-      "title": "O Que Dizemos No Escuro",
-      "release_date": "2025-11-06",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9FnH6hTB9y1TWzbh8Anbq1BwNUs.jpg",
-      "genres": [
-        "драма",
-        "мелодрама"
-      ]
     }
   ],
   "source": "TMDB",

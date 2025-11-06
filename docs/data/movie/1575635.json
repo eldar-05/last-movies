@@ -1,23 +1,25 @@
 {
-  "id": 1575206,
-  "title": "Em Assumes Death",
+  "id": 1575635,
+  "title": "7.83",
   "tagline": "",
   "overview": "",
   "release_date": "2025-11-06",
-  "runtime": 30,
+  "runtime": 14,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "драма",
+    "триллер"
+  ],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [
-    "DK",
-    "SE"
+    "US"
   ],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/68yDCPMJvXl5GTpzKCmkaFBtH4g.jpg",
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1575206",
+  "tmdb_url": "https://www.themoviedb.org/movie/1575635",
   "trailer": null,
-  "fetched_at_utc": "2025-11-06T12:26:07.550588+00:00",
+  "fetched_at_utc": "2025-11-06T12:26:05.075302+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
