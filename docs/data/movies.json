@@ -1,98 +1,94 @@
 {
-  "fetched_at_utc": "2025-11-05T18:18:37.077861+00:00",
+  "fetched_at_utc": "2025-11-06T01:00:57.664948+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1575266,
-      "title": "Swipe. Bet. Repeat.",
-      "release_date": "2025-11-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRpZAoUwAkq4XjLtJSeH1s63YZ9.jpg",
-      "genres": []
-    },
-    {
-      "id": 1575234,
-      "title": "a curiosa, o acaso, a vítima e o devaneio",
-      "release_date": "2025-11-05",
+      "id": 1575484,
+      "title": "Merhaba Tatlım",
+      "release_date": "2025-11-06",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1575209,
-      "title": "Lonely Rider",
-      "release_date": "2025-11-05",
+      "id": 1575471,
+      "title": "The Last Thinkers Before the Edge of a Cliff",
+      "release_date": "2025-11-06",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1575199,
-      "title": "hemtjänst.majd.undersöker",
-      "release_date": "2025-11-05",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1575198,
-      "title": "Arütmia",
-      "release_date": "2025-11-05",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1575059,
-      "title": "Roland Emmerich - Weltenzerstörer, Weltenerbauer",
-      "release_date": "2025-11-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gyzm5VmKhBu32nfxerBNJkyaKMm.jpg",
       "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1575002,
-      "title": "Jangan Ambil Bonekaku..!! 3",
-      "release_date": "2025-11-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bNVdewNz4KNGctJkqwsgMBYThf5.jpg",
-      "genres": [
-        "криминал",
         "драма"
       ]
     },
     {
-      "id": 1574995,
-      "title": "Prisczilla",
-      "release_date": "2025-11-05",
+      "id": 1575375,
+      "title": "DDT Ryogoku After ~It's a Wonderful Battle~",
+      "release_date": "2025-11-06",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yCO5tw6Xf97Fdq0JL2qCvSLGJFf.jpg",
-      "genres": [
-        "триллер",
-        "комедия",
-        "фантастика"
-      ]
-    },
-    {
-      "id": 1574908,
-      "title": "هفت پیکر",
-      "release_date": "2025-11-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pounwU8OlutLYB1q1V8MwenBXwu.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vkLHjqJXdx1IZnI9w1eMMNL1BBO.jpg",
       "genres": []
     },
     {
-      "id": 1574810,
-      "title": "Zaragoza, pionera del cine",
-      "release_date": "2025-11-05",
+      "id": 1575243,
+      "title": "Willi macht rüber",
+      "release_date": "2025-11-06",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/enHQ0zD5dXIwqyOkeFEApWChBBk.jpg",
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1575219,
+      "title": "Kutte",
+      "release_date": "2025-11-06",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1575206,
+      "title": "Em Assumes Death",
+      "release_date": "2025-11-06",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1574935,
+      "title": "El Correcaminos",
+      "release_date": "2025-11-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/sj0P8eLJT5SGMbjPZwUwGRW60m3.jpg",
+      "genres": []
+    },
+    {
+      "id": 1574583,
+      "title": "Vanja Orico - Ao Arrepio do Tempo",
+      "release_date": "2025-11-06",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
         "документальный"
+      ]
+    },
+    {
+      "id": 1573843,
+      "title": "The Haunted Moustache",
+      "release_date": "2025-11-06",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1573749,
+      "title": "O Que Dizemos No Escuro",
+      "release_date": "2025-11-06",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9FnH6hTB9y1TWzbh8Anbq1BwNUs.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
       ]
     }
   ],

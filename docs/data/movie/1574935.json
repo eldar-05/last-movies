@@ -1,0 +1,26 @@
+{
+  "id": 1574935,
+  "title": "El Correcaminos",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-06",
+  "runtime": 90,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/sj0P8eLJT5SGMbjPZwUwGRW60m3.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/kh86AVRWOkJp6moLUS19QkU9MQg.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1574935",
+  "trailer": {
+    "key": "QLaaVv256gk",
+    "name": "EL CORRECAMINOS  - Trailer oficial",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-11-06T01:00:57.145680+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

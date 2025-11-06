@@ -1,0 +1,25 @@
+{
+  "id": 1573749,
+  "title": "O Que Dizemos No Escuro",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-06",
+  "runtime": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "драма",
+    "мелодрама"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/9FnH6hTB9y1TWzbh8Anbq1BwNUs.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/8iiKGOkD1g9DaIPxNFKAtB4dw9i.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1573749",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-06T01:00:57.664529+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
