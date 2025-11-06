@@ -7,12 +7,16 @@
   "runtime": 90,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "комедия"
+  ],
   "original_language": "es",
   "spoken_languages": [
     "Spanish"
   ],
-  "production_countries": [],
+  "production_countries": [
+    "PE"
+  ],
   "poster_url": "https://image.tmdb.org/t/p/w500/sj0P8eLJT5SGMbjPZwUwGRW60m3.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/kh86AVRWOkJp6moLUS19QkU9MQg.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1574935",
@@ -21,6 +25,6 @@
     "name": "EL CORRECAMINOS  - Trailer oficial",
     "type": "Trailer"
   },
-  "fetched_at_utc": "2025-11-06T01:00:57.145680+00:00",
+  "fetched_at_utc": "2025-11-06T06:20:07.907581+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

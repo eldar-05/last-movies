@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-11-06T01:00:57.664948+00:00",
+  "fetched_at_utc": "2025-11-06T06:20:08.435944+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -17,7 +17,7 @@
       "title": "The Last Thinkers Before the Edge of a Cliff",
       "release_date": "2025-11-06",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/t9AXJ1pfHBoZv0qhbK7Nc8vLZXf.jpg",
       "genres": [
         "драма"
       ]
