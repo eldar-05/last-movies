@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-11-07T01:00:55.760530+00:00",
+  "fetched_at_utc": "2025-11-07T06:19:51.502738+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -9,7 +9,7 @@
       "title": "Maijharo",
       "release_date": "2025-11-07",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kbbRzpulZQ1Vfq7xXPmYjrl3DgG.jpg",
       "genres": [
         "мелодрама",
         "драма"

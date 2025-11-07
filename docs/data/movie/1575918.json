@@ -18,14 +18,14 @@
   "production_countries": [
     "NP"
   ],
-  "poster_url": null,
-  "backdrop_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/kbbRzpulZQ1Vfq7xXPmYjrl3DgG.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/pA60Y3xLDWczZTphl8JGAvmJHmd.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1575918",
   "trailer": {
     "key": "ckDMJFOVTxU",
     "name": "MAIJHARO | Movie Official Trailer 2025 | Dhiraj Magar, Miruna Magar, Deeya Pun, Buddhi, Rajani, WBR",
     "type": "Trailer"
   },
-  "fetched_at_utc": "2025-11-07T01:00:53.823932+00:00",
+  "fetched_at_utc": "2025-11-07T06:19:48.215518+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
