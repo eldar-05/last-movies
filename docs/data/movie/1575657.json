@@ -1,0 +1,30 @@
+{
+  "id": 1575657,
+  "title": "Wedo Ger",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-07",
+  "runtime": 95,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "am",
+  "spoken_languages": [
+    "Amharic"
+  ],
+  "production_countries": [
+    "ET"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/cO5hTt695l3eOgtbs2pATEZFuQ0.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/amNTG2Q5KDNnxZoKMnk4poIjTFK.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1575657",
+  "trailer": {
+    "key": "wOSyMoDbRFI",
+    "name": "Wedo Ger",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-11-07T01:00:55.204252+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

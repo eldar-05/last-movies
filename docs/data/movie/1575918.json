@@ -1,0 +1,31 @@
+{
+  "id": 1575918,
+  "title": "Maijharo",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-07",
+  "runtime": 139,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мелодрама",
+    "драма"
+  ],
+  "original_language": "ne",
+  "spoken_languages": [
+    "Nepali"
+  ],
+  "production_countries": [
+    "NP"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1575918",
+  "trailer": {
+    "key": "ckDMJFOVTxU",
+    "name": "MAIJHARO | Movie Official Trailer 2025 | Dhiraj Magar, Miruna Magar, Deeya Pun, Buddhi, Rajani, WBR",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-11-07T01:00:53.823932+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

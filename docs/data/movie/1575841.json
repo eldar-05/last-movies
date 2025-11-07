@@ -1,0 +1,31 @@
+{
+  "id": 1575841,
+  "title": "Sthiti",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-07",
+  "runtime": 24,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "hi",
+  "spoken_languages": [
+    "Hindi",
+    "Marathi"
+  ],
+  "production_countries": [
+    "IN"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1575841",
+  "trailer": {
+    "key": "n85XONLeHGY",
+    "name": "STHITI - Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-11-07T01:00:54.484379+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

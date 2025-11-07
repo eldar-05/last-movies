@@ -1,0 +1,24 @@
+{
+  "id": 1575466,
+  "title": "De Laatste Druppel",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-07",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "nl",
+  "spoken_languages": [
+    "Dutch"
+  ],
+  "production_countries": [
+    "NL"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/xcLKxCjKKr4gz9bmvIHvUAbDsZT.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1575466",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-07T01:00:55.380382+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
