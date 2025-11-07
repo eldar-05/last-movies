@@ -1,20 +1,22 @@
 {
-  "id": 1576178,
-  "title": "Mae and Hazel invade the Channel Awesome Movies",
+  "id": 1576410,
+  "title": "Urban Lost",
   "tagline": "",
   "overview": "",
   "release_date": "2025-11-07",
-  "runtime": 600,
+  "runtime": 3,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "драма"
+  ],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": "https://image.tmdb.org/t/p/w500/nJRqCgM3k0dQuAiWLrLei0f59tC.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/ITUX4oMn5wlnerQDLgER4chB7k.jpg",
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1576178",
+  "tmdb_url": "https://www.themoviedb.org/movie/1576410",
   "trailer": null,
-  "fetched_at_utc": "2025-11-07T18:18:06.663142+00:00",
+  "fetched_at_utc": "2025-11-07T18:18:04.947101+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

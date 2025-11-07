@@ -1,9 +1,86 @@
 {
-  "fetched_at_utc": "2025-11-07T12:25:03.261571+00:00",
+  "fetched_at_utc": "2025-11-07T18:18:06.940036+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1576463,
+      "title": "Chiranjeeva",
+      "release_date": "2025-11-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xVjBadMUMB2iHiUVtaUxZHGkFHY.jpg",
+      "genres": []
+    },
+    {
+      "id": 1576460,
+      "title": "Death Awaits",
+      "release_date": "2025-11-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/uZYbQfMknWGyUa1uz0W3CKyEeyg.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1576410,
+      "title": "Urban Lost",
+      "release_date": "2025-11-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ITUX4oMn5wlnerQDLgER4chB7k.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1576398,
+      "title": "Deranged",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1576373,
+      "title": "Amanhã é Melhor",
+      "release_date": "2025-11-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3VCXSFxTWZooPPdt5i1lRVm1BiF.jpg",
+      "genres": []
+    },
+    {
+      "id": 1576313,
+      "title": "Shadows of Self",
+      "release_date": "2025-11-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2qR4VI5zluWuKTsHRxbhq8KTvdt.jpg",
+      "genres": [
+        "детектив",
+        "триллер",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1576312,
+      "title": "The Watcher",
+      "release_date": "2025-11-07",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1576283,
+      "title": "Manga",
+      "release_date": "2025-11-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rmZ58zzKrGZV1kBQAjIkhwTf3xe.jpg",
+      "genres": []
+    },
     {
       "id": 1576178,
       "title": "Mae and Hazel invade the Channel Awesome Movies",
@@ -20,89 +97,6 @@
       "poster_url": null,
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1576128,
-      "title": "搏击手",
-      "release_date": "2025-11-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/m4HiEDvFZTvIRx0NPfj66nufKKP.jpg",
-      "genres": [
-        "боевик",
-        "драма"
-      ]
-    },
-    {
-      "id": 1576117,
-      "title": "Greasy Burger",
-      "release_date": "2025-11-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yzgayQqCuZVFKYavooQQJOCTWpQ.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1576107,
-      "title": "FRIDAY",
-      "release_date": "2025-11-07",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1576098,
-      "title": "Goldfish",
-      "release_date": "2025-11-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/daOTAJ966msxSuIH1nRuWat2KHB.jpg",
-      "genres": [
-        "комедия",
-        "драма"
-      ]
-    },
-    {
-      "id": 1575918,
-      "title": "Maijharo",
-      "release_date": "2025-11-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kbbRzpulZQ1Vfq7xXPmYjrl3DgG.jpg",
-      "genres": [
-        "мелодрама",
-        "драма"
-      ]
-    },
-    {
-      "id": 1575858,
-      "title": "Kuhase Ke Geet",
-      "release_date": "2025-11-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jnUZPSCWzSyQHboZqdALIe0lnad.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1575852,
-      "title": "CEO IN THE HOUSE",
-      "release_date": "2025-11-07",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ArF0Uadmn8T7QypBB7OrWmEvD6j.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1575841,
-      "title": "Sthiti",
-      "release_date": "2025-11-07",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
       ]
     }
   ],

@@ -1,0 +1,27 @@
+{
+  "id": 1576460,
+  "title": "Death Awaits",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-07",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "триллер"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/uZYbQfMknWGyUa1uz0W3CKyEeyg.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/oxbY0gFlIWy1ThR2IyTWtAuxzLp.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1576460",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-07T18:18:04.675551+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
