@@ -1,0 +1,30 @@
+{
+  "id": 1576117,
+  "title": "Greasy Burger",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-07",
+  "runtime": 5,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/yzgayQqCuZVFKYavooQQJOCTWpQ.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/9tNfW0VJnj9N1WGfIm4m60XvI2S.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1576117",
+  "trailer": {
+    "key": "hAcllDLN0X4",
+    "name": "Greasy Burger Teaser (Dropping 11/7)",
+    "type": "Teaser"
+  },
+  "fetched_at_utc": "2025-11-07T12:25:02.425006+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

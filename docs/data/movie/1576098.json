@@ -1,0 +1,23 @@
+{
+  "id": 1576098,
+  "title": "Goldfish",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-07",
+  "runtime": 4,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/daOTAJ966msxSuIH1nRuWat2KHB.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/jzfHj7zSynKO9ryTOfCcmRVaaoT.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1576098",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-07T12:25:02.755009+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

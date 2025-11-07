@@ -1,9 +1,69 @@
 {
-  "fetched_at_utc": "2025-11-07T06:19:51.502738+00:00",
+  "fetched_at_utc": "2025-11-07T12:25:03.261571+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1576178,
+      "title": "Mae and Hazel invade the Channel Awesome Movies",
+      "release_date": "2025-11-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nJRqCgM3k0dQuAiWLrLei0f59tC.jpg",
+      "genres": []
+    },
+    {
+      "id": 1576159,
+      "title": "Brothers on Three",
+      "release_date": "2025-11-07",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1576128,
+      "title": "搏击手",
+      "release_date": "2025-11-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/m4HiEDvFZTvIRx0NPfj66nufKKP.jpg",
+      "genres": [
+        "боевик",
+        "драма"
+      ]
+    },
+    {
+      "id": 1576117,
+      "title": "Greasy Burger",
+      "release_date": "2025-11-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yzgayQqCuZVFKYavooQQJOCTWpQ.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1576107,
+      "title": "FRIDAY",
+      "release_date": "2025-11-07",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1576098,
+      "title": "Goldfish",
+      "release_date": "2025-11-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/daOTAJ966msxSuIH1nRuWat2KHB.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ]
+    },
     {
       "id": 1575918,
       "title": "Maijharo",
@@ -26,6 +86,16 @@
       ]
     },
     {
+      "id": 1575852,
+      "title": "CEO IN THE HOUSE",
+      "release_date": "2025-11-07",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ArF0Uadmn8T7QypBB7OrWmEvD6j.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 1575841,
       "title": "Sthiti",
       "release_date": "2025-11-07",
@@ -33,74 +103,6 @@
       "poster_url": null,
       "genres": [
         "драма"
-      ]
-    },
-    {
-      "id": 1575838,
-      "title": "Ce este un fascism?",
-      "release_date": "2025-11-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rObWezqVzh2LLLMmA5ezc8eo30K.jpg",
-      "genres": [
-        "документальный",
-        "история"
-      ]
-    },
-    {
-      "id": 1575832,
-      "title": "Lament",
-      "release_date": "2025-11-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zI4XzclZjyJfBVJVSOLF591APX5.jpg",
-      "genres": []
-    },
-    {
-      "id": 1575775,
-      "title": "The Song of All Time",
-      "release_date": "2025-11-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nIlOlU9s0ymB4DjuDRpUpRX4bAS.jpg",
-      "genres": [
-        "документальный",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1575657,
-      "title": "Wedo Ger",
-      "release_date": "2025-11-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cO5hTt695l3eOgtbs2pATEZFuQ0.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1575466,
-      "title": "De Laatste Druppel",
-      "release_date": "2025-11-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xcLKxCjKKr4gz9bmvIHvUAbDsZT.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1575230,
-      "title": "Paul Jannowski",
-      "release_date": "2025-11-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8kL9F1uqsQHAnvcfcyUZ4g3mn7S.jpg",
-      "genres": []
-    },
-    {
-      "id": 1575227,
-      "title": "Kartoffeln",
-      "release_date": "2025-11-07",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мультфильм"
       ]
     }
   ],
