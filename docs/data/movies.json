@@ -1,9 +1,47 @@
 {
-  "fetched_at_utc": "2025-11-08T12:22:02.654269+00:00",
+  "fetched_at_utc": "2025-11-08T18:16:32.403321+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1576927,
+      "title": "Don Juan no existe",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1N6fYg69rgYElVgRNYusGny097U.jpg",
+      "genres": [
+        "музыка"
+      ]
+    },
+    {
+      "id": 1576888,
+      "title": "Internet, un géant très vulnérable",
+      "release_date": "2025-11-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lhtKB84WDsP4N2wWXFPrC2OYNfu.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1576876,
+      "title": "Un hogar lejos de casa",
+      "release_date": "2025-11-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pVx5bFvpaYPY1Nucb7BBSAbGQdy.jpg",
+      "genres": []
+    },
+    {
+      "id": 1576852,
+      "title": "Dependency",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "комедия"
+      ]
+    },
     {
       "id": 1576823,
       "title": "Извод",
@@ -37,7 +75,7 @@
       "id": 1576798,
       "title": "Motionless",
       "release_date": "2025-11-08",
-      "vote_average": 0.0,
+      "vote_average": 9.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/qDmpdeTB2NTs0EbguWF1X5oo2C4.jpg",
       "genres": [
         "документальный",
@@ -60,42 +98,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/dqhyIZjs5vV0Ex8b8BJrbnurxX7.jpg",
       "genres": [
         "ужасы"
-      ]
-    },
-    {
-      "id": 1576778,
-      "title": "The Brain That Cried Wolf",
-      "release_date": "2025-11-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ujF1HAdsg8hKDR4Yqw2yTqewdNL.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1576776,
-      "title": "Arkitekten",
-      "release_date": "2025-11-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zj0Pkp8LJlCqSPUHhYbGN75gKjR.jpg",
-      "genres": []
-    },
-    {
-      "id": 1576775,
-      "title": "Greencraft 2.0 You Can (Not) Advance",
-      "release_date": "2025-11-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zfqXw7pICwetNe4SXlMKrS27xif.jpg",
-      "genres": []
-    },
-    {
-      "id": 1576774,
-      "title": "The Unseen",
-      "release_date": "2025-11-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aRaqHYCIuwO2tkVuk55AWllGnbV.jpg",
-      "genres": [
-        "документальный"
       ]
     }
   ],
