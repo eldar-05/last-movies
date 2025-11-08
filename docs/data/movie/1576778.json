@@ -1,0 +1,26 @@
+{
+  "id": 1576778,
+  "title": "The Brain That Cried Wolf",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-08",
+  "runtime": 15,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/ujF1HAdsg8hKDR4Yqw2yTqewdNL.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1576778",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-08T12:22:01.231206+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

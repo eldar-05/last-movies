@@ -1,0 +1,28 @@
+{
+  "id": 1576774,
+  "title": "The Unseen",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-08",
+  "runtime": 73,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English",
+    "Italian",
+    "Wolof"
+  ],
+  "production_countries": [
+    "IT"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/aRaqHYCIuwO2tkVuk55AWllGnbV.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1576774",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-08T12:22:02.653895+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

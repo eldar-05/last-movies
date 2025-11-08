@@ -1,0 +1,24 @@
+{
+  "id": 1576776,
+  "title": "Arkitekten",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-08",
+  "runtime": 89,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "sv",
+  "spoken_languages": [
+    "Swedish"
+  ],
+  "production_countries": [
+    "SE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/zj0Pkp8LJlCqSPUHhYbGN75gKjR.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1576776",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-08T12:22:01.680138+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

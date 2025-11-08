@@ -1,109 +1,102 @@
 {
-  "fetched_at_utc": "2025-11-08T06:17:29.700758+00:00",
+  "fetched_at_utc": "2025-11-08T12:22:02.654269+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1576637,
-      "title": "Los Smoofis",
+      "id": 1576823,
+      "title": "Извод",
       "release_date": "2025-11-08",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/h089A3YFsHhNOPnxJAfPDCfEU3G.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/karp57J93ig26ESelswEa9buwkr.jpg",
+      "genres": []
+    },
+    {
+      "id": 1576804,
+      "title": "Apágalo",
+      "release_date": "2025-11-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/v9Z6Ao8iKsz7j17p7iLhRnVXjTL.jpg",
       "genres": [
         "ужасы"
       ]
     },
     {
-      "id": 1576215,
-      "title": "Pulsiones",
+      "id": 1576802,
+      "title": "MTDGMM",
       "release_date": "2025-11-08",
       "vote_average": 0.0,
       "poster_url": null,
+      "genres": [
+        "мелодрама",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1576798,
+      "title": "Motionless",
+      "release_date": "2025-11-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qDmpdeTB2NTs0EbguWF1X5oo2C4.jpg",
+      "genres": [
+        "документальный",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1576789,
+      "title": "Sewed Figs",
+      "release_date": "2025-11-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4Jrddx9gIS6lApoAQzOYZBnRAt5.jpg",
       "genres": []
     },
     {
-      "id": 1576109,
-      "title": "Khaani",
+      "id": 1576781,
+      "title": "Sojelfer",
       "release_date": "2025-11-08",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jbYzCn6nXX18lcWMNc9KxhWcSfB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dqhyIZjs5vV0Ex8b8BJrbnurxX7.jpg",
       "genres": [
-        "детектив",
-        "триллер",
-        "комедия"
+        "ужасы"
       ]
     },
     {
-      "id": 1576102,
-      "title": "Al final del camino",
+      "id": 1576778,
+      "title": "The Brain That Cried Wolf",
       "release_date": "2025-11-08",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xjJLdCyVlyjgqq2DWCPjJaaK7pM.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1576095,
-      "title": "Oxidado",
-      "release_date": "2025-11-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xEFcb8hhEzpYgguMO0UeST0vdrx.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1576079,
-      "title": "IGNITION(S)",
-      "release_date": "2025-11-08",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1575493,
-      "title": "La Sábana de Marruecos",
-      "release_date": "2025-11-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jgbPSBLSVLEC6DJHHAzqrp4Zysu.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1575467,
-      "title": "The Audition",
-      "release_date": "2025-11-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vH2WNtmzn91adFodZwCGSaBy9j0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ujF1HAdsg8hKDR4Yqw2yTqewdNL.jpg",
       "genres": [
         "комедия"
       ]
     },
     {
-      "id": 1575452,
-      "title": "Oh My Blob!",
+      "id": 1576776,
+      "title": "Arkitekten",
       "release_date": "2025-11-08",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8WqjbgNoU6Rk6WRRdL9NM0kM9kz.jpg",
-      "genres": [
-        "ужасы",
-        "драма",
-        "комедия",
-        "мелодрама"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/zj0Pkp8LJlCqSPUHhYbGN75gKjR.jpg",
+      "genres": []
     },
     {
-      "id": 1575235,
-      "title": "Paul",
+      "id": 1576775,
+      "title": "Greencraft 2.0 You Can (Not) Advance",
       "release_date": "2025-11-08",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zfqXw7pICwetNe4SXlMKrS27xif.jpg",
       "genres": []
+    },
+    {
+      "id": 1576774,
+      "title": "The Unseen",
+      "release_date": "2025-11-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aRaqHYCIuwO2tkVuk55AWllGnbV.jpg",
+      "genres": [
+        "документальный"
+      ]
     }
   ],
   "source": "TMDB",

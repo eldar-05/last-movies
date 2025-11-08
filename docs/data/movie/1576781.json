@@ -1,0 +1,26 @@
+{
+  "id": 1576781,
+  "title": "Sojelfer",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-08",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/dqhyIZjs5vV0Ex8b8BJrbnurxX7.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/ag4H6eVpxVWPNcGmIZ3CJG4oyl7.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1576781",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-08T12:22:00.841719+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
