@@ -1,0 +1,26 @@
+{
+  "id": 1576095,
+  "title": "Oxidado",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-08",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "MX"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/xEFcb8hhEzpYgguMO0UeST0vdrx.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/wKjOeQqsIcAVGWpTXaqcXFAOeTv.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1576095",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-08T00:57:11.937158+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

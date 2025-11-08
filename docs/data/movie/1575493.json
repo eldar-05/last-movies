@@ -1,0 +1,26 @@
+{
+  "id": 1575493,
+  "title": "La Sábana de Marruecos",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-08",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "MX"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/jgbPSBLSVLEC6DJHHAzqrp4Zysu.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/xoloHbZX2DQ2xLrn4gpM6h3IVpk.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1575493",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-08T00:57:12.310145+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

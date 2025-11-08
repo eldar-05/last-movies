@@ -1,103 +1,109 @@
 {
-  "fetched_at_utc": "2025-11-07T18:18:06.940036+00:00",
+  "fetched_at_utc": "2025-11-08T00:57:12.892250+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1576463,
-      "title": "Chiranjeeva",
-      "release_date": "2025-11-07",
+      "id": 1576637,
+      "title": "Los Smoofis",
+      "release_date": "2025-11-08",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xVjBadMUMB2iHiUVtaUxZHGkFHY.jpg",
-      "genres": []
-    },
-    {
-      "id": 1576460,
-      "title": "Death Awaits",
-      "release_date": "2025-11-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uZYbQfMknWGyUa1uz0W3CKyEeyg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/h089A3YFsHhNOPnxJAfPDCfEU3G.jpg",
       "genres": [
-        "ужасы",
-        "триллер"
+        "ужасы"
       ]
     },
     {
-      "id": 1576410,
-      "title": "Urban Lost",
-      "release_date": "2025-11-07",
+      "id": 1576215,
+      "title": "Pulsiones",
+      "release_date": "2025-11-08",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ITUX4oMn5wlnerQDLgER4chB7k.jpg",
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1576109,
+      "title": "Khaani",
+      "release_date": "2025-11-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jbYzCn6nXX18lcWMNc9KxhWcSfB.jpg",
+      "genres": [
+        "детектив",
+        "триллер",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1576102,
+      "title": "Al final del camino",
+      "release_date": "2025-11-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xjJLdCyVlyjgqq2DWCPjJaaK7pM.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1576398,
-      "title": "Deranged",
-      "release_date": "",
+      "id": 1576095,
+      "title": "Oxidado",
+      "release_date": "2025-11-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xEFcb8hhEzpYgguMO0UeST0vdrx.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1576079,
+      "title": "IGNITION(S)",
+      "release_date": "2025-11-08",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "триллер"
+        "драма"
       ]
     },
     {
-      "id": 1576373,
-      "title": "Amanhã é Melhor",
-      "release_date": "2025-11-07",
+      "id": 1575493,
+      "title": "La Sábana de Marruecos",
+      "release_date": "2025-11-08",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3VCXSFxTWZooPPdt5i1lRVm1BiF.jpg",
-      "genres": []
-    },
-    {
-      "id": 1576313,
-      "title": "Shadows of Self",
-      "release_date": "2025-11-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2qR4VI5zluWuKTsHRxbhq8KTvdt.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jgbPSBLSVLEC6DJHHAzqrp4Zysu.jpg",
       "genres": [
-        "детектив",
-        "триллер",
-        "ужасы"
+        "драма"
       ]
     },
     {
-      "id": 1576312,
-      "title": "The Watcher",
-      "release_date": "2025-11-07",
+      "id": 1575467,
+      "title": "The Audition",
+      "release_date": "2025-11-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vH2WNtmzn91adFodZwCGSaBy9j0.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1575452,
+      "title": "Oh My Blob!",
+      "release_date": "2025-11-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8WqjbgNoU6Rk6WRRdL9NM0kM9kz.jpg",
+      "genres": [
+        "ужасы",
+        "драма",
+        "комедия",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1575235,
+      "title": "Paul",
+      "release_date": "2025-11-08",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1576283,
-      "title": "Manga",
-      "release_date": "2025-11-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rmZ58zzKrGZV1kBQAjIkhwTf3xe.jpg",
       "genres": []
-    },
-    {
-      "id": 1576178,
-      "title": "Mae and Hazel invade the Channel Awesome Movies",
-      "release_date": "2025-11-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nJRqCgM3k0dQuAiWLrLei0f59tC.jpg",
-      "genres": []
-    },
-    {
-      "id": 1576159,
-      "title": "Brothers on Three",
-      "release_date": "2025-11-07",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
     }
   ],
   "source": "TMDB",
