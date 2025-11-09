@@ -1,6 +1,6 @@
 {
-  "id": 1577126,
-  "title": "Pies con alma",
+  "id": 1577264,
+  "title": "Torneo relámpago",
   "tagline": "",
   "overview": "",
   "release_date": "2025-11-09",
@@ -8,17 +8,19 @@
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "документальный"
+    "драма"
   ],
   "original_language": "es",
   "spoken_languages": [
     "Spanish"
   ],
-  "production_countries": [],
-  "poster_url": null,
+  "production_countries": [
+    "MX"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/r9TiOwj39FVgpSO3fBr9swUITNN.jpg",
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1577126",
+  "tmdb_url": "https://www.themoviedb.org/movie/1577264",
   "trailer": null,
-  "fetched_at_utc": "2025-11-09T12:22:19.036611+00:00",
+  "fetched_at_utc": "2025-11-09T12:22:18.647332+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

@@ -1,9 +1,47 @@
 {
-  "fetched_at_utc": "2025-11-09T06:17:58.689442+00:00",
+  "fetched_at_utc": "2025-11-09T12:22:19.737085+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1577456,
+      "title": "Flottant légèrement dans les Champs des Sphères",
+      "release_date": "2025-11-09",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1577354,
+      "title": "Trimester Hill",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ioBrdlpjVgikf2nyc2kK6wjDW3A.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1577329,
+      "title": "Maldigo",
+      "release_date": "2025-11-09",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1577264,
+      "title": "Torneo relámpago",
+      "release_date": "2025-11-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/r9TiOwj39FVgpSO3fBr9swUITNN.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
     {
       "id": 1577204,
       "title": "Cool by Friday",
@@ -64,47 +102,6 @@
       "genres": [
         "криминал",
         "триллер"
-      ]
-    },
-    {
-      "id": 1576932,
-      "title": "The Watchers",
-      "release_date": "2025-11-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kHkBJg8l0crVKMCSp2FrkHD7z4v.jpg",
-      "genres": [
-        "ужасы",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1576916,
-      "title": "How Tanita Tikaram Became A LIAR",
-      "release_date": "2025-11-09",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1576821,
-      "title": "Only When You Bury Me In This Earth",
-      "release_date": "2025-11-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/48vRQ22TicU4szdwcdqFapPuQj5.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1576817,
-      "title": "Yaroshenko",
-      "release_date": "2025-11-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kGvmObsKzTseKn8nGFdk9VKziGc.jpg",
-      "genres": [
-        "документальный"
       ]
     }
   ],
