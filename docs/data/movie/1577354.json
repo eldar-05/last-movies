@@ -3,18 +3,22 @@
   "title": "Trimester Hill",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-11-09",
   "runtime": 1,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "триллер"
+  ],
   "original_language": "en",
-  "spoken_languages": [],
+  "spoken_languages": [
+    "English"
+  ],
   "production_countries": [],
   "poster_url": "https://image.tmdb.org/t/p/w500/ioBrdlpjVgikf2nyc2kK6wjDW3A.jpg",
-  "backdrop_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/u41lBOluv6hnKj0m7VC7EpR7Khv.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1577354",
   "trailer": null,
-  "fetched_at_utc": "2025-11-09T12:22:18.260019+00:00",
+  "fetched_at_utc": "2025-11-09T18:16:29.015903+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

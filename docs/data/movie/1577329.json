@@ -17,10 +17,10 @@
   "production_countries": [
     "BR"
   ],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/gBu6RJPFOlk5RN5PiDGTmvRSgKE.jpg",
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1577329",
   "trailer": null,
-  "fetched_at_utc": "2025-11-09T12:22:18.450464+00:00",
+  "fetched_at_utc": "2025-11-09T18:16:29.178779+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

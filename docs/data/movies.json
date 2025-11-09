@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-11-09T12:22:19.737085+00:00",
+  "fetched_at_utc": "2025-11-09T18:16:30.269500+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -15,7 +15,7 @@
     {
       "id": 1577354,
       "title": "Trimester Hill",
-      "release_date": "",
+      "release_date": "2025-11-09",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/ioBrdlpjVgikf2nyc2kK6wjDW3A.jpg",
       "genres": [
@@ -27,7 +27,7 @@
       "title": "Maldigo",
       "release_date": "2025-11-09",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gBu6RJPFOlk5RN5PiDGTmvRSgKE.jpg",
       "genres": [
         "ужасы"
       ]
