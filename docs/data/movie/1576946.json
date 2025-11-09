@@ -1,0 +1,27 @@
+{
+  "id": 1576946,
+  "title": "The Spinning Wheel",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-09",
+  "runtime": 6,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм",
+    "фэнтези"
+  ],
+  "original_language": "xx",
+  "spoken_languages": [
+    "No Language"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/zOOhReVKqs8KPQ9F0A5sGFCTIu2.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1576946",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-09T01:03:46.797707+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

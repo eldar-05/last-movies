@@ -1,0 +1,24 @@
+{
+  "id": 1577204,
+  "title": "Cool by Friday",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-09",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/p3ZZl6Yx1GIpYiyZmTMJXsKC1Xv.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/4T1nQpSw2mmCfJaLacJiQDvkQmn.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1577204",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-09T01:03:45.501748+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

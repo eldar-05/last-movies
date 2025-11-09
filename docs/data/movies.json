@@ -1,103 +1,110 @@
 {
-  "fetched_at_utc": "2025-11-08T18:16:32.403321+00:00",
+  "fetched_at_utc": "2025-11-09T01:03:48.530421+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1576927,
-      "title": "Don Juan no existe",
-      "release_date": "",
+      "id": 1577204,
+      "title": "Cool by Friday",
+      "release_date": "2025-11-09",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1N6fYg69rgYElVgRNYusGny097U.jpg",
-      "genres": [
-        "музыка"
-      ]
-    },
-    {
-      "id": 1576888,
-      "title": "Internet, un géant très vulnérable",
-      "release_date": "2025-11-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lhtKB84WDsP4N2wWXFPrC2OYNfu.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1576876,
-      "title": "Un hogar lejos de casa",
-      "release_date": "2025-11-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pVx5bFvpaYPY1Nucb7BBSAbGQdy.jpg",
-      "genres": []
-    },
-    {
-      "id": 1576852,
-      "title": "Dependency",
-      "release_date": "",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/p3ZZl6Yx1GIpYiyZmTMJXsKC1Xv.jpg",
       "genres": [
         "комедия"
       ]
     },
     {
-      "id": 1576823,
-      "title": "Извод",
-      "release_date": "2025-11-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/karp57J93ig26ESelswEa9buwkr.jpg",
-      "genres": []
-    },
-    {
-      "id": 1576804,
-      "title": "Apágalo",
-      "release_date": "2025-11-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/v9Z6Ao8iKsz7j17p7iLhRnVXjTL.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1576802,
-      "title": "MTDGMM",
-      "release_date": "2025-11-08",
+      "id": 1577126,
+      "title": "Pies con alma",
+      "release_date": "2025-11-09",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "мелодрама",
-        "ужасы"
+        "документальный"
       ]
     },
     {
-      "id": 1576798,
-      "title": "Motionless",
-      "release_date": "2025-11-08",
-      "vote_average": 9.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qDmpdeTB2NTs0EbguWF1X5oo2C4.jpg",
+      "id": 1577114,
+      "title": "Migrante",
+      "release_date": "2025-11-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xRIDh1p63winw4mwx9N17vlAOwP.jpg",
       "genres": [
-        "документальный",
-        "музыка"
+        "драма"
       ]
     },
     {
-      "id": 1576789,
-      "title": "Sewed Figs",
-      "release_date": "2025-11-08",
+      "id": 1576949,
+      "title": "The Missing Part",
+      "release_date": "2025-11-09",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4Jrddx9gIS6lApoAQzOYZBnRAt5.jpg",
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/p5vUXReaf12qnUXzfMqEGRek6Y1.jpg",
+      "genres": [
+        "детектив"
+      ]
     },
     {
-      "id": 1576781,
-      "title": "Sojelfer",
-      "release_date": "2025-11-08",
+      "id": 1576946,
+      "title": "The Spinning Wheel",
+      "release_date": "2025-11-09",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dqhyIZjs5vV0Ex8b8BJrbnurxX7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zOOhReVKqs8KPQ9F0A5sGFCTIu2.jpg",
       "genres": [
-        "ужасы"
+        "мультфильм",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1576942,
+      "title": "Ricochet",
+      "release_date": "2025-11-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aL0KEMzWRuYGCnv11yUdrlCa1Cz.jpg",
+      "genres": [
+        "криминал",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1576932,
+      "title": "The Watchers",
+      "release_date": "2025-11-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kHkBJg8l0crVKMCSp2FrkHD7z4v.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1576916,
+      "title": "How Tanita Tikaram Became A LIAR",
+      "release_date": "2025-11-09",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1576821,
+      "title": "Only When You Bury Me In This Earth",
+      "release_date": "2025-11-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/48vRQ22TicU4szdwcdqFapPuQj5.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1576817,
+      "title": "Yaroshenko",
+      "release_date": "2025-11-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kGvmObsKzTseKn8nGFdk9VKziGc.jpg",
+      "genres": [
+        "документальный"
       ]
     }
   ],
