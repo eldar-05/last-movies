@@ -1,9 +1,67 @@
 {
-  "fetched_at_utc": "2025-11-10T06:21:20.941901+00:00",
+  "fetched_at_utc": "2025-11-10T12:26:52.173195+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1578110,
+      "title": "שם טוב האבי 2",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1578083,
+      "title": "We are Greenland: Football Is Freedom",
+      "release_date": "2025-11-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aTezwu4b18GMsi1zHOVKsU4Z1di.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1578028,
+      "title": "Escuadron Especial",
+      "release_date": "2025-11-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cCZ87dKmBCI8hOhjTAZfUyhhwv2.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1578023,
+      "title": "La Brújula",
+      "release_date": "2025-11-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wPVq9ZXNEAdjDpk3pCYh0Ztc6xn.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1578018,
+      "title": "Bendito corazón",
+      "release_date": "2025-11-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bfburbW7SnLBscRe2hWneN6z9vB.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1578015,
+      "title": "The Elderphone",
+      "release_date": "2025-11-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4z9LO40lb3lc6PC4YJ0WoOk2Zs2.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1577253,
       "title": "Les Décaféinés : Les 2 derniers amis du monde",
@@ -41,66 +99,6 @@
       "release_date": "2025-11-10",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/8ydP5GhprQVSt9CweGB0qwAsp8w.jpg",
-      "genres": []
-    },
-    {
-      "id": 1575045,
-      "title": "cataclysm.begins: The Catalyst",
-      "release_date": "2025-11-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hEU8y1CbzOZBg5PlulSohpWA06S.jpg",
-      "genres": [
-        "драма",
-        "фантастика"
-      ]
-    },
-    {
-      "id": 1574997,
-      "title": "Unlearning Motherhood",
-      "release_date": "2025-11-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/67p1TQnM2idYzE3rpWRs5wmnilJ.jpg",
-      "genres": [
-        "мультфильм",
-        "документальный"
-      ]
-    },
-    {
-      "id": 1574793,
-      "title": "Czarna Chusta",
-      "release_date": "2025-11-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yNMiVNKRXEd6tpPON6AjcVdVSFE.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1574014,
-      "title": "Harmonious",
-      "release_date": "2025-11-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wWZ5YOR2sHCy71nf0MJ6KTfvjdV.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1572915,
-      "title": "The Last 600 Meters: The Battles of Najaf and Fallujah",
-      "release_date": "2025-11-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vppHs7sWZDidZ2c0YzixbD6dNje.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1572625,
-      "title": "視點融疊",
-      "release_date": "2025-11-10",
-      "vote_average": 0.0,
-      "poster_url": null,
       "genres": []
     }
   ],

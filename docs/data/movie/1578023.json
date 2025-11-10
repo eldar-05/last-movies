@@ -1,28 +1,26 @@
 {
-  "id": 1576467,
-  "title": "Documentos para el fin del mundo",
+  "id": 1578023,
+  "title": "La Brújula",
   "tagline": "",
   "overview": "",
   "release_date": "2025-11-10",
-  "runtime": 7,
+  "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "фэнтези",
-    "история"
+    "драма"
   ],
   "original_language": "es",
   "spoken_languages": [
     "Spanish"
   ],
   "production_countries": [
-    "AR",
-    "BR"
+    "MX"
   ],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/wPVq9ZXNEAdjDpk3pCYh0Ztc6xn.jpg",
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1576467",
+  "tmdb_url": "https://www.themoviedb.org/movie/1578023",
   "trailer": null,
-  "fetched_at_utc": "2025-11-10T12:26:51.359762+00:00",
+  "fetched_at_utc": "2025-11-10T12:26:49.752515+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
