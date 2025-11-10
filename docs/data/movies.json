@@ -1,108 +1,107 @@
 {
-  "fetched_at_utc": "2025-11-09T18:16:30.269500+00:00",
+  "fetched_at_utc": "2025-11-10T01:03:46.937381+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1577456,
-      "title": "Flottant légèrement dans les Champs des Sphères",
-      "release_date": "2025-11-09",
+      "id": 1577253,
+      "title": "Les Décaféinés : Les 2 derniers amis du monde",
+      "release_date": "2025-11-10",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1577354,
-      "title": "Trimester Hill",
-      "release_date": "2025-11-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ioBrdlpjVgikf2nyc2kK6wjDW3A.jpg",
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1577329,
-      "title": "Maldigo",
-      "release_date": "2025-11-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gBu6RJPFOlk5RN5PiDGTmvRSgKE.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1577264,
-      "title": "Torneo relámpago",
-      "release_date": "2025-11-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/r9TiOwj39FVgpSO3fBr9swUITNN.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1577204,
-      "title": "Cool by Friday",
-      "release_date": "2025-11-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/p3ZZl6Yx1GIpYiyZmTMJXsKC1Xv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hN10IM0x4D4tXOCMQjUMfKDoOCE.jpg",
       "genres": [
         "комедия"
       ]
     },
     {
-      "id": 1577126,
-      "title": "Pies con alma",
-      "release_date": "2025-11-09",
+      "id": 1576467,
+      "title": "Documentos para el fin del mundo",
+      "release_date": "2025-11-10",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
+        "фэнтези",
+        "история"
+      ]
+    },
+    {
+      "id": 1576398,
+      "title": "Deranged",
+      "release_date": "2025-11-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/skhEP1uR3hZH9FxfAP08rP4U6pM.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1575363,
+      "title": "Fire and the Forest",
+      "release_date": "2025-11-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8ydP5GhprQVSt9CweGB0qwAsp8w.jpg",
+      "genres": []
+    },
+    {
+      "id": 1575045,
+      "title": "cataclysm.begins: The Catalyst",
+      "release_date": "2025-11-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hEU8y1CbzOZBg5PlulSohpWA06S.jpg",
+      "genres": [
+        "драма",
+        "фантастика"
+      ]
+    },
+    {
+      "id": 1574997,
+      "title": "Unlearning Motherhood",
+      "release_date": "2025-11-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/67p1TQnM2idYzE3rpWRs5wmnilJ.jpg",
+      "genres": [
+        "мультфильм",
         "документальный"
       ]
     },
     {
-      "id": 1577114,
-      "title": "Migrante",
-      "release_date": "2025-11-09",
+      "id": 1574793,
+      "title": "Czarna Chusta",
+      "release_date": "2025-11-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xRIDh1p63winw4mwx9N17vlAOwP.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yNMiVNKRXEd6tpPON6AjcVdVSFE.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1576949,
-      "title": "The Missing Part",
-      "release_date": "2025-11-09",
+      "id": 1574014,
+      "title": "Harmonious",
+      "release_date": "2025-11-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/p5vUXReaf12qnUXzfMqEGRek6Y1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wWZ5YOR2sHCy71nf0MJ6KTfvjdV.jpg",
       "genres": [
-        "детектив"
+        "драма"
       ]
     },
     {
-      "id": 1576946,
-      "title": "The Spinning Wheel",
-      "release_date": "2025-11-09",
+      "id": 1572915,
+      "title": "The Last 600 Meters: The Battles of Najaf and Fallujah",
+      "release_date": "2025-11-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zOOhReVKqs8KPQ9F0A5sGFCTIu2.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vppHs7sWZDidZ2c0YzixbD6dNje.jpg",
       "genres": [
-        "мультфильм",
-        "фэнтези"
+        "документальный"
       ]
     },
     {
-      "id": 1576942,
-      "title": "Ricochet",
-      "release_date": "2025-11-09",
+      "id": 1572625,
+      "title": "視點融疊",
+      "release_date": "2025-11-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aL0KEMzWRuYGCnv11yUdrlCa1Cz.jpg",
-      "genres": [
-        "криминал",
-        "триллер"
-      ]
+      "poster_url": null,
+      "genres": []
     }
   ],
   "source": "TMDB",

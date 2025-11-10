@@ -3,18 +3,20 @@
   "title": "Deranged",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-11-10",
   "runtime": 3,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "триллер"
+  ],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/skhEP1uR3hZH9FxfAP08rP4U6pM.jpg",
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1576398",
   "trailer": null,
-  "fetched_at_utc": "2025-11-07T18:18:05.240884+00:00",
+  "fetched_at_utc": "2025-11-10T01:03:45.114971+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

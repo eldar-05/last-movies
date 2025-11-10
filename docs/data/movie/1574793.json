@@ -1,0 +1,27 @@
+{
+  "id": 1574793,
+  "title": "Czarna Chusta",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-10",
+  "runtime": 27,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "uk",
+  "spoken_languages": [
+    "Polish",
+    "Ukrainian"
+  ],
+  "production_countries": [
+    "PL"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/yNMiVNKRXEd6tpPON6AjcVdVSFE.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/4e0Ukg8lGuN9tVOeLjNmCWrTMl5.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1574793",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-10T01:03:46.155582+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

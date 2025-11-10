@@ -1,0 +1,28 @@
+{
+  "id": 1574014,
+  "title": "Harmonious",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-10",
+  "runtime": 50,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/wWZ5YOR2sHCy71nf0MJ6KTfvjdV.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/39vmGTiBX8s31YNuDdhEyCdJ9S0.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1574014",
+  "trailer": {
+    "key": "23OUs6P-VM4",
+    "name": "Harmonious | Official Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-11-10T01:03:46.369662+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

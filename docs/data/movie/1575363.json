@@ -1,0 +1,24 @@
+{
+  "id": 1575363,
+  "title": "Fire and the Forest",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-10",
+  "runtime": 11,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "CA"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/8ydP5GhprQVSt9CweGB0qwAsp8w.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/8rfQ5QGf8DXTnYls45aSffDEUlo.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1575363",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-10T01:03:45.376330+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
