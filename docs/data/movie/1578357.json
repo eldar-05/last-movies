@@ -1,0 +1,22 @@
+{
+  "id": 1578357,
+  "title": "Leo from Chicago",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-10",
+  "runtime": 52,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/aRcgp5P53V58cvQ5txcHbDO5NHF.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1578357",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-10T18:19:00.941649+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

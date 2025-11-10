@@ -1,105 +1,108 @@
 {
-  "fetched_at_utc": "2025-11-10T12:26:52.173195+00:00",
+  "fetched_at_utc": "2025-11-10T18:19:02.648689+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1578110,
-      "title": "שם טוב האבי 2",
+      "id": 1578357,
+      "title": "Leo from Chicago",
+      "release_date": "2025-11-10",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1578296,
+      "title": "Heaven Help Me",
+      "release_date": "2025-11-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wBSvO7mkotRDvC87cz8sA4Gn2q6.jpg",
+      "genres": []
+    },
+    {
+      "id": 1578285,
+      "title": "Emo",
       "release_date": "",
       "vote_average": 0.0,
       "poster_url": null,
+      "genres": [
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1578270,
+      "title": "The Unseeing of Things Known",
+      "release_date": "2025-11-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/A3fkuZyIpjH2yaG3ZxFTFNv5v8u.jpg",
       "genres": []
     },
     {
-      "id": 1578083,
-      "title": "We are Greenland: Football Is Freedom",
-      "release_date": "2025-11-10",
+      "id": 1578235,
+      "title": "Cinta 7",
+      "release_date": "",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aTezwu4b18GMsi1zHOVKsU4Z1di.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sfEX1Ng3v3Qfe3IOlHfXyRZ25rs.jpg",
+      "genres": [
+        "ужасы",
+        "детектив",
+        "фэнтези",
+        "фантастика"
+      ]
+    },
+    {
+      "id": 1578214,
+      "title": "Trine on Fire",
+      "release_date": "2025-11-10",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3sGsDhDFw77wEVQusatkNzDVgAH.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1578028,
-      "title": "Escuadron Especial",
-      "release_date": "2025-11-10",
+      "id": 1578205,
+      "title": "Stalker",
+      "release_date": "",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cCZ87dKmBCI8hOhjTAZfUyhhwv2.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pUmMz4Yuia5QBmkRpf3QRgcsbHr.jpg",
       "genres": [
-        "драма"
+        "триллер",
+        "криминал",
+        "драма",
+        "детектив"
       ]
     },
     {
-      "id": 1578023,
-      "title": "La Brújula",
+      "id": 1578125,
+      "title": "Reiteración",
       "release_date": "2025-11-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wPVq9ZXNEAdjDpk3pCYh0Ztc6xn.jpg",
-      "genres": [
-        "драма"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/j9kmVmsPtR9kgbO23VDoQDk27hL.jpg",
+      "genres": []
     },
     {
-      "id": 1578018,
-      "title": "Bendito corazón",
-      "release_date": "2025-11-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bfburbW7SnLBscRe2hWneN6z9vB.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1578015,
-      "title": "The Elderphone",
-      "release_date": "2025-11-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4z9LO40lb3lc6PC4YJ0WoOk2Zs2.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1577253,
-      "title": "Les Décaféinés : Les 2 derniers amis du monde",
-      "release_date": "2025-11-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hN10IM0x4D4tXOCMQjUMfKDoOCE.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1576467,
-      "title": "Documentos para el fin del mundo",
+      "id": 1578120,
+      "title": "DUERMEVELA",
       "release_date": "2025-11-10",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": [
-        "фэнтези",
-        "история"
-      ]
-    },
-    {
-      "id": 1576398,
-      "title": "Deranged",
-      "release_date": "2025-11-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/skhEP1uR3hZH9FxfAP08rP4U6pM.jpg",
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1575363,
-      "title": "Fire and the Forest",
-      "release_date": "2025-11-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8ydP5GhprQVSt9CweGB0qwAsp8w.jpg",
       "genres": []
+    },
+    {
+      "id": 1578110,
+      "title": "שם טוב האבי 2",
+      "release_date": "2025-11-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/n096OAihgxS6hkqBzmKxkG7bT9V.jpg",
+      "genres": [
+        "комедия",
+        "музыка",
+        "военный"
+      ]
     }
   ],
   "source": "TMDB",

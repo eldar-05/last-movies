@@ -3,20 +3,27 @@
   "title": "שם טוב האבי 2",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-11-10",
   "runtime": 25,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "комедия",
+    "музыка",
+    "военный"
+  ],
   "original_language": "he",
   "spoken_languages": [
+    "English",
     "Hebrew"
   ],
-  "production_countries": [],
-  "poster_url": null,
+  "production_countries": [
+    "IL"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/n096OAihgxS6hkqBzmKxkG7bT9V.jpg",
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1578110",
   "trailer": null,
-  "fetched_at_utc": "2025-11-10T12:26:48.652583+00:00",
+  "fetched_at_utc": "2025-11-10T18:19:02.648181+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
