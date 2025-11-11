@@ -1,0 +1,26 @@
+{
+  "id": 1578076,
+  "title": "The Cradle",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-11",
+  "runtime": 12,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/5KXRc56zmyVcRQkBgZfTArMoSKZ.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1578076",
+  "trailer": {
+    "key": "OYUIcNXSkO8",
+    "name": "The Cradle Marketing Clip",
+    "type": "Teaser"
+  },
+  "fetched_at_utc": "2025-11-11T01:01:39.182434+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

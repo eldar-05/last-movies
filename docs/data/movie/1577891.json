@@ -1,0 +1,34 @@
+{
+  "id": 1577891,
+  "title": "Hide and Seek",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-11",
+  "runtime": 15,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "военный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "German",
+    "Ukrainian"
+  ],
+  "production_countries": [
+    "DE",
+    "GB",
+    "UA"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/cPdzM2tvNlBeg9fZnC8ErTJNwkY.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/f1NQs26goRiyxczRV3dtshbKFyp.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1577891",
+  "trailer": {
+    "key": "xdArCVoW77s",
+    "name": "Hideandseek_trailer01 25102024",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-11-11T01:01:39.313576+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

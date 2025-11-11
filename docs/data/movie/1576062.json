@@ -1,0 +1,23 @@
+{
+  "id": 1576062,
+  "title": "The Wolf of North Pine Falls",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-11",
+  "runtime": 108,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "боевик",
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/mBkjPxfMLBGiYxsog5nn5MbpZSp.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1576062",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-11T01:01:40.080770+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
