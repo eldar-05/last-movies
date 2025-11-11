@@ -1,6 +1,6 @@
 {
-  "id": 1578123,
-  "title": "UNLOVED BOY",
+  "id": 1578685,
+  "title": "梦魔灵蛇录",
   "tagline": "",
   "overview": "",
   "release_date": "2025-11-11",
@@ -8,16 +8,15 @@
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "драма",
-    "мелодрама"
+    "фэнтези"
   ],
-  "original_language": "it",
+  "original_language": "zh",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/nyFJtVyKpYIA4EPc3GNj2HR0Os2.jpg",
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1578123",
+  "tmdb_url": "https://www.themoviedb.org/movie/1578685",
   "trailer": null,
-  "fetched_at_utc": "2025-11-11T12:25:51.316675+00:00",
+  "fetched_at_utc": "2025-11-11T12:25:50.176205+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

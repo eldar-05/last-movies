@@ -1,9 +1,59 @@
 {
-  "fetched_at_utc": "2025-11-11T06:20:21.893382+00:00",
+  "fetched_at_utc": "2025-11-11T12:25:51.471853+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1578709,
+      "title": "La folle histoire de Disney",
+      "release_date": "2025-11-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/76nDmGcg8gT46HuwrP0Yn3PH9jm.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1578696,
+      "title": "Al pasar la barca",
+      "release_date": "2025-11-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jIPVtiCmXxHIEF1YIA2jfCabS6H.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1578685,
+      "title": "梦魔灵蛇录",
+      "release_date": "2025-11-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nyFJtVyKpYIA4EPc3GNj2HR0Os2.jpg",
+      "genres": [
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1578683,
+      "title": "Room 75",
+      "release_date": "2025-11-11",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1578600,
+      "title": "The lost chik",
+      "release_date": "",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/k7OLr8RXcK7TRDMJBtGnhSiyrmX.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
     {
       "id": 1578555,
       "title": "Bliss Bastardized",
@@ -50,57 +100,6 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/5KXRc56zmyVcRQkBgZfTArMoSKZ.jpg",
       "genres": []
-    },
-    {
-      "id": 1577891,
-      "title": "Hide and Seek",
-      "release_date": "2025-11-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cPdzM2tvNlBeg9fZnC8ErTJNwkY.jpg",
-      "genres": [
-        "документальный",
-        "военный"
-      ]
-    },
-    {
-      "id": 1577697,
-      "title": "The Soul Dies After Midnight",
-      "release_date": "2025-11-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tcczc7WRaiYExnP9EdZTbIUalXC.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1577373,
-      "title": "一瞬之光",
-      "release_date": "2025-11-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/77onb0Yto5dniRroJdqLpGlZBnR.jpg",
-      "genres": [
-        "драма",
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1576604,
-      "title": "Tenéis que verlo",
-      "release_date": "2025-11-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/38ITpKMS3CBrv8jWpjXlTkWbSdY.jpg",
-      "genres": []
-    },
-    {
-      "id": 1576062,
-      "title": "The Wolf of North Pine Falls",
-      "release_date": "2025-11-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mBkjPxfMLBGiYxsog5nn5MbpZSp.jpg",
-      "genres": [
-        "боевик",
-        "драма"
-      ]
     }
   ],
   "source": "TMDB",

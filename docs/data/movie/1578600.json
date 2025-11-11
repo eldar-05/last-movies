@@ -1,0 +1,24 @@
+{
+  "id": 1578600,
+  "title": "The lost chik",
+  "tagline": "",
+  "overview": "",
+  "release_date": "",
+  "runtime": 2,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "ar",
+  "spoken_languages": [
+    "Arabic"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/k7OLr8RXcK7TRDMJBtGnhSiyrmX.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1578600",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-11T12:25:50.563041+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

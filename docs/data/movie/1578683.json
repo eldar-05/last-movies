@@ -1,0 +1,26 @@
+{
+  "id": 1578683,
+  "title": "Room 75",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-11",
+  "runtime": 5,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "AU"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1578683",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-11T12:25:50.367315+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
