@@ -1,9 +1,19 @@
 {
-  "fetched_at_utc": "2025-11-11T12:25:51.471853+00:00",
+  "fetched_at_utc": "2025-11-11T18:18:10.522846+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1578809,
+      "title": "Energie domestique : le courant passe-t-il ?",
+      "release_date": "2025-11-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/52dMxTVJju2ax4b4fIG2kRXrf0C.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1578709,
       "title": "La folle histoire de Disney",
@@ -45,9 +55,19 @@
       ]
     },
     {
+      "id": 1578602,
+      "title": "Best Christmas Ever",
+      "release_date": "2025-11-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nmYzgZE9UslhsTSmC6enYhlMLD.jpg",
+      "genres": [
+        "семейный"
+      ]
+    },
+    {
       "id": 1578600,
-      "title": "The lost chik",
-      "release_date": "",
+      "title": "الكتكوت الضال",
+      "release_date": "2025-11-11",
       "vote_average": 10.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/k7OLr8RXcK7TRDMJBtGnhSiyrmX.jpg",
       "genres": [
@@ -80,26 +100,9 @@
       "release_date": "2025-11-11",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/y2RDDaXjdESrpTeCpRTiHA1tE0.jpg",
-      "genres": []
-    },
-    {
-      "id": 1578123,
-      "title": "UNLOVED BOY",
-      "release_date": "2025-11-11",
-      "vote_average": 0.0,
-      "poster_url": null,
       "genres": [
-        "драма",
-        "мелодрама"
+        "драма"
       ]
-    },
-    {
-      "id": 1578076,
-      "title": "The Cradle",
-      "release_date": "2025-11-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5KXRc56zmyVcRQkBgZfTArMoSKZ.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",

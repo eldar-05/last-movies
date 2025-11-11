@@ -1,12 +1,12 @@
 {
   "id": 1578600,
-  "title": "The lost chik",
+  "title": "الكتكوت الضال",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-11-11",
   "runtime": 2,
   "vote_average": 10.0,
-  "vote_count": 1,
+  "vote_count": 2,
   "genres": [
     "комедия"
   ],
@@ -19,6 +19,6 @@
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1578600",
   "trailer": null,
-  "fetched_at_utc": "2025-11-11T12:25:50.563041+00:00",
+  "fetched_at_utc": "2025-11-11T18:18:09.970432+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
