@@ -1,108 +1,92 @@
 {
-  "fetched_at_utc": "2025-11-11T18:18:10.522846+00:00",
+  "fetched_at_utc": "2025-11-12T01:01:10.756664+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1578809,
-      "title": "Energie domestique : le courant passe-t-il ?",
-      "release_date": "2025-11-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/52dMxTVJju2ax4b4fIG2kRXrf0C.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1578709,
-      "title": "La folle histoire de Disney",
-      "release_date": "2025-11-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/76nDmGcg8gT46HuwrP0Yn3PH9jm.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1578696,
-      "title": "Al pasar la barca",
-      "release_date": "2025-11-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jIPVtiCmXxHIEF1YIA2jfCabS6H.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1578685,
-      "title": "梦魔灵蛇录",
-      "release_date": "2025-11-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nyFJtVyKpYIA4EPc3GNj2HR0Os2.jpg",
-      "genres": [
-        "фэнтези"
-      ]
-    },
-    {
-      "id": 1578683,
-      "title": "Room 75",
-      "release_date": "2025-11-11",
+      "id": 1579081,
+      "title": "Basado en Pedas Reales",
+      "release_date": "2025-11-12",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": [
-        "комедия"
-      ]
+      "genres": []
     },
     {
-      "id": 1578602,
-      "title": "Best Christmas Ever",
-      "release_date": "2025-11-11",
+      "id": 1578867,
+      "title": "Dangerous Rain",
+      "release_date": "2025-11-12",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nmYzgZE9UslhsTSmC6enYhlMLD.jpg",
-      "genres": [
-        "семейный"
-      ]
-    },
-    {
-      "id": 1578600,
-      "title": "الكتكوت الضال",
-      "release_date": "2025-11-11",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/k7OLr8RXcK7TRDMJBtGnhSiyrmX.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1578555,
-      "title": "Bliss Bastardized",
-      "release_date": "2025-11-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mO24k2cGdZLf9uUxRE6wx58tPQL.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4bwaWBtcgunA0P5it3qaffnSRMY.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1578289,
-      "title": "a documentary about a trans person",
-      "release_date": "2025-11-11",
+      "id": 1578632,
+      "title": "El Rey del Pescado Frito",
+      "release_date": "2025-11-12",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hzxeY1Ng5PWgbnVmN4ognAMjI4R.jpg",
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1578627,
+      "title": "Stardom Goddesses of Stardom Tag League 2025 - Day 4",
+      "release_date": "2025-11-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/7IDFYfESJDjA8u9WyUW3BSUy887.jpg",
+      "genres": []
+    },
+    {
+      "id": 1578617,
+      "title": "Visita",
+      "release_date": "2025-11-12",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1578598,
+      "title": "Nos vemos esta noche mi amor",
+      "release_date": "2025-11-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qS5mQJ3w2kbfmTBuLMwks9zAafx.jpg",
       "genres": [
-        "документальный"
+        "ужасы"
       ]
     },
     {
-      "id": 1578165,
-      "title": "Different Now",
-      "release_date": "2025-11-11",
+      "id": 1578596,
+      "title": "Historia de un pan: Pancho",
+      "release_date": "2025-11-12",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/y2RDDaXjdESrpTeCpRTiHA1tE0.jpg",
-      "genres": [
-        "драма"
-      ]
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1578594,
+      "title": "Delirio",
+      "release_date": "2025-11-12",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1578588,
+      "title": "Los Audios de Abril",
+      "release_date": "2025-11-12",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1578587,
+      "title": "Destino Equivocado",
+      "release_date": "2025-11-12",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
     }
   ],
   "source": "TMDB",
