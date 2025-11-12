@@ -1,9 +1,49 @@
 {
-  "fetched_at_utc": "2025-11-12T06:20:10.905456+00:00",
+  "fetched_at_utc": "2025-11-12T12:27:02.296463+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1579383,
+      "title": "۲۳ کیلوگرم",
+      "release_date": "2025-11-12",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1579366,
+      "title": "Jorden 2025",
+      "release_date": "2025-11-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6IStt5JHsPVrlwf7Xq4cd33coSp.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1579245,
+      "title": "Entre nós e linhas",
+      "release_date": "2025-11-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/dt9MsSjB8mqskwOLRR2hNWRc8x8.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1579086,
+      "title": "مرغ‌سانان",
+      "release_date": "2025-11-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fgZ6zzwqpJxrggcCIqvVI0cVHXg.jpg",
+      "genres": [
+        "мультфильм"
+      ]
+    },
     {
       "id": 1579081,
       "title": "Basado en Pedas Reales",
@@ -55,38 +95,6 @@
       "genres": [
         "ужасы"
       ]
-    },
-    {
-      "id": 1578596,
-      "title": "Historia de un pan: Pancho",
-      "release_date": "2025-11-12",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1578594,
-      "title": "Delirio",
-      "release_date": "2025-11-12",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1578588,
-      "title": "Los Audios de Abril",
-      "release_date": "2025-11-12",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1578587,
-      "title": "Destino Equivocado",
-      "release_date": "2025-11-12",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
     }
   ],
   "source": "TMDB",
