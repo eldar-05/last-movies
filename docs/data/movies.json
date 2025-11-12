@@ -1,9 +1,31 @@
 {
-  "fetched_at_utc": "2025-11-12T12:27:02.296463+00:00",
+  "fetched_at_utc": "2025-11-12T18:19:14.599981+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1579555,
+      "title": "About Ice",
+      "release_date": "2025-11-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4nM1EAkPq9fJRBGi3rWvZDPywYk.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1579471,
+      "title": "Calcinación",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xYZHsSPPBZzURHWce6T83vupNb8.jpg",
+      "genres": [
+        "триллер",
+        "драма",
+        "мелодрама"
+      ]
+    },
     {
       "id": 1579383,
       "title": "۲۳ کیلوگرم",
@@ -77,24 +99,6 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/7IDFYfESJDjA8u9WyUW3BSUy887.jpg",
       "genres": []
-    },
-    {
-      "id": 1578617,
-      "title": "Visita",
-      "release_date": "2025-11-12",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1578598,
-      "title": "Nos vemos esta noche mi amor",
-      "release_date": "2025-11-12",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qS5mQJ3w2kbfmTBuLMwks9zAafx.jpg",
-      "genres": [
-        "ужасы"
-      ]
     }
   ],
   "source": "TMDB",

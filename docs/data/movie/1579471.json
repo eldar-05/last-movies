@@ -1,0 +1,28 @@
+{
+  "id": 1579471,
+  "title": "Calcinación",
+  "tagline": "",
+  "overview": "",
+  "release_date": "",
+  "runtime": 90,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "драма",
+    "мелодрама"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/xYZHsSPPBZzURHWce6T83vupNb8.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/7eeBN9k5meykV79FnosSvy7th5y.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1579471",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-12T18:19:13.029576+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
