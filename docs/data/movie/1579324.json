@@ -1,0 +1,26 @@
+{
+  "id": 1579324,
+  "title": "珍爱之地",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-13",
+  "runtime": 82,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "zh",
+  "spoken_languages": [
+    "Mandarin"
+  ],
+  "production_countries": [
+    "CN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/yTMqg3nkAJ6FrN2p9zNHmMDItgK.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1579324",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-13T01:01:16.768288+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

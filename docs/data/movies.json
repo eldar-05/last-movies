@@ -1,101 +1,105 @@
 {
-  "fetched_at_utc": "2025-11-12T18:19:14.599981+00:00",
+  "fetched_at_utc": "2025-11-13T01:01:18.098527+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1579555,
-      "title": "About Ice",
-      "release_date": "2025-11-12",
+      "id": 1579637,
+      "title": "PICTURE DAY",
+      "release_date": "2025-11-13",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4nM1EAkPq9fJRBGi3rWvZDPywYk.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/axIJopp3QaGyA1uro9jURJZ4AtX.jpg",
       "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1579471,
-      "title": "Calcinación",
-      "release_date": "",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xYZHsSPPBZzURHWce6T83vupNb8.jpg",
-      "genres": [
-        "триллер",
         "драма",
-        "мелодрама"
+        "комедия"
       ]
     },
     {
-      "id": 1579383,
-      "title": "۲۳ کیلوگرم",
-      "release_date": "2025-11-12",
+      "id": 1579529,
+      "title": "Chloé",
+      "release_date": "2025-11-13",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wffXvSLIJkGxUYzZwSekq4dO72f.jpg",
       "genres": [
-        "мультфильм"
+        "драма"
       ]
     },
     {
-      "id": 1579366,
-      "title": "Jorden 2025",
-      "release_date": "2025-11-12",
+      "id": 1579324,
+      "title": "珍爱之地",
+      "release_date": "2025-11-13",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6IStt5JHsPVrlwf7Xq4cd33coSp.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1579245,
-      "title": "Entre nós e linhas",
-      "release_date": "2025-11-12",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dt9MsSjB8mqskwOLRR2hNWRc8x8.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yTMqg3nkAJ6FrN2p9zNHmMDItgK.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1579086,
-      "title": "مرغ‌سانان",
-      "release_date": "2025-11-12",
+      "id": 1579226,
+      "title": "迷雾双刀",
+      "release_date": "2025-11-13",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fgZ6zzwqpJxrggcCIqvVI0cVHXg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rkJ0qbIa98n9lOIAi0gaf2jghrv.jpg",
       "genres": [
-        "мультфильм"
+        "комедия",
+        "боевик"
       ]
     },
     {
-      "id": 1579081,
-      "title": "Basado en Pedas Reales",
-      "release_date": "2025-11-12",
+      "id": 1579020,
+      "title": "Lecciones de Otoño",
+      "release_date": "2025-11-13",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/fTD9aDW52JktmMsgFggXbAGuPFR.jpg",
+      "genres": [
+        "драма"
+      ]
     },
     {
-      "id": 1578867,
-      "title": "Dangerous Rain",
-      "release_date": "2025-11-12",
+      "id": 1578978,
+      "title": "Jonna",
+      "release_date": "2025-11-13",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4bwaWBtcgunA0P5it3qaffnSRMY.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rtRpCODXzw2VKIZaHwKjHavws8g.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1578953,
+      "title": "Un, dos, tres, por mí",
+      "release_date": "2025-11-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/c0tb9ZtYX3GhBG2DJyIMIywt2d7.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1578939,
+      "title": "La calle mi familia, el rap mi voz, en la Miguel Bernal",
+      "release_date": "2025-11-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fifEHc8anB3xeIStpBgftDjJE3w.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1578632,
-      "title": "El Rey del Pescado Frito",
-      "release_date": "2025-11-12",
+      "id": 1578932,
+      "title": "Buenas para nada",
+      "release_date": "2025-11-13",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/53Wq40FnCARe69VRmCpdwXmsaAW.jpg",
+      "genres": [
+        "комедия"
+      ]
     },
     {
-      "id": 1578627,
-      "title": "Stardom Goddesses of Stardom Tag League 2025 - Day 4",
-      "release_date": "2025-11-12",
+      "id": 1578628,
+      "title": "Stardom Goddesses of Stardom Tag League 2025 - Day 5",
+      "release_date": "2025-11-13",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/7IDFYfESJDjA8u9WyUW3BSUy887.jpg",
       "genres": []
