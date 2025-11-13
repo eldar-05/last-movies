@@ -1,26 +1,26 @@
 {
-  "id": 1579324,
-  "title": "珍爱之地",
+  "id": 1579996,
+  "title": "John 9:25",
   "tagline": "",
   "overview": "",
   "release_date": "2025-11-13",
-  "runtime": 82,
+  "runtime": 5,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
     "документальный"
   ],
-  "original_language": "zh",
+  "original_language": "en",
   "spoken_languages": [
-    "Mandarin"
+    "No Language"
   ],
   "production_countries": [
-    "CN"
+    "FI"
   ],
-  "poster_url": "https://image.tmdb.org/t/p/w500/yTMqg3nkAJ6FrN2p9zNHmMDItgK.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/nsZfOeFtamVSA8OdyjUXc0sV6IS.jpg",
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1579324",
+  "tmdb_url": "https://www.themoviedb.org/movie/1579996",
   "trailer": null,
-  "fetched_at_utc": "2025-11-13T12:27:24.682161+00:00",
+  "fetched_at_utc": "2025-11-13T12:27:23.394519+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

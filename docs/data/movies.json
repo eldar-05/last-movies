@@ -1,9 +1,69 @@
 {
-  "fetched_at_utc": "2025-11-13T06:20:29.912428+00:00",
+  "fetched_at_utc": "2025-11-13T12:27:24.860815+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1580013,
+      "title": "TRUST THE PROCESS | A Call of Duty Documentary",
+      "release_date": "2025-11-13",
+      "vote_average": 8.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1579996,
+      "title": "John 9:25",
+      "release_date": "2025-11-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nsZfOeFtamVSA8OdyjUXc0sV6IS.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1579936,
+      "title": "Death Suits",
+      "release_date": "2025-11-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pYioeLwEB03QzJYzLycRsDMFpuU.jpg",
+      "genres": [
+        "триллер",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1579843,
+      "title": "S.M.O.K.E.",
+      "release_date": "2025-11-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pH7yi5koyBuT61CJO6an4ixz58s.jpg",
+      "genres": [
+        "детектив"
+      ]
+    },
+    {
+      "id": 1579840,
+      "title": "Floss Tutorial 2025 *Kein Clickbait*",
+      "release_date": "2025-11-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pmXdhb8pmJn0oQZm6o5wlshuCUm.jpg",
+      "genres": []
+    },
+    {
+      "id": 1579838,
+      "title": "The Tape",
+      "release_date": "2025-11-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/p23Fk0OSgZa2g10uQ6fpUXR3gUn.jpg",
+      "genres": [
+        "драма",
+        "детектив"
+      ]
+    },
     {
       "id": 1579637,
       "title": "PICTURE DAY",
@@ -45,64 +105,6 @@
         "комедия",
         "боевик"
       ]
-    },
-    {
-      "id": 1579020,
-      "title": "Lecciones de Otoño",
-      "release_date": "2025-11-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fTD9aDW52JktmMsgFggXbAGuPFR.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1578978,
-      "title": "Jonna",
-      "release_date": "2025-11-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rtRpCODXzw2VKIZaHwKjHavws8g.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1578953,
-      "title": "Un, dos, tres, por mí",
-      "release_date": "2025-11-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/c0tb9ZtYX3GhBG2DJyIMIywt2d7.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1578939,
-      "title": "La calle mi familia, el rap mi voz, en la Miguel Bernal",
-      "release_date": "2025-11-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fifEHc8anB3xeIStpBgftDjJE3w.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1578932,
-      "title": "Buenas para nada",
-      "release_date": "2025-11-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/53Wq40FnCARe69VRmCpdwXmsaAW.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1578628,
-      "title": "Stardom Goddesses of Stardom Tag League 2025 - Day 5",
-      "release_date": "2025-11-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7IDFYfESJDjA8u9WyUW3BSUy887.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",

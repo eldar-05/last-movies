@@ -1,23 +1,23 @@
 {
-  "id": 1579637,
-  "title": "PICTURE DAY",
+  "id": 1579838,
+  "title": "The Tape",
   "tagline": "",
   "overview": "",
   "release_date": "2025-11-13",
-  "runtime": 7,
+  "runtime": 4,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
     "драма",
-    "комедия"
+    "детектив"
   ],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": "https://image.tmdb.org/t/p/w500/axIJopp3QaGyA1uro9jURJZ4AtX.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/p23Fk0OSgZa2g10uQ6fpUXR3gUn.jpg",
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1579637",
+  "tmdb_url": "https://www.themoviedb.org/movie/1579838",
   "trailer": null,
-  "fetched_at_utc": "2025-11-13T12:27:24.434043+00:00",
+  "fetched_at_utc": "2025-11-13T12:27:24.221821+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
