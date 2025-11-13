@@ -19,7 +19,11 @@
   "poster_url": "https://image.tmdb.org/t/p/w500/pYioeLwEB03QzJYzLycRsDMFpuU.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/tjz6z78zFw0LmTnUesRaF3PxoO9.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1579936",
-  "trailer": null,
-  "fetched_at_utc": "2025-11-13T12:27:23.593368+00:00",
+  "trailer": {
+    "key": "Rnjl04br0ik",
+    "name": "DEATH SUITS GAME SHOW",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-11-13T18:18:34.809397+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
