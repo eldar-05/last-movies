@@ -1,9 +1,19 @@
 {
-  "fetched_at_utc": "2025-11-14T06:20:08.854165+00:00",
+  "fetched_at_utc": "2025-11-14T12:26:47.974099+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1580561,
+      "title": "జిగ్రిస్",
+      "release_date": "2025-11-14",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "комедия"
+      ]
+    },
     {
       "id": 1580287,
       "title": "AHORA ES MÍA.",
@@ -83,7 +93,7 @@
       "title": "كأن لم تكن",
       "release_date": "2025-11-14",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vcBSaVXfpqoaPwimqurlqpnPt9l.jpg",
       "genres": [
         "драма"
       ]
@@ -96,16 +106,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/bP6aQWLNigK06TYxyrtHwS63ruo.jpg",
       "genres": [
         "фантастика"
-      ]
-    },
-    {
-      "id": 1578534,
-      "title": "Fey",
-      "release_date": "2025-11-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zXcKiKHFDZsFFSMLVGCM9aPb9E9.jpg",
-      "genres": [
-        "ужасы"
       ]
     }
   ],
