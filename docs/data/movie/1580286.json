@@ -4,7 +4,7 @@
   "tagline": "",
   "overview": "",
   "release_date": "2025-11-14",
-  "runtime": 146,
+  "runtime": 147,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
@@ -19,10 +19,10 @@
   "production_countries": [
     "IN"
   ],
-  "poster_url": "https://image.tmdb.org/t/p/w500/Z9BP0uj5OgsGe7I763JHVXDfyp.jpg",
-  "backdrop_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/nO07vsSxqrE0VN7TcQdtKwaToWY.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/rhA68OHeW7pkyVnwpU8vJjsQvuw.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1580286",
   "trailer": null,
-  "fetched_at_utc": "2025-11-14T01:01:16.912446+00:00",
+  "fetched_at_utc": "2025-11-14T06:20:07.510519+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
