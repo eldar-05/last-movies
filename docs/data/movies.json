@@ -1,15 +1,96 @@
 {
-  "fetched_at_utc": "2025-11-14T12:26:47.974099+00:00",
+  "fetched_at_utc": "2025-11-14T18:18:45.496654+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1580787,
+      "title": "The Quintessential Quartet",
+      "release_date": "2025-11-14",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1580775,
+      "title": "Gatha Vaibhava",
+      "release_date": "2025-11-14",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "фэнтези",
+        "мелодрама",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1580719,
+      "title": "Fools Gold Loaf an Elvis Story",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/Auw2Gkt0YF0RIcDSWy1KXaRq1ka.jpg",
+      "genres": [
+        "комедия",
+        "документальный",
+        "драма",
+        "семейный"
+      ]
+    },
+    {
+      "id": 1580712,
+      "title": "6:24",
+      "release_date": "2025-11-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/540tHSiBoCsU2ISM8zpFy2Nbq8a.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1580692,
+      "title": "Adegan Ciuman",
+      "release_date": "2025-11-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5YXaV7nZWmH6twGJ4sYA846WHlE.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1580689,
+      "title": "Heaven and Earth",
+      "release_date": "2025-11-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/27tqzGaz4SL37WoJlmiCzES4yvX.jpg",
+      "genres": []
+    },
+    {
+      "id": 1580659,
+      "title": "Vikkatakavi - The Movie",
+      "release_date": "2025-11-14",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма",
+        "триллер",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1580584,
+      "title": "Men Hebba wa Debb",
+      "release_date": "2025-11-14",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
       "id": 1580561,
       "title": "జిగ్రిస్",
       "release_date": "2025-11-14",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/h4ZD3a5dn5gNXkNYJgxxHce37oC.jpg",
       "genres": [
         "комедия"
       ]
@@ -22,90 +103,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/viHmY8ExEKeYxzjJxeXD11Bzsd4.jpg",
       "genres": [
         "ужасы"
-      ]
-    },
-    {
-      "id": 1580286,
-      "title": "Nishaanchi 2",
-      "release_date": "2025-11-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nO07vsSxqrE0VN7TcQdtKwaToWY.jpg",
-      "genres": [
-        "драма",
-        "криминал",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1580242,
-      "title": "કુંડાળુ",
-      "release_date": "2025-11-14",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1580036,
-      "title": "Calico Rebellion",
-      "release_date": "2025-11-14",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1579952,
-      "title": "നിധിയും ഭൂതവും",
-      "release_date": "2025-11-14",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "детектив",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1579759,
-      "title": "Saia da minha casa",
-      "release_date": "2025-11-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hkm3SRD8p7PNNBjldjVaCEY40k3.jpg",
-      "genres": [
-        "ужасы",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1579507,
-      "title": "Gece Mesaisi",
-      "release_date": "2025-11-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/d4Lb06vBAk2uMdgzI9g3RfhKJe4.jpg",
-      "genres": [
-        "драма",
-        "комедия",
-        "фэнтези"
-      ]
-    },
-    {
-      "id": 1579308,
-      "title": "كأن لم تكن",
-      "release_date": "2025-11-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vcBSaVXfpqoaPwimqurlqpnPt9l.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1578646,
-      "title": "Scavenger",
-      "release_date": "2025-11-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bP6aQWLNigK06TYxyrtHwS63ruo.jpg",
-      "genres": [
-        "фантастика"
       ]
     }
   ],

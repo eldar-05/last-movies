@@ -1,0 +1,26 @@
+{
+  "id": 1580712,
+  "title": "6:24",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-14",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер"
+  ],
+  "original_language": "nl",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "NL"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/540tHSiBoCsU2ISM8zpFy2Nbq8a.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1580712",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-14T18:18:43.221631+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
