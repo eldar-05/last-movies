@@ -1,0 +1,27 @@
+{
+  "id": 1579759,
+  "title": "Saia da minha casa",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-14",
+  "runtime": 12,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "детектив"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/hkm3SRD8p7PNNBjldjVaCEY40k3.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/1UZwtaOq5NLxDFeQTWD8m3f4KCl.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1579759",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-14T01:01:18.860443+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

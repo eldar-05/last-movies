@@ -1,0 +1,28 @@
+{
+  "id": 1578646,
+  "title": "Scavenger",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-14",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фантастика"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "MX",
+    "ES",
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/bP6aQWLNigK06TYxyrtHwS63ruo.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/icdSfduEYHfXSlGq0V62zmnsE1m.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1578646",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-14T01:01:20.314734+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

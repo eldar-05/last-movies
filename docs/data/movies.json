@@ -1,110 +1,111 @@
 {
-  "fetched_at_utc": "2025-11-13T18:18:36.252072+00:00",
+  "fetched_at_utc": "2025-11-14T01:01:20.809848+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1580096,
-      "title": "The Meeting",
-      "release_date": "",
+      "id": 1580287,
+      "title": "AHORA ES MÍA.",
+      "release_date": "2025-11-14",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cDIegX4WT32kxKUdiIL8eQj109V.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/viHmY8ExEKeYxzjJxeXD11Bzsd4.jpg",
       "genres": [
-        "криминал",
-        "триллер",
-        "драма"
+        "ужасы"
       ]
     },
     {
-      "id": 1580013,
-      "title": "TRUST THE PROCESS | A Call of Duty Documentary",
-      "release_date": "2025-11-13",
-      "vote_average": 8.0,
+      "id": 1580286,
+      "title": "Nishaanchi 2",
+      "release_date": "2025-11-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/Z9BP0uj5OgsGe7I763JHVXDfyp.jpg",
+      "genres": [
+        "драма",
+        "криминал",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1580242,
+      "title": "કુંડાળુ",
+      "release_date": "2025-11-14",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1580036,
+      "title": "Calico Rebellion",
+      "release_date": "2025-11-14",
+      "vote_average": 0.0,
       "poster_url": null,
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1579996,
-      "title": "John 9:25",
-      "release_date": "2025-11-13",
+      "id": 1579952,
+      "title": "നിധിയും ഭൂതവും",
+      "release_date": "2025-11-14",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nsZfOeFtamVSA8OdyjUXc0sV6IS.jpg",
+      "poster_url": null,
       "genres": [
-        "документальный"
+        "детектив",
+        "триллер"
       ]
     },
     {
-      "id": 1579936,
-      "title": "Death Suits",
-      "release_date": "2025-11-13",
+      "id": 1579759,
+      "title": "Saia da minha casa",
+      "release_date": "2025-11-14",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pYioeLwEB03QzJYzLycRsDMFpuU.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hkm3SRD8p7PNNBjldjVaCEY40k3.jpg",
       "genres": [
-        "триллер",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1579843,
-      "title": "S.M.O.K.E.",
-      "release_date": "2025-11-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pH7yi5koyBuT61CJO6an4ixz58s.jpg",
-      "genres": [
+        "ужасы",
         "детектив"
       ]
     },
     {
-      "id": 1579840,
-      "title": "Floss Tutorial 2025 *Kein Clickbait*",
-      "release_date": "2025-11-13",
+      "id": 1579507,
+      "title": "Gece Mesaisi",
+      "release_date": "2025-11-14",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pmXdhb8pmJn0oQZm6o5wlshuCUm.jpg",
-      "genres": []
-    },
-    {
-      "id": 1579838,
-      "title": "The Tape",
-      "release_date": "2025-11-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/p23Fk0OSgZa2g10uQ6fpUXR3gUn.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/d4Lb06vBAk2uMdgzI9g3RfhKJe4.jpg",
       "genres": [
         "драма",
-        "детектив"
+        "комедия",
+        "фэнтези"
       ]
     },
     {
-      "id": 1579637,
-      "title": "PICTURE DAY",
-      "release_date": "2025-11-13",
+      "id": 1579308,
+      "title": "كأن لم تكن",
+      "release_date": "2025-11-14",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/axIJopp3QaGyA1uro9jURJZ4AtX.jpg",
-      "genres": [
-        "драма",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1579529,
-      "title": "Chloé",
-      "release_date": "2025-11-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wffXvSLIJkGxUYzZwSekq4dO72f.jpg",
+      "poster_url": null,
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1579324,
-      "title": "珍爱之地",
-      "release_date": "2025-11-13",
+      "id": 1578646,
+      "title": "Scavenger",
+      "release_date": "2025-11-14",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yTMqg3nkAJ6FrN2p9zNHmMDItgK.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bP6aQWLNigK06TYxyrtHwS63ruo.jpg",
       "genres": [
-        "документальный"
+        "фантастика"
+      ]
+    },
+    {
+      "id": 1578534,
+      "title": "Fey",
+      "release_date": "2025-11-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zXcKiKHFDZsFFSMLVGCM9aPb9E9.jpg",
+      "genres": [
+        "ужасы"
       ]
     }
   ],
