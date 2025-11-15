@@ -1,15 +1,31 @@
 {
-  "fetched_at_utc": "2025-11-15T06:18:14.695948+00:00",
+  "fetched_at_utc": "2025-11-15T12:22:36.003818+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1581043,
+      "title": "Origins of Multiple Forms",
+      "release_date": "2025-11-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bJ9zY6lQgu4GBiaZl32OB6SD8Am.jpg",
+      "genres": []
+    },
+    {
+      "id": 1580996,
+      "title": "The Dance of Light and Water",
+      "release_date": "2025-11-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lZIBSWmRuf8fHw906Dg902fxARQ.jpg",
+      "genres": []
+    },
+    {
       "id": 1580980,
       "title": "The Other Woman",
       "release_date": "2025-11-15",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/eSk3BbW4zQpSOzyMvG4UAYpbOeb.jpg",
       "genres": []
     },
     {
@@ -82,26 +98,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/y4HnSaGlrcN1glOWZM0b9Fa1Hxy.jpg",
       "genres": [
         "драма"
-      ]
-    },
-    {
-      "id": 1580194,
-      "title": "Hitler's DNA: Blueprint of a Dictator",
-      "release_date": "2025-11-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5dn2HgkxrBMhMC7Sj0Rlf10mNji.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1580038,
-      "title": "L'irréparable",
-      "release_date": "2025-11-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bCMWYvNUiq5ph8C0evzSxIXfNL4.jpg",
-      "genres": [
-        "комедия"
       ]
     }
   ],

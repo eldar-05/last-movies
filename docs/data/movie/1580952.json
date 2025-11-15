@@ -9,7 +9,9 @@
   "vote_count": 0,
   "genres": [],
   "original_language": "en",
-  "spoken_languages": [],
+  "spoken_languages": [
+    "English"
+  ],
   "production_countries": [
     "GB"
   ],
@@ -21,6 +23,6 @@
     "name": "Sam Fender — Live At London Stadium (Official Trailer)",
     "type": "Trailer"
   },
-  "fetched_at_utc": "2025-11-15T06:18:12.129294+00:00",
+  "fetched_at_utc": "2025-11-15T12:22:32.706361+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
