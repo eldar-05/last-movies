@@ -1,0 +1,28 @@
+{
+  "id": 1580194,
+  "title": "Hitler's DNA: Blueprint of a Dictator",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-15",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "GB"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/5dn2HgkxrBMhMC7Sj0Rlf10mNji.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/m6V2ZONR4QPyCs2hILW8bjnUhuo.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1580194",
+  "trailer": {
+    "key": "NzpMQnDTpRM",
+    "name": "TRAILER: Hitler's DNA: Blueprint of a Dictator",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-11-15T00:59:47.248183+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

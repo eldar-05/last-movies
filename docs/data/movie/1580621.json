@@ -1,0 +1,27 @@
+{
+  "id": 1580621,
+  "title": "Memiliki Viola 6",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-15",
+  "runtime": 8,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "криминал",
+    "драма"
+  ],
+  "original_language": "id",
+  "spoken_languages": [
+    "Indonesian"
+  ],
+  "production_countries": [
+    "ID"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/6i4VmtE2cC88Dogpkf86KmckOJV.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/qaMEDiN6ISuYv7XaHk3yJjmRrW4.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1580621",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-15T00:59:47.002638+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

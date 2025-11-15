@@ -1,108 +1,107 @@
 {
-  "fetched_at_utc": "2025-11-14T18:18:45.496654+00:00",
+  "fetched_at_utc": "2025-11-15T00:59:47.461245+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1580787,
-      "title": "The Quintessential Quartet",
-      "release_date": "2025-11-14",
+      "id": 1580980,
+      "title": "The Other Woman",
+      "release_date": "2025-11-15",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1580775,
-      "title": "Gatha Vaibhava",
-      "release_date": "2025-11-14",
+      "id": 1580952,
+      "title": "Sam Fender — Live At London Stadium",
+      "release_date": "2025-11-15",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1580900,
+      "title": "Também Se Chamavam Sonhos",
+      "release_date": "2025-11-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gk8nZlSPUphr8oxL12GiH3Qy9fO.jpg",
+      "genres": [
+        "фэнтези",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1580666,
+      "title": "Hij komt, hij komt, ... intrede van de Sint",
+      "release_date": "2025-11-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pEH9HWQWEmbgChGtBUCRi9s7BAc.jpg",
+      "genres": [
+        "семейный"
+      ]
+    },
+    {
+      "id": 1580660,
+      "title": "Weihnachten im Olymp",
+      "release_date": "2025-11-15",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "фэнтези",
         "мелодрама",
         "комедия"
       ]
     },
     {
-      "id": 1580719,
-      "title": "Fools Gold Loaf an Elvis Story",
-      "release_date": "",
+      "id": 1580654,
+      "title": "Eine fast perfekte Bescherung",
+      "release_date": "2025-11-15",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/Auw2Gkt0YF0RIcDSWy1KXaRq1ka.jpg",
+      "poster_url": null,
       "genres": [
         "комедия",
-        "документальный",
-        "драма",
-        "семейный"
+        "мелодрама"
       ]
     },
     {
-      "id": 1580712,
-      "title": "6:24",
-      "release_date": "2025-11-14",
+      "id": 1580621,
+      "title": "Memiliki Viola 6",
+      "release_date": "2025-11-15",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/540tHSiBoCsU2ISM8zpFy2Nbq8a.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6i4VmtE2cC88Dogpkf86KmckOJV.jpg",
       "genres": [
-        "триллер"
+        "криминал",
+        "драма"
       ]
     },
     {
-      "id": 1580692,
-      "title": "Adegan Ciuman",
-      "release_date": "2025-11-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5YXaV7nZWmH6twGJ4sYA846WHlE.jpg",
+      "id": 1580362,
+      "title": "Who Do You See?",
+      "release_date": "2025-11-15",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/y4HnSaGlrcN1glOWZM0b9Fa1Hxy.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1580689,
-      "title": "Heaven and Earth",
-      "release_date": "2025-11-14",
+      "id": 1580194,
+      "title": "Hitler's DNA: Blueprint of a Dictator",
+      "release_date": "2025-11-15",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/27tqzGaz4SL37WoJlmiCzES4yvX.jpg",
-      "genres": []
-    },
-    {
-      "id": 1580659,
-      "title": "Vikkatakavi - The Movie",
-      "release_date": "2025-11-14",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5dn2HgkxrBMhMC7Sj0Rlf10mNji.jpg",
       "genres": [
-        "драма",
-        "триллер",
-        "детектив"
+        "документальный"
       ]
     },
     {
-      "id": 1580584,
-      "title": "Men Hebba wa Debb",
-      "release_date": "2025-11-14",
+      "id": 1580038,
+      "title": "L'irréparable",
+      "release_date": "2025-11-15",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1580561,
-      "title": "జిగ్రిస్",
-      "release_date": "2025-11-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/h4ZD3a5dn5gNXkNYJgxxHce37oC.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bCMWYvNUiq5ph8C0evzSxIXfNL4.jpg",
       "genres": [
         "комедия"
-      ]
-    },
-    {
-      "id": 1580287,
-      "title": "AHORA ES MÍA.",
-      "release_date": "2025-11-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/viHmY8ExEKeYxzjJxeXD11Bzsd4.jpg",
-      "genres": [
-        "ужасы"
       ]
     }
   ],
