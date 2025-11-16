@@ -1,9 +1,29 @@
 {
-  "fetched_at_utc": "2025-11-16T12:22:44.024725+00:00",
+  "fetched_at_utc": "2025-11-16T18:16:50.173077+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1581913,
+      "title": "Transgender Day of Remembrance 2025 Vigil",
+      "release_date": "2025-11-16",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1581811,
+      "title": "Lolacoaster",
+      "release_date": "2025-11-16",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
     {
       "id": 1581711,
       "title": "Att överleva dödskommittén",
@@ -77,27 +97,6 @@
       "genres": [
         "музыка",
         "телевизионный фильм"
-      ]
-    },
-    {
-      "id": 1580049,
-      "title": "GRWM",
-      "release_date": "2025-11-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bVHwTri1eaFou23y41PtkAaakhD.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1579321,
-      "title": "Odiseja e Gëzimit",
-      "release_date": "2025-11-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5IL63587aXiZ1NYtog1F2FrepIP.jpg",
-      "genres": [
-        "драма",
-        "комедия"
       ]
     }
   ],
