@@ -7,7 +7,9 @@
   "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "драма"
+  ],
   "original_language": "fr",
   "spoken_languages": [
     "French"
@@ -19,6 +21,6 @@
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1581407",
   "trailer": null,
-  "fetched_at_utc": "2025-11-16T01:05:14.653372+00:00",
+  "fetched_at_utc": "2025-11-16T06:18:28.936740+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
