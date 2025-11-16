@@ -1,93 +1,101 @@
 {
-  "fetched_at_utc": "2025-11-15T18:16:11.446786+00:00",
+  "fetched_at_utc": "2025-11-16T01:05:16.166385+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1581304,
-      "title": "Vos 40 chansons préférées des Enfoirés",
-      "release_date": "2025-11-15",
+      "id": 1581407,
+      "title": "Choisir de vivre",
+      "release_date": "2025-11-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/h9qylESj6wYd7Um7vTF7MDecHx5.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1581220,
+      "title": "84.2 Years",
+      "release_date": "2025-11-16",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1581217,
+      "title": "Letter 1 / AIR",
+      "release_date": "2025-11-16",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1581211,
+      "title": "Los fusilados de Racing",
+      "release_date": "2025-11-16",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "музыка",
         "документальный"
       ]
     },
     {
-      "id": 1581244,
-      "title": "Phantom Bloom",
-      "release_date": "2025-11-15",
+      "id": 1580462,
+      "title": "Caetano e Bethânia",
+      "release_date": "2025-11-16",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1581230,
-      "title": "Sisarelle – Till Syster",
-      "release_date": "2025-11-15",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1581227,
-      "title": "Spinning Days",
-      "release_date": "2025-11-15",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1581204,
-      "title": "Gaps, or; Reproducing Exclusion",
-      "release_date": "2025-11-15",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1581176,
-      "title": "Intocht van Sinterklaas 2025",
-      "release_date": "2025-11-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/IIA3q7Cdy5asEj5iuf67W2bW4x.jpg",
-      "genres": []
-    },
-    {
-      "id": 1581043,
-      "title": "Origins of Multiple Forms",
-      "release_date": "2025-11-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bJ9zY6lQgu4GBiaZl32OB6SD8Am.jpg",
-      "genres": []
-    },
-    {
-      "id": 1580996,
-      "title": "The Dance of Light and Water",
-      "release_date": "2025-11-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lZIBSWmRuf8fHw906Dg902fxARQ.jpg",
-      "genres": []
-    },
-    {
-      "id": 1580980,
-      "title": "The Other Woman",
-      "release_date": "2025-11-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eSk3BbW4zQpSOzyMvG4UAYpbOeb.jpg",
-      "genres": []
-    },
-    {
-      "id": 1580900,
-      "title": "Também Se Chamavam Sonhos",
-      "release_date": "2025-11-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gk8nZlSPUphr8oxL12GiH3Qy9fO.jpg",
       "genres": [
-        "фэнтези",
-        "детектив"
+        "музыка",
+        "телевизионный фильм"
+      ]
+    },
+    {
+      "id": 1580049,
+      "title": "GRWM",
+      "release_date": "2025-11-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bVHwTri1eaFou23y41PtkAaakhD.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1579321,
+      "title": "Odiseja e Gëzimit",
+      "release_date": "2025-11-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5IL63587aXiZ1NYtog1F2FrepIP.jpg",
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1578630,
+      "title": "Stardom Goddesses of Stardom Tag League 2025 - Day 7",
+      "release_date": "2025-11-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cyDZlUJBRUNlhniM73d4X3ylJgg.jpg",
+      "genres": []
+    },
+    {
+      "id": 1577800,
+      "title": "Buenos F**cking Aires",
+      "release_date": "2025-11-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8i0XE2vsVbZgnpo1N6XjyL1EIXM.jpg",
+      "genres": []
+    },
+    {
+      "id": 1577465,
+      "title": "Materials Mechanics",
+      "release_date": "2025-11-16",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
       ]
     }
   ],

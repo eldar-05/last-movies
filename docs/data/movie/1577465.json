@@ -1,0 +1,27 @@
+{
+  "id": 1577465,
+  "title": "Materials Mechanics",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-16",
+  "runtime": 17,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "cs",
+  "spoken_languages": [
+    "Russian",
+    "Ukrainian"
+  ],
+  "production_countries": [
+    "CZ"
+  ],
+  "poster_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/4evliK1TDnbIm3Srxm76izplm70.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1577465",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-16T01:05:16.166112+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
