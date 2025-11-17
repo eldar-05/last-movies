@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-11-17T12:26:44.824174+00:00",
+  "fetched_at_utc": "2025-11-17T18:18:20.005777+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -7,9 +7,9 @@
     {
       "id": 1582324,
       "title": "Dağıntılar altında Bayırşəhər",
-      "release_date": "",
+      "release_date": "2025-11-17",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hbb5btFP1f4M5W4mFvFWhZzZNze.jpg",
       "genres": [
         "документальный"
       ]

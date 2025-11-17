@@ -3,24 +3,28 @@
   "title": "Dağıntılar altında Bayırşəhər",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-11-17",
   "runtime": 17,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
     "документальный"
   ],
-  "original_language": "en",
+  "original_language": "az",
   "spoken_languages": [
     "Azerbaijani"
   ],
   "production_countries": [
     "AZ"
   ],
-  "poster_url": null,
-  "backdrop_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/hbb5btFP1f4M5W4mFvFWhZzZNze.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/eVvK8S8fl0Ywb9rEztWLuog1Kfs.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1582324",
-  "trailer": null,
-  "fetched_at_utc": "2025-11-17T12:26:43.364955+00:00",
+  "trailer": {
+    "key": "2otRP_5E94Y",
+    "name": "Dağıntılar altında Bayırşəhər - Sənədli film",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-11-17T18:18:18.005509+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
