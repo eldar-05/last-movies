@@ -1,0 +1,27 @@
+{
+  "id": 1580506,
+  "title": "Devenir Lucky Love",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-17",
+  "runtime": 70,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "музыка"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/5awSCCDjqJxY0Eh8b03CWZ1yRxc.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/hEhoCJyn2OtaJBWd4uzOtUXkqHr.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1580506",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-17T01:02:18.764035+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

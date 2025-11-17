@@ -1,0 +1,27 @@
+{
+  "id": 1579293,
+  "title": "ثريا حبي",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-17",
+  "runtime": 81,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "ar",
+  "spoken_languages": [
+    "Arabic"
+  ],
+  "production_countries": [
+    "LB",
+    "QA"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/WY4YWvgmyhi9001opKxIBE5OYl.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1579293",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-17T01:02:19.466825+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

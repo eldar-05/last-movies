@@ -1,13 +1,13 @@
 {
-  "fetched_at_utc": "2025-11-16T18:16:50.173077+00:00",
+  "fetched_at_utc": "2025-11-17T01:02:19.836759+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1581913,
-      "title": "Transgender Day of Remembrance 2025 Vigil",
-      "release_date": "2025-11-16",
+      "id": 1581839,
+      "title": "A Vida é uma Maratona",
+      "release_date": "2025-11-17",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
@@ -15,73 +15,9 @@
       ]
     },
     {
-      "id": 1581811,
-      "title": "Lolacoaster",
-      "release_date": "2025-11-16",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1581711,
-      "title": "Att överleva dödskommittén",
-      "release_date": "2025-11-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rQiBJFVSvltY75gO45RvDNzrnms.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1581583,
-      "title": "Lemons on a Plane",
-      "release_date": "2025-11-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fFwVYhnuOYobYg5MMIWix266u7q.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1581407,
-      "title": "Choisir de vivre",
-      "release_date": "2025-11-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/h9qylESj6wYd7Um7vTF7MDecHx5.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1581303,
-      "title": "منطقه حساس",
-      "release_date": "2025-11-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xCfTXvuXTbN5pVk8GtgAwIAJlKO.jpg",
-      "genres": []
-    },
-    {
-      "id": 1581220,
-      "title": "84.2 Years",
-      "release_date": "2025-11-16",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1581217,
-      "title": "Letter 1 / AIR",
-      "release_date": "2025-11-16",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1581211,
-      "title": "Los fusilados de Racing",
-      "release_date": "2025-11-16",
+      "id": 1581632,
+      "title": "Blood Friends",
+      "release_date": "2025-11-17",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
@@ -89,15 +25,84 @@
       ]
     },
     {
-      "id": 1580462,
-      "title": "Caetano e Bethânia",
-      "release_date": "2025-11-16",
+      "id": 1580649,
+      "title": "Observada",
+      "release_date": "2025-11-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/z0go6SKVwTy6MgpGSATXzACQ6zh.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1580506,
+      "title": "Devenir Lucky Love",
+      "release_date": "2025-11-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5awSCCDjqJxY0Eh8b03CWZ1yRxc.jpg",
+      "genres": [
+        "документальный",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1580253,
+      "title": "Hazbin Hotel: Live from Broadway",
+      "release_date": "2025-11-17",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "музыка",
-        "телевизионный фильм"
+        "музыка"
       ]
+    },
+    {
+      "id": 1579650,
+      "title": "Bang Bang Stefi!",
+      "release_date": "2025-11-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3mte1c4yqC4iyHjk1B17oyhd1cz.jpg",
+      "genres": [
+        "вестерн"
+      ]
+    },
+    {
+      "id": 1579370,
+      "title": "باب",
+      "release_date": "2025-11-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/Ae9jeMtVuI0VArtqIXD5ZcAV6se.jpg",
+      "genres": [
+        "детектив",
+        "драма",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1579293,
+      "title": "ثريا حبي",
+      "release_date": "2025-11-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/WY4YWvgmyhi9001opKxIBE5OYl.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1577533,
+      "title": "Semikolon - Schizophrenie für immer",
+      "release_date": "2025-11-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/uWGzPYlElD1yGRG7qpzBV9bWiec.jpg",
+      "genres": []
+    },
+    {
+      "id": 1577358,
+      "title": "Desejo de Viver (Mutatis Mutandis)",
+      "release_date": "2025-11-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wHdmwV9ZFcUqJNjGIr2xNZRoEZ0.jpg",
+      "genres": []
     }
   ],
   "source": "TMDB",

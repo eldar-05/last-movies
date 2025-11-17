@@ -1,0 +1,27 @@
+{
+  "id": 1580649,
+  "title": "Observada",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-17",
+  "runtime": 4,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "триллер"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "AR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/z0go6SKVwTy6MgpGSATXzACQ6zh.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/x3anaKVhBkGmwttLTB5pCvvKH4j.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1580649",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-17T01:02:18.587732+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1579370,
+  "title": "باب",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-17",
+  "runtime": 97,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "детектив",
+    "драма",
+    "фэнтези"
+  ],
+  "original_language": "ar",
+  "spoken_languages": [
+    "Arabic"
+  ],
+  "production_countries": [
+    "AE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/Ae9jeMtVuI0VArtqIXD5ZcAV6se.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1579370",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-17T01:02:19.260291+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

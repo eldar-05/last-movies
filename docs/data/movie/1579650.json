@@ -1,0 +1,30 @@
+{
+  "id": 1579650,
+  "title": "Bang Bang Stefi!",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-17",
+  "runtime": 7,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "вестерн"
+  ],
+  "original_language": "ca",
+  "spoken_languages": [
+    "No Language"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/3mte1c4yqC4iyHjk1B17oyhd1cz.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/mCry9za4X2NxKPOE2Ggjj61VImv.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1579650",
+  "trailer": {
+    "key": "O8FfZHi93hs",
+    "name": "Trailer Bang Bang Stefi! (2025) Col·lectiu Super8eres",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-11-17T01:02:19.061815+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
