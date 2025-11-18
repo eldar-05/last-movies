@@ -1,0 +1,26 @@
+{
+  "id": 1579344,
+  "title": "কাফফারা",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-18",
+  "runtime": 65,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "bn",
+  "spoken_languages": [
+    "Bengali"
+  ],
+  "production_countries": [
+    "BD"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/wj8Z8BeqsOzk2iq96seHr6KzI1h.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1579344",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-18T01:00:56.575474+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

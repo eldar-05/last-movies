@@ -1,92 +1,107 @@
 {
-  "fetched_at_utc": "2025-11-17T18:18:20.005777+00:00",
+  "fetched_at_utc": "2025-11-18T01:00:57.627231+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1582324,
-      "title": "Dağıntılar altında Bayırşəhər",
-      "release_date": "2025-11-17",
+      "id": 1582854,
+      "title": "Memórias de um projecionista",
+      "release_date": "2025-11-18",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hbb5btFP1f4M5W4mFvFWhZzZNze.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ed3u3ugzwDSz6KPS5O7xtDGM9ow.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1582317,
-      "title": "Je vais te tuer",
-      "release_date": "2025-11-17",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ivrbBZPFgpZXkVBjnQ94LbI64hM.jpg",
+      "id": 1582245,
+      "title": "Midnight Climax",
+      "release_date": "2025-11-18",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zFD7eUJfqBITNmrYAEEMYcGjQ49.jpg",
+      "genres": [
+        "триллер",
+        "драма"
+      ]
+    },
+    {
+      "id": 1581024,
+      "title": "Flying Like a Bird",
+      "release_date": "2025-11-18",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aFp8g2BWHaLSgk5CC4EYxZhevQ7.jpg",
+      "genres": []
+    },
+    {
+      "id": 1580443,
+      "title": "Ensemble à bicyclette",
+      "release_date": "2025-11-18",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pqW8YAIiSJNVtEqbaKDdLQrmpQG.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1582292,
-      "title": "Anak Omputeh",
-      "release_date": "2025-11-17",
+      "id": 1579344,
+      "title": "কাফফারা",
+      "release_date": "2025-11-18",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/wj8Z8BeqsOzk2iq96seHr6KzI1h.jpg",
+      "genres": [
+        "драма"
+      ]
     },
     {
-      "id": 1582291,
-      "title": "If Rains, I will...",
-      "release_date": "2025-11-17",
+      "id": 1579338,
+      "title": "Noah",
+      "release_date": "2025-11-18",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/ofEPahzVxOlQGYV8LZhws8ukrIz.jpg",
+      "genres": [
+        "драма"
+      ]
     },
     {
-      "id": 1582290,
-      "title": "Perfect Family",
-      "release_date": "2025-11-17",
+      "id": 1579331,
+      "title": "فلسطيني على الطريق",
+      "release_date": "2025-11-18",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": []
+      "genres": [
+        "документальный"
+      ]
     },
     {
-      "id": 1582289,
-      "title": "HAKIKI RUMPUT EMAS",
-      "release_date": "2025-11-17",
+      "id": 1579319,
+      "title": "ضد السينما",
+      "release_date": "2025-11-18",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": []
+      "genres": [
+        "документальный"
+      ]
     },
     {
-      "id": 1582288,
-      "title": "I Thought It Was Ordinary",
-      "release_date": "2025-11-17",
+      "id": 1578908,
+      "title": "Anastasis",
+      "release_date": "2025-11-18",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": []
+      "genres": [
+        "драма"
+      ]
     },
     {
-      "id": 1582287,
-      "title": "Sakarat: Pohon Yang Sunyi",
-      "release_date": "2025-11-17",
+      "id": 1578907,
+      "title": "Hindsight",
+      "release_date": "2025-11-18",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1582286,
-      "title": "Flat No. 4",
-      "release_date": "2025-11-17",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1582285,
-      "title": "tragedy of youth.",
-      "release_date": "2025-11-17",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
+      "genres": [
+        "драма"
+      ]
     }
   ],
   "source": "TMDB",
