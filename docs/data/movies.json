@@ -1,9 +1,50 @@
 {
-  "fetched_at_utc": "2025-11-18T06:19:44.170314+00:00",
+  "fetched_at_utc": "2025-11-18T12:27:15.985478+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1583008,
+      "title": "Circus",
+      "release_date": "2025-11-18",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iuQjLedc3JkmZnLQbJffevCUi3u.jpg",
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1582996,
+      "title": "Elodie Da Silva : Tempête émotionnelle",
+      "release_date": "2025-11-18",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/u9JY513hfTrLKabG2y81IWV7INL.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1582992,
+      "title": "The Unnamed",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/o6fYVqWpH3OOJPtWVAkaNpdDC0p.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1582990,
+      "title": "Timothee_Chalamet_internal_brand_marketing_meeting_MartySupreme_11.08.2025.mp4",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tnZpw5fs3f2LBG3sYPDPiFudab5.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
     {
       "id": 1582854,
       "title": "Memórias de um projecionista",
@@ -59,46 +100,6 @@
       "release_date": "2025-11-18",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/ofEPahzVxOlQGYV8LZhws8ukrIz.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1579331,
-      "title": "فلسطيني على الطريق",
-      "release_date": "2025-11-18",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1579319,
-      "title": "ضد السينما",
-      "release_date": "2025-11-18",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1578908,
-      "title": "Anastasis",
-      "release_date": "2025-11-18",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1578907,
-      "title": "Hindsight",
-      "release_date": "2025-11-18",
-      "vote_average": 0.0,
-      "poster_url": null,
       "genres": [
         "драма"
       ]
