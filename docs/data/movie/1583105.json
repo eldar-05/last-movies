@@ -1,0 +1,36 @@
+{
+  "id": 1583105,
+  "title": "산토스를 찾아서",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-19",
+  "runtime": 113,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "комедия",
+    "музыка",
+    "мелодрама"
+  ],
+  "original_language": "ko",
+  "spoken_languages": [
+    "English",
+    "Tagalog",
+    "Korean"
+  ],
+  "production_countries": [
+    "PH",
+    "KR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/xupJxQMmzWf4pxXzTLsOKgFXD3A.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1583105",
+  "trailer": {
+    "key": "wgr1CCJFoMk",
+    "name": "'Finding Santos' Official Trailer | Jang Theo, Maegan Gabrielle Medina, Park Seongin, Hans Galendez",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-11-19T01:00:56.208539+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

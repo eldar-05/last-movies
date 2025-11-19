@@ -1,107 +1,104 @@
 {
-  "fetched_at_utc": "2025-11-18T12:27:15.985478+00:00",
+  "fetched_at_utc": "2025-11-19T01:00:57.624757+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1583008,
-      "title": "Circus",
-      "release_date": "2025-11-18",
+      "id": 1583478,
+      "title": "Horas Mortas",
+      "release_date": "2025-11-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iuQjLedc3JkmZnLQbJffevCUi3u.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/l0TNCd8nmpADFPURtY5v9JjX2Y5.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1583457,
+      "title": "PROXY",
+      "release_date": "2025-11-19",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "фантастика"
+      ]
+    },
+    {
+      "id": 1583105,
+      "title": "산토스를 찾아서",
+      "release_date": "2025-11-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xupJxQMmzWf4pxXzTLsOKgFXD3A.jpg",
       "genres": [
         "драма",
-        "комедия"
+        "комедия",
+        "музыка",
+        "мелодрама"
       ]
     },
     {
-      "id": 1582996,
-      "title": "Elodie Da Silva : Tempête émotionnelle",
-      "release_date": "2025-11-18",
+      "id": 1582915,
+      "title": "Pablo Mira : Passé simple",
+      "release_date": "2025-11-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/u9JY513hfTrLKabG2y81IWV7INL.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/p9Otf0io0vtDwJKOxK2e5ABEX0Q.jpg",
       "genres": [
         "комедия"
       ]
     },
     {
-      "id": 1582992,
-      "title": "The Unnamed",
-      "release_date": "",
+      "id": 1582905,
+      "title": "离恨谷",
+      "release_date": "2025-11-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/o6fYVqWpH3OOJPtWVAkaNpdDC0p.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/k3E00aqcquRlgvsgevNjJeCQA1P.jpg",
       "genres": [
-        "драма"
+        "боевик"
       ]
     },
     {
-      "id": 1582990,
-      "title": "Timothee_Chalamet_internal_brand_marketing_meeting_MartySupreme_11.08.2025.mp4",
-      "release_date": "",
+      "id": 1581747,
+      "title": "Nos Voix Pour Toutes 2025",
+      "release_date": "2025-11-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tnZpw5fs3f2LBG3sYPDPiFudab5.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1582854,
-      "title": "Memórias de um projecionista",
-      "release_date": "2025-11-18",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ed3u3ugzwDSz6KPS5O7xtDGM9ow.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1582245,
-      "title": "Midnight Climax",
-      "release_date": "2025-11-18",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zFD7eUJfqBITNmrYAEEMYcGjQ49.jpg",
-      "genres": [
-        "триллер",
-        "драма"
-      ]
-    },
-    {
-      "id": 1581024,
-      "title": "Flying Like a Bird",
-      "release_date": "2025-11-18",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aFp8g2BWHaLSgk5CC4EYxZhevQ7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/97ZH46QI9p3IoraxmgXC6IegpZB.jpg",
       "genres": []
     },
     {
-      "id": 1580443,
-      "title": "Ensemble à bicyclette",
-      "release_date": "2025-11-18",
+      "id": 1581728,
+      "title": "Оператор",
+      "release_date": "2025-11-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pqW8YAIiSJNVtEqbaKDdLQrmpQG.jpg",
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1581397,
+      "title": "Tingling",
+      "release_date": "2025-11-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/uVI5nzdVoeVAVM0QBWR07m4sQE4.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1581299,
+      "title": "O Segredo do Cineasta Número 3",
+      "release_date": "2025-11-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/o4HqbBLXJbt5UHLHsO2SRcvK2ml.jpg",
+      "genres": []
+    },
+    {
+      "id": 1581137,
+      "title": "Window Shot",
+      "release_date": "2025-11-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zz92oDLPHuzh7eyELfeHmkiOI24.jpg",
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1579344,
-      "title": "কাফফারা",
-      "release_date": "2025-11-18",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wj8Z8BeqsOzk2iq96seHr6KzI1h.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1579338,
-      "title": "Noah",
-      "release_date": "2025-11-18",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ofEPahzVxOlQGYV8LZhws8ukrIz.jpg",
-      "genres": [
-        "драма"
       ]
     }
   ],
