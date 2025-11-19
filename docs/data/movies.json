@@ -1,14 +1,43 @@
 {
-  "fetched_at_utc": "2025-11-19T06:20:12.769132+00:00",
+  "fetched_at_utc": "2025-11-19T12:26:53.195113+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1583657,
+      "title": "Ingen F*cker med Min Far",
+      "release_date": "2025-11-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1Yxm4Ciw5jjAPri0RXQo7upD2Vk.jpg",
+      "genres": []
+    },
+    {
+      "id": 1583652,
+      "title": "Didier, moi et les autres… Les Enfants du silence",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/w8U8W19sjng4L6yPjBtvR38pinQ.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1583612,
+      "title": "Antonio",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "боевик",
+        "приключения"
+      ]
+    },
+    {
       "id": 1583478,
       "title": "Horas Mortas",
       "release_date": "2025-11-19",
-      "vote_average": 0.0,
+      "vote_average": 10.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/l0TNCd8nmpADFPURtY5v9JjX2Y5.jpg",
       "genres": [
         "драма"
@@ -38,6 +67,16 @@
       ]
     },
     {
+      "id": 1583103,
+      "title": "The Limbo within BARDO",
+      "release_date": "2025-11-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/w5OxAthOBSK5b8wzmSAICqevdCo.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
       "id": 1582915,
       "title": "Pablo Mira : Passé simple",
       "release_date": "2025-11-19",
@@ -58,45 +97,11 @@
       ]
     },
     {
-      "id": 1581747,
-      "title": "Nos Voix Pour Toutes 2025",
+      "id": 1582545,
+      "title": "Tranzit Venuše",
       "release_date": "2025-11-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/97ZH46QI9p3IoraxmgXC6IegpZB.jpg",
-      "genres": []
-    },
-    {
-      "id": 1581728,
-      "title": "Оператор",
-      "release_date": "2025-11-19",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1581397,
-      "title": "Tingling",
-      "release_date": "2025-11-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uVI5nzdVoeVAVM0QBWR07m4sQE4.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1581299,
-      "title": "O Segredo do Cineasta Número 3",
-      "release_date": "2025-11-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/o4HqbBLXJbt5UHLHsO2SRcvK2ml.jpg",
-      "genres": []
-    },
-    {
-      "id": 1581137,
-      "title": "Window Shot",
-      "release_date": "2025-11-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zz92oDLPHuzh7eyELfeHmkiOI24.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kmsQS41qQ2iuAL25FTGoAqgciOv.jpg",
       "genres": [
         "документальный"
       ]

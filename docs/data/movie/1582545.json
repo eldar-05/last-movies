@@ -1,0 +1,26 @@
+{
+  "id": 1582545,
+  "title": "Tranzit Venuše",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-19",
+  "runtime": 63,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "cs",
+  "spoken_languages": [
+    "Czech"
+  ],
+  "production_countries": [
+    "CZ"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/kmsQS41qQ2iuAL25FTGoAqgciOv.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/p3iwSPT91wNXS1NIfzH5MGbptGa.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1582545",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-19T12:26:53.194682+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

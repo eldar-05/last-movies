@@ -5,8 +5,8 @@
   "overview": "",
   "release_date": "2025-11-19",
   "runtime": 7,
-  "vote_average": 0.0,
-  "vote_count": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
   "genres": [
     "драма"
   ],
@@ -17,6 +17,6 @@
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1583478",
   "trailer": null,
-  "fetched_at_utc": "2025-11-19T06:20:11.349530+00:00",
+  "fetched_at_utc": "2025-11-19T12:26:51.009605+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
