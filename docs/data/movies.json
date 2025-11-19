@@ -1,21 +1,43 @@
 {
-  "fetched_at_utc": "2025-11-19T12:26:53.195113+00:00",
+  "fetched_at_utc": "2025-11-19T18:19:05.844486+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1583855,
+      "title": "O Silêncio Dos Mortos",
+      "release_date": "2025-11-19",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1583830,
+      "title": "Magicman Cowboy",
+      "release_date": "2025-11-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mHQgCmu0epawr9aGnkfObYueZd4.jpg",
+      "genres": [
+        "комедия",
+        "вестерн",
+        "боевик"
+      ]
+    },
+    {
       "id": 1583657,
       "title": "Ingen F*cker med Min Far",
       "release_date": "2025-11-19",
-      "vote_average": 0.0,
+      "vote_average": 10.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/1Yxm4Ciw5jjAPri0RXQo7upD2Vk.jpg",
       "genres": []
     },
     {
       "id": 1583652,
       "title": "Didier, moi et les autres… Les Enfants du silence",
-      "release_date": "",
+      "release_date": "2025-11-19",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/w8U8W19sjng4L6yPjBtvR38pinQ.jpg",
       "genres": [
@@ -25,7 +47,7 @@
     {
       "id": 1583612,
       "title": "Antonio",
-      "release_date": "",
+      "release_date": "2025-11-19",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
@@ -84,26 +106,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/p9Otf0io0vtDwJKOxK2e5ABEX0Q.jpg",
       "genres": [
         "комедия"
-      ]
-    },
-    {
-      "id": 1582905,
-      "title": "离恨谷",
-      "release_date": "2025-11-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/k3E00aqcquRlgvsgevNjJeCQA1P.jpg",
-      "genres": [
-        "боевик"
-      ]
-    },
-    {
-      "id": 1582545,
-      "title": "Tranzit Venuše",
-      "release_date": "2025-11-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kmsQS41qQ2iuAL25FTGoAqgciOv.jpg",
-      "genres": [
-        "документальный"
       ]
     }
   ],

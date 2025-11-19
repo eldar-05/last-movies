@@ -5,8 +5,8 @@
   "overview": "",
   "release_date": "2025-11-19",
   "runtime": 0,
-  "vote_average": 0.0,
-  "vote_count": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
   "genres": [],
   "original_language": "da",
   "spoken_languages": [
@@ -19,6 +19,6 @@
   "backdrop_url": "https://image.tmdb.org/t/p/w780/8TcT657BbWI2csQgMsFVWO0AoJ9.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1583657",
   "trailer": null,
-  "fetched_at_utc": "2025-11-19T12:26:49.929406+00:00",
+  "fetched_at_utc": "2025-11-19T18:19:03.196116+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
