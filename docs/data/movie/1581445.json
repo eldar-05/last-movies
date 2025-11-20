@@ -1,0 +1,26 @@
+{
+  "id": 1581445,
+  "title": "Sof.IA",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-20",
+  "runtime": 8,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фэнтези"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "AR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/qGtglUaeGgOPRxe3ATCtHeIxTJ7.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1581445",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-20T00:59:50.889269+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

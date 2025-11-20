@@ -1,0 +1,26 @@
+{
+  "id": 1580875,
+  "title": "El pasillo",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-20",
+  "runtime": 15,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фэнтези"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "AR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/lG5hGdzI89onqkoq5PIxyy1QAd0.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1580875",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-20T00:59:52.148609+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,111 +1,107 @@
 {
-  "fetched_at_utc": "2025-11-19T18:19:05.844486+00:00",
+  "fetched_at_utc": "2025-11-20T00:59:52.149080+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1583855,
-      "title": "O Silêncio Dos Mortos",
-      "release_date": "2025-11-19",
+      "id": 1584023,
+      "title": "Les Oiselles",
+      "release_date": "2025-11-20",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "ужасы"
+        "документальный"
       ]
     },
     {
-      "id": 1583830,
-      "title": "Magicman Cowboy",
-      "release_date": "2025-11-19",
+      "id": 1583741,
+      "title": "Dengbêjên Me",
+      "release_date": "2025-11-20",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mHQgCmu0epawr9aGnkfObYueZd4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bjqzlubRFOrJFCi8LmFnZyPojmw.jpg",
       "genres": [
-        "комедия",
-        "вестерн",
-        "боевик"
+        "документальный"
       ]
     },
     {
-      "id": 1583657,
-      "title": "Ingen F*cker med Min Far",
-      "release_date": "2025-11-19",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1Yxm4Ciw5jjAPri0RXQo7upD2Vk.jpg",
+      "id": 1583573,
+      "title": "NOIR",
+      "release_date": "2025-11-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tXfRP4ZXd26I89TthHRxiHj9rql.jpg",
+      "genres": [
+        "криминал",
+        "ужасы",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1583305,
+      "title": "Lágrimas da pele",
+      "release_date": "2025-11-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fZok7WiXNmIh9ulIsYAp43LoQzK.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1582782,
+      "title": "تاني يوم",
+      "release_date": "2025-11-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jKWBqycMBzXZpUrNe917nLMBWwX.jpg",
       "genres": []
     },
     {
-      "id": 1583652,
-      "title": "Didier, moi et les autres… Les Enfants du silence",
-      "release_date": "2025-11-19",
+      "id": 1581445,
+      "title": "Sof.IA",
+      "release_date": "2025-11-20",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/w8U8W19sjng4L6yPjBtvR38pinQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qGtglUaeGgOPRxe3ATCtHeIxTJ7.jpg",
+      "genres": [
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1581272,
+      "title": "Canyon Light",
+      "release_date": "2025-11-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qLKuWTT3Xtjf47mKWSw9fPtKFo1.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1583612,
-      "title": "Antonio",
-      "release_date": "2025-11-19",
+      "id": 1581271,
+      "title": "The Media at War",
+      "release_date": "2025-11-20",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "боевик",
-        "приключения"
-      ]
-    },
-    {
-      "id": 1583478,
-      "title": "Horas Mortas",
-      "release_date": "2025-11-19",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/l0TNCd8nmpADFPURtY5v9JjX2Y5.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1583457,
-      "title": "PROXY",
-      "release_date": "2025-11-19",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "фантастика"
-      ]
-    },
-    {
-      "id": 1583105,
-      "title": "산토스를 찾아서",
-      "release_date": "2025-11-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xupJxQMmzWf4pxXzTLsOKgFXD3A.jpg",
-      "genres": [
-        "драма",
-        "комедия",
-        "музыка",
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1583103,
-      "title": "The Limbo within BARDO",
-      "release_date": "2025-11-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/w5OxAthOBSK5b8wzmSAICqevdCo.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/a3fpokZ63RyGoF84ub3TQ4GhGqt.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1582915,
-      "title": "Pablo Mira : Passé simple",
-      "release_date": "2025-11-19",
+      "id": 1581157,
+      "title": "บักสิเด๋อ ฮีโร่พันธุ์บ๊องส์",
+      "release_date": "2025-11-20",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/p9Otf0io0vtDwJKOxK2e5ABEX0Q.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/a8wfJ8k0c94o2FpoEQjNV2vG0ST.jpg",
       "genres": [
         "комедия"
+      ]
+    },
+    {
+      "id": 1580875,
+      "title": "El pasillo",
+      "release_date": "2025-11-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lG5hGdzI89onqkoq5PIxyy1QAd0.jpg",
+      "genres": [
+        "фэнтези"
       ]
     }
   ],
