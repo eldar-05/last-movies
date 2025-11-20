@@ -1,9 +1,20 @@
 {
-  "fetched_at_utc": "2025-11-20T12:26:39.921460+00:00",
+  "fetched_at_utc": "2025-11-20T18:19:11.858971+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1584423,
+      "title": "Desabafos de um Prendedor de Roupas",
+      "release_date": "2025-11-20",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
     {
       "id": 1584257,
       "title": "Constantinos",
@@ -33,7 +44,8 @@
       "vote_average": 8.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/cnjmikuwxmCez3C9ER5H0GSJdAK.jpg",
       "genres": [
-        "документальный"
+        "документальный",
+        "драма"
       ]
     },
     {
@@ -47,6 +59,16 @@
       ]
     },
     {
+      "id": 1584024,
+      "title": "Où vont les castors ?",
+      "release_date": "2025-11-20",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
       "id": 1584023,
       "title": "Les Oiselles",
       "release_date": "2025-11-20",
@@ -54,6 +76,17 @@
       "poster_url": null,
       "genres": [
         "документальный"
+      ]
+    },
+    {
+      "id": 1583879,
+      "title": "Attention",
+      "release_date": "2025-11-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kHqgBvJRicypOCgsUvUMu7O5fVJ.jpg",
+      "genres": [
+        "триллер",
+        "ужасы"
       ]
     },
     {
@@ -76,34 +109,6 @@
         "криминал",
         "ужасы",
         "детектив"
-      ]
-    },
-    {
-      "id": 1583305,
-      "title": "Lágrimas da pele",
-      "release_date": "2025-11-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fZok7WiXNmIh9ulIsYAp43LoQzK.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1582782,
-      "title": "تاني يوم",
-      "release_date": "2025-11-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jKWBqycMBzXZpUrNe917nLMBWwX.jpg",
-      "genres": []
-    },
-    {
-      "id": 1581445,
-      "title": "Sof.IA",
-      "release_date": "2025-11-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qGtglUaeGgOPRxe3ATCtHeIxTJ7.jpg",
-      "genres": [
-        "фэнтези"
       ]
     }
   ],
