@@ -1,9 +1,51 @@
 {
-  "fetched_at_utc": "2025-11-20T06:19:24.936614+00:00",
+  "fetched_at_utc": "2025-11-20T12:26:39.921460+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1584257,
+      "title": "Constantinos",
+      "release_date": "2025-11-20",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1584222,
+      "title": "Реклама Санкт-Петербурга",
+      "release_date": "2025-11-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vlvOvUmaoEYyw1Mn7ta4sYUyfWP.jpg",
+      "genres": [
+        "комедия",
+        "криминал",
+        "драма"
+      ]
+    },
+    {
+      "id": 1584221,
+      "title": "Red Flags – c’est pas ça l’amour",
+      "release_date": "2025-11-20",
+      "vote_average": 8.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cnjmikuwxmCez3C9ER5H0GSJdAK.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1584123,
+      "title": "There Was a Darkness",
+      "release_date": "2025-11-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pWBE8yqNrKPEb3EOfGEfzVIbvvl.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1584023,
       "title": "Les Oiselles",
@@ -60,46 +102,6 @@
       "release_date": "2025-11-20",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/qGtglUaeGgOPRxe3ATCtHeIxTJ7.jpg",
-      "genres": [
-        "фэнтези"
-      ]
-    },
-    {
-      "id": 1581272,
-      "title": "Canyon Light",
-      "release_date": "2025-11-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qLKuWTT3Xtjf47mKWSw9fPtKFo1.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1581271,
-      "title": "The Media at War",
-      "release_date": "2025-11-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/a3fpokZ63RyGoF84ub3TQ4GhGqt.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1581157,
-      "title": "บักสิเด๋อ ฮีโร่พันธุ์บ๊องส์",
-      "release_date": "2025-11-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/a8wfJ8k0c94o2FpoEQjNV2vG0ST.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1580875,
-      "title": "El pasillo",
-      "release_date": "2025-11-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lG5hGdzI89onqkoq5PIxyy1QAd0.jpg",
       "genres": [
         "фэнтези"
       ]

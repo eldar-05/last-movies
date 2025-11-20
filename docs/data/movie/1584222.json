@@ -1,0 +1,28 @@
+{
+  "id": 1584222,
+  "title": "Реклама Санкт-Петербурга",
+  "tagline": "",
+  "overview": "Подробная инструкция по обретению известности на телевидении своего региона в роли ведущего.",
+  "release_date": "2025-11-20",
+  "runtime": 19,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "криминал",
+    "драма"
+  ],
+  "original_language": "ru",
+  "spoken_languages": [
+    "Russian"
+  ],
+  "production_countries": [
+    "RU"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/vlvOvUmaoEYyw1Mn7ta4sYUyfWP.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1584222",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-20T12:26:37.040458+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
