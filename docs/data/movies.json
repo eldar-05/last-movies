@@ -1,67 +1,87 @@
 {
-  "fetched_at_utc": "2025-11-20T18:19:11.858971+00:00",
+  "fetched_at_utc": "2025-11-21T01:00:29.403760+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1584423,
-      "title": "Desabafos de um Prendedor de Roupas",
-      "release_date": "2025-11-20",
+      "id": 1584690,
+      "title": "Argini",
+      "release_date": "2025-11-21",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1584656,
+      "title": "ODE TO GERHARD LYNCH",
+      "release_date": "2025-11-21",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1584584,
+      "title": "Portal Ended Dreams",
+      "release_date": "",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "драма",
-        "комедия"
+        "ужасы",
+        "драма"
       ]
     },
     {
-      "id": 1584257,
-      "title": "Constantinos",
-      "release_date": "2025-11-20",
+      "id": 1584506,
+      "title": "April",
+      "release_date": "2025-11-21",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1584222,
-      "title": "Реклама Санкт-Петербурга",
-      "release_date": "2025-11-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vlvOvUmaoEYyw1Mn7ta4sYUyfWP.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rrLsxdp8FFnr3rTolyK4QZwtR5A.jpg",
       "genres": [
         "комедия",
-        "криминал",
-        "драма"
+        "боевик",
+        "мелодрама",
+        "мультфильм",
+        "фэнтези"
       ]
     },
     {
-      "id": 1584221,
-      "title": "Red Flags – c’est pas ça l’amour",
-      "release_date": "2025-11-20",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cnjmikuwxmCez3C9ER5H0GSJdAK.jpg",
-      "genres": [
-        "документальный",
-        "драма"
-      ]
-    },
-    {
-      "id": 1584123,
-      "title": "There Was a Darkness",
-      "release_date": "2025-11-20",
+      "id": 1584500,
+      "title": "Joyeux anniversaire!",
+      "release_date": "2025-11-21",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pWBE8yqNrKPEb3EOfGEfzVIbvvl.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cTCmhXHGNRdSoPcJxQfqzbt12Dg.jpg",
       "genres": [
-        "документальный"
+        "комедия",
+        "драма",
+        "семейный"
       ]
     },
     {
-      "id": 1584024,
-      "title": "Où vont les castors ?",
-      "release_date": "2025-11-20",
+      "id": 1584265,
+      "title": "Unfair Routes",
+      "release_date": "2025-11-21",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1584179,
+      "title": "'CHRISTOPHER CORNSTALK'",
+      "release_date": "2025-11-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2CQCpZ7EciDF2dd8aJ9XSFMYkM9.jpg",
+      "genres": [
+        "комедия",
+        "история"
+      ]
+    },
+    {
+      "id": 1584021,
+      "title": "Mon dernier sera pour toi",
+      "release_date": "2025-11-21",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
@@ -69,46 +89,21 @@
       ]
     },
     {
-      "id": 1584023,
-      "title": "Les Oiselles",
-      "release_date": "2025-11-20",
+      "id": 1583578,
+      "title": "Woosh",
+      "release_date": "2025-11-21",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/eRmyY5IVYATiyT5R2Qnq0aoaeO2.jpg",
+      "genres": []
+    },
+    {
+      "id": 1582852,
+      "title": "Le Temple d'Auguste et de Livie vu près de Saint-Prim",
+      "release_date": "2025-11-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hBoVuvk6zySBAOnZmZNuedftMcS.jpg",
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1583879,
-      "title": "Attention",
-      "release_date": "2025-11-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kHqgBvJRicypOCgsUvUMu7O5fVJ.jpg",
-      "genres": [
-        "триллер",
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1583741,
-      "title": "Dengbêjên Me",
-      "release_date": "2025-11-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bjqzlubRFOrJFCi8LmFnZyPojmw.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1583573,
-      "title": "NOIR",
-      "release_date": "2025-11-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tXfRP4ZXd26I89TthHRxiHj9rql.jpg",
-      "genres": [
-        "криминал",
-        "ужасы",
-        "детектив"
       ]
     }
   ],
