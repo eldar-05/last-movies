@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-11-21T01:00:29.403760+00:00",
+  "fetched_at_utc": "2025-11-21T06:20:33.177461+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -16,16 +16,16 @@
       "id": 1584656,
       "title": "ODE TO GERHARD LYNCH",
       "release_date": "2025-11-21",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5bQTEQYskjSLOlW2W9Pa0ORCeUn.jpg",
       "genres": []
     },
     {
       "id": 1584584,
       "title": "Portal Ended Dreams",
-      "release_date": "",
+      "release_date": "2025-11-21",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qWhLEwvXwJsaRzWSo6IHnvI9ITZ.jpg",
       "genres": [
         "ужасы",
         "драма"
