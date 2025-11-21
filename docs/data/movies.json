@@ -1,9 +1,52 @@
 {
-  "fetched_at_utc": "2025-11-21T06:20:33.177461+00:00",
+  "fetched_at_utc": "2025-11-21T12:25:03.912666+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1584853,
+      "title": "Memoria",
+      "release_date": "2025-11-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/uHtRZoGVaA1uCF1l8hAsFB3HgBg.jpg",
+      "genres": [
+        "драма",
+        "мелодрама",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1584785,
+      "title": "The Hollow Rabbit",
+      "release_date": "2025-11-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hAV8mS95O0dg0uqRK6LkDKzbfKo.jpg",
+      "genres": [
+        "триллер",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1584784,
+      "title": "Redpilled",
+      "release_date": "2025-11-21",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1584745,
+      "title": "Sacrificium",
+      "release_date": "2025-11-21",
+      "vote_average": 10.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы"
+      ]
+    },
     {
       "id": 1584690,
       "title": "Argini",
@@ -65,45 +108,6 @@
       "poster_url": null,
       "genres": [
         "драма"
-      ]
-    },
-    {
-      "id": 1584179,
-      "title": "'CHRISTOPHER CORNSTALK'",
-      "release_date": "2025-11-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2CQCpZ7EciDF2dd8aJ9XSFMYkM9.jpg",
-      "genres": [
-        "комедия",
-        "история"
-      ]
-    },
-    {
-      "id": 1584021,
-      "title": "Mon dernier sera pour toi",
-      "release_date": "2025-11-21",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1583578,
-      "title": "Woosh",
-      "release_date": "2025-11-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eRmyY5IVYATiyT5R2Qnq0aoaeO2.jpg",
-      "genres": []
-    },
-    {
-      "id": 1582852,
-      "title": "Le Temple d'Auguste et de Livie vu près de Saint-Prim",
-      "release_date": "2025-11-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hBoVuvk6zySBAOnZmZNuedftMcS.jpg",
-      "genres": [
-        "документальный"
       ]
     }
   ],

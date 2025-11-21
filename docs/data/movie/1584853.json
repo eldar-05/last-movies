@@ -1,0 +1,29 @@
+{
+  "id": 1584853,
+  "title": "Memoria",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-21",
+  "runtime": 19,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "мелодрама",
+    "фэнтези"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "PA",
+    "AR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/uHtRZoGVaA1uCF1l8hAsFB3HgBg.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/pQ9zFZtZ5m54Zk79ULEooZnm9Fl.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1584853",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-21T12:25:00.097164+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

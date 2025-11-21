@@ -1,0 +1,28 @@
+{
+  "id": 1584784,
+  "title": "Redpilled",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-21",
+  "runtime": 17,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1584784",
+  "trailer": {
+    "key": "PgsT3qCGXzU",
+    "name": "REDPILLED TRAILER",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-11-21T12:25:00.721919+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

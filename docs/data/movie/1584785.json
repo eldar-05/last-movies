@@ -1,0 +1,27 @@
+{
+  "id": 1584785,
+  "title": "The Hollow Rabbit",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-21",
+  "runtime": 17,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "ужасы"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/hAV8mS95O0dg0uqRK6LkDKzbfKo.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/zopcrERcglKTmRWN5r0abfyM4Tv.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1584785",
+  "trailer": {
+    "key": "ERis1cdeLpc",
+    "name": "The Hollow Rabbit – Psychological Horror Short Film (Teaser Trailer)",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-11-21T12:25:00.413780+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
