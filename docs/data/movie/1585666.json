@@ -1,0 +1,24 @@
+{
+  "id": 1585666,
+  "title": "Knowledge Edge",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-22",
+  "runtime": 2,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "ужасы",
+    "музыка"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/hLIuvsPgw8Q31gUFRfLPfQATXtw.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1585666",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-22T18:17:05.127303+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

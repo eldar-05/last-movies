@@ -1,9 +1,51 @@
 {
-  "fetched_at_utc": "2025-11-22T12:21:51.997985+00:00",
+  "fetched_at_utc": "2025-11-22T18:17:06.779365+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1585701,
+      "title": "La vie de Nicolas",
+      "release_date": "2025-11-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/y8lXTcbsCKgX8XWZDZLhKqW0Nef.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1585666,
+      "title": "Knowledge Edge",
+      "release_date": "2025-11-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hLIuvsPgw8Q31gUFRfLPfQATXtw.jpg",
+      "genres": [
+        "комедия",
+        "ужасы",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1585530,
+      "title": "L'hermite",
+      "release_date": "2025-11-22",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1585526,
+      "title": "1799, diario",
+      "release_date": "2025-11-22",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1585352,
       "title": "Wild Eyed Boy from Freecloud",
@@ -30,7 +72,7 @@
       "title": "Una Vaga Sagoma",
       "release_date": "2025-11-22",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ca3vtJokHr2njy1uZObG5qSNxFa.jpg",
       "genres": []
     },
     {
@@ -56,40 +98,6 @@
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
-    },
-    {
-      "id": 1585283,
-      "title": "Sekutu Sejajar",
-      "release_date": "2025-11-22",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1585282,
-      "title": "Tidak Ada yang Mati di Sini",
-      "release_date": "2025-11-22",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1585280,
-      "title": "Pedang Pena",
-      "release_date": "2025-11-22",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1585270,
-      "title": "Glass Bottom Ferry. On Borders and Submerged Utopias",
-      "release_date": "2025-11-22",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
     }
   ],
   "source": "TMDB",

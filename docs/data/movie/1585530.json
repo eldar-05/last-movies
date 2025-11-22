@@ -1,24 +1,22 @@
 {
-  "id": 1585337,
-  "title": "Rangsot Ita",
+  "id": 1585530,
+  "title": "L'hermite",
   "tagline": "",
   "overview": "",
   "release_date": "2025-11-22",
-  "runtime": 90,
+  "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
     "документальный"
   ],
-  "original_language": "id",
+  "original_language": "it",
   "spoken_languages": [],
-  "production_countries": [
-    "ID"
-  ],
+  "production_countries": [],
   "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1585337",
+  "tmdb_url": "https://www.themoviedb.org/movie/1585530",
   "trailer": null,
-  "fetched_at_utc": "2025-11-22T18:17:05.957473+00:00",
+  "fetched_at_utc": "2025-11-22T18:17:05.337211+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
