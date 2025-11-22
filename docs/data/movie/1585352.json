@@ -12,12 +12,16 @@
     "детектив"
   ],
   "original_language": "en",
-  "spoken_languages": [],
-  "production_countries": [],
+  "spoken_languages": [
+    "No Language"
+  ],
+  "production_countries": [
+    "US"
+  ],
   "poster_url": "https://image.tmdb.org/t/p/w500/8uqeGCctXzDiszUnyJlWC56wsEk.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/a4mwzPf9P0B36xdCQPdvJg6qhAk.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1585352",
   "trailer": null,
-  "fetched_at_utc": "2025-11-22T06:17:29.568356+00:00",
+  "fetched_at_utc": "2025-11-22T12:21:50.625960+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
