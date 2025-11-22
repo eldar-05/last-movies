@@ -1,113 +1,94 @@
 {
-  "fetched_at_utc": "2025-11-21T18:18:47.107473+00:00",
+  "fetched_at_utc": "2025-11-22T00:58:28.568840+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1584853,
-      "title": "Memoria",
-      "release_date": "2025-11-21",
+      "id": 1585352,
+      "title": "Wild Eyed Boy from Freecloud",
+      "release_date": "2025-11-22",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uHtRZoGVaA1uCF1l8hAsFB3HgBg.jpg",
-      "genres": [
-        "драма",
-        "мелодрама",
-        "фэнтези"
-      ]
-    },
-    {
-      "id": 1584785,
-      "title": "The Hollow Rabbit",
-      "release_date": "2025-11-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hAV8mS95O0dg0uqRK6LkDKzbfKo.jpg",
-      "genres": [
-        "триллер",
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1584784,
-      "title": "Redpilled",
-      "release_date": "2025-11-21",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1584745,
-      "title": "Sacrificium",
-      "release_date": "2025-11-21",
-      "vote_average": 10.0,
-      "poster_url": null,
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1584690,
-      "title": "Argini",
-      "release_date": "2025-11-21",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1584656,
-      "title": "ODE TO GERHARD LYNCH",
-      "release_date": "2025-11-21",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5bQTEQYskjSLOlW2W9Pa0ORCeUn.jpg",
-      "genres": []
-    },
-    {
-      "id": 1584584,
-      "title": "Portal Ended Dreams",
-      "release_date": "2025-11-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qWhLEwvXwJsaRzWSo6IHnvI9ITZ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8uqeGCctXzDiszUnyJlWC56wsEk.jpg",
       "genres": [
         "ужасы",
-        "драма"
+        "детектив"
       ]
     },
     {
-      "id": 1584506,
-      "title": "April",
-      "release_date": "2025-11-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rrLsxdp8FFnr3rTolyK4QZwtR5A.jpg",
-      "genres": [
-        "комедия",
-        "боевик",
-        "мелодрама",
-        "мультфильм",
-        "фэнтези"
-      ]
-    },
-    {
-      "id": 1584500,
-      "title": "Joyeux anniversaire!",
-      "release_date": "2025-11-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cTCmhXHGNRdSoPcJxQfqzbt12Dg.jpg",
-      "genres": [
-        "комедия",
-        "драма",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1584265,
-      "title": "Unfair Routes",
-      "release_date": "2025-11-21",
+      "id": 1585337,
+      "title": "Rangsot Ita",
+      "release_date": "2025-11-22",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "драма"
+        "документальный"
+      ]
+    },
+    {
+      "id": 1585317,
+      "title": "Una Vaga Sagoma",
+      "release_date": "2025-11-22",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1585290,
+      "title": "Sampi",
+      "release_date": "2025-11-22",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1585288,
+      "title": "Rumah",
+      "release_date": "2025-11-22",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1585284,
+      "title": "Di Kamar Melquiades: Kausa-Prima",
+      "release_date": "2025-11-22",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1585283,
+      "title": "Sekutu Sejajar",
+      "release_date": "2025-11-22",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1585282,
+      "title": "Tidak Ada yang Mati di Sini",
+      "release_date": "2025-11-22",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1585280,
+      "title": "Pedang Pena",
+      "release_date": "2025-11-22",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1585270,
+      "title": "Glass Bottom Ferry. On Borders and Submerged Utopias",
+      "release_date": "2025-11-22",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
       ]
     }
   ],
