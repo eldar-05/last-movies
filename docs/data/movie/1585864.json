@@ -1,0 +1,23 @@
+{
+  "id": 1585864,
+  "title": "Bon Appetit (Remake)",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-23",
+  "runtime": 1,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "ужасы",
+    "триллер"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/g29XNe2lEbO7PMHaoD394E3c22w.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/uCXwKUHbdJg3Jnu3TPBafQWxJVB.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1585864",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-23T01:09:21.479338+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

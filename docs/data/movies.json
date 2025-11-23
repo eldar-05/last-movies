@@ -1,35 +1,93 @@
 {
-  "fetched_at_utc": "2025-11-22T18:17:06.779365+00:00",
+  "fetched_at_utc": "2025-11-23T01:09:24.498948+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1585701,
-      "title": "La vie de Nicolas",
-      "release_date": "2025-11-22",
+      "id": 1585864,
+      "title": "Bon Appetit (Remake)",
+      "release_date": "2025-11-23",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/g29XNe2lEbO7PMHaoD394E3c22w.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1585728,
+      "title": "for KING + COUNTRY: NO TURNING BACK",
+      "release_date": "2025-11-23",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/y8lXTcbsCKgX8XWZDZLhKqW0Nef.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qIFXT8pSW6Zd19pmyzZk8cCT2GZ.jpg",
+      "genres": [
+        "документальный",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1585321,
+      "title": "The Key to the Past",
+      "release_date": "2025-11-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ecErPKfATwb95wuxgGXk5JKrZS0.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1585314,
+      "title": "salamat pagsinean",
+      "release_date": "2025-11-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rx2nPmRtFprjZQ54F6TkXsmNi4A.jpg",
+      "genres": []
+    },
+    {
+      "id": 1585277,
+      "title": "The Last Accord: War, Apocalypse, and Peace",
+      "release_date": "2025-11-23",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1585253,
+      "title": "Tupon",
+      "release_date": "2025-11-23",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1585122,
+      "title": "Shoot From The Hip #1",
+      "release_date": "2025-11-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yJhK09YngKo1Mrw6wk5segF2tHM.jpg",
       "genres": [
         "комедия"
       ]
     },
     {
-      "id": 1585666,
-      "title": "Knowledge Edge",
-      "release_date": "2025-11-22",
+      "id": 1585050,
+      "title": "On n'est pas des racailles",
+      "release_date": "2025-11-23",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hLIuvsPgw8Q31gUFRfLPfQATXtw.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xIRGs0o7O9xDIFg2mYhgGz1dWNB.jpg",
       "genres": [
-        "комедия",
-        "ужасы",
-        "музыка"
+        "документальный"
       ]
     },
     {
-      "id": 1585530,
-      "title": "L'hermite",
-      "release_date": "2025-11-22",
+      "id": 1584702,
+      "title": "I colori del silenzio",
+      "release_date": "2025-11-23",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
@@ -37,64 +95,9 @@
       ]
     },
     {
-      "id": 1585526,
-      "title": "1799, diario",
-      "release_date": "2025-11-22",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1585352,
-      "title": "Wild Eyed Boy from Freecloud",
-      "release_date": "2025-11-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8uqeGCctXzDiszUnyJlWC56wsEk.jpg",
-      "genres": [
-        "ужасы",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1585337,
-      "title": "Rangsot Ita",
-      "release_date": "2025-11-22",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1585317,
-      "title": "Una Vaga Sagoma",
-      "release_date": "2025-11-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ca3vtJokHr2njy1uZObG5qSNxFa.jpg",
-      "genres": []
-    },
-    {
-      "id": 1585290,
-      "title": "Sampi",
-      "release_date": "2025-11-22",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1585288,
-      "title": "Rumah",
-      "release_date": "2025-11-22",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1585284,
-      "title": "Di Kamar Melquiades: Kausa-Prima",
-      "release_date": "2025-11-22",
+      "id": 1584699,
+      "title": "Cocci",
+      "release_date": "2025-11-23",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
