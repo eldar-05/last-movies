@@ -1,9 +1,19 @@
 {
-  "fetched_at_utc": "2025-11-23T06:18:29.717655+00:00",
+  "fetched_at_utc": "2025-11-23T12:21:57.942074+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1585983,
+      "title": "Lorsque l'enfant paraît",
+      "release_date": "2025-11-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vVq2MbG46lx6plVyJxvOwzm5bhz.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
     {
       "id": 1585864,
       "title": "Bon Appetit (Remake)",
@@ -93,14 +103,6 @@
       "genres": [
         "документальный"
       ]
-    },
-    {
-      "id": 1584699,
-      "title": "Cocci",
-      "release_date": "2025-11-23",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
     }
   ],
   "source": "TMDB",
