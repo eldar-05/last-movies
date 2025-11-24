@@ -1,9 +1,56 @@
 {
-  "fetched_at_utc": "2025-11-24T12:27:05.306691+00:00",
+  "fetched_at_utc": "2025-11-24T18:20:22.925828+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1586833,
+      "title": "THE BACKSTAGE | TORINO - Il myo primo documentario",
+      "release_date": "2025-11-24",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1586764,
+      "title": "Brigitte Macron : son combat contre le mensonge",
+      "release_date": "2025-11-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1q7x7IU5Ev0oUbcIrX4dGhV234p.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1586719,
+      "title": "La traque",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1586698,
+      "title": "Nos derniers souvenirs",
+      "release_date": "2025-11-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tbBluuQJ2IGSNITOtDXflrrQU4j.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1586627,
+      "title": "Time to Listen",
+      "release_date": "2025-11-24",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
     {
       "id": 1586413,
       "title": "PSIBOT",
@@ -53,48 +100,6 @@
         "криминал",
         "фантастика"
       ]
-    },
-    {
-      "id": 1585301,
-      "title": "Bisikan Terumbu",
-      "release_date": "2025-11-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hKlJdteIAFpWKZRItRGaWEwlK9x.jpg",
-      "genres": []
-    },
-    {
-      "id": 1585297,
-      "title": "Inggi Kaliuda",
-      "release_date": "2025-11-24",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1585296,
-      "title": "The Red Egg",
-      "release_date": "2025-11-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rjm6emk6xVTeLgurbO9wxzgBTdM.jpg",
-      "genres": []
-    },
-    {
-      "id": 1585294,
-      "title": "Daerah Istimewa Yogyakarta",
-      "release_date": "2025-11-24",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1585293,
-      "title": "Maragap Humbayang",
-      "release_date": "2025-11-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rcRzaIIqbBkWUsqWKdhdgLpGs0I.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",
