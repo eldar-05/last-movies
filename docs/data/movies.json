@@ -1,63 +1,71 @@
 {
-  "fetched_at_utc": "2025-11-23T18:17:26.066833+00:00",
+  "fetched_at_utc": "2025-11-24T01:05:20.890022+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1585983,
-      "title": "Lorsque l'enfant paraît",
-      "release_date": "2025-11-23",
+      "id": 1586413,
+      "title": "PSIBOT",
+      "release_date": "2025-11-24",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vVq2MbG46lx6plVyJxvOwzm5bhz.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4yx3qhKfjcLuE8XHoYVA1YtgONF.jpg",
       "genres": [
+        "ужасы",
+        "фантастика",
         "комедия"
       ]
     },
     {
-      "id": 1585864,
-      "title": "Bon Appetit (Remake)",
-      "release_date": "2025-11-23",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/g29XNe2lEbO7PMHaoD394E3c22w.jpg",
+      "id": 1585674,
+      "title": "Res Extensa",
+      "release_date": "2025-11-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/7TAr1RQULyDT40zfugMlqxHyh3Q.jpg",
       "genres": [
-        "ужасы",
-        "триллер"
+        "ужасы"
       ]
     },
     {
-      "id": 1585728,
-      "title": "for KING + COUNTRY: NO TURNING BACK",
-      "release_date": "2025-11-23",
+      "id": 1585386,
+      "title": "Male Gaze: Heavenly Creatures",
+      "release_date": "2025-11-24",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qIFXT8pSW6Zd19pmyzZk8cCT2GZ.jpg",
-      "genres": [
-        "документальный",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1585321,
-      "title": "The Key to the Past",
-      "release_date": "2025-11-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ecErPKfATwb95wuxgGXk5JKrZS0.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1585314,
-      "title": "salamat pagsinean",
-      "release_date": "2025-11-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rx2nPmRtFprjZQ54F6TkXsmNi4A.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nuBHB41OVmBtXrUpmC0HZueLAwV.jpg",
       "genres": []
     },
     {
-      "id": 1585277,
-      "title": "The Last Accord: War, Apocalypse, and Peace",
-      "release_date": "2025-11-23",
+      "id": 1585383,
+      "title": "Upon Her Lips: Open Secrets",
+      "release_date": "2025-11-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/i5Aw1VQDZE2jubrZ7a7NtdrYpIa.jpg",
+      "genres": []
+    },
+    {
+      "id": 1585360,
+      "title": "Dois Caras de Terno",
+      "release_date": "2025-11-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/amEmBk0iO5ZmGWg3PF62hwJhNus.jpg",
+      "genres": [
+        "комедия",
+        "криминал",
+        "фантастика"
+      ]
+    },
+    {
+      "id": 1585301,
+      "title": "Bisikan Terumbu",
+      "release_date": "2025-11-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hKlJdteIAFpWKZRItRGaWEwlK9x.jpg",
+      "genres": []
+    },
+    {
+      "id": 1585297,
+      "title": "Inggi Kaliuda",
+      "release_date": "2025-11-24",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
@@ -65,44 +73,28 @@
       ]
     },
     {
-      "id": 1585253,
-      "title": "Tupon",
-      "release_date": "2025-11-23",
+      "id": 1585296,
+      "title": "The Red Egg",
+      "release_date": "2025-11-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rjm6emk6xVTeLgurbO9wxzgBTdM.jpg",
+      "genres": []
+    },
+    {
+      "id": 1585294,
+      "title": "Daerah Istimewa Yogyakarta",
+      "release_date": "2025-11-24",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
+      "genres": []
     },
     {
-      "id": 1585122,
-      "title": "Shoot From The Hip #1",
-      "release_date": "2025-11-23",
+      "id": 1585293,
+      "title": "Maragap Humbayang",
+      "release_date": "2025-11-24",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yJhK09YngKo1Mrw6wk5segF2tHM.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1585050,
-      "title": "On n'est pas des racailles",
-      "release_date": "2025-11-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xIRGs0o7O9xDIFg2mYhgGz1dWNB.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1584702,
-      "title": "I colori del silenzio",
-      "release_date": "2025-11-23",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/rcRzaIIqbBkWUsqWKdhdgLpGs0I.jpg",
+      "genres": []
     }
   ],
   "source": "TMDB",

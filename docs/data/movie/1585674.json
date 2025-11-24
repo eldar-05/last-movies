@@ -1,0 +1,26 @@
+{
+  "id": 1585674,
+  "title": "Res Extensa",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-24",
+  "runtime": 18,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "AR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/7TAr1RQULyDT40zfugMlqxHyh3Q.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1585674",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-24T01:05:19.288881+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

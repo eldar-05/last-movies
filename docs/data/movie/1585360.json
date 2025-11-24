@@ -1,0 +1,24 @@
+{
+  "id": 1585360,
+  "title": "Dois Caras de Terno",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-24",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "криминал",
+    "фантастика"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/amEmBk0iO5ZmGWg3PF62hwJhNus.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/1vRpp8IwVPcjDKb6q6WRVI35icJ.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1585360",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-24T01:05:19.870737+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
