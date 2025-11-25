@@ -3,20 +3,25 @@
   "title": "Memiliki Viola 7",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-11-25",
   "runtime": 10,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "криминал",
+    "драма"
+  ],
   "original_language": "id",
   "spoken_languages": [
     "Indonesian"
   ],
-  "production_countries": [],
+  "production_countries": [
+    "ID"
+  ],
   "poster_url": "https://image.tmdb.org/t/p/w500/fatBw5rhzXR2Z5voyO2GMmZDhde.jpg",
-  "backdrop_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/13seSKLrGXzvPJpCFaBzm7PZURU.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1587129",
   "trailer": null,
-  "fetched_at_utc": "2025-11-25T12:27:40.068382+00:00",
+  "fetched_at_utc": "2025-11-25T18:20:28.303756+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

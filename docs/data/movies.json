@@ -1,9 +1,47 @@
 {
-  "fetched_at_utc": "2025-11-25T12:27:41.403517+00:00",
+  "fetched_at_utc": "2025-11-25T18:20:30.088006+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1587400,
+      "title": "Traquer l'invisible - Nos chercheurs face à la menace mondiale des virus et des bactéries",
+      "release_date": "2025-11-25",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1587363,
+      "title": "Transference",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/7moZSRxJZ2Za2K62QUqU16wBxYB.jpg",
+      "genres": []
+    },
+    {
+      "id": 1587359,
+      "title": "Telegram - Das dunkle Imperium von Pawel Durow",
+      "release_date": "2025-11-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kHzFIRaIMnivUjYdNGxFUMlYVEK.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1587337,
+      "title": "Die Macht des russischen Geheimdiensts",
+      "release_date": "2025-11-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aDMjQV1kjxnFpUIwX5lN7xdCoRe.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1587141,
       "title": "Does Economic Inequality Inevitably Lead To Political Inequality?",
@@ -15,7 +53,7 @@
     {
       "id": 1587129,
       "title": "Memiliki Viola 7",
-      "release_date": "",
+      "release_date": "2025-11-25",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/fatBw5rhzXR2Z5voyO2GMmZDhde.jpg",
       "genres": [
@@ -63,44 +101,6 @@
       "genres": [
         "ужасы"
       ]
-    },
-    {
-      "id": 1585179,
-      "title": "Este Does Not Make A Movie",
-      "release_date": "2025-11-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/clnnB5elQFlSWvZmm3gPLsxejzf.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1584754,
-      "title": "Deserto Vértigo",
-      "release_date": "2025-11-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/t7Ff6AxAoEdoZjUqi5aCjCLGufY.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1584751,
-      "title": "Esas ruinas",
-      "release_date": "2025-11-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/n3nPQVTPm0OaMRpLDLdO94ZyTC0.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1584666,
-      "title": "Zamino Zamaan",
-      "release_date": "2025-11-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bhXtK5xCkO3499ghhp8vg8Ne5Fp.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",

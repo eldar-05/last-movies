@@ -1,24 +1,22 @@
 {
-  "id": 1585826,
-  "title": "À demain.",
+  "id": 1587400,
+  "title": "Traquer l'invisible - Nos chercheurs face à la menace mondiale des virus et des bactéries",
   "tagline": "",
   "overview": "",
   "release_date": "2025-11-25",
-  "runtime": 7,
+  "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "ужасы"
+    "документальный"
   ],
   "original_language": "fr",
-  "spoken_languages": [
-    "French"
-  ],
+  "spoken_languages": [],
   "production_countries": [],
   "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1585826",
+  "tmdb_url": "https://www.themoviedb.org/movie/1587400",
   "trailer": null,
-  "fetched_at_utc": "2025-11-25T18:20:30.087390+00:00",
+  "fetched_at_utc": "2025-11-25T18:20:26.132104+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
