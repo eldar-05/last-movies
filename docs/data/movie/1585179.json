@@ -1,0 +1,28 @@
+{
+  "id": 1585179,
+  "title": "Este Does Not Make A Movie",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-25",
+  "runtime": 72,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/clnnB5elQFlSWvZmm3gPLsxejzf.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/rwl6jeZdEJ1hDuFSByF9aAWd7ub.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1585179",
+  "trailer": {
+    "key": "G9TlzdICPhI",
+    "name": "Este Does Not Make a Movie | Official Trailer | BayView Entertainment",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-11-25T01:00:32.990436+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,105 +1,101 @@
 {
-  "fetched_at_utc": "2025-11-24T18:20:22.925828+00:00",
+  "fetched_at_utc": "2025-11-25T01:00:35.378966+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1586833,
-      "title": "THE BACKSTAGE | TORINO - Il myo primo documentario",
-      "release_date": "2025-11-24",
+      "id": 1586763,
+      "title": "The December Blues",
+      "release_date": "2025-11-25",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/f5RQQOjCJYOfeOONRDhy2U0uMho.jpg",
       "genres": [
-        "документальный",
-        "музыка"
+        "мелодрама",
+        "драма"
       ]
     },
     {
-      "id": 1586764,
-      "title": "Brigitte Macron : son combat contre le mensonge",
-      "release_date": "2025-11-24",
+      "id": 1586726,
+      "title": "La flor del almendro",
+      "release_date": "2025-11-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1q7x7IU5Ev0oUbcIrX4dGhV234p.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qyvDn3tGLmZzVH3jQjVqzRwHgBj.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1586719,
-      "title": "La traque",
-      "release_date": "",
+      "id": 1585826,
+      "title": "À demain.",
+      "release_date": "2025-11-25",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1586698,
-      "title": "Nos derniers souvenirs",
-      "release_date": "2025-11-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tbBluuQJ2IGSNITOtDXflrrQU4j.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1586627,
-      "title": "Time to Listen",
-      "release_date": "2025-11-24",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1586413,
-      "title": "PSIBOT",
-      "release_date": "2025-11-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4yx3qhKfjcLuE8XHoYVA1YtgONF.jpg",
-      "genres": [
-        "ужасы",
-        "фантастика",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1585674,
-      "title": "Res Extensa",
-      "release_date": "2025-11-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7TAr1RQULyDT40zfugMlqxHyh3Q.jpg",
       "genres": [
         "ужасы"
       ]
     },
     {
-      "id": 1585386,
-      "title": "Male Gaze: Heavenly Creatures",
-      "release_date": "2025-11-24",
+      "id": 1585179,
+      "title": "Este Does Not Make A Movie",
+      "release_date": "2025-11-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nuBHB41OVmBtXrUpmC0HZueLAwV.jpg",
-      "genres": []
-    },
-    {
-      "id": 1585383,
-      "title": "Upon Her Lips: Open Secrets",
-      "release_date": "2025-11-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/i5Aw1VQDZE2jubrZ7a7NtdrYpIa.jpg",
-      "genres": []
-    },
-    {
-      "id": 1585360,
-      "title": "Dois Caras de Terno",
-      "release_date": "2025-11-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/amEmBk0iO5ZmGWg3PF62hwJhNus.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/clnnB5elQFlSWvZmm3gPLsxejzf.jpg",
       "genres": [
-        "комедия",
-        "криминал",
-        "фантастика"
+        "комедия"
       ]
+    },
+    {
+      "id": 1584754,
+      "title": "Deserto Vértigo",
+      "release_date": "2025-11-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/t7Ff6AxAoEdoZjUqi5aCjCLGufY.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1584751,
+      "title": "Esas ruinas",
+      "release_date": "2025-11-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/n3nPQVTPm0OaMRpLDLdO94ZyTC0.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1584666,
+      "title": "Zamino Zamaan",
+      "release_date": "2025-11-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bhXtK5xCkO3499ghhp8vg8Ne5Fp.jpg",
+      "genres": []
+    },
+    {
+      "id": 1584657,
+      "title": "It Was Snowing in That Burnt Room",
+      "release_date": "2025-11-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lPp7huXagrxrDoPJ4BKDzBTtbMS.jpg",
+      "genres": []
+    },
+    {
+      "id": 1584653,
+      "title": "Epilogue in Prologue",
+      "release_date": "2025-11-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/b5lIHJhQVgbQ7kdZeSrerBX70MW.jpg",
+      "genres": []
+    },
+    {
+      "id": 1584651,
+      "title": "Interferencia",
+      "release_date": "2025-11-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cphDzlKDRuawQSnqA6loRuhctDT.jpg",
+      "genres": []
     }
   ],
   "source": "TMDB",

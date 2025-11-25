@@ -1,0 +1,26 @@
+{
+  "id": 1584751,
+  "title": "Esas ruinas",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-25",
+  "runtime": 21,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "AR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/n3nPQVTPm0OaMRpLDLdO94ZyTC0.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1584751",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-25T01:00:33.760492+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
