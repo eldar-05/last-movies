@@ -1,9 +1,38 @@
 {
-  "fetched_at_utc": "2025-11-25T06:21:19.806308+00:00",
+  "fetched_at_utc": "2025-11-25T12:27:41.403517+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1587141,
+      "title": "Does Economic Inequality Inevitably Lead To Political Inequality?",
+      "release_date": "2025-11-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lLL1UxbxfsDyuH25cjjIfSIu5U4.jpg",
+      "genres": []
+    },
+    {
+      "id": 1587129,
+      "title": "Memiliki Viola 7",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fatBw5rhzXR2Z5voyO2GMmZDhde.jpg",
+      "genres": [
+        "криминал",
+        "драма"
+      ]
+    },
+    {
+      "id": 1587105,
+      "title": "Magic Mirror",
+      "release_date": "2025-11-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mbbl4AwQfV0bVYHUDt8gwVVDECG.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
     {
       "id": 1586763,
       "title": "The December Blues",
@@ -71,30 +100,6 @@
       "release_date": "2025-11-25",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/bhXtK5xCkO3499ghhp8vg8Ne5Fp.jpg",
-      "genres": []
-    },
-    {
-      "id": 1584657,
-      "title": "It Was Snowing in That Burnt Room",
-      "release_date": "2025-11-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lPp7huXagrxrDoPJ4BKDzBTtbMS.jpg",
-      "genres": []
-    },
-    {
-      "id": 1584653,
-      "title": "Epilogue in Prologue",
-      "release_date": "2025-11-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/b5lIHJhQVgbQ7kdZeSrerBX70MW.jpg",
-      "genres": []
-    },
-    {
-      "id": 1584651,
-      "title": "Interferencia",
-      "release_date": "2025-11-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cphDzlKDRuawQSnqA6loRuhctDT.jpg",
       "genres": []
     }
   ],
