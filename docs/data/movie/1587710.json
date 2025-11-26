@@ -1,6 +1,6 @@
 {
-  "id": 1587449,
-  "title": "Deux corps",
+  "id": 1587710,
+  "title": "Skate.mp3",
   "tagline": "",
   "overview": "",
   "release_date": "2025-11-26",
@@ -8,7 +8,7 @@
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "драма"
+    "комедия"
   ],
   "original_language": "fr",
   "spoken_languages": [
@@ -17,10 +17,10 @@
   "production_countries": [
     "FR"
   ],
-  "poster_url": "https://image.tmdb.org/t/p/w500/5vV8vIKfz77MgG0eE07GuO4wcFl.jpg",
-  "backdrop_url": "https://image.tmdb.org/t/p/w780/87LjqN8BFUwgQmRllMq2IrVNNkS.jpg",
-  "tmdb_url": "https://www.themoviedb.org/movie/1587449",
+  "poster_url": "https://image.tmdb.org/t/p/w500/ummTpS853Ap8Fyw11cDOAh4WX2S.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1587710",
   "trailer": null,
-  "fetched_at_utc": "2025-11-26T12:27:42.916255+00:00",
+  "fetched_at_utc": "2025-11-26T12:27:42.114090+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

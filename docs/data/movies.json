@@ -1,9 +1,45 @@
 {
-  "fetched_at_utc": "2025-11-26T06:20:54.379731+00:00",
+  "fetched_at_utc": "2025-11-26T12:27:44.013082+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1587731,
+      "title": "Mi Biblioteca Ideal (La Previa)",
+      "release_date": "2025-11-26",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1587711,
+      "title": "Stasis",
+      "release_date": "2025-11-26",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wX61vbgHHDkp63pizU58ow4wtMf.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1587710,
+      "title": "Skate.mp3",
+      "release_date": "2025-11-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ummTpS853Ap8Fyw11cDOAh4WX2S.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1587665,
+      "title": "로스트 버스데이",
+      "release_date": "2025-11-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/omo7wX68wUiYip1vADDGalfFxxB.jpg",
+      "genres": []
+    },
     {
       "id": 1587615,
       "title": "Passion",
@@ -61,48 +97,6 @@
       "genres": [
         "триллер",
         "ужасы"
-      ]
-    },
-    {
-      "id": 1587048,
-      "title": "Hambre",
-      "release_date": "2025-11-26",
-      "vote_average": 10.0,
-      "poster_url": null,
-      "genres": [
-        "триллер",
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1586428,
-      "title": "We Were Always Here",
-      "release_date": "2025-11-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cUF6DdsxeIFGwGGnLHx7D477awI.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1586426,
-      "title": "I'm From the Road",
-      "release_date": "2025-11-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/coB75OQBN0Bb3bFf4yoJuy0qEec.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1586204,
-      "title": "Susi en la Iglesia",
-      "release_date": "2025-11-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oJ2BkO3SwPXDrjm8yP0pzmw4Q6d.jpg",
-      "genres": [
-        "комедия",
-        "семейный"
       ]
     }
   ],
