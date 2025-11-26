@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-11-26T01:01:37.826132+00:00",
+  "fetched_at_utc": "2025-11-26T06:20:54.379731+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -57,7 +57,7 @@
       "title": "Olhe Para os Dois Lados",
       "release_date": "2025-11-26",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/HAfCoe7y7QXOBvWhW55IKAeDEp.jpg",
       "genres": [
         "триллер",
         "ужасы"
@@ -67,7 +67,7 @@
       "id": 1587048,
       "title": "Hambre",
       "release_date": "2025-11-26",
-      "vote_average": 0.0,
+      "vote_average": 10.0,
       "poster_url": null,
       "genres": [
         "триллер",
