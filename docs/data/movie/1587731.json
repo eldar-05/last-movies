@@ -1,20 +1,24 @@
 {
   "id": 1587731,
-  "title": "Mi Biblioteca Ideal (La Previa)",
+  "title": "Mi Biblioteca Ideal (Parte 1)",
   "tagline": "",
   "overview": "",
   "release_date": "2025-11-26",
   "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "комедия"
+  ],
   "original_language": "es",
-  "spoken_languages": [],
+  "spoken_languages": [
+    "Spanish"
+  ],
   "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/8sDs46Svdl5y8UWwYvF6Agf24Ih.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/aaJobWQ3bEYxS0JikVGEJ43RAdq.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1587731",
   "trailer": null,
-  "fetched_at_utc": "2025-11-26T12:27:41.508885+00:00",
+  "fetched_at_utc": "2025-11-26T18:16:40.187578+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

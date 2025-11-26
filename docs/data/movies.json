@@ -1,15 +1,15 @@
 {
-  "fetched_at_utc": "2025-11-26T12:27:44.013082+00:00",
+  "fetched_at_utc": "2025-11-26T18:16:42.528081+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
       "id": 1587731,
-      "title": "Mi Biblioteca Ideal (La Previa)",
+      "title": "Mi Biblioteca Ideal (Parte 1)",
       "release_date": "2025-11-26",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8sDs46Svdl5y8UWwYvF6Agf24Ih.jpg",
       "genres": []
     },
     {
