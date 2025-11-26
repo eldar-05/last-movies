@@ -1,0 +1,24 @@
+{
+  "id": 1586426,
+  "title": "I'm From the Road",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-26",
+  "runtime": 33,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "GB"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/coB75OQBN0Bb3bFf4yoJuy0qEec.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1586426",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-26T01:01:37.624243+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

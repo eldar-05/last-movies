@@ -1,0 +1,26 @@
+{
+  "id": 1587449,
+  "title": "Deux corps",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-26",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/5vV8vIKfz77MgG0eE07GuO4wcFl.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/87LjqN8BFUwgQmRllMq2IrVNNkS.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1587449",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-26T01:01:36.178353+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1586204,
+  "title": "Susi en la Iglesia",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-26",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "семейный"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "CL"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/oJ2BkO3SwPXDrjm8yP0pzmw4Q6d.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/iy3joqVsWeQtCV2z70qyPHuEDHK.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1586204",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-26T01:01:37.825714+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

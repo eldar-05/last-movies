@@ -1,105 +1,108 @@
 {
-  "fetched_at_utc": "2025-11-25T18:20:30.088006+00:00",
+  "fetched_at_utc": "2025-11-26T01:01:37.826132+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1587400,
-      "title": "Traquer l'invisible - Nos chercheurs face à la menace mondiale des virus et des bactéries",
-      "release_date": "2025-11-25",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "id": 1587615,
+      "title": "Passion",
+      "release_date": "2025-11-26",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hCdRCQnPrfzt0CVUCHTJzcadJIS.jpg",
       "genres": [
-        "документальный"
+        "детектив"
       ]
     },
     {
-      "id": 1587363,
-      "title": "Transference",
-      "release_date": "",
+      "id": 1587449,
+      "title": "Deux corps",
+      "release_date": "2025-11-26",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7moZSRxJZ2Za2K62QUqU16wBxYB.jpg",
-      "genres": []
-    },
-    {
-      "id": 1587359,
-      "title": "Telegram - Das dunkle Imperium von Pawel Durow",
-      "release_date": "2025-11-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kHzFIRaIMnivUjYdNGxFUMlYVEK.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5vV8vIKfz77MgG0eE07GuO4wcFl.jpg",
       "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1587337,
-      "title": "Die Macht des russischen Geheimdiensts",
-      "release_date": "2025-11-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aDMjQV1kjxnFpUIwX5lN7xdCoRe.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1587141,
-      "title": "Does Economic Inequality Inevitably Lead To Political Inequality?",
-      "release_date": "2025-11-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lLL1UxbxfsDyuH25cjjIfSIu5U4.jpg",
-      "genres": []
-    },
-    {
-      "id": 1587129,
-      "title": "Memiliki Viola 7",
-      "release_date": "2025-11-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fatBw5rhzXR2Z5voyO2GMmZDhde.jpg",
-      "genres": [
-        "криминал",
         "драма"
       ]
     },
     {
-      "id": 1587105,
-      "title": "Magic Mirror",
-      "release_date": "2025-11-25",
+      "id": 1587298,
+      "title": "An SNL Thanksgiving",
+      "release_date": "2025-11-26",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mbbl4AwQfV0bVYHUDt8gwVVDECG.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xf9aejUaUvFPL1vPTQ1EccNN2kP.jpg",
       "genres": [
-        "триллер"
+        "комедия"
       ]
     },
     {
-      "id": 1586763,
-      "title": "The December Blues",
-      "release_date": "2025-11-25",
+      "id": 1587188,
+      "title": "Azazel",
+      "release_date": "2025-11-26",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/f5RQQOjCJYOfeOONRDhy2U0uMho.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ydq7OtOBTDNu2ZnQNyEURrkFa7q.jpg",
+      "genres": []
+    },
+    {
+      "id": 1587115,
+      "title": "Soul Sketches",
+      "release_date": "2025-11-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kWJb3imcoP0qoXuU478nXRgc29i.jpg",
       "genres": [
-        "мелодрама",
         "драма"
       ]
     },
     {
-      "id": 1586726,
-      "title": "La flor del almendro",
-      "release_date": "2025-11-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qyvDn3tGLmZzVH3jQjVqzRwHgBj.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1585826,
-      "title": "À demain.",
-      "release_date": "2025-11-25",
+      "id": 1587056,
+      "title": "Olhe Para os Dois Lados",
+      "release_date": "2025-11-26",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
+        "триллер",
         "ужасы"
+      ]
+    },
+    {
+      "id": 1587048,
+      "title": "Hambre",
+      "release_date": "2025-11-26",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "триллер",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1586428,
+      "title": "We Were Always Here",
+      "release_date": "2025-11-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cUF6DdsxeIFGwGGnLHx7D477awI.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1586426,
+      "title": "I'm From the Road",
+      "release_date": "2025-11-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/coB75OQBN0Bb3bFf4yoJuy0qEec.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1586204,
+      "title": "Susi en la Iglesia",
+      "release_date": "2025-11-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oJ2BkO3SwPXDrjm8yP0pzmw4Q6d.jpg",
+      "genres": [
+        "комедия",
+        "семейный"
       ]
     }
   ],
