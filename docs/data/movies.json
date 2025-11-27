@@ -1,9 +1,25 @@
 {
-  "fetched_at_utc": "2025-11-27T12:27:26.707832+00:00",
+  "fetched_at_utc": "2025-11-27T18:18:11.726723+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1588671,
+      "title": "Louvre Heist: Minute by Minute",
+      "release_date": "2025-11-27",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1588563,
+      "title": "Les vlogs douteux",
+      "release_date": "2025-11-27",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
     {
       "id": 1588560,
       "title": "Etherna",
@@ -18,9 +34,9 @@
     {
       "id": 1588480,
       "title": "Line",
-      "release_date": "",
+      "release_date": "2025-11-27",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9PP5u6RTJPbc9csAnPandXpvy46.jpg",
       "genres": [
         "ужасы",
         "драма"
@@ -84,25 +100,6 @@
       "genres": [
         "семейный",
         "комедия"
-      ]
-    },
-    {
-      "id": 1587010,
-      "title": "Nota de Voz",
-      "release_date": "2025-11-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5H5WL0GTFpcDs9bmnGjqGHvdeHE.jpg",
-      "genres": []
-    },
-    {
-      "id": 1586607,
-      "title": "WHODUNNIT",
-      "release_date": "2025-11-27",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ebmm32RBAcKuhSupIzFnBUQ6ZgJ.jpg",
-      "genres": [
-        "драма",
-        "детектив"
       ]
     }
   ],

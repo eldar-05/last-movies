@@ -3,20 +3,25 @@
   "title": "Line",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-11-27",
   "runtime": 19,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "ужасы",
+    "драма"
+  ],
   "original_language": "en",
   "spoken_languages": [
     "Persian"
   ],
-  "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "production_countries": [
+    "IR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/9PP5u6RTJPbc9csAnPandXpvy46.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/vN7YIeOhaOw4QYN1wQVEmn7xmq1.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1588480",
   "trailer": null,
-  "fetched_at_utc": "2025-11-27T12:27:23.818279+00:00",
+  "fetched_at_utc": "2025-11-27T18:18:10.114173+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

@@ -20,7 +20,11 @@
   "poster_url": "https://image.tmdb.org/t/p/w500/3vfF9l03s50ErIhndslA26Mdxc2.jpg",
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1588355",
-  "trailer": null,
-  "fetched_at_utc": "2025-11-27T12:27:25.403254+00:00",
+  "trailer": {
+    "key": "rkcVar8-Kg0",
+    "name": "the trick trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-11-27T18:18:11.167476+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
