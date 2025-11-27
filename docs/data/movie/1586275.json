@@ -1,0 +1,31 @@
+{
+  "id": 1586275,
+  "title": "Thursday Night",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-27",
+  "runtime": 47,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "драма"
+  ],
+  "original_language": "bn",
+  "spoken_languages": [
+    "Bengali"
+  ],
+  "production_countries": [
+    "BD"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/z3HuUhxfS4H8U7oJ2k4JpzyYyUs.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/6fbPw4OSapy0NezRKm5kNcmXJU9.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1586275",
+  "trailer": {
+    "key": "7hR81S5NNeI",
+    "name": "Thursday Night | Official Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-11-27T01:00:39.079325+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

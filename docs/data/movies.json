@@ -1,102 +1,114 @@
 {
-  "fetched_at_utc": "2025-11-26T18:16:42.528081+00:00",
+  "fetched_at_utc": "2025-11-27T01:00:39.607178+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1587731,
-      "title": "Mi Biblioteca Ideal (Parte 1)",
-      "release_date": "2025-11-26",
+      "id": 1588355,
+      "title": "The Trick",
+      "release_date": "2025-11-27",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8sDs46Svdl5y8UWwYvF6Agf24Ih.jpg",
-      "genres": []
-    },
-    {
-      "id": 1587711,
-      "title": "Stasis",
-      "release_date": "2025-11-26",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wX61vbgHHDkp63pizU58ow4wtMf.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3vfF9l03s50ErIhndslA26Mdxc2.jpg",
       "genres": [
-        "триллер"
+        "драма",
+        "мелодрама",
+        "боевик"
       ]
     },
     {
-      "id": 1587710,
-      "title": "Skate.mp3",
-      "release_date": "2025-11-26",
+      "id": 1587125,
+      "title": "小丑爸爸",
+      "release_date": "2025-11-27",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ummTpS853Ap8Fyw11cDOAh4WX2S.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oJlqT7HmgryNpqM7mjDuDLHUbUl.jpg",
       "genres": [
+        "семейный",
         "комедия"
       ]
     },
     {
-      "id": 1587665,
-      "title": "로스트 버스데이",
-      "release_date": "2025-11-26",
+      "id": 1587010,
+      "title": "Nota de Voz",
+      "release_date": "2025-11-27",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/omo7wX68wUiYip1vADDGalfFxxB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5H5WL0GTFpcDs9bmnGjqGHvdeHE.jpg",
       "genres": []
     },
     {
-      "id": 1587615,
-      "title": "Passion",
-      "release_date": "2025-11-26",
+      "id": 1586607,
+      "title": "WHODUNNIT",
+      "release_date": "2025-11-27",
       "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hCdRCQnPrfzt0CVUCHTJzcadJIS.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ebmm32RBAcKuhSupIzFnBUQ6ZgJ.jpg",
       "genres": [
+        "драма",
         "детектив"
       ]
     },
     {
-      "id": 1587449,
-      "title": "Deux corps",
-      "release_date": "2025-11-26",
+      "id": 1586338,
+      "title": "Одна дома 3",
+      "release_date": "2025-11-27",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5vV8vIKfz77MgG0eE07GuO4wcFl.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yv9S3Oub8Td5verI4FM7eslF3jX.jpg",
       "genres": [
-        "драма"
+        "комедия",
+        "приключения",
+        "семейный"
       ]
     },
     {
-      "id": 1587298,
-      "title": "An SNL Thanksgiving",
-      "release_date": "2025-11-26",
+      "id": 1586284,
+      "title": "Wailing Stones",
+      "release_date": "2025-11-27",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xf9aejUaUvFPL1vPTQ1EccNN2kP.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1587188,
-      "title": "Azazel",
-      "release_date": "2025-11-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ydq7OtOBTDNu2ZnQNyEURrkFa7q.jpg",
-      "genres": []
-    },
-    {
-      "id": 1587115,
-      "title": "Soul Sketches",
-      "release_date": "2025-11-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kWJb3imcoP0qoXuU478nXRgc29i.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1587056,
-      "title": "Olhe Para os Dois Lados",
-      "release_date": "2025-11-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/HAfCoe7y7QXOBvWhW55IKAeDEp.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3AlENb0Xg0qdzh564JL4obMSP7J.jpg",
       "genres": [
         "триллер",
-        "ужасы"
+        "детектив"
+      ]
+    },
+    {
+      "id": 1586275,
+      "title": "Thursday Night",
+      "release_date": "2025-11-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/z3HuUhxfS4H8U7oJ2k4JpzyYyUs.jpg",
+      "genres": [
+        "триллер",
+        "драма"
+      ]
+    },
+    {
+      "id": 1585249,
+      "title": "The Stone That Remembers",
+      "release_date": "2025-11-27",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1585142,
+      "title": "Media Sangre",
+      "release_date": "2025-11-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/158vK1ALAio7eeDeJst93vhTGRh.jpg",
+      "genres": [
+        "вестерн",
+        "криминал"
+      ]
+    },
+    {
+      "id": 1585135,
+      "title": "Who But When, How",
+      "release_date": "2025-11-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/eV2Flx5IMMwn5jNx4ObHM8FO2ZQ.jpg",
+      "genres": [
+        "документальный"
       ]
     }
   ],

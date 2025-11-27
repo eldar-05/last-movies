@@ -1,0 +1,32 @@
+{
+  "id": 1585135,
+  "title": "Who But When, How",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-27",
+  "runtime": 105,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "Arabic",
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "production_countries": [
+    "PS",
+    "IL",
+    "US",
+    "DE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/eV2Flx5IMMwn5jNx4ObHM8FO2ZQ.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1585135",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-27T01:00:39.606780+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

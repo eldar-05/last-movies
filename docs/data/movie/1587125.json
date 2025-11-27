@@ -1,0 +1,25 @@
+{
+  "id": 1587125,
+  "title": "小丑爸爸",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-27",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "семейный",
+    "комедия"
+  ],
+  "original_language": "zh",
+  "spoken_languages": [
+    "Mandarin"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/oJlqT7HmgryNpqM7mjDuDLHUbUl.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/1hkmmz0XuLP9AMjnRF1E1tRVz7c.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1587125",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-27T01:00:38.293606+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

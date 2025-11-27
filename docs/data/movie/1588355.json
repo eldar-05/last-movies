@@ -1,0 +1,26 @@
+{
+  "id": 1588355,
+  "title": "The Trick",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-27",
+  "runtime": 2,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "мелодрама",
+    "боевик"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "GB"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/3vfF9l03s50ErIhndslA26Mdxc2.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1588355",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-27T01:00:38.103468+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

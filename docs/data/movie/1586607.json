@@ -1,0 +1,31 @@
+{
+  "id": 1586607,
+  "title": "WHODUNNIT",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-27",
+  "runtime": 2,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "драма",
+    "детектив"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "GB"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/ebmm32RBAcKuhSupIzFnBUQ6ZgJ.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/uYPjG8L9JhbB8qsAJPJR1732Aiq.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1586607",
+  "trailer": {
+    "key": "sBLEycudgsI",
+    "name": "whodunnit? a soviet short film: official trailer…",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-11-27T01:00:38.597855+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
