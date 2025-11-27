@@ -1,0 +1,24 @@
+{
+  "id": 1588435,
+  "title": "Lotería",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-27",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "AR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/k3BiNycFqAERPJi3QerA0lHw0Wd.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1588435",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-27T12:27:24.244701+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

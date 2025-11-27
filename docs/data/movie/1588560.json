@@ -1,0 +1,27 @@
+{
+  "id": 1588560,
+  "title": "Etherna",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-27",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фэнтези",
+    "детектив"
+  ],
+  "original_language": "xx",
+  "spoken_languages": [
+    "No Language"
+  ],
+  "production_countries": [
+    "TR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/hrEegi7RMuo5uNBa8OYZdFxWvH8.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1588560",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-27T12:27:23.459462+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

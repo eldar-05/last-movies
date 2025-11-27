@@ -1,9 +1,58 @@
 {
-  "fetched_at_utc": "2025-11-27T06:21:26.513461+00:00",
+  "fetched_at_utc": "2025-11-27T12:27:26.707832+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1588560,
+      "title": "Etherna",
+      "release_date": "2025-11-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hrEegi7RMuo5uNBa8OYZdFxWvH8.jpg",
+      "genres": [
+        "фэнтези",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1588480,
+      "title": "Line",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы",
+        "драма"
+      ]
+    },
+    {
+      "id": 1588435,
+      "title": "Lotería",
+      "release_date": "2025-11-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/k3BiNycFqAERPJi3QerA0lHw0Wd.jpg",
+      "genres": []
+    },
+    {
+      "id": 1588427,
+      "title": "Sutures",
+      "release_date": "2025-11-27",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pCCCP7dBcnJF940p5tmTqDHymnB.jpg",
+      "genres": [
+        "ужасы",
+        "драма"
+      ]
+    },
+    {
+      "id": 1588384,
+      "title": "Cuerpo Al Aire",
+      "release_date": "2025-11-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vwaug6AQII1TvG3J5NphwAwRZkG.jpg",
+      "genres": []
+    },
     {
       "id": 1588355,
       "title": "The Trick",
@@ -14,6 +63,16 @@
         "драма",
         "мелодрама",
         "боевик"
+      ]
+    },
+    {
+      "id": 1588345,
+      "title": "Por Las Palabras",
+      "release_date": "2025-11-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rh1wNiSO6abHoV9peCxApG0Dw0F.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -44,71 +103,6 @@
       "genres": [
         "драма",
         "детектив"
-      ]
-    },
-    {
-      "id": 1586338,
-      "title": "Одна дома 3",
-      "release_date": "2025-11-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yv9S3Oub8Td5verI4FM7eslF3jX.jpg",
-      "genres": [
-        "комедия",
-        "приключения",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1586284,
-      "title": "Wailing Stones",
-      "release_date": "2025-11-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3AlENb0Xg0qdzh564JL4obMSP7J.jpg",
-      "genres": [
-        "триллер",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1586275,
-      "title": "Thursday Night",
-      "release_date": "2025-11-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/z3HuUhxfS4H8U7oJ2k4JpzyYyUs.jpg",
-      "genres": [
-        "триллер",
-        "драма"
-      ]
-    },
-    {
-      "id": 1585249,
-      "title": "The Stone That Remembers",
-      "release_date": "2025-11-27",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1585142,
-      "title": "Media Sangre",
-      "release_date": "2025-11-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/158vK1ALAio7eeDeJst93vhTGRh.jpg",
-      "genres": [
-        "вестерн",
-        "криминал"
-      ]
-    },
-    {
-      "id": 1585135,
-      "title": "Who But When, How",
-      "release_date": "2025-11-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eV2Flx5IMMwn5jNx4ObHM8FO2ZQ.jpg",
-      "genres": [
-        "документальный"
       ]
     }
   ],
