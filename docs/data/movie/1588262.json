@@ -1,0 +1,25 @@
+{
+  "id": 1588262,
+  "title": "Next Round's On Me",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-28",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "комедия"
+  ],
+  "original_language": "sv",
+  "spoken_languages": [],
+  "production_countries": [
+    "SE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/cg0zUhJdqnnam7tOTtz2ebF2kww.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/6RSwajAg0pCH32R0MqV7ZtSU4qh.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1588262",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-28T00:59:07.669132+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

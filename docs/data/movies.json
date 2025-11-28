@@ -1,105 +1,113 @@
 {
-  "fetched_at_utc": "2025-11-27T18:18:11.726723+00:00",
+  "fetched_at_utc": "2025-11-28T00:59:09.212523+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1588671,
-      "title": "Louvre Heist: Minute by Minute",
-      "release_date": "2025-11-27",
+      "id": 1588960,
+      "title": "青爱",
+      "release_date": "2025-11-28",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1588563,
-      "title": "Les vlogs douteux",
-      "release_date": "2025-11-27",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1588560,
-      "title": "Etherna",
-      "release_date": "2025-11-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hrEegi7RMuo5uNBa8OYZdFxWvH8.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7Yh7xUQ5TxUqe1WTXAunbEwa6uQ.jpg",
       "genres": [
-        "фэнтези",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1588480,
-      "title": "Line",
-      "release_date": "2025-11-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9PP5u6RTJPbc9csAnPandXpvy46.jpg",
-      "genres": [
-        "ужасы",
         "драма"
       ]
     },
     {
-      "id": 1588435,
-      "title": "Lotería",
-      "release_date": "2025-11-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/k3BiNycFqAERPJi3QerA0lHw0Wd.jpg",
-      "genres": []
-    },
-    {
-      "id": 1588427,
-      "title": "Sutures",
-      "release_date": "2025-11-27",
+      "id": 1588892,
+      "title": "The Broadcast Syndrome",
+      "release_date": "2025-11-28",
       "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pCCCP7dBcnJF940p5tmTqDHymnB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dSOxMmWptj77o0emF17UVOYfcxy.jpg",
       "genres": [
         "ужасы",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1588863,
+      "title": "A Sunrise Run",
+      "release_date": "2025-11-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/g3b6KfVj6YmQXkKTlA6lDGZvBkw.jpg",
+      "genres": [
         "драма"
       ]
     },
     {
-      "id": 1588384,
-      "title": "Cuerpo Al Aire",
-      "release_date": "2025-11-27",
+      "id": 1588850,
+      "title": "Segundo Contacto",
+      "release_date": "2025-11-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vwaug6AQII1TvG3J5NphwAwRZkG.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gGToIPmcoIjrykGxjEgGGiz7Fs3.jpg",
+      "genres": [
+        "фантастика",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1588822,
+      "title": "Pink Jaguar",
+      "release_date": "2025-11-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4aBxgb77z3k3HE0IrDKTdtq6cR9.jpg",
+      "genres": [
+        "комедия",
+        "боевик",
+        "криминал"
+      ]
+    },
+    {
+      "id": 1588262,
+      "title": "Next Round's On Me",
+      "release_date": "2025-11-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cg0zUhJdqnnam7tOTtz2ebF2kww.jpg",
+      "genres": [
+        "триллер",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1588252,
+      "title": "Estrela da Manhã",
+      "release_date": "2025-11-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aK7FO4txTGDmFIT2T6j4Uc3S8Im.jpg",
       "genres": []
     },
     {
-      "id": 1588355,
-      "title": "The Trick",
-      "release_date": "2025-11-27",
+      "id": 1588204,
+      "title": "nasci ruy, morri herói",
+      "release_date": "2025-11-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3vfF9l03s50ErIhndslA26Mdxc2.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/443N4NLrfWplG4RzeEypI6O2lFq.jpg",
       "genres": [
-        "драма",
-        "мелодрама",
-        "боевик"
+        "документальный",
+        "история"
       ]
     },
     {
-      "id": 1588345,
-      "title": "Por Las Palabras",
-      "release_date": "2025-11-27",
+      "id": 1588177,
+      "title": "Gæt Hvem",
+      "release_date": "2025-11-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rh1wNiSO6abHoV9peCxApG0Dw0F.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rUewMCfTKQJ5IJ3AWTjN6ay3FFh.jpg",
       "genres": [
-        "драма"
+        "детектив",
+        "триллер"
       ]
     },
     {
-      "id": 1587125,
-      "title": "小丑爸爸",
-      "release_date": "2025-11-27",
+      "id": 1587651,
+      "title": "Apotheosis",
+      "release_date": "2025-11-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oJlqT7HmgryNpqM7mjDuDLHUbUl.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gs72jjMJ65O6wZh6oH7hlIaaoZ2.jpg",
       "genres": [
-        "семейный",
-        "комедия"
+        "ужасы",
+        "музыка"
       ]
     }
   ],

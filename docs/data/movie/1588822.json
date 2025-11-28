@@ -1,0 +1,28 @@
+{
+  "id": 1588822,
+  "title": "Pink Jaguar",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-28",
+  "runtime": 2,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "боевик",
+    "криминал"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "GB"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/4aBxgb77z3k3HE0IrDKTdtq6cR9.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1588822",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-28T00:59:07.297114+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

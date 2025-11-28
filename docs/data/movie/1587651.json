@@ -1,0 +1,25 @@
+{
+  "id": 1587651,
+  "title": "Apotheosis",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-28",
+  "runtime": 10,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "музыка"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/gs72jjMJ65O6wZh6oH7hlIaaoZ2.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1587651",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-28T00:59:09.212239+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

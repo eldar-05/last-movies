@@ -1,0 +1,26 @@
+{
+  "id": 1588863,
+  "title": "A Sunrise Run",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-28",
+  "runtime": 6,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "CA"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/g3b6KfVj6YmQXkKTlA6lDGZvBkw.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/775rOkBhDTuBbdPQtVjHtHu5j9F.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1588863",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-28T00:59:06.509219+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
