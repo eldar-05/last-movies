@@ -1,9 +1,43 @@
 {
-  "fetched_at_utc": "2025-11-28T12:26:19.528746+00:00",
+  "fetched_at_utc": "2025-11-28T18:18:11.606767+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1589280,
+      "title": "31 Minutos: Calurosa Navidad | Making Of",
+      "release_date": "2025-11-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/dyphPdl5pWY5hrscuQzlaWu2HXZ.jpg",
+      "genres": []
+    },
+    {
+      "id": 1589209,
+      "title": "Ecce Angelus",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tfKpBW4HohoyiE4hxa6oOZVmEHX.jpg",
+      "genres": []
+    },
+    {
+      "id": 1589208,
+      "title": "¡Corta!",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tdyafCGDES8SIkmrmKwUj0qlAVd.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1589120,
+      "title": "Do Astronauts Masturbate in Space?",
+      "release_date": "2025-11-28",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
     {
       "id": 1588960,
       "title": "青爱",
@@ -67,47 +101,6 @@
       "genres": [
         "триллер",
         "комедия"
-      ]
-    },
-    {
-      "id": 1588252,
-      "title": "Estrela da Manhã",
-      "release_date": "2025-11-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aK7FO4txTGDmFIT2T6j4Uc3S8Im.jpg",
-      "genres": []
-    },
-    {
-      "id": 1588204,
-      "title": "nasci ruy, morri herói",
-      "release_date": "2025-11-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/443N4NLrfWplG4RzeEypI6O2lFq.jpg",
-      "genres": [
-        "документальный",
-        "история"
-      ]
-    },
-    {
-      "id": 1588177,
-      "title": "Gæt Hvem",
-      "release_date": "2025-11-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rUewMCfTKQJ5IJ3AWTjN6ay3FFh.jpg",
-      "genres": [
-        "детектив",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1587651,
-      "title": "Apotheosis",
-      "release_date": "2025-11-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gs72jjMJ65O6wZh6oH7hlIaaoZ2.jpg",
-      "genres": [
-        "ужасы",
-        "музыка"
       ]
     }
   ],
