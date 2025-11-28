@@ -5,8 +5,8 @@
   "overview": "",
   "release_date": "2025-11-28",
   "runtime": 2,
-  "vote_average": 0.0,
-  "vote_count": 0,
+  "vote_average": 10.0,
+  "vote_count": 2,
   "genres": [
     "комедия",
     "боевик",
@@ -23,6 +23,6 @@
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1588822",
   "trailer": null,
-  "fetched_at_utc": "2025-11-28T00:59:07.297114+00:00",
+  "fetched_at_utc": "2025-11-28T06:20:56.443343+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

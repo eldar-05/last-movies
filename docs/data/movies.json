@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-11-28T00:59:09.212523+00:00",
+  "fetched_at_utc": "2025-11-28T06:20:57.408304+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -50,7 +50,7 @@
       "id": 1588822,
       "title": "Pink Jaguar",
       "release_date": "2025-11-28",
-      "vote_average": 0.0,
+      "vote_average": 10.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/4aBxgb77z3k3HE0IrDKTdtq6cR9.jpg",
       "genres": [
         "комедия",
