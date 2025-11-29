@@ -13,10 +13,10 @@
     "Turkish"
   ],
   "production_countries": [],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/vSlrCYbkeFfZJfQQFaQV4ptI7ur.jpg",
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1589402",
   "trailer": null,
-  "fetched_at_utc": "2025-11-29T00:59:44.315186+00:00",
+  "fetched_at_utc": "2025-11-29T06:18:57.099861+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
