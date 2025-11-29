@@ -1,9 +1,19 @@
 {
-  "fetched_at_utc": "2025-11-29T12:24:03.998500+00:00",
+  "fetched_at_utc": "2025-11-29T18:17:20.682723+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1589813,
+      "title": "MAL PASSADA",
+      "release_date": "2025-11-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aqom5w5ibtFSyGLyowMRImUzG3Y.jpg",
+      "genres": [
+        "криминал"
+      ]
+    },
     {
       "id": 1589623,
       "title": "Journalistes en Ligne de Mire",
@@ -89,16 +99,6 @@
       "genres": [
         "комедия",
         "драма"
-      ]
-    },
-    {
-      "id": 1587582,
-      "title": "Absurda",
-      "release_date": "2025-11-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lFSN1WuaM9t8D0r3P9tXVVgYpL7.jpg",
-      "genres": [
-        "документальный"
       ]
     }
   ],
