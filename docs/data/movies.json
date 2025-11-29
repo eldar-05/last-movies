@@ -1,105 +1,113 @@
 {
-  "fetched_at_utc": "2025-11-28T18:18:11.606767+00:00",
+  "fetched_at_utc": "2025-11-29T00:59:46.066267+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1589280,
-      "title": "31 Minutos: Calurosa Navidad | Making Of",
-      "release_date": "2025-11-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dyphPdl5pWY5hrscuQzlaWu2HXZ.jpg",
-      "genres": []
-    },
-    {
-      "id": 1589209,
-      "title": "Ecce Angelus",
-      "release_date": "",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tfKpBW4HohoyiE4hxa6oOZVmEHX.jpg",
-      "genres": []
-    },
-    {
-      "id": 1589208,
-      "title": "¡Corta!",
-      "release_date": "",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tdyafCGDES8SIkmrmKwUj0qlAVd.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1589120,
-      "title": "Do Astronauts Masturbate in Space?",
-      "release_date": "2025-11-28",
+      "id": 1589402,
+      "title": "The Resonance",
+      "release_date": "2025-11-29",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1588960,
-      "title": "青爱",
-      "release_date": "2025-11-28",
+      "id": 1589094,
+      "title": "WWE Survivor Series: Wargames 2025",
+      "release_date": "2025-11-29",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7Yh7xUQ5TxUqe1WTXAunbEwa6uQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/egcSpChghaTiYXonNds5bdi3aiW.jpg",
       "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1588892,
-      "title": "The Broadcast Syndrome",
-      "release_date": "2025-11-28",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dSOxMmWptj77o0emF17UVOYfcxy.jpg",
-      "genres": [
-        "ужасы",
-        "документальный"
-      ]
-    },
-    {
-      "id": 1588863,
-      "title": "A Sunrise Run",
-      "release_date": "2025-11-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/g3b6KfVj6YmQXkKTlA6lDGZvBkw.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1588850,
-      "title": "Segundo Contacto",
-      "release_date": "2025-11-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gGToIPmcoIjrykGxjEgGGiz7Fs3.jpg",
-      "genres": [
-        "фантастика",
+        "драма",
         "комедия"
       ]
     },
     {
-      "id": 1588822,
-      "title": "Pink Jaguar",
-      "release_date": "2025-11-28",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4aBxgb77z3k3HE0IrDKTdtq6cR9.jpg",
+      "id": 1588925,
+      "title": "Fairy's Tale",
+      "release_date": "2025-11-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xSXhPIhEik8nEjdoGo1SieLZyRU.jpg",
       "genres": [
-        "комедия",
-        "боевик",
-        "криминал"
+        "драма"
       ]
     },
     {
-      "id": 1588262,
-      "title": "Next Round's On Me",
-      "release_date": "2025-11-28",
+      "id": 1588751,
+      "title": "Golpe Fantasma",
+      "release_date": "2025-11-29",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cg0zUhJdqnnam7tOTtz2ebF2kww.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/p933eXVXs4Vx2qtQv2gygbAj95y.jpg",
       "genres": [
+        "драма",
+        "боевик"
+      ]
+    },
+    {
+      "id": 1588498,
+      "title": "Tournage au bout de l'enfer 2",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1EJqrJAOoXIQO80kutFzJc0W6b7.jpg",
+      "genres": [
+        "комедия",
+        "драма",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1587663,
+      "title": "Apaharanacharitham",
+      "release_date": "2025-11-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iV5lFyQCa3JnLiQ4XP95Ge2dqxZ.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ]
+    },
+    {
+      "id": 1587582,
+      "title": "Absurda",
+      "release_date": "2025-11-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lFSN1WuaM9t8D0r3P9tXVVgYpL7.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1587212,
+      "title": "Policía Depravado",
+      "release_date": "2025-11-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/b8rOOoKYwxpT9SLOuIvkRPi4ofL.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1586855,
+      "title": "Minerva y las Ánimas",
+      "release_date": "2025-11-29",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aSS5fh2pMX7XBbGjoa4my32CWZr.jpg",
+      "genres": [
+        "драма",
+        "детектив",
         "триллер",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1586109,
+      "title": "Pierre Thevenoux est marrant… Normalement",
+      "release_date": "2025-11-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/7grK2kG99hPEvPMj3hVi8F4cIM9.jpg",
+      "genres": [
         "комедия"
       ]
     }

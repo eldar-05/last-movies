@@ -1,0 +1,24 @@
+{
+  "id": 1588925,
+  "title": "Fairy's Tale",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-29",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "th",
+  "spoken_languages": [],
+  "production_countries": [
+    "TH"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/xSXhPIhEik8nEjdoGo1SieLZyRU.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/sNqQsdmUR0ZF5U0Rg79ynf6ftV3.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1588925",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-29T00:59:44.675033+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

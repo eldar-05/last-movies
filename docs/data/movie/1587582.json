@@ -1,0 +1,24 @@
+{
+  "id": 1587582,
+  "title": "Absurda",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-29",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/lFSN1WuaM9t8D0r3P9tXVVgYpL7.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/w2z1B654Q4DdTlzB8Gm12kdHmyX.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1587582",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-29T00:59:45.497809+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
