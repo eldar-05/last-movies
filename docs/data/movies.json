@@ -1,9 +1,33 @@
 {
-  "fetched_at_utc": "2025-11-29T06:19:01.598335+00:00",
+  "fetched_at_utc": "2025-11-29T12:24:03.998500+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1589623,
+      "title": "Journalistes en Ligne de Mire",
+      "release_date": "2025-11-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3goBhj6h1g0v8M811bYNUG8iMnk.jpg",
+      "genres": []
+    },
+    {
+      "id": 1589491,
+      "title": "STAY AT YOUR MIND",
+      "release_date": "2025-11-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tsym6gjGf4xtudPcpZhtN1Gmdom.jpg",
+      "genres": []
+    },
+    {
+      "id": 1589488,
+      "title": "月曜日の記憶",
+      "release_date": "2025-11-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rbCRW1JO6ljQJHUUPVZa1CdOo1Q.jpg",
+      "genres": []
+    },
     {
       "id": 1589402,
       "title": "The Resonance",
@@ -75,40 +99,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/lFSN1WuaM9t8D0r3P9tXVVgYpL7.jpg",
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1587212,
-      "title": "Policía Depravado",
-      "release_date": "2025-11-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/b8rOOoKYwxpT9SLOuIvkRPi4ofL.jpg",
-      "genres": [
-        "ужасы",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1586855,
-      "title": "Minerva y las Ánimas",
-      "release_date": "2025-11-29",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aSS5fh2pMX7XBbGjoa4my32CWZr.jpg",
-      "genres": [
-        "драма",
-        "детектив",
-        "триллер",
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1586109,
-      "title": "Pierre Thevenoux est marrant… Normalement",
-      "release_date": "2025-11-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7grK2kG99hPEvPMj3hVi8F4cIM9.jpg",
-      "genres": [
-        "комедия"
       ]
     }
   ],
