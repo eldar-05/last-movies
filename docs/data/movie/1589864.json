@@ -1,0 +1,27 @@
+{
+  "id": 1589864,
+  "title": "கனிப்பு",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-30",
+  "runtime": 24,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "ta",
+  "spoken_languages": [
+    "English",
+    "Tamil"
+  ],
+  "production_countries": [
+    "IN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/e52bVAruu4TuT2AGNi0QLdmdLoE.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/c5Ruy8L0YDzaz9ZSvs05upV3LrR.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1589864",
+  "trailer": null,
+  "fetched_at_utc": "2025-11-30T01:08:51.250614+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,104 +1,100 @@
 {
-  "fetched_at_utc": "2025-11-29T18:17:20.682723+00:00",
+  "fetched_at_utc": "2025-11-30T01:08:52.780151+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1589813,
-      "title": "MAL PASSADA",
-      "release_date": "2025-11-29",
+      "id": 1589893,
+      "title": "Rework",
+      "release_date": "2025-11-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aqom5w5ibtFSyGLyowMRImUzG3Y.jpg",
-      "genres": [
-        "криминал"
-      ]
-    },
-    {
-      "id": 1589623,
-      "title": "Journalistes en Ligne de Mire",
-      "release_date": "2025-11-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3goBhj6h1g0v8M811bYNUG8iMnk.jpg",
+      "poster_url": null,
       "genres": []
     },
     {
-      "id": 1589491,
-      "title": "STAY AT YOUR MIND",
-      "release_date": "2025-11-29",
+      "id": 1589864,
+      "title": "கனிப்பு",
+      "release_date": "2025-11-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tsym6gjGf4xtudPcpZhtN1Gmdom.jpg",
-      "genres": []
-    },
-    {
-      "id": 1589488,
-      "title": "月曜日の記憶",
-      "release_date": "2025-11-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rbCRW1JO6ljQJHUUPVZa1CdOo1Q.jpg",
-      "genres": []
-    },
-    {
-      "id": 1589402,
-      "title": "The Resonance",
-      "release_date": "2025-11-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vSlrCYbkeFfZJfQQFaQV4ptI7ur.jpg",
-      "genres": []
-    },
-    {
-      "id": 1589094,
-      "title": "WWE Survivor Series: Wargames 2025",
-      "release_date": "2025-11-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/egcSpChghaTiYXonNds5bdi3aiW.jpg",
-      "genres": [
-        "драма",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1588925,
-      "title": "Fairy's Tale",
-      "release_date": "2025-11-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xSXhPIhEik8nEjdoGo1SieLZyRU.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/e52bVAruu4TuT2AGNi0QLdmdLoE.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1588751,
-      "title": "Golpe Fantasma",
-      "release_date": "2025-11-29",
+      "id": 1589833,
+      "title": "Negana",
+      "release_date": "2025-11-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/p933eXVXs4Vx2qtQv2gygbAj95y.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xh2tjtjNo8kdpX89iheRX2PyNiG.jpg",
       "genres": [
-        "драма",
-        "боевик"
+        "драма"
       ]
     },
     {
-      "id": 1588498,
-      "title": "Tournage au bout de l'enfer 2",
-      "release_date": "2025-11-29",
+      "id": 1589770,
+      "title": "Raso, Fundo e Oceano",
+      "release_date": "2025-11-30",
+      "vote_average": 9.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/b0WECJKryjOo0PGlfPHOaQZcDHM.jpg",
+      "genres": []
+    },
+    {
+      "id": 1589762,
+      "title": "Carosello in Love",
+      "release_date": "2025-11-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1EJqrJAOoXIQO80kutFzJc0W6b7.jpg",
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1589729,
+      "title": "DDT BE AMBITIOUS ~Autumn Battle Rhapsody~",
+      "release_date": "2025-11-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jL7uIGqUA2SzESWVag5y74XEMut.jpg",
+      "genres": []
+    },
+    {
+      "id": 1589594,
+      "title": "Prospect Cottage",
+      "release_date": "2025-11-30",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
-        "комедия",
-        "драма",
         "документальный"
       ]
     },
     {
-      "id": 1587663,
-      "title": "Apaharanacharitham",
-      "release_date": "2025-11-29",
+      "id": 1589554,
+      "title": "Moon Among the Silence",
+      "release_date": "2025-11-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iV5lFyQCa3JnLiQ4XP95Ge2dqxZ.jpg",
+      "poster_url": null,
       "genres": [
-        "комедия",
         "драма"
+      ]
+    },
+    {
+      "id": 1589178,
+      "title": "chempassion",
+      "release_date": "2025-11-30",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1589176,
+      "title": "The Sister’s Journey",
+      "release_date": "2025-11-30",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма",
+        "документальный"
       ]
     }
   ],
