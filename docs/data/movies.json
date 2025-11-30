@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-11-30T12:23:41.834606+00:00",
+  "fetched_at_utc": "2025-11-30T18:17:50.107537+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -19,7 +19,7 @@
       "title": "Working Hours",
       "release_date": "2025-11-30",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nfWtEkGVqb7zfeDJuCXhXSjYD9N.jpg",
       "genres": [
         "драма"
       ]
