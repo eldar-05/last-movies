@@ -1,9 +1,57 @@
 {
-  "fetched_at_utc": "2025-11-30T06:19:29.154644+00:00",
+  "fetched_at_utc": "2025-11-30T12:23:41.834606+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1590106,
+      "title": "Searching for Ludo",
+      "release_date": "2025-11-30",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1590077,
+      "title": "Working Hours",
+      "release_date": "2025-11-30",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1590048,
+      "title": "The Man of the Sea",
+      "release_date": "2025-11-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mB8tPIYR7ow1vNaZun3oT6URHIO.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1590035,
+      "title": "Spilled Milk",
+      "release_date": "2025-11-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zTB3j3IRrnrdy1ZoxYHAiw53wa0.jpg",
+      "genres": []
+    },
+    {
+      "id": 1590010,
+      "title": "Nuff Respect: Conexão Zona Norte",
+      "release_date": "2025-11-30",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1589893,
       "title": "Rework",
@@ -47,55 +95,6 @@
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
-    },
-    {
-      "id": 1589729,
-      "title": "DDT BE AMBITIOUS ~Autumn Battle Rhapsody~",
-      "release_date": "2025-11-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jL7uIGqUA2SzESWVag5y74XEMut.jpg",
-      "genres": []
-    },
-    {
-      "id": 1589594,
-      "title": "Prospect Cottage",
-      "release_date": "2025-11-30",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1589554,
-      "title": "Moon Among the Silence",
-      "release_date": "2025-11-30",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1589178,
-      "title": "chempassion",
-      "release_date": "2025-11-30",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1589176,
-      "title": "The Sister’s Journey",
-      "release_date": "2025-11-30",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма",
-        "документальный"
-      ]
     }
   ],
   "source": "TMDB",

@@ -1,20 +1,24 @@
 {
-  "id": 1589762,
-  "title": "Carosello in Love",
+  "id": 1590106,
+  "title": "Searching for Ludo",
   "tagline": "",
   "overview": "",
   "release_date": "2025-11-30",
   "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
-  "original_language": "it",
-  "spoken_languages": [],
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "nl",
+  "spoken_languages": [
+    "Dutch"
+  ],
   "production_countries": [],
   "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1589762",
+  "tmdb_url": "https://www.themoviedb.org/movie/1590106",
   "trailer": null,
-  "fetched_at_utc": "2025-11-30T12:23:41.834265+00:00",
+  "fetched_at_utc": "2025-11-30T12:23:38.541329+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
