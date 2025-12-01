@@ -21,7 +21,11 @@
   "poster_url": "https://image.tmdb.org/t/p/w500/51iMP3623NFshFXO80DmP04H9Ie.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/hdqMz43Lz26X240rxt8PKoSLXQz.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1587305",
-  "trailer": null,
-  "fetched_at_utc": "2025-12-01T01:13:36.702452+00:00",
+  "trailer": {
+    "key": "apJVrhannL0",
+    "name": "TEASER REDES - LHDLD - EN",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-12-01T06:22:23.354397+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
