@@ -1,0 +1,24 @@
+{
+  "id": 1589181,
+  "title": "The Wonderful World of Disney: Holiday Spectacular",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-01",
+  "runtime": 82,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1589181",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-01T01:13:35.443832+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

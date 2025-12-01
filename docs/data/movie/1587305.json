@@ -1,0 +1,27 @@
+{
+  "id": 1587305,
+  "title": "La Hermandad de los Dientes",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-01",
+  "runtime": 9,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "приключения",
+    "комедия"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "AR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/51iMP3623NFshFXO80DmP04H9Ie.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/hdqMz43Lz26X240rxt8PKoSLXQz.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1587305",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-01T01:13:36.702452+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

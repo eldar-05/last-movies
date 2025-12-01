@@ -1,97 +1,100 @@
 {
-  "fetched_at_utc": "2025-11-30T18:17:50.107537+00:00",
+  "fetched_at_utc": "2025-12-01T01:13:37.077649+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1590106,
-      "title": "Searching for Ludo",
-      "release_date": "2025-11-30",
+      "id": 1590541,
+      "title": "Tussen ons",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vx6jOhC0CH7GkOFLB4mt5xuCO4j.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1590449,
+      "title": "Bookworms",
+      "release_date": "2025-12-01",
       "vote_average": 0.0,
       "poster_url": null,
+      "genres": [
+        "фантастика"
+      ]
+    },
+    {
+      "id": 1590251,
+      "title": "Burning Water",
+      "release_date": "2025-12-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zkrR08bJkMuyTkiNQrk4Vo7PJgN.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1590028,
+      "title": "双塔英雄",
+      "release_date": "2025-12-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nuZ1vMB1qud6riq7Wksi21E0zTn.jpg",
+      "genres": []
+    },
+    {
+      "id": 1589221,
+      "title": "Room",
+      "release_date": "2025-12-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4IYNcIFHShHk1AOaWVz7O74MV1X.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1589181,
+      "title": "The Wonderful World of Disney: Holiday Spectacular",
+      "release_date": "2025-12-01",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1589011,
+      "title": "Desiste",
+      "release_date": "2025-12-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/sNJMtPUuo2WoWUIwRgrdREfWkSt.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1588160,
+      "title": "IVF in België",
+      "release_date": "2025-12-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iZnedSoIRwyqSu0EY4vXoUvIxWB.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1590077,
-      "title": "Working Hours",
-      "release_date": "2025-11-30",
+      "id": 1587305,
+      "title": "La Hermandad de los Dientes",
+      "release_date": "2025-12-01",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nfWtEkGVqb7zfeDJuCXhXSjYD9N.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/51iMP3623NFshFXO80DmP04H9Ie.jpg",
       "genres": [
-        "драма"
+        "приключения",
+        "комедия"
       ]
     },
     {
-      "id": 1590048,
-      "title": "The Man of the Sea",
-      "release_date": "2025-11-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mB8tPIYR7ow1vNaZun3oT6URHIO.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1590035,
-      "title": "Spilled Milk",
-      "release_date": "2025-11-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zTB3j3IRrnrdy1ZoxYHAiw53wa0.jpg",
-      "genres": []
-    },
-    {
-      "id": 1590010,
-      "title": "Nuff Respect: Conexão Zona Norte",
-      "release_date": "2025-11-30",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1589893,
-      "title": "Rework",
-      "release_date": "2025-11-30",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1589864,
-      "title": "கனிப்பு",
-      "release_date": "2025-11-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/e52bVAruu4TuT2AGNi0QLdmdLoE.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1589833,
-      "title": "Negana",
-      "release_date": "2025-11-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xh2tjtjNo8kdpX89iheRX2PyNiG.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1589770,
-      "title": "Raso, Fundo e Oceano",
-      "release_date": "2025-11-30",
-      "vote_average": 9.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/b0WECJKryjOo0PGlfPHOaQZcDHM.jpg",
-      "genres": []
-    },
-    {
-      "id": 1589762,
-      "title": "Carosello in Love",
-      "release_date": "2025-11-30",
+      "id": 1586479,
+      "title": "Matt Farrell and the Teenie Genie",
+      "release_date": "2025-12-01",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
