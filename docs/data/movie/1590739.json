@@ -1,0 +1,32 @@
+{
+  "id": 1590739,
+  "title": "The Cosmic Clown",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-11-30",
+  "runtime": 7,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "приключения",
+    "комедия",
+    "драма",
+    "фэнтези",
+    "ужасы",
+    "музыка",
+    "детектив",
+    "фантастика",
+    "триллер"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/wYhTlAkZy6VryVJiXcKRZOs4uN5.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/ylMDQ7SQZKJ84uHIbiruG4q4X5R.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1590739",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-01T12:28:15.042269+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

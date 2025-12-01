@@ -1,13 +1,56 @@
 {
-  "fetched_at_utc": "2025-12-01T06:22:23.611695+00:00",
+  "fetched_at_utc": "2025-12-01T12:28:16.412134+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1590739,
+      "title": "The Cosmic Clown",
+      "release_date": "2025-11-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wYhTlAkZy6VryVJiXcKRZOs4uN5.jpg",
+      "genres": [
+        "приключения",
+        "комедия",
+        "драма",
+        "фэнтези",
+        "ужасы",
+        "музыка",
+        "детектив",
+        "фантастика",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1590738,
+      "title": "Restinction",
+      "release_date": "2025-12-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/s3zBBHegdjPeiL33SuvNcB70Afu.jpg",
+      "genres": [
+        "драма",
+        "триллер",
+        "ужасы",
+        "приключения"
+      ]
+    },
+    {
+      "id": 1590573,
+      "title": "A Heist Away From Home",
+      "release_date": "2025-12-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wgt7bj0aoab92GV6Jr2UoFncsqD.jpg",
+      "genres": [
+        "триллер",
+        "комедия",
+        "драма"
+      ]
+    },
+    {
       "id": 1590541,
       "title": "Tussen ons",
-      "release_date": "",
+      "release_date": "2025-12-01",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/vx6jOhC0CH7GkOFLB4mt5xuCO4j.jpg",
       "genres": [
@@ -69,35 +112,6 @@
       "genres": [
         "драма"
       ]
-    },
-    {
-      "id": 1588160,
-      "title": "IVF in België",
-      "release_date": "2025-12-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iZnedSoIRwyqSu0EY4vXoUvIxWB.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1587305,
-      "title": "La Hermandad de los Dientes",
-      "release_date": "2025-12-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/51iMP3623NFshFXO80DmP04H9Ie.jpg",
-      "genres": [
-        "приключения",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1586479,
-      "title": "Matt Farrell and the Teenie Genie",
-      "release_date": "2025-12-01",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
     }
   ],
   "source": "TMDB",
