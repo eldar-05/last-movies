@@ -1,9 +1,59 @@
 {
-  "fetched_at_utc": "2025-12-02T12:28:26.261437+00:00",
+  "fetched_at_utc": "2025-12-02T18:21:03.129474+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1591724,
+      "title": "J'ai Souvenir Encore",
+      "release_date": "2025-12-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8pGS27BdScNSsIrG0Wnmwu9PVmM.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1591708,
+      "title": "Forks Out: A Sesame Street Whodunit",
+      "release_date": "2025-12-02",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1591670,
+      "title": "Nail In The Coffin (For The Love Of Theatre)",
+      "release_date": "2025-12-02",
+      "vote_average": 9.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bkcyLPdGKFCaOHjnxtwOX1IfdCn.jpg",
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1591642,
+      "title": "Sinceramente, yo",
+      "release_date": "2025-12-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/98cogdH5ZFAGGp3jR8PJyqPMWvz.jpg",
+      "genres": [
+        "документальный",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1591614,
+      "title": "Sissi, nouveau pharaon d'Égypte",
+      "release_date": "2025-12-02",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1591335,
       "title": "George Civeris: A Sense of Urgency",
@@ -23,6 +73,14 @@
       "genres": []
     },
     {
+      "id": 1591260,
+      "title": "Untitled",
+      "release_date": "2025-12-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mD2ObXMl40gp044QBWBFIGwKvwH.jpg",
+      "genres": []
+    },
+    {
       "id": 1591217,
       "title": "Castigo",
       "release_date": "2025-12-02",
@@ -35,64 +93,6 @@
     {
       "id": 1591190,
       "title": "Żuczki",
-      "release_date": "2025-12-02",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1591186,
-      "title": "Metuljčki",
-      "release_date": "2025-12-02",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1591182,
-      "title": "Thanks, You Too",
-      "release_date": "2025-12-02",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1591179,
-      "title": "Terremoto",
-      "release_date": "2025-12-02",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1591178,
-      "title": "Matka s.r.o.",
-      "release_date": "2025-12-02",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1591177,
-      "title": "A Dive in the Garden",
-      "release_date": "2025-12-02",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1591149,
-      "title": "HAG",
       "release_date": "2025-12-02",
       "vote_average": 0.0,
       "poster_url": null,

@@ -1,0 +1,24 @@
+{
+  "id": 1591724,
+  "title": "J'ai Souvenir Encore",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-02",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/8pGS27BdScNSsIrG0Wnmwu9PVmM.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/6LaMZ8QMwdyUIBR8eDMmp2yQogl.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1591724",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-02T18:21:01.332166+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
