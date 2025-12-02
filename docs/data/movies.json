@@ -1,9 +1,37 @@
 {
-  "fetched_at_utc": "2025-12-02T06:21:44.678651+00:00",
+  "fetched_at_utc": "2025-12-02T12:28:26.261437+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1591335,
+      "title": "George Civeris: A Sense of Urgency",
+      "release_date": "2025-12-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9pdpUK9H37h1MT6QV8w3Ix95eev.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1591331,
+      "title": "The Queens: Quest for the Crown",
+      "release_date": "2025-12-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5CMU0UpyoyJ55aCvDTyuPXWNZT6.jpg",
+      "genres": []
+    },
+    {
+      "id": 1591217,
+      "title": "Castigo",
+      "release_date": "2025-12-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bqlh2TOWemFjD9t6WFNdTePaM0t.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
     {
       "id": 1591190,
       "title": "Żuczki",
@@ -70,37 +98,6 @@
       "poster_url": null,
       "genres": [
         "мультфильм"
-      ]
-    },
-    {
-      "id": 1591098,
-      "title": "Central-Mart",
-      "release_date": "2025-12-02",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1591097,
-      "title": "Duck & Sauerkraut",
-      "release_date": "2025-12-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mV9bNb0hcjEY8S8vs0i9QOWMTGy.jpg",
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1590995,
-      "title": "The Silent Oath",
-      "release_date": "2025-12-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/IfykXfZbEHGhDRTCmcqC3HFouE.jpg",
-      "genres": [
-        "драма",
-        "фантастика"
       ]
     }
   ],
