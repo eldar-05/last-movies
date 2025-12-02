@@ -3,8 +3,8 @@
   "title": "The Silent Oath",
   "tagline": "",
   "overview": "",
-  "release_date": "",
-  "runtime": 4,
+  "release_date": "2025-12-02",
+  "runtime": 5,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
@@ -17,9 +17,9 @@
   ],
   "production_countries": [],
   "poster_url": "https://image.tmdb.org/t/p/w500/IfykXfZbEHGhDRTCmcqC3HFouE.jpg",
-  "backdrop_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/uqLLZ2TwzTYBONXD6CfZUPe1I72.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1590995",
   "trailer": null,
-  "fetched_at_utc": "2025-12-02T01:02:34.229455+00:00",
+  "fetched_at_utc": "2025-12-02T06:21:44.678473+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
