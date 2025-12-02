@@ -1,116 +1,106 @@
 {
-  "fetched_at_utc": "2025-12-01T18:21:37.609849+00:00",
+  "fetched_at_utc": "2025-12-02T01:02:34.229902+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1590739,
-      "title": "The Cosmic Clown",
-      "release_date": "2025-12-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wYhTlAkZy6VryVJiXcKRZOs4uN5.jpg",
-      "genres": [
-        "приключения",
-        "комедия",
-        "драма",
-        "фэнтези",
-        "ужасы",
-        "музыка",
-        "детектив",
-        "фантастика",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1590738,
-      "title": "Restinction",
-      "release_date": "2025-12-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/s3zBBHegdjPeiL33SuvNcB70Afu.jpg",
-      "genres": [
-        "драма",
-        "триллер",
-        "ужасы",
-        "приключения"
-      ]
-    },
-    {
-      "id": 1590573,
-      "title": "A Heist Away From Home",
-      "release_date": "2025-12-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wgt7bj0aoab92GV6Jr2UoFncsqD.jpg",
-      "genres": [
-        "триллер",
-        "комедия",
-        "драма"
-      ]
-    },
-    {
-      "id": 1590541,
-      "title": "Tussen ons",
-      "release_date": "2025-12-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vx6jOhC0CH7GkOFLB4mt5xuCO4j.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1590449,
-      "title": "Bookworms",
-      "release_date": "2025-12-01",
+      "id": 1591190,
+      "title": "Żuczki",
+      "release_date": "2025-12-02",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1591186,
+      "title": "Metuljčki",
+      "release_date": "2025-12-02",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1591182,
+      "title": "Thanks, You Too",
+      "release_date": "2025-12-02",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1591179,
+      "title": "Terremoto",
+      "release_date": "2025-12-02",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1591178,
+      "title": "Matka s.r.o.",
+      "release_date": "2025-12-02",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1591177,
+      "title": "A Dive in the Garden",
+      "release_date": "2025-12-02",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1591149,
+      "title": "HAG",
+      "release_date": "2025-12-02",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1591098,
+      "title": "Central-Mart",
+      "release_date": "2025-12-02",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1591097,
+      "title": "Duck & Sauerkraut",
+      "release_date": "2025-12-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mV9bNb0hcjEY8S8vs0i9QOWMTGy.jpg",
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1590995,
+      "title": "The Silent Oath",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/IfykXfZbEHGhDRTCmcqC3HFouE.jpg",
+      "genres": [
+        "драма",
         "фантастика"
-      ]
-    },
-    {
-      "id": 1590251,
-      "title": "Burning Water",
-      "release_date": "2025-12-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zkrR08bJkMuyTkiNQrk4Vo7PJgN.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1590028,
-      "title": "双塔英雄",
-      "release_date": "2025-12-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nuZ1vMB1qud6riq7Wksi21E0zTn.jpg",
-      "genres": []
-    },
-    {
-      "id": 1589221,
-      "title": "Room",
-      "release_date": "2025-12-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4IYNcIFHShHk1AOaWVz7O74MV1X.jpg",
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1589181,
-      "title": "The Wonderful World of Disney: Holiday Spectacular",
-      "release_date": "2025-12-01",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1589011,
-      "title": "Desiste",
-      "release_date": "2025-12-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sNJMtPUuo2WoWUIwRgrdREfWkSt.jpg",
-      "genres": [
-        "драма"
       ]
     }
   ],
