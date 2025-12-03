@@ -1,15 +1,14 @@
 {
-  "id": 1592013,
-  "title": "Nasaan si Hesus?",
+  "id": 1592296,
+  "title": "Dalisay",
   "tagline": "",
   "overview": "",
   "release_date": "2025-12-03",
-  "runtime": 90,
+  "runtime": 3,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "музыка",
-    "драма"
+    "триллер"
   ],
   "original_language": "tl",
   "spoken_languages": [
@@ -18,8 +17,8 @@
   "production_countries": [],
   "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1592013",
+  "tmdb_url": "https://www.themoviedb.org/movie/1592296",
   "trailer": null,
-  "fetched_at_utc": "2025-12-03T18:21:27.669361+00:00",
+  "fetched_at_utc": "2025-12-03T18:21:27.135459+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

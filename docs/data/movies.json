@@ -1,9 +1,39 @@
 {
-  "fetched_at_utc": "2025-12-03T12:27:57.603005+00:00",
+  "fetched_at_utc": "2025-12-03T18:21:28.516938+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1592315,
+      "title": "Tunggal Ditinggal",
+      "release_date": "2025-12-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iawkbJC7yp6LEHTffk6jFSgawl2.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1592296,
+      "title": "Dalisay",
+      "release_date": "2025-12-03",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1592107,
+      "title": "A Mawadat do Palestino",
+      "release_date": "2025-12-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/7ZoWGq4BXILEMcS8Ee4ha5Us67X.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1592028,
       "title": "Rewind",
@@ -16,7 +46,7 @@
     },
     {
       "id": 1592013,
-      "title": "Nasaan si Hesus",
+      "title": "Nasaan si Hesus?",
       "release_date": "2025-12-03",
       "vote_average": 0.0,
       "poster_url": null,
@@ -77,38 +107,6 @@
       "genres": [
         "драма",
         "фэнтези"
-      ]
-    },
-    {
-      "id": 1591310,
-      "title": "The Walk Home",
-      "release_date": "2025-12-03",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1591303,
-      "title": "Trust",
-      "release_date": "2025-12-03",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1591233,
-      "title": "The Money Tree",
-      "release_date": "2025-12-03",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "комедия",
-        "фантастика",
-        "драма"
       ]
     }
   ],
