@@ -1,9 +1,51 @@
 {
-  "fetched_at_utc": "2025-12-03T06:21:24.337089+00:00",
+  "fetched_at_utc": "2025-12-03T12:27:57.603005+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1592028,
+      "title": "Rewind",
+      "release_date": "2025-12-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/86UF9dMQEmPBHfbe40BOBMTAn61.jpg",
+      "genres": [
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1592013,
+      "title": "Nasaan si Hesus",
+      "release_date": "2025-12-03",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "музыка",
+        "драма"
+      ]
+    },
+    {
+      "id": 1591998,
+      "title": "Min Ageban",
+      "release_date": "2025-12-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ukRlMbgYXm98MVD6euSme9QKi5A.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1591996,
+      "title": "Through the Lines",
+      "release_date": "2025-12-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/49dLsGXkbKQU6lX0PVYUMUOtrdz.jpg",
+      "genres": [
+        "приключения",
+        "драма"
+      ]
+    },
     {
       "id": 1591734,
       "title": "how to make dry wall",
@@ -59,7 +101,7 @@
     },
     {
       "id": 1591233,
-      "title": "Money Tree",
+      "title": "The Money Tree",
       "release_date": "2025-12-03",
       "vote_average": 0.0,
       "poster_url": null,
@@ -67,48 +109,6 @@
         "комедия",
         "фантастика",
         "драма"
-      ]
-    },
-    {
-      "id": 1591205,
-      "title": "Nem Tudo É Sobre Você, Giselle",
-      "release_date": "2025-12-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/d5Pswh4PjazM6gdbSP07Dp62cUr.jpg",
-      "genres": [
-        "фэнтези",
-        "драма"
-      ]
-    },
-    {
-      "id": 1591175,
-      "title": "The Wolf Ma'am",
-      "release_date": "2025-12-03",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1591156,
-      "title": "Bunicu doarme",
-      "release_date": "2025-12-03",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1590870,
-      "title": "A Noite Em Que Nos Conhecemos",
-      "release_date": "2025-12-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dzonIoFDP1PCy84fOlZtpGe7B9t.jpg",
-      "genres": [
-        "драма",
-        "мелодрама"
       ]
     }
   ],

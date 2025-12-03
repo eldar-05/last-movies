@@ -1,26 +1,23 @@
 {
-  "id": 1591303,
-  "title": "Trust",
+  "id": 1592013,
+  "title": "Nasaan si Hesus",
   "tagline": "",
   "overview": "",
   "release_date": "2025-12-03",
-  "runtime": 6,
+  "runtime": 90,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
+    "музыка",
     "драма"
   ],
   "original_language": "en",
-  "spoken_languages": [
-    "English"
-  ],
-  "production_countries": [
-    "US"
-  ],
+  "spoken_languages": [],
+  "production_countries": [],
   "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1591303",
+  "tmdb_url": "https://www.themoviedb.org/movie/1592013",
   "trailer": null,
-  "fetched_at_utc": "2025-12-03T12:27:57.321779+00:00",
+  "fetched_at_utc": "2025-12-03T12:27:55.487147+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
