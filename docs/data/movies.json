@@ -1,103 +1,114 @@
 {
-  "fetched_at_utc": "2025-12-02T18:21:03.129474+00:00",
+  "fetched_at_utc": "2025-12-03T01:03:05.223212+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1591724,
-      "title": "J'ai Souvenir Encore",
-      "release_date": "2025-12-02",
+      "id": 1591734,
+      "title": "how to make dry wall",
+      "release_date": "2025-12-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8pGS27BdScNSsIrG0Wnmwu9PVmM.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1591708,
-      "title": "Forks Out: A Sesame Street Whodunit",
-      "release_date": "2025-12-02",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2sFrTCpursgfV1NTXtbg7zfUtp5.jpg",
       "genres": []
     },
     {
-      "id": 1591670,
-      "title": "Nail In The Coffin (For The Love Of Theatre)",
-      "release_date": "2025-12-02",
-      "vote_average": 9.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bkcyLPdGKFCaOHjnxtwOX1IfdCn.jpg",
-      "genres": [
-        "драма",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1591642,
-      "title": "Sinceramente, yo",
-      "release_date": "2025-12-02",
+      "id": 1591726,
+      "title": "Tragedia Sentimental",
+      "release_date": "2025-12-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/98cogdH5ZFAGGp3jR8PJyqPMWvz.jpg",
+      "poster_url": null,
       "genres": [
         "документальный",
-        "музыка"
+        "драма",
+        "история",
+        "мелодрама",
+        "детектив"
       ]
     },
     {
-      "id": 1591614,
-      "title": "Sissi, nouveau pharaon d'Égypte",
-      "release_date": "2025-12-02",
+      "id": 1591313,
+      "title": "Akuji: Dead and Awake",
+      "release_date": "2025-12-03",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "документальный"
+        "драма",
+        "фэнтези"
       ]
     },
     {
-      "id": 1591335,
-      "title": "George Civeris: A Sense of Urgency",
-      "release_date": "2025-12-02",
+      "id": 1591310,
+      "title": "The Walk Home",
+      "release_date": "2025-12-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9pdpUK9H37h1MT6QV8w3Ix95eev.jpg",
+      "poster_url": null,
       "genres": [
-        "комедия"
+        "драма"
       ]
     },
     {
-      "id": 1591331,
-      "title": "The Queens: Quest for the Crown",
-      "release_date": "2025-12-02",
+      "id": 1591303,
+      "title": "Trust",
+      "release_date": "2025-12-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5CMU0UpyoyJ55aCvDTyuPXWNZT6.jpg",
-      "genres": []
-    },
-    {
-      "id": 1591260,
-      "title": "Untitled",
-      "release_date": "2025-12-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mD2ObXMl40gp044QBWBFIGwKvwH.jpg",
-      "genres": []
-    },
-    {
-      "id": 1591217,
-      "title": "Castigo",
-      "release_date": "2025-12-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bqlh2TOWemFjD9t6WFNdTePaM0t.jpg",
+      "poster_url": null,
       "genres": [
-        "ужасы"
+        "драма"
       ]
     },
     {
-      "id": 1591190,
-      "title": "Żuczki",
-      "release_date": "2025-12-02",
+      "id": 1591233,
+      "title": "Money Tree",
+      "release_date": "2025-12-03",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "комедия",
+        "фантастика",
+        "драма"
+      ]
+    },
+    {
+      "id": 1591205,
+      "title": "Nem Tudo É Sobre Você, Giselle",
+      "release_date": "2025-12-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/d5Pswh4PjazM6gdbSP07Dp62cUr.jpg",
+      "genres": [
+        "фэнтези",
+        "драма"
+      ]
+    },
+    {
+      "id": 1591175,
+      "title": "The Wolf Ma'am",
+      "release_date": "2025-12-03",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
         "мультфильм"
+      ]
+    },
+    {
+      "id": 1591156,
+      "title": "Bunicu doarme",
+      "release_date": "2025-12-03",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1590870,
+      "title": "A Noite Em Que Nos Conhecemos",
+      "release_date": "2025-12-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/dzonIoFDP1PCy84fOlZtpGe7B9t.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
       ]
     }
   ],
