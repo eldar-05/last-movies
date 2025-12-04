@@ -1,0 +1,29 @@
+{
+  "id": 1591272,
+  "title": "Werehouse",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-04",
+  "runtime": 19,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/4ukR13sE2SygWYR3KeuRjOmp61o.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/9qgaaogip3ss3hFDf5yVNU1Lnhm.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1591272",
+  "trailer": {
+    "key": "4LSiq3Pr51g",
+    "name": "WEREHOUSE - Main Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-12-04T01:02:39.213205+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1592550,
+  "title": "Océano Negro",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-04",
+  "runtime": 11,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "es",
+  "spoken_languages": [],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/sodTYUhGNsai8gyDRDAtxVa68Jj.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1592550",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-04T01:02:38.532556+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

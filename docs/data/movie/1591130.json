@@ -1,0 +1,26 @@
+{
+  "id": 1591130,
+  "title": "REST",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-04",
+  "runtime": 6,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм"
+  ],
+  "original_language": "ja",
+  "spoken_languages": [
+    "No Language"
+  ],
+  "production_countries": [
+    "JP"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/5rwSHK7MVIAJMvl70Fk60IloyB1.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1591130",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-04T01:02:39.769112+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

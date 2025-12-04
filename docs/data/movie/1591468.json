@@ -1,0 +1,29 @@
+{
+  "id": 1591468,
+  "title": "Surreal Suriye",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-04",
+  "runtime": 38,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "tr",
+  "spoken_languages": [
+    "Arabic",
+    "Turkish"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/odUICsB3LQMNMOafQEwhH2hmKD6.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/6vSRjJvRTAFPPZ15HqkWjwV1UMn.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1591468",
+  "trailer": {
+    "key": "g--iu0pXgww",
+    "name": "SURREAL SURİYE - TEASER",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-12-04T01:02:39.085989+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1590776,
+  "title": "Ye Erat Gibza",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-04",
+  "runtime": 110,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "am",
+  "spoken_languages": [
+    "Amharic"
+  ],
+  "production_countries": [
+    "ET"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/sQ0Lvhp7GJs2V12buecVKsnbjhh.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/vUc9hQz91dzXDeaXZyw7nWk9nKC.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1590776",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-04T01:02:39.962514+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

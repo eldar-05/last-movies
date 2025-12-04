@@ -1,112 +1,109 @@
 {
-  "fetched_at_utc": "2025-12-03T18:21:28.516938+00:00",
+  "fetched_at_utc": "2025-12-04T01:02:39.962878+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1592315,
-      "title": "Tunggal Ditinggal",
-      "release_date": "2025-12-03",
+      "id": 1592550,
+      "title": "Océano Negro",
+      "release_date": "2025-12-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iawkbJC7yp6LEHTffk6jFSgawl2.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1592296,
-      "title": "Dalisay",
-      "release_date": "2025-12-03",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1592107,
-      "title": "A Mawadat do Palestino",
-      "release_date": "2025-12-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7ZoWGq4BXILEMcS8Ee4ha5Us67X.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sodTYUhGNsai8gyDRDAtxVa68Jj.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1592028,
-      "title": "Rewind",
-      "release_date": "2025-12-03",
+      "id": 1592386,
+      "title": "SEMANA DO DESIGN – o documentário",
+      "release_date": "2025-12-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/86UF9dMQEmPBHfbe40BOBMTAn61.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8PDeKxnQfAoprrcCe97iH56ZFl6.jpg",
       "genres": [
-        "мелодрама"
+        "документальный"
       ]
     },
     {
-      "id": 1592013,
-      "title": "Nasaan si Hesus?",
-      "release_date": "2025-12-03",
+      "id": 1591891,
+      "title": "Odštekani Božič",
+      "release_date": "2025-12-04",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/whDnweGUlaVBLK6DC2ap65WNCTK.jpg",
       "genres": [
-        "музыка",
-        "драма"
+        "боевик",
+        "комедия",
+        "криминал",
+        "триллер"
       ]
     },
     {
-      "id": 1591998,
-      "title": "Min Ageban",
-      "release_date": "2025-12-03",
+      "id": 1591611,
+      "title": "Muddi - Zwölf Annäherungen an das Altern",
+      "release_date": "2025-12-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ukRlMbgYXm98MVD6euSme9QKi5A.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6VLXN9uITljYp8qZFQRuCxrDEvd.jpg",
+      "genres": []
+    },
+    {
+      "id": 1591468,
+      "title": "Surreal Suriye",
+      "release_date": "2025-12-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/odUICsB3LQMNMOafQEwhH2hmKD6.jpg",
       "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1591272,
+      "title": "Werehouse",
+      "release_date": "2025-12-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4ukR13sE2SygWYR3KeuRjOmp61o.jpg",
+      "genres": [
+        "ужасы",
         "комедия"
       ]
     },
     {
-      "id": 1591996,
-      "title": "Through the Lines",
-      "release_date": "2025-12-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/49dLsGXkbKQU6lX0PVYUMUOtrdz.jpg",
-      "genres": [
-        "приключения",
-        "драма"
-      ]
-    },
-    {
-      "id": 1591734,
-      "title": "how to make dry wall",
-      "release_date": "2025-12-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2sFrTCpursgfV1NTXtbg7zfUtp5.jpg",
-      "genres": []
-    },
-    {
-      "id": 1591726,
-      "title": "Tragedia Sentimental",
-      "release_date": "2025-12-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/o480uU0DkZAV2UqvFhoYLrKv7qz.jpg",
-      "genres": [
-        "документальный",
-        "драма",
-        "история",
-        "мелодрама",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1591313,
-      "title": "Akuji: Dead and Awake",
-      "release_date": "2025-12-03",
+      "id": 1591139,
+      "title": "From Narva with Love",
+      "release_date": "2025-12-04",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "драма",
-        "фэнтези"
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1591131,
+      "title": "Pictures for Piano 1",
+      "release_date": "2025-12-04",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1591130,
+      "title": "REST",
+      "release_date": "2025-12-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5rwSHK7MVIAJMvl70Fk60IloyB1.jpg",
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1590776,
+      "title": "Ye Erat Gibza",
+      "release_date": "2025-12-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/sQ0Lvhp7GJs2V12buecVKsnbjhh.jpg",
+      "genres": [
+        "комедия"
       ]
     }
   ],

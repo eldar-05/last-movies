@@ -1,0 +1,33 @@
+{
+  "id": 1591891,
+  "title": "Odštekani Božič",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-04",
+  "runtime": 105,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "боевик",
+    "комедия",
+    "криминал",
+    "триллер"
+  ],
+  "original_language": "sl",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "SI"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/whDnweGUlaVBLK6DC2ap65WNCTK.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1591891",
+  "trailer": {
+    "key": "KrMswfjhBzY",
+    "name": "ODŠTEKANI BOŽIČ aka FREAKY CHRISTMAS (Official trailer 2025)",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-12-04T01:02:38.774832+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
