@@ -1,0 +1,26 @@
+{
+  "id": 1592770,
+  "title": "살아지다",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-04",
+  "runtime": 60,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "ko",
+  "spoken_languages": [
+    "Korean"
+  ],
+  "production_countries": [
+    "KR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/rW060wzr1doSJHskDXk6ZzAbBXR.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1592770",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-04T12:28:44.492377+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

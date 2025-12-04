@@ -1,9 +1,51 @@
 {
-  "fetched_at_utc": "2025-12-04T06:21:00.565940+00:00",
+  "fetched_at_utc": "2025-12-04T12:28:46.875395+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1592774,
+      "title": "Pellegrinis: A Melbourne Legacy",
+      "release_date": "2025-12-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9srr4YptXBmwGNnwV8kzsDG00dQ.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1592770,
+      "title": "살아지다",
+      "release_date": "2025-12-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rW060wzr1doSJHskDXk6ZzAbBXR.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1592731,
+      "title": "Juste pour Rire Montréal 2025",
+      "release_date": "2025-12-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/w3DPpUYZX0zjoHsTsNPdQ4VrYAv.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1592713,
+      "title": "The Lost Construction",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yqWitHvcm0EuJI7PqiogZIayCCQ.jpg",
+      "genres": [
+        "детектив",
+        "триллер",
+        "драма"
+      ]
+    },
     {
       "id": 1592550,
       "title": "Océano Negro",
@@ -63,46 +105,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/4ukR13sE2SygWYR3KeuRjOmp61o.jpg",
       "genres": [
         "ужасы",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1591139,
-      "title": "From Narva with Love",
-      "release_date": "2025-12-04",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1591131,
-      "title": "Pictures for Piano 1",
-      "release_date": "2025-12-04",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1591130,
-      "title": "REST",
-      "release_date": "2025-12-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5rwSHK7MVIAJMvl70Fk60IloyB1.jpg",
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1590776,
-      "title": "Ye Erat Gibza",
-      "release_date": "2025-12-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sQ0Lvhp7GJs2V12buecVKsnbjhh.jpg",
-      "genres": [
         "комедия"
       ]
     }

@@ -1,0 +1,26 @@
+{
+  "id": 1592731,
+  "title": "Juste pour Rire Montréal 2025",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-04",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/w3DPpUYZX0zjoHsTsNPdQ4VrYAv.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/eIfO0rRZpgDfqn6On1uCex9u2gY.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1592731",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-04T12:28:44.856276+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
