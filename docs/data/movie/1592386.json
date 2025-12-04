@@ -5,8 +5,8 @@
   "overview": "",
   "release_date": "2025-12-04",
   "runtime": 36,
-  "vote_average": 0.0,
-  "vote_count": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
   "genres": [
     "документальный"
   ],
@@ -18,13 +18,13 @@
     "BR"
   ],
   "poster_url": "https://image.tmdb.org/t/p/w500/8PDeKxnQfAoprrcCe97iH56ZFl6.jpg",
-  "backdrop_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/uC0u1Ug1k05loGxIPfQNC0rqKrt.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1592386",
   "trailer": {
     "key": "va6KPJWTmGE",
     "name": "SEMANA DO DESIGN – trailer",
     "type": "Trailer"
   },
-  "fetched_at_utc": "2025-12-04T01:02:38.653390+00:00",
+  "fetched_at_utc": "2025-12-04T06:20:59.418949+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
