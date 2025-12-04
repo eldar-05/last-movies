@@ -3,18 +3,26 @@
   "title": "The Lost Construction",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-12-04",
   "runtime": 0,
-  "vote_average": 0.0,
-  "vote_count": 0,
-  "genres": [],
+  "vote_average": 10.0,
+  "vote_count": 2,
+  "genres": [
+    "детектив",
+    "триллер",
+    "драма"
+  ],
   "original_language": "tr",
-  "spoken_languages": [],
-  "production_countries": [],
+  "spoken_languages": [
+    "Turkish"
+  ],
+  "production_countries": [
+    "TR"
+  ],
   "poster_url": "https://image.tmdb.org/t/p/w500/yqWitHvcm0EuJI7PqiogZIayCCQ.jpg",
-  "backdrop_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/tAfdEeeB2wKsDs9t6zNi90uaxSn.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1592713",
   "trailer": null,
-  "fetched_at_utc": "2025-12-04T12:28:45.243109+00:00",
+  "fetched_at_utc": "2025-12-04T18:21:41.143623+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

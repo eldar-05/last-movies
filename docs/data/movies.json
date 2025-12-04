@@ -1,9 +1,33 @@
 {
-  "fetched_at_utc": "2025-12-04T12:28:46.875395+00:00",
+  "fetched_at_utc": "2025-12-04T18:21:41.650206+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1592890,
+      "title": "Königsforst",
+      "release_date": "2025-12-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wueYkH0ToBMUhG0EE3yju3dWpY5.jpg",
+      "genres": []
+    },
+    {
+      "id": 1592889,
+      "title": "Instrumental Tourist",
+      "release_date": "2025-12-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9t7TpDSfjQPA9UoTOUuTJ41M1BU.jpg",
+      "genres": []
+    },
+    {
+      "id": 1592788,
+      "title": "Overconsumption",
+      "release_date": "2025-12-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/u3kxYQBAL67uxaWQyqow7opGurQ.jpg",
+      "genres": []
+    },
     {
       "id": 1592774,
       "title": "Pellegrinis: A Melbourne Legacy",
@@ -37,8 +61,8 @@
     {
       "id": 1592713,
       "title": "The Lost Construction",
-      "release_date": "",
-      "vote_average": 0.0,
+      "release_date": "2025-12-04",
+      "vote_average": 10.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/yqWitHvcm0EuJI7PqiogZIayCCQ.jpg",
       "genres": [
         "детектив",
@@ -77,35 +101,6 @@
         "комедия",
         "криминал",
         "триллер"
-      ]
-    },
-    {
-      "id": 1591611,
-      "title": "Muddi - Zwölf Annäherungen an das Altern",
-      "release_date": "2025-12-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6VLXN9uITljYp8qZFQRuCxrDEvd.jpg",
-      "genres": []
-    },
-    {
-      "id": 1591468,
-      "title": "Surreal Suriye",
-      "release_date": "2025-12-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/odUICsB3LQMNMOafQEwhH2hmKD6.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1591272,
-      "title": "Werehouse",
-      "release_date": "2025-12-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4ukR13sE2SygWYR3KeuRjOmp61o.jpg",
-      "genres": [
-        "ужасы",
-        "комедия"
       ]
     }
   ],
