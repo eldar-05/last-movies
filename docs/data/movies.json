@@ -1,107 +1,108 @@
 {
-  "fetched_at_utc": "2025-12-04T18:21:41.650206+00:00",
+  "fetched_at_utc": "2025-12-05T01:03:25.567404+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1592890,
-      "title": "Königsforst",
-      "release_date": "2025-12-04",
+      "id": 1593189,
+      "title": "Hitchhiker",
+      "release_date": "2025-12-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wueYkH0ToBMUhG0EE3yju3dWpY5.jpg",
-      "genres": []
-    },
-    {
-      "id": 1592889,
-      "title": "Instrumental Tourist",
-      "release_date": "2025-12-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9t7TpDSfjQPA9UoTOUuTJ41M1BU.jpg",
-      "genres": []
-    },
-    {
-      "id": 1592788,
-      "title": "Overconsumption",
-      "release_date": "2025-12-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/u3kxYQBAL67uxaWQyqow7opGurQ.jpg",
-      "genres": []
-    },
-    {
-      "id": 1592774,
-      "title": "Pellegrinis: A Melbourne Legacy",
-      "release_date": "2025-12-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9srr4YptXBmwGNnwV8kzsDG00dQ.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1592770,
-      "title": "살아지다",
-      "release_date": "2025-12-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rW060wzr1doSJHskDXk6ZzAbBXR.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1592731,
-      "title": "Juste pour Rire Montréal 2025",
-      "release_date": "2025-12-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/w3DPpUYZX0zjoHsTsNPdQ4VrYAv.jpg",
+      "poster_url": null,
       "genres": [
         "комедия"
       ]
     },
     {
-      "id": 1592713,
-      "title": "The Lost Construction",
-      "release_date": "2025-12-04",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yqWitHvcm0EuJI7PqiogZIayCCQ.jpg",
+      "id": 1593188,
+      "title": "Stages",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
-        "детектив",
-        "триллер",
         "драма"
       ]
     },
     {
-      "id": 1592550,
-      "title": "Océano Negro",
-      "release_date": "2025-12-04",
+      "id": 1593158,
+      "title": "Date Night",
+      "release_date": "2025-12-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sodTYUhGNsai8gyDRDAtxVa68Jj.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8wkmsWfuJYvPqzklvY4hGGOCJoX.jpg",
       "genres": [
-        "документальный"
+        "мелодрама",
+        "ужасы",
+        "триллер"
       ]
     },
     {
-      "id": 1592386,
-      "title": "SEMANA DO DESIGN – o documentário",
-      "release_date": "2025-12-04",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8PDeKxnQfAoprrcCe97iH56ZFl6.jpg",
+      "id": 1593145,
+      "title": "TITSOSTERONE",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/daxwo5D5sRSnCDK1677Bet9XLmr.jpg",
       "genres": [
-        "документальный"
+        "комедия"
       ]
     },
     {
-      "id": 1591891,
-      "title": "Odštekani Božič",
-      "release_date": "2025-12-04",
+      "id": 1593062,
+      "title": "சாரா",
+      "release_date": "",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/whDnweGUlaVBLK6DC2ap65WNCTK.jpg",
+      "poster_url": null,
       "genres": [
-        "боевик",
-        "комедия",
         "криминал",
         "триллер"
       ]
+    },
+    {
+      "id": 1592936,
+      "title": "Cellophane",
+      "release_date": "2025-12-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/c1fLD0UjMHub2HjOeGQyWwK2Qnt.jpg",
+      "genres": [
+        "триллер",
+        "криминал"
+      ]
+    },
+    {
+      "id": 1592814,
+      "title": "BPM",
+      "release_date": "2025-12-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/daSXshQgRf73OCZ0RRZrRBuVNwZ.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1592809,
+      "title": "Residence 26",
+      "release_date": "2025-12-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nBB5GSgw8uzDU21oVU5ReM0FU9F.jpg",
+      "genres": [
+        "музыка"
+      ]
+    },
+    {
+      "id": 1592791,
+      "title": "असुरवन",
+      "release_date": "2025-12-05",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1592772,
+      "title": "Geethai",
+      "release_date": "2025-12-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qxwnL0DTyg0M6rNOpzE5Kv7RSTe.jpg",
+      "genres": []
     }
   ],
   "source": "TMDB",

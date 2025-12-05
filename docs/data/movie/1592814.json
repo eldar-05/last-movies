@@ -1,0 +1,26 @@
+{
+  "id": 1592814,
+  "title": "BPM",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-05",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/daSXshQgRf73OCZ0RRZrRBuVNwZ.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/99utMvnHbxpiooa0tORvlI2MUZ5.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1592814",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-05T01:03:24.075568+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
