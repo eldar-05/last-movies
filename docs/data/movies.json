@@ -1,51 +1,28 @@
 {
-  "fetched_at_utc": "2025-12-05T12:27:24.452229+00:00",
+  "fetched_at_utc": "2025-12-05T18:17:44.265147+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1593392,
-      "title": "Balochachen",
+      "id": 1593620,
+      "title": "ACA 197: Ibragimov vs. Magomedov",
       "release_date": "2025-12-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vgmBin1cpCxfjZtc5qju3yVbeq.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1593329,
-      "title": "Racin' Jason",
-      "release_date": "2025-12-05",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1593307,
-      "title": "Bells Will Be Ringing",
-      "release_date": "2025-12-05",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yVPvZKCDZRqSrIYY9LUrgPLpM70.jpg",
       "genres": []
     },
     {
-      "id": 1593276,
-      "title": "A Love in Brief",
+      "id": 1593611,
+      "title": "Masked singer nederland  pakjesavond 2025",
       "release_date": "2025-12-05",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мелодрама",
-        "драма"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/wzhLU8V6ibA1LATBdZkKAOut3Ew.jpg",
+      "genres": []
     },
     {
-      "id": 1593274,
-      "title": "The Cranker",
+      "id": 1593596,
+      "title": "Mi viche todo el día",
       "release_date": "2025-12-05",
       "vote_average": 0.0,
       "poster_url": null,
@@ -54,56 +31,77 @@
       ]
     },
     {
-      "id": 1593189,
-      "title": "Hitchhiker",
+      "id": 1593593,
+      "title": "The Obsessive Shadow",
+      "release_date": "2025-12-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jz5ZfAwdScuhMWh9vR4ySgb1eOP.jpg",
+      "genres": [
+        "ужасы",
+        "триллер",
+        "боевик"
+      ]
+    },
+    {
+      "id": 1593592,
+      "title": "No menguará el fuego de esta luna",
       "release_date": "2025-12-05",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "комедия"
+        "документальный"
       ]
     },
     {
-      "id": 1593188,
-      "title": "Stages",
+      "id": 1593581,
+      "title": "Tres hombres miran pasar las estaciones",
       "release_date": "2025-12-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/inBeur3JtXNuzDkgwTkLUlVxb8d.jpg",
+      "poster_url": null,
       "genres": [
-        "драма"
+        "документальный"
       ]
     },
     {
-      "id": 1593158,
-      "title": "Date Night",
+      "id": 1593575,
+      "title": "Reportaje",
       "release_date": "2025-12-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8wkmsWfuJYvPqzklvY4hGGOCJoX.jpg",
+      "poster_url": null,
       "genres": [
-        "мелодрама",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1593571,
+      "title": "Un aparato para detectar fantasmas",
+      "release_date": "2025-12-05",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1593552,
+      "title": "Real Grey",
+      "release_date": "2025-12-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8t9uaFn45hCPgoN8RqGFEVV5PIZ.jpg",
+      "genres": [
         "ужасы",
-        "триллер"
+        "фантастика"
       ]
     },
     {
-      "id": 1593145,
-      "title": "TITSOSTERONE",
-      "release_date": "2025-12-05",
+      "id": 1593545,
+      "title": "An Aspen Christmas Conspiracy",
+      "release_date": "",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/daxwo5D5sRSnCDK1677Bet9XLmr.jpg",
+      "poster_url": null,
       "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1593062,
-      "title": "சாரா",
-      "release_date": "2025-12-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6pvu3azYg8t7w9IhZwAi6aBQaS6.jpg",
-      "genres": [
-        "криминал",
-        "триллер"
+        "комедия",
+        "мелодрама"
       ]
     }
   ],

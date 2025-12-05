@@ -1,0 +1,23 @@
+{
+  "id": 1593552,
+  "title": "Real Grey",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-05",
+  "runtime": 6,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "фантастика"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/8t9uaFn45hCPgoN8RqGFEVV5PIZ.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/pUx5S3UJSm8JDnBubChTfRnKPcs.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1593552",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-05T18:17:43.837163+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
