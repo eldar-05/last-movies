@@ -1,9 +1,58 @@
 {
-  "fetched_at_utc": "2025-12-05T06:21:18.058666+00:00",
+  "fetched_at_utc": "2025-12-05T12:27:24.452229+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1593392,
+      "title": "Balochachen",
+      "release_date": "2025-12-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vgmBin1cpCxfjZtc5qju3yVbeq.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1593329,
+      "title": "Racin' Jason",
+      "release_date": "2025-12-05",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1593307,
+      "title": "Bells Will Be Ringing",
+      "release_date": "2025-12-05",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1593276,
+      "title": "A Love in Brief",
+      "release_date": "2025-12-05",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "мелодрама",
+        "драма"
+      ]
+    },
+    {
+      "id": 1593274,
+      "title": "The Cranker",
+      "release_date": "2025-12-05",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1593189,
       "title": "Hitchhiker",
@@ -17,9 +66,9 @@
     {
       "id": 1593188,
       "title": "Stages",
-      "release_date": "",
+      "release_date": "2025-12-05",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/inBeur3JtXNuzDkgwTkLUlVxb8d.jpg",
       "genres": [
         "драма"
       ]
@@ -39,7 +88,7 @@
     {
       "id": 1593145,
       "title": "TITSOSTERONE",
-      "release_date": "",
+      "release_date": "2025-12-05",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/daxwo5D5sRSnCDK1677Bet9XLmr.jpg",
       "genres": [
@@ -56,53 +105,6 @@
         "криминал",
         "триллер"
       ]
-    },
-    {
-      "id": 1592936,
-      "title": "Cellophane",
-      "release_date": "2025-12-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/c1fLD0UjMHub2HjOeGQyWwK2Qnt.jpg",
-      "genres": [
-        "триллер",
-        "криминал"
-      ]
-    },
-    {
-      "id": 1592814,
-      "title": "BPM",
-      "release_date": "2025-12-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/daSXshQgRf73OCZ0RRZrRBuVNwZ.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1592809,
-      "title": "Residence 26",
-      "release_date": "2025-12-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nBB5GSgw8uzDU21oVU5ReM0FU9F.jpg",
-      "genres": [
-        "музыка"
-      ]
-    },
-    {
-      "id": 1592791,
-      "title": "असुरवन",
-      "release_date": "2025-12-05",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1592772,
-      "title": "Geethai",
-      "release_date": "2025-12-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qxwnL0DTyg0M6rNOpzE5Kv7RSTe.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",

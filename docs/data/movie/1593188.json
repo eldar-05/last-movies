@@ -3,18 +3,22 @@
   "title": "Stages",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-12-05",
   "runtime": 7,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "драма"
+  ],
   "original_language": "en",
-  "spoken_languages": [],
+  "spoken_languages": [
+    "English"
+  ],
   "production_countries": [],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/inBeur3JtXNuzDkgwTkLUlVxb8d.jpg",
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1593188",
   "trailer": null,
-  "fetched_at_utc": "2025-12-05T06:21:16.347222+00:00",
+  "fetched_at_utc": "2025-12-05T12:27:23.897853+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
