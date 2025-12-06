@@ -1,9 +1,19 @@
 {
-  "fetched_at_utc": "2025-12-06T12:23:59.527951+00:00",
+  "fetched_at_utc": "2025-12-06T18:17:26.769704+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1593950,
+      "title": "Alfred Nobel et Bertha von Suttner, un prix pour la paix",
+      "release_date": "2025-12-06",
+      "vote_average": 8.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/djAGqJmVM60rPBPJ6KeFwkQYWlh.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1593775,
       "title": "All Of Human History In One Hour",
@@ -92,16 +102,6 @@
         "драма",
         "фантастика",
         "ужасы"
-      ]
-    },
-    {
-      "id": 1592000,
-      "title": "Elmira High School Library Tour",
-      "release_date": "2025-12-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jxMnOh7kPoiiGU2FmoApvXKRbMR.jpg",
-      "genres": [
-        "приключения"
       ]
     }
   ],
