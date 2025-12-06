@@ -1,0 +1,26 @@
+{
+  "id": 1592009,
+  "title": "Tessellations",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-06",
+  "runtime": 29,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "фантастика",
+    "ужасы"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/awhKAbGAzgQFZKHGiCfN5mx1txv.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/mW1jcWoOx3XdKkbkUchnTNOAqqn.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1592009",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-06T01:00:00.962561+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

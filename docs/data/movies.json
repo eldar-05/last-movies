@@ -1,107 +1,107 @@
 {
-  "fetched_at_utc": "2025-12-05T18:17:44.265147+00:00",
+  "fetched_at_utc": "2025-12-06T01:00:01.100902+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1593620,
-      "title": "ACA 197: Ibragimov vs. Magomedov",
-      "release_date": "2025-12-05",
+      "id": 1593775,
+      "title": "All Of Human History In One Hour",
+      "release_date": "2025-12-06",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yVPvZKCDZRqSrIYY9LUrgPLpM70.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jKJdIFFYlVOdU7K3SI5Mfyz40O5.jpg",
+      "genres": [
+        "мультфильм",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1593683,
+      "title": "Memiliki Viola 8",
+      "release_date": "2025-12-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/dghmeDQ7ARyBz6kg8uHUXQJS8RC.jpg",
+      "genres": [
+        "драма",
+        "криминал"
+      ]
+    },
+    {
+      "id": 1593535,
+      "title": "Elevator Pitch",
+      "release_date": "2025-12-06",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1593483,
+      "title": "Memória de Moradia",
+      "release_date": "2025-12-06",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1593364,
+      "title": "Velho",
+      "release_date": "2025-12-06",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": []
     },
     {
-      "id": 1593611,
-      "title": "Masked singer nederland  pakjesavond 2025",
-      "release_date": "2025-12-05",
+      "id": 1593096,
+      "title": "صله‌ی رحم",
+      "release_date": "2025-12-06",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wzhLU8V6ibA1LATBdZkKAOut3Ew.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iwspB7nwzOoV4MUHpN7TYtLLyR1.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1592621,
+      "title": "The Royal Scam",
+      "release_date": "2025-12-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ix1miLcyX8SBppY5oZQ2fKBAqSa.jpg",
       "genres": []
     },
     {
-      "id": 1593596,
-      "title": "Mi viche todo el día",
-      "release_date": "2025-12-05",
+      "id": 1592189,
+      "title": "Listeming",
+      "release_date": "2025-12-06",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1Knl7QaseTS4npBlXdYfDDJmCpm.jpg",
       "genres": [
-        "документальный"
+        "драма"
       ]
     },
     {
-      "id": 1593593,
-      "title": "The Obsessive Shadow",
-      "release_date": "2025-12-05",
+      "id": 1592009,
+      "title": "Tessellations",
+      "release_date": "2025-12-06",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jz5ZfAwdScuhMWh9vR4ySgb1eOP.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/awhKAbGAzgQFZKHGiCfN5mx1txv.jpg",
       "genres": [
-        "ужасы",
-        "триллер",
-        "боевик"
+        "драма",
+        "фантастика",
+        "ужасы"
       ]
     },
     {
-      "id": 1593592,
-      "title": "No menguará el fuego de esta luna",
-      "release_date": "2025-12-05",
+      "id": 1592000,
+      "title": "Elmira High School Library Tour",
+      "release_date": "2025-12-06",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jxMnOh7kPoiiGU2FmoApvXKRbMR.jpg",
       "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1593581,
-      "title": "Tres hombres miran pasar las estaciones",
-      "release_date": "2025-12-05",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1593575,
-      "title": "Reportaje",
-      "release_date": "2025-12-05",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1593571,
-      "title": "Un aparato para detectar fantasmas",
-      "release_date": "2025-12-05",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1593552,
-      "title": "Real Grey",
-      "release_date": "2025-12-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8t9uaFn45hCPgoN8RqGFEVV5PIZ.jpg",
-      "genres": [
-        "ужасы",
-        "фантастика"
-      ]
-    },
-    {
-      "id": 1593545,
-      "title": "An Aspen Christmas Conspiracy",
-      "release_date": "",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "комедия",
-        "мелодрама"
+        "приключения"
       ]
     }
   ],

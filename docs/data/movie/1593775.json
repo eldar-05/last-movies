@@ -1,0 +1,27 @@
+{
+  "id": 1593775,
+  "title": "All Of Human History In One Hour",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-06",
+  "runtime": 64,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм",
+    "документальный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "DE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/jKJdIFFYlVOdU7K3SI5Mfyz40O5.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/ywiKBV2DDkzjD96LqWJVVBGsTxr.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1593775",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-06T00:59:59.673100+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
