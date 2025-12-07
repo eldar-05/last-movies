@@ -1,0 +1,26 @@
+{
+  "id": 1590550,
+  "title": "Molho Inglês",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-07",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "триллер"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "English",
+    "Portuguese"
+  ],
+  "production_countries": [],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1590550",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-07T01:09:09.572571+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

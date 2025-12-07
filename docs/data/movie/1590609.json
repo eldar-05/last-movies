@@ -1,0 +1,23 @@
+{
+  "id": 1590609,
+  "title": "In Blue",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-07",
+  "runtime": 3,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мелодрама",
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/432voHnIk81jRKc20CEpQh4vzgS.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/8sY8MZF1YdDXycW6LJ7dMIEho6Z.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1590609",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-07T01:09:09.156762+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

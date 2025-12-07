@@ -1,107 +1,112 @@
 {
-  "fetched_at_utc": "2025-12-06T18:17:26.769704+00:00",
+  "fetched_at_utc": "2025-12-07T01:09:09.573108+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1593950,
-      "title": "Alfred Nobel et Bertha von Suttner, un prix pour la paix",
-      "release_date": "2025-12-06",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/djAGqJmVM60rPBPJ6KeFwkQYWlh.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1593775,
-      "title": "All Of Human History In One Hour",
-      "release_date": "2025-12-06",
+      "id": 1594333,
+      "title": "NOAH Kaito Kiyomiya 10th Anniversary Produced Event \"Mad Decade\"",
+      "release_date": "2025-12-07",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jKJdIFFYlVOdU7K3SI5Mfyz40O5.jpg",
-      "genres": [
-        "мультфильм",
-        "документальный"
-      ]
-    },
-    {
-      "id": 1593683,
-      "title": "Memiliki Viola 8",
-      "release_date": "2025-12-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dghmeDQ7ARyBz6kg8uHUXQJS8RC.jpg",
-      "genres": [
-        "драма",
-        "криминал"
-      ]
-    },
-    {
-      "id": 1593535,
-      "title": "Elevator Pitch",
-      "release_date": "2025-12-06",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1593483,
-      "title": "Memória de Moradia",
-      "release_date": "2025-12-06",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1593364,
-      "title": "Velho",
-      "release_date": "2025-12-06",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/g86d7OMQa6FBjdbvNl60cHR0QLU.jpg",
       "genres": []
     },
     {
-      "id": 1593096,
-      "title": "صله‌ی رحم",
-      "release_date": "2025-12-06",
+      "id": 1593972,
+      "title": "Brother Bereaved",
+      "release_date": "2025-12-07",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iwspB7nwzOoV4MUHpN7TYtLLyR1.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1592621,
-      "title": "The Royal Scam",
-      "release_date": "2025-12-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ix1miLcyX8SBppY5oZQ2fKBAqSa.jpg",
-      "genres": []
-    },
-    {
-      "id": 1592189,
-      "title": "Listeming",
-      "release_date": "2025-12-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1Knl7QaseTS4npBlXdYfDDJmCpm.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eZnmyjL1S5z7ZkccdokuX24SeHN.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1592009,
-      "title": "Tessellations",
-      "release_date": "2025-12-06",
+      "id": 1593872,
+      "title": "Bigfoot Doesn't Like Having His Picture Being Taken",
+      "release_date": "2025-12-07",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/awhKAbGAzgQFZKHGiCfN5mx1txv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aT7bVnpFXTojlKDjIqbTp9omlBK.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1593469,
+      "title": "Oceana - branden på Liseberg",
+      "release_date": "2025-12-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/dalZ8pQNOjdEJireadl26FvGVV0.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1593120,
+      "title": "Hatchie: An Innocent Soul",
+      "release_date": "2025-12-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jmKfJ3QL5lHIfjyvpHNDPvv3WxI.jpg",
+      "genres": [
+        "мультфильм",
+        "драма",
+        "семейный"
+      ]
+    },
+    {
+      "id": 1591930,
+      "title": "Sven de Leijer: Liefde voor publiek",
+      "release_date": "2025-12-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3J4J4wQNCEUbooZWC3uyi8vKrSE.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1591811,
+      "title": "Gorete - O Início",
+      "release_date": "2025-12-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8TK4dnERafWPXfqrJFuXD1WFqn7.jpg",
+      "genres": [
+        "ужасы",
+        "драма",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1590805,
+      "title": "Dear A Pair of Sandalwoods,",
+      "release_date": "2025-12-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vuRBht8HBEHgKo4EYgRWFgqYlWT.jpg",
       "genres": [
         "драма",
-        "фантастика",
-        "ужасы"
+        "семейный"
+      ]
+    },
+    {
+      "id": 1590609,
+      "title": "In Blue",
+      "release_date": "2025-12-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/432voHnIk81jRKc20CEpQh4vzgS.jpg",
+      "genres": [
+        "мелодрама",
+        "драма"
+      ]
+    },
+    {
+      "id": 1590550,
+      "title": "Molho Inglês",
+      "release_date": "2025-12-07",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма",
+        "триллер"
       ]
     }
   ],

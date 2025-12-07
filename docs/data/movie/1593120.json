@@ -1,0 +1,33 @@
+{
+  "id": 1593120,
+  "title": "Hatchie: An Innocent Soul",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-07",
+  "runtime": 60,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм",
+    "драма",
+    "семейный"
+  ],
+  "original_language": "ur",
+  "spoken_languages": [
+    "English",
+    "Urdu"
+  ],
+  "production_countries": [
+    "PK"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/jmKfJ3QL5lHIfjyvpHNDPvv3WxI.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/acR1XQz8T9ltepLG5hiFg5JSlOm.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1593120",
+  "trailer": {
+    "key": "KdYAL46eubU",
+    "name": "Hatchie: An Innocent Soul | Final Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-12-07T01:09:07.535745+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
