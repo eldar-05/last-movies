@@ -1,9 +1,99 @@
 {
-  "fetched_at_utc": "2025-12-07T12:23:14.644635+00:00",
+  "fetched_at_utc": "2025-12-07T18:17:35.549172+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1594656,
+      "title": "Sparrow Village",
+      "release_date": "2025-12-07",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1594596,
+      "title": "火中金",
+      "release_date": "2025-12-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yTmX22bEhCe86O0ZTbqC7WfAANR.jpg",
+      "genres": [
+        "военный"
+      ]
+    },
+    {
+      "id": 1594562,
+      "title": "Slow Dancing on the Red Floor",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1594522,
+      "title": "Matthew Perry and the Ketamine Queen",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1594504,
+      "title": "La fabrique des idées : Institut Montaigne, penser la société de demain",
+      "release_date": "2025-12-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/eBcGP9vlxx8fktSsTD5iJFEcDXC.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1594498,
+      "title": "Sussi & Steens jul",
+      "release_date": "2025-12-07",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3uZUcm2rHowWNl28M1A6JpResfC.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1594482,
+      "title": "Sounds From The Past",
+      "release_date": "2025-12-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jg95WAukG2Zg3FGgFJudZMIzBxF.jpg",
+      "genres": []
+    },
+    {
+      "id": 1594450,
+      "title": "[LOOM]",
+      "release_date": "2025-12-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4vCixDAcrcYP7rzatN2oJEGYpDI.jpg",
+      "genres": [
+        "фантастика",
+        "драма"
+      ]
+    },
+    {
+      "id": 1594436,
+      "title": "Rider - way of good work",
+      "release_date": "2025-12-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oRuoBHKzjUkr5PQYHlMNlwziGKG.jpg",
+      "genres": [
+        "боевик",
+        "драма",
+        "криминал"
+      ]
+    },
     {
       "id": 1594333,
       "title": "NOAH Kaito Kiyomiya 10th Anniversary Produced Event \"Mad Decade\"",
@@ -11,103 +101,6 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/g86d7OMQa6FBjdbvNl60cHR0QLU.jpg",
       "genres": []
-    },
-    {
-      "id": 1593972,
-      "title": "Brother Bereaved",
-      "release_date": "2025-12-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eZnmyjL1S5z7ZkccdokuX24SeHN.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1593872,
-      "title": "Bigfoot Doesn't Like Having His Picture Being Taken",
-      "release_date": "2025-12-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aT7bVnpFXTojlKDjIqbTp9omlBK.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1593469,
-      "title": "Oceana - branden på Liseberg",
-      "release_date": "2025-12-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dalZ8pQNOjdEJireadl26FvGVV0.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1593120,
-      "title": "Hatchie: An Innocent Soul",
-      "release_date": "2025-12-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jmKfJ3QL5lHIfjyvpHNDPvv3WxI.jpg",
-      "genres": [
-        "мультфильм",
-        "драма",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1591930,
-      "title": "Sven de Leijer: Liefde voor publiek",
-      "release_date": "2025-12-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3J4J4wQNCEUbooZWC3uyi8vKrSE.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1591811,
-      "title": "Gorete - O Início",
-      "release_date": "2025-12-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8TK4dnERafWPXfqrJFuXD1WFqn7.jpg",
-      "genres": [
-        "ужасы",
-        "драма",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1590805,
-      "title": "Dear A Pair of Sandalwoods,",
-      "release_date": "2025-12-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vuRBht8HBEHgKo4EYgRWFgqYlWT.jpg",
-      "genres": [
-        "драма",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1590609,
-      "title": "In Blue",
-      "release_date": "2025-12-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/432voHnIk81jRKc20CEpQh4vzgS.jpg",
-      "genres": [
-        "мелодрама",
-        "драма"
-      ]
-    },
-    {
-      "id": 1590550,
-      "title": "Molho Inglês",
-      "release_date": "2025-12-07",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма",
-        "триллер"
-      ]
     }
   ],
   "source": "TMDB",

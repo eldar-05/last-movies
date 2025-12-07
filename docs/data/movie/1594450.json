@@ -1,0 +1,27 @@
+{
+  "id": 1594450,
+  "title": "[LOOM]",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-07",
+  "runtime": 15,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фантастика",
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/4vCixDAcrcYP7rzatN2oJEGYpDI.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/rEVqStA5aydZQgT9hHAJJMT3hzw.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1594450",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-07T18:17:35.237859+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

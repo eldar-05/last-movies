@@ -1,0 +1,26 @@
+{
+  "id": 1594498,
+  "title": "Sussi & Steens jul",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-07",
+  "runtime": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "da",
+  "spoken_languages": [
+    "Danish"
+  ],
+  "production_countries": [
+    "DK"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/3uZUcm2rHowWNl28M1A6JpResfC.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/i6JmJ5UYYC7U5jgE9ZovmljWsIU.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1594498",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-07T18:17:34.925375+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
