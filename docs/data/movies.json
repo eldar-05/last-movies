@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-12-08T01:03:24.765890+00:00",
+  "fetched_at_utc": "2025-12-08T06:23:18.858265+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -27,7 +27,7 @@
     {
       "id": 1594765,
       "title": "CONVOY 37",
-      "release_date": "",
+      "release_date": "2025-12-08",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/lXwr192relL7YGwtuRO4qbZaT6q.jpg",
       "genres": [
