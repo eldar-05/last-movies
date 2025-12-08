@@ -1,0 +1,27 @@
+{
+  "id": 1594037,
+  "title": "Jetons de Jeu",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-08",
+  "runtime": 17,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "комедия"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/sT7ThHRM2n1RcJ891uInTgymwlA.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/hJDgoncLghIil2OnqrWlJFzRF36.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1594037",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-08T01:03:23.341940+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
