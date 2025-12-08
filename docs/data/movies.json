@@ -1,112 +1,105 @@
 {
-  "fetched_at_utc": "2025-12-08T12:27:48.418316+00:00",
+  "fetched_at_utc": "2025-12-08T18:20:51.984742+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1594859,
-      "title": "Squirrelly Man",
-      "release_date": "2025-12-08",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jrOSh5BiEk565JubatLQIlxHw6A.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1594796,
-      "title": "the tragic tale of the man who spat on lenny lemonadi's lemons",
-      "release_date": "2025-12-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rd4aPcTQhNI5ktA8GLICxuZkKeF.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1594767,
-      "title": "How to Round 50 Ascension (Black Ops 3)",
-      "release_date": "2025-12-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qPhqSxuc6zcOZ0AuUJ5eWZ5k6CM.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1594765,
-      "title": "CONVOY 37",
-      "release_date": "2025-12-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lXwr192relL7YGwtuRO4qbZaT6q.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1594659,
-      "title": "A Cidade que Ainda Sonha",
+      "id": 1595155,
+      "title": "Primeira FEIMATE: Feira da Erva-Mate e Processo Produtivo da Erva-Mate - Historiando em Novo Barreiro",
       "release_date": "2025-12-08",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1594037,
-      "title": "Jetons de Jeu",
-      "release_date": "2025-12-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sT7ThHRM2n1RcJ891uInTgymwlA.jpg",
-      "genres": [
         "документальный",
-        "комедия"
+        "история"
       ]
     },
     {
-      "id": 1593872,
-      "title": "Bigfoot Doesn't Like Having His Picture Being Taken",
+      "id": 1595120,
+      "title": "Straight Line",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1595111,
+      "title": "Skinwalker Island",
       "release_date": "2025-12-08",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aT7bVnpFXTojlKDjIqbTp9omlBK.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/z1azyyh7osstmPgBNC92Ou5Ten6.jpg",
       "genres": [
-        "комедия"
+        "ужасы"
       ]
     },
     {
-      "id": 1593423,
-      "title": "Behind Painted Eyes",
+      "id": 1595081,
+      "title": "La independencia",
       "release_date": "2025-12-08",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jNrBcOoA5ftcBxFM8YHH3tQgmLH.jpg",
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1593359,
-      "title": "BoxTrip",
-      "release_date": "2025-12-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tu1ZyXAjaz6JYd9mcxnhElg5yB8.jpg",
-      "genres": [
-        "фэнтези",
-        "комедия",
-        "драма",
-        "приключения"
-      ]
-    },
-    {
-      "id": 1593322,
-      "title": "Better Luck Next Time, Lover Boy!",
-      "release_date": "2025-12-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dWi0FU6c8DfrXdg0PdE1AZu2Iwv.jpg",
+      "poster_url": null,
       "genres": [
         "драма"
       ]
+    },
+    {
+      "id": 1595079,
+      "title": "Agachar el rostro",
+      "release_date": "2025-12-08",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1595072,
+      "title": "El Brujo",
+      "release_date": "2025-12-08",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1595070,
+      "title": "The Place Where Everything Begins and Ends",
+      "release_date": "2025-12-08",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "фантастика"
+      ]
+    },
+    {
+      "id": 1595067,
+      "title": "Plástico",
+      "release_date": "2025-12-08",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1595063,
+      "title": "Luz de luna",
+      "release_date": "2025-12-08",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1595060,
+      "title": "Malas posturas",
+      "release_date": "2025-12-08",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
     }
   ],
   "source": "TMDB",
