@@ -1,13 +1,23 @@
 {
-  "fetched_at_utc": "2025-12-08T06:23:18.858265+00:00",
+  "fetched_at_utc": "2025-12-08T12:27:48.418316+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1594859,
+      "title": "Squirrelly Man",
+      "release_date": "2025-12-08",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jrOSh5BiEk565JubatLQIlxHw6A.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
       "id": 1594796,
       "title": "the tragic tale of the man who spat on lenny lemonadi's lemons",
-      "release_date": "",
+      "release_date": "2025-12-08",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/rd4aPcTQhNI5ktA8GLICxuZkKeF.jpg",
       "genres": [
@@ -19,7 +29,7 @@
       "title": "How to Round 50 Ascension (Black Ops 3)",
       "release_date": "2025-12-08",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qPhqSxuc6zcOZ0AuUJ5eWZ5k6CM.jpg",
       "genres": [
         "комедия"
       ]
@@ -97,14 +107,6 @@
       "genres": [
         "драма"
       ]
-    },
-    {
-      "id": 1593272,
-      "title": "Hold Me Closer",
-      "release_date": "2025-12-08",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
     }
   ],
   "source": "TMDB",

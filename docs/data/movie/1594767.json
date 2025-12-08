@@ -11,16 +11,18 @@
     "комедия"
   ],
   "original_language": "en",
-  "spoken_languages": [],
+  "spoken_languages": [
+    "English"
+  ],
   "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/qPhqSxuc6zcOZ0AuUJ5eWZ5k6CM.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/adehFGEaSieuby6ofIErYlsgNLi.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1594767",
   "trailer": {
     "key": "kse9yPluTUQ",
     "name": "shoplifters, batch one - trailer",
     "type": "Trailer"
   },
-  "fetched_at_utc": "2025-12-08T06:23:15.592904+00:00",
+  "fetched_at_utc": "2025-12-08T12:27:45.501599+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
