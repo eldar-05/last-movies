@@ -1,15 +1,26 @@
 {
-  "fetched_at_utc": "2025-12-09T06:21:28.442300+00:00",
+  "fetched_at_utc": "2025-12-09T12:28:19.040881+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1595482,
+      "title": "Here, Right Now",
+      "release_date": "2025-12-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1RTK7lhNB5kWHx9TehwXea8krwa.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ]
+    },
+    {
       "id": 1595356,
       "title": "You've Got (the Wrong) Mail",
       "release_date": "2025-12-09",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/e5uMLobuhonUZ0hLv1kL63FDgxl.jpg",
       "genres": [
         "комедия"
       ]
@@ -77,18 +88,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/1w9FLXvfNJYs03K01xA7Eb44kOl.jpg",
       "genres": [
         "комедия"
-      ]
-    },
-    {
-      "id": 1594580,
-      "title": "Luna de sangre",
-      "release_date": "2025-12-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oZ4jYeV01v54f7HYfh7lxxWs5um.jpg",
-      "genres": [
-        "комедия",
-        "ужасы",
-        "мелодрама"
       ]
     },
     {

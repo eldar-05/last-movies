@@ -1,0 +1,27 @@
+{
+  "id": 1595482,
+  "title": "Here, Right Now",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-09",
+  "runtime": 15,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "драма"
+  ],
+  "original_language": "mn",
+  "spoken_languages": [
+    "Mongolian"
+  ],
+  "production_countries": [
+    "MN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/1RTK7lhNB5kWHx9TehwXea8krwa.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/gyumcLrEoYfcbmmOeagbgIXnSQJ.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1595482",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-09T12:28:17.405124+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
