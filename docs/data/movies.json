@@ -1,9 +1,40 @@
 {
-  "fetched_at_utc": "2025-12-09T12:28:19.040881+00:00",
+  "fetched_at_utc": "2025-12-09T18:17:43.345360+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1595623,
+      "title": "Andito Ka, Kasama",
+      "release_date": "2025-12-09",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "триллер",
+        "драма"
+      ]
+    },
+    {
+      "id": 1595614,
+      "title": "Forræderpejs",
+      "release_date": "2025-12-09",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9JbjPu2IcDNh1RaEa1qYV4GY8yv.jpg",
+      "genres": [
+        "семейный"
+      ]
+    },
+    {
+      "id": 1595535,
+      "title": "Zamba",
+      "release_date": "2025-12-09",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "комедия"
+      ]
+    },
     {
       "id": 1595482,
       "title": "Here, Right Now",
@@ -47,6 +78,19 @@
       ]
     },
     {
+      "id": 1595222,
+      "title": "medusa",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vhvseTQEQZW3euWpyBhl0vtNt5T.jpg",
+      "genres": [
+        "драма",
+        "музыка",
+        "детектив",
+        "мелодрама"
+      ]
+    },
+    {
       "id": 1595160,
       "title": "Hallyday par David",
       "release_date": "2025-12-09",
@@ -65,49 +109,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/d5y9zIPfNA0brT3wIpIGl5t6tSt.jpg",
       "genres": [
         "ужасы",
-        "драма"
-      ]
-    },
-    {
-      "id": 1595121,
-      "title": "Laïcité : l'exception française",
-      "release_date": "2025-12-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/umRSOYMW0xh5iYCAipdz9TEgOkB.jpg",
-      "genres": [
-        "история",
-        "документальный",
-        "драма"
-      ]
-    },
-    {
-      "id": 1594803,
-      "title": "A Very Accommodating Christmas",
-      "release_date": "2025-12-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1w9FLXvfNJYs03K01xA7Eb44kOl.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1593974,
-      "title": "狙击手：激战",
-      "release_date": "2025-12-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fVQGNR9dMHGsiZHNfiw34R6q8rn.jpg",
-      "genres": [
-        "боевик"
-      ]
-    },
-    {
-      "id": 1593803,
-      "title": "Bathwater",
-      "release_date": "2025-12-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/smF8zi8q3Bd3WJLfJ8CYhwPhMp0.jpg",
-      "genres": [
-        "комедия",
         "драма"
       ]
     }

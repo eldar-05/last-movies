@@ -1,0 +1,26 @@
+{
+  "id": 1595614,
+  "title": "Forræderpejs",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-09",
+  "runtime": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "семейный"
+  ],
+  "original_language": "da",
+  "spoken_languages": [
+    "Danish"
+  ],
+  "production_countries": [
+    "DK"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/9JbjPu2IcDNh1RaEa1qYV4GY8yv.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/8kWVC3Hr0GV96mq390uDddqOm2S.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1595614",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-09T18:17:40.456615+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
