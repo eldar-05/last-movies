@@ -1,0 +1,26 @@
+{
+  "id": 1594580,
+  "title": "Luna de sangre",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-09",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "ужасы",
+    "мелодрама"
+  ],
+  "original_language": "es",
+  "spoken_languages": [],
+  "production_countries": [
+    "AR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/oZ4jYeV01v54f7HYfh7lxxWs5um.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/4tSVCMAFAXkhC3wvyCjqG5cSnar.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1594580",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-09T01:02:48.852731+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

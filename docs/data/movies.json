@@ -1,105 +1,116 @@
 {
-  "fetched_at_utc": "2025-12-08T18:20:51.984742+00:00",
+  "fetched_at_utc": "2025-12-09T01:02:49.227528+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1595155,
-      "title": "Primeira FEIMATE: Feira da Erva-Mate e Processo Produtivo da Erva-Mate - Historiando em Novo Barreiro",
-      "release_date": "2025-12-08",
+      "id": 1595356,
+      "title": "You've Got (the Wrong) Mail",
+      "release_date": "2025-12-09",
       "vote_average": 0.0,
       "poster_url": null,
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1595277,
+      "title": "Traces",
+      "release_date": "2025-12-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/t43KPtRwAB0DHRxiYw7NXCl1jCx.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1595247,
+      "title": "Lawrence's Birthday Party",
+      "release_date": "2025-12-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zmcTT1fSqBYYxgrCPzhcDVXlgd1.jpg",
+      "genres": [
+        "комедия",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1595160,
+      "title": "Hallyday par David",
+      "release_date": "2025-12-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4iUIWf3jnXXjhgUa0st1OLVwiEE.jpg",
       "genres": [
         "документальный",
-        "история"
+        "музыка"
       ]
     },
     {
-      "id": 1595120,
-      "title": "Straight Line",
-      "release_date": "",
+      "id": 1595153,
+      "title": "Deixe o Mar Levar os Meus Pecados",
+      "release_date": "2025-12-09",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1595111,
-      "title": "Skinwalker Island",
-      "release_date": "2025-12-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/z1azyyh7osstmPgBNC92Ou5Ten6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/d5y9zIPfNA0brT3wIpIGl5t6tSt.jpg",
       "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1595081,
-      "title": "La independencia",
-      "release_date": "2025-12-08",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
+        "ужасы",
         "драма"
       ]
     },
     {
-      "id": 1595079,
-      "title": "Agachar el rostro",
-      "release_date": "2025-12-08",
+      "id": 1595121,
+      "title": "Laïcité : l'exception française",
+      "release_date": "2025-12-09",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/umRSOYMW0xh5iYCAipdz9TEgOkB.jpg",
       "genres": [
+        "история",
+        "документальный",
         "драма"
       ]
     },
     {
-      "id": 1595072,
-      "title": "El Brujo",
-      "release_date": "2025-12-08",
+      "id": 1594803,
+      "title": "A Very Accommodating Christmas",
+      "release_date": "2025-12-09",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1w9FLXvfNJYs03K01xA7Eb44kOl.jpg",
       "genres": [
-        "фэнтези"
+        "комедия"
       ]
     },
     {
-      "id": 1595070,
-      "title": "The Place Where Everything Begins and Ends",
-      "release_date": "2025-12-08",
+      "id": 1594580,
+      "title": "Luna de sangre",
+      "release_date": "2025-12-09",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oZ4jYeV01v54f7HYfh7lxxWs5um.jpg",
       "genres": [
-        "фантастика"
+        "комедия",
+        "ужасы",
+        "мелодрама"
       ]
     },
     {
-      "id": 1595067,
-      "title": "Plástico",
-      "release_date": "2025-12-08",
+      "id": 1593974,
+      "title": "狙击手：激战",
+      "release_date": "2025-12-09",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fVQGNR9dMHGsiZHNfiw34R6q8rn.jpg",
       "genres": [
+        "боевик"
+      ]
+    },
+    {
+      "id": 1593803,
+      "title": "Bathwater",
+      "release_date": "2025-12-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/smF8zi8q3Bd3WJLfJ8CYhwPhMp0.jpg",
+      "genres": [
+        "комедия",
         "драма"
       ]
-    },
-    {
-      "id": 1595063,
-      "title": "Luz de luna",
-      "release_date": "2025-12-08",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1595060,
-      "title": "Malas posturas",
-      "release_date": "2025-12-08",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
     }
   ],
   "source": "TMDB",

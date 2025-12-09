@@ -1,0 +1,25 @@
+{
+  "id": 1595247,
+  "title": "Lawrence's Birthday Party",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-09",
+  "runtime": 6,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "детектив"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/zmcTT1fSqBYYxgrCPzhcDVXlgd1.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/jT5wiSlNkRpe0DhCjJ1e77ObBIs.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1595247",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-09T01:02:47.915242+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
