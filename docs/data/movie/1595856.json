@@ -16,9 +16,13 @@
     "US"
   ],
   "poster_url": "https://image.tmdb.org/t/p/w500/w7V3lOur4lCYKZV8np53atCM2t.jpg",
-  "backdrop_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/yAfkQJOc2W7G8P28Hs5QG5PyJ7C.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1595856",
-  "trailer": null,
-  "fetched_at_utc": "2025-12-10T06:21:42.692450+00:00",
+  "trailer": {
+    "key": "wWlKwhdZ7FE",
+    "name": "30 for 30 | Boo-Yah | A Portrait of Stuart Scott | Official Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-12-10T12:28:02.593435+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

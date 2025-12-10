@@ -1,9 +1,30 @@
 {
-  "fetched_at_utc": "2025-12-10T06:21:44.436091+00:00",
+  "fetched_at_utc": "2025-12-10T12:28:05.867084+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1595910,
+      "title": "Classic!",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9JhymG6ACEuf2HKVSa28nFpqg7T.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1595864,
+      "title": "Gheorghe și Sabin",
+      "release_date": "2025-12-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/f5cp4M1LCHvJZyCXgp27UGw0Qgi.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ]
+    },
     {
       "id": 1595856,
       "title": "Boo-Yah: A Portrait of Stuart Scott",
@@ -79,28 +100,6 @@
       "genres": [
         "мелодрама",
         "триллер"
-      ]
-    },
-    {
-      "id": 1595503,
-      "title": "Magic Bibs",
-      "release_date": "2025-12-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kzopQCZaqvlSVulLmjm8vSOeEmI.jpg",
-      "genres": [
-        "комедия",
-        "драма",
-        "фэнтези"
-      ]
-    },
-    {
-      "id": 1595495,
-      "title": "Y aura-t-il de l’eau cet été ?",
-      "release_date": "2025-12-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/e91Abjns0WoLgMylm2zKiH6iFYk.jpg",
-      "genres": [
-        "документальный"
       ]
     }
   ],
