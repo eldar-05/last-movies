@@ -1,0 +1,27 @@
+{
+  "id": 1596169,
+  "title": "LIMIAR",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-10",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "детектив",
+    "триллер"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/cyxcanNQ8dNghM3cyPEtpYsvmRC.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/6S2f8ckYIP01phB1Nnl87hlERC6.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1596169",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-10T18:20:58.760260+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

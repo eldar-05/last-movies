@@ -1,105 +1,96 @@
 {
-  "fetched_at_utc": "2025-12-10T12:28:05.867084+00:00",
+  "fetched_at_utc": "2025-12-10T18:20:59.281517+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1596197,
+      "title": "À la poussière",
+      "release_date": "2025-12-10",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1596191,
+      "title": "Monstres, camionnettes blanches et bonbons roses",
+      "release_date": "2025-12-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aNI7b8PU9eDjSfFSkiz4TpBKHQN.jpg",
+      "genres": []
+    },
+    {
+      "id": 1596183,
+      "title": "Tu m'oppresses la gueule",
+      "release_date": "2025-12-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lT9XmMm7BmpYxEGYK3DnpzrNL4d.jpg",
+      "genres": []
+    },
+    {
+      "id": 1596181,
+      "title": "Des feux et des rois",
+      "release_date": "2025-12-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ebcVAq7WnCc5DuJTeUmbnlJIaeO.jpg",
+      "genres": []
+    },
+    {
+      "id": 1596178,
+      "title": "Mosome",
+      "release_date": "2025-12-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/q1F73rJbluzUBASi1lYjDtYERk6.jpg",
+      "genres": []
+    },
+    {
+      "id": 1596173,
+      "title": "Moy Dom",
+      "release_date": "2025-12-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rd8usMdGT0jQk2DnHSRwy9vEUHX.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1596169,
+      "title": "LIMIAR",
+      "release_date": "2025-12-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cyxcanNQ8dNghM3cyPEtpYsvmRC.jpg",
+      "genres": [
+        "детектив",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1596149,
+      "title": "Seorang Pria yang berusaha untuk bunuh diri",
+      "release_date": "2025-10-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zvMqizq2hxjShmaZkjnIGqmcZaf.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1596046,
+      "title": "Bruce Lee. Dentro del dragón",
+      "release_date": "2025-12-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/r9uDemrjQSYMMVRS6Yj4KAfyeH.jpg",
+      "genres": []
+    },
+    {
       "id": 1595910,
       "title": "Classic!",
-      "release_date": "",
+      "release_date": "2025-12-10",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/9JhymG6ACEuf2HKVSa28nFpqg7T.jpg",
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1595864,
-      "title": "Gheorghe și Sabin",
-      "release_date": "2025-12-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/f5cp4M1LCHvJZyCXgp27UGw0Qgi.jpg",
-      "genres": [
-        "комедия",
-        "драма"
-      ]
-    },
-    {
-      "id": 1595856,
-      "title": "Boo-Yah: A Portrait of Stuart Scott",
-      "release_date": "2025-12-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/w7V3lOur4lCYKZV8np53atCM2t.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1595840,
-      "title": "My Best Friend, Andre",
-      "release_date": "2025-12-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6PNvvzMQlm5bO8Fu8GIMR3covov.jpg",
-      "genres": []
-    },
-    {
-      "id": 1595839,
-      "title": "A story of solitude and terror",
-      "release_date": "2025-12-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ysfQggxcyNPQkcrHJncZxcgil8Y.jpg",
-      "genres": [
-        "детектив"
-      ]
-    },
-    {
-      "id": 1595805,
-      "title": "Le mal-aimé",
-      "release_date": "2025-12-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yWgr5XT0YdbYzCwHBlRTxvHfRNb.jpg",
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1595715,
-      "title": "PUNKS",
-      "release_date": "2025-12-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9XI4NrFPhC4J5X8Us6jpglTj1cj.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1595581,
-      "title": "Pietro - Un uomo nel vento",
-      "release_date": "2025-12-10",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1595561,
-      "title": "The Heart of Music",
-      "release_date": "2025-12-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xzdgHeqpdNGtu2w5JxjDSvv31F6.jpg",
-      "genres": []
-    },
-    {
-      "id": 1595511,
-      "title": "BANANAS",
-      "release_date": "2025-12-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8qLNa3dRUHrUpFV583hbIDP3yhZ.jpg",
-      "genres": [
-        "мелодрама",
-        "триллер"
       ]
     }
   ],
