@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-12-10T01:04:25.687267+00:00",
+  "fetched_at_utc": "2025-12-10T06:21:44.436091+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -34,7 +34,7 @@
     },
     {
       "id": 1595805,
-      "title": "Le mal aimé",
+      "title": "Le mal-aimé",
       "release_date": "2025-12-10",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/yWgr5XT0YdbYzCwHBlRTxvHfRNb.jpg",

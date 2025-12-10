@@ -1,24 +1,26 @@
 {
   "id": 1595805,
-  "title": "Le mal aimé",
+  "title": "Le mal-aimé",
   "tagline": "",
   "overview": "",
   "release_date": "2025-12-10",
-  "runtime": 0,
+  "runtime": 2,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
     "мультфильм"
   ],
   "original_language": "fr",
-  "spoken_languages": [],
+  "spoken_languages": [
+    "French"
+  ],
   "production_countries": [
     "FR"
   ],
   "poster_url": "https://image.tmdb.org/t/p/w500/yWgr5XT0YdbYzCwHBlRTxvHfRNb.jpg",
-  "backdrop_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/z81B3fzItUQUzGPEmA0xXJehjZE.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1595805",
   "trailer": null,
-  "fetched_at_utc": "2025-12-10T01:04:24.665367+00:00",
+  "fetched_at_utc": "2025-12-10T06:21:43.322262+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
