@@ -1,115 +1,106 @@
 {
-  "fetched_at_utc": "2025-12-09T18:17:43.345360+00:00",
+  "fetched_at_utc": "2025-12-10T01:04:25.687267+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1595623,
-      "title": "Andito Ka, Kasama",
-      "release_date": "2025-12-09",
+      "id": 1595856,
+      "title": "Boo-Yah: A Portrait of Stuart Scott",
+      "release_date": "2025-12-10",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "триллер",
-        "драма"
-      ]
-    },
-    {
-      "id": 1595614,
-      "title": "Forræderpejs",
-      "release_date": "2025-12-09",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9JbjPu2IcDNh1RaEa1qYV4GY8yv.jpg",
-      "genres": [
-        "семейный"
-      ]
-    },
-    {
-      "id": 1595535,
-      "title": "Zamba",
-      "release_date": "2025-12-09",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1595482,
-      "title": "Here, Right Now",
-      "release_date": "2025-12-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1RTK7lhNB5kWHx9TehwXea8krwa.jpg",
-      "genres": [
-        "комедия",
-        "драма"
-      ]
-    },
-    {
-      "id": 1595356,
-      "title": "You've Got (the Wrong) Mail",
-      "release_date": "2025-12-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/e5uMLobuhonUZ0hLv1kL63FDgxl.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1595277,
-      "title": "Traces",
-      "release_date": "2025-12-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/t43KPtRwAB0DHRxiYw7NXCl1jCx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/w7V3lOur4lCYKZV8np53atCM2t.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1595247,
-      "title": "Lawrence's Birthday Party",
-      "release_date": "2025-12-09",
+      "id": 1595840,
+      "title": "My Best Friend, Andre",
+      "release_date": "2025-12-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zmcTT1fSqBYYxgrCPzhcDVXlgd1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6PNvvzMQlm5bO8Fu8GIMR3covov.jpg",
+      "genres": []
+    },
+    {
+      "id": 1595839,
+      "title": "A story of solitude and terror",
+      "release_date": "2025-12-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ysfQggxcyNPQkcrHJncZxcgil8Y.jpg",
       "genres": [
-        "комедия",
         "детектив"
       ]
     },
     {
-      "id": 1595222,
-      "title": "medusa",
-      "release_date": "",
+      "id": 1595805,
+      "title": "Le mal aimé",
+      "release_date": "2025-12-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vhvseTQEQZW3euWpyBhl0vtNt5T.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yWgr5XT0YdbYzCwHBlRTxvHfRNb.jpg",
       "genres": [
-        "драма",
-        "музыка",
-        "детектив",
-        "мелодрама"
+        "мультфильм"
       ]
     },
     {
-      "id": 1595160,
-      "title": "Hallyday par David",
-      "release_date": "2025-12-09",
+      "id": 1595715,
+      "title": "PUNKS",
+      "release_date": "2025-12-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4iUIWf3jnXXjhgUa0st1OLVwiEE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9XI4NrFPhC4J5X8Us6jpglTj1cj.jpg",
       "genres": [
-        "документальный",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1595153,
-      "title": "Deixe o Mar Levar os Meus Pecados",
-      "release_date": "2025-12-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/d5y9zIPfNA0brT3wIpIGl5t6tSt.jpg",
-      "genres": [
-        "ужасы",
         "драма"
+      ]
+    },
+    {
+      "id": 1595581,
+      "title": "Pietro - Un uomo nel vento",
+      "release_date": "2025-12-10",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1595561,
+      "title": "The Heart of Music",
+      "release_date": "2025-12-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xzdgHeqpdNGtu2w5JxjDSvv31F6.jpg",
+      "genres": []
+    },
+    {
+      "id": 1595511,
+      "title": "BANANAS",
+      "release_date": "2025-12-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8qLNa3dRUHrUpFV583hbIDP3yhZ.jpg",
+      "genres": [
+        "мелодрама",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1595503,
+      "title": "Magic Bibs",
+      "release_date": "2025-12-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kzopQCZaqvlSVulLmjm8vSOeEmI.jpg",
+      "genres": [
+        "комедия",
+        "драма",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1595495,
+      "title": "Y aura-t-il de l’eau cet été ?",
+      "release_date": "2025-12-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/e91Abjns0WoLgMylm2zKiH6iFYk.jpg",
+      "genres": [
+        "документальный"
       ]
     }
   ],

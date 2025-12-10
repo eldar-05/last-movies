@@ -1,0 +1,27 @@
+{
+  "id": 1595511,
+  "title": "BANANAS",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-10",
+  "runtime": 4,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мелодрама",
+    "триллер"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/8qLNa3dRUHrUpFV583hbIDP3yhZ.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1595511",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-10T01:04:25.380041+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

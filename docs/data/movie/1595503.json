@@ -1,0 +1,32 @@
+{
+  "id": 1595503,
+  "title": "Magic Bibs",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-10",
+  "runtime": 11,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "драма",
+    "фэнтези"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "AU"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/kzopQCZaqvlSVulLmjm8vSOeEmI.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/u8Sxfibhfb34zOtpJdVdP5SVkds.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1595503",
+  "trailer": {
+    "key": "E2m6xhG5mnQ",
+    "name": "Magic Bibs - Short Film Teaser Trailer",
+    "type": "Teaser"
+  },
+  "fetched_at_utc": "2025-12-10T01:04:25.501299+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
