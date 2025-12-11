@@ -17,10 +17,10 @@
   "production_countries": [
     "SE"
   ],
-  "poster_url": null,
-  "backdrop_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/ex81K891MnGdle3eVjFzl3mJOqp.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/4rvxFb5E2zFDRW1yf57erItcEk9.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1596547",
   "trailer": null,
-  "fetched_at_utc": "2025-12-11T12:29:04.231877+00:00",
+  "fetched_at_utc": "2025-12-11T18:19:04.936854+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

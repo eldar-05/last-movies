@@ -1,25 +1,26 @@
 {
-  "id": 1596488,
-  "title": "Taking Care of Business",
+  "id": 1596695,
+  "title": "The New Life",
   "tagline": "",
   "overview": "",
-  "release_date": "2025-12-11",
-  "runtime": 3,
+  "release_date": "",
+  "runtime": 48,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "комедия",
-    "криминал"
+    "приключения",
+    "документальный"
   ],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [
-    "US"
+    "FR",
+    "GB"
   ],
   "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1596488",
+  "tmdb_url": "https://www.themoviedb.org/movie/1596695",
   "trailer": null,
-  "fetched_at_utc": "2025-12-11T18:19:05.510712+00:00",
+  "fetched_at_utc": "2025-12-11T18:19:04.381383+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
