@@ -1,9 +1,50 @@
 {
-  "fetched_at_utc": "2025-12-11T06:22:24.207467+00:00",
+  "fetched_at_utc": "2025-12-11T12:29:07.590080+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1596547,
+      "title": "Schyffert forever",
+      "release_date": "2025-12-11",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1596545,
+      "title": "Het Uur van De Pauw",
+      "release_date": "2025-12-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1hlJ474fUODVMkhmr4EzCJTLCfH.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1596517,
+      "title": "Fuimos héroes",
+      "release_date": "2025-12-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6W2fSJTxqdRP6ATWuCnirvL1Gik.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1596488,
+      "title": "Taking Care of Business",
+      "release_date": "2025-12-11",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "комедия",
+        "криминал"
+      ]
+    },
     {
       "id": 1596409,
       "title": "Monã",
@@ -64,45 +105,6 @@
         "документальный",
         "история",
         "семейный"
-      ]
-    },
-    {
-      "id": 1596199,
-      "title": "Why You?",
-      "release_date": "2025-12-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zMrPwUPyBpweKKQNQkC6tHabx2R.jpg",
-      "genres": [
-        "комедия",
-        "драма"
-      ]
-    },
-    {
-      "id": 1596187,
-      "title": "Cidade, Feia",
-      "release_date": "2025-12-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4jbHQoQ4ERvGgJLu6jxhp1HIeCp.jpg",
-      "genres": []
-    },
-    {
-      "id": 1596081,
-      "title": "Nijmegen, in de tijd verdwaald",
-      "release_date": "2025-12-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tnSspTQx9wFmjLT1nkfmxNRmSDj.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1595871,
-      "title": "Melancholy",
-      "release_date": "2025-12-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qLS29xeJz5vTcqJCox7YSehex8V.jpg",
-      "genres": [
-        "фантастика"
       ]
     }
   ],

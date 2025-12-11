@@ -1,0 +1,26 @@
+{
+  "id": 1596545,
+  "title": "Het Uur van De Pauw",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-11",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "nl",
+  "spoken_languages": [
+    "Dutch"
+  ],
+  "production_countries": [
+    "BE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/1hlJ474fUODVMkhmr4EzCJTLCfH.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/qqUPRMeTeeb3GF7HJVoHD56ikpJ.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1596545",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-11T12:29:04.597572+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

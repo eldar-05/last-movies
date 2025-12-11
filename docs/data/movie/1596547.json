@@ -1,6 +1,6 @@
 {
-  "id": 1596251,
-  "title": "La reserva del silencio",
+  "id": 1596547,
+  "title": "Schyffert forever",
   "tagline": "",
   "overview": "",
   "release_date": "2025-12-11",
@@ -8,19 +8,19 @@
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "документальный",
-    "история",
-    "семейный"
+    "комедия"
   ],
-  "original_language": "es",
-  "spoken_languages": [],
+  "original_language": "sv",
+  "spoken_languages": [
+    "Swedish"
+  ],
   "production_countries": [
-    "AR"
+    "SE"
   ],
   "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1596251",
+  "tmdb_url": "https://www.themoviedb.org/movie/1596547",
   "trailer": null,
-  "fetched_at_utc": "2025-12-11T12:29:07.589621+00:00",
+  "fetched_at_utc": "2025-12-11T12:29:04.231877+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
