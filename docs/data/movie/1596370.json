@@ -3,18 +3,21 @@
   "title": "Grite-río",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-12-11",
   "runtime": 1,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
-  "original_language": "en",
+  "genres": [
+    "ужасы",
+    "детектив"
+  ],
+  "original_language": "es",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/iHtshk4zUMks2SqXmyuW8bjFVJ0.jpg",
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1596370",
   "trailer": null,
-  "fetched_at_utc": "2025-12-11T01:05:19.146727+00:00",
+  "fetched_at_utc": "2025-12-11T06:22:23.387441+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-12-11T01:05:20.245552+00:00",
+  "fetched_at_utc": "2025-12-11T06:22:24.207467+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -17,7 +17,7 @@
       "title": "Fishie",
       "release_date": "2025-12-11",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/i71DcjppLA29a4wTmd7HWkeJKRj.jpg",
       "genres": []
     },
     {
@@ -33,9 +33,9 @@
     {
       "id": 1596370,
       "title": "Grite-río",
-      "release_date": "",
+      "release_date": "2025-12-11",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iHtshk4zUMks2SqXmyuW8bjFVJ0.jpg",
       "genres": [
         "ужасы",
         "детектив"
@@ -43,7 +43,7 @@
     },
     {
       "id": 1596365,
-      "title": "Eurobnoxious",
+      "title": "€U̷ɌØɃNØXƗØÚS",
       "release_date": "2025-12-11",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/1tvQZINnA4Mnkqhxd9yqaCR3h3F.jpg",
@@ -100,7 +100,7 @@
       "title": "Melancholy",
       "release_date": "2025-12-11",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qLS29xeJz5vTcqJCox7YSehex8V.jpg",
       "genres": [
         "фантастика"
       ]
