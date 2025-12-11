@@ -1,96 +1,108 @@
 {
-  "fetched_at_utc": "2025-12-10T18:20:59.281517+00:00",
+  "fetched_at_utc": "2025-12-11T01:05:20.245552+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1596197,
-      "title": "À la poussière",
-      "release_date": "2025-12-10",
+      "id": 1596409,
+      "title": "Monã",
+      "release_date": "2025-12-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tFOawp32o29pBHhuFnip138aEUy.jpg",
+      "genres": []
+    },
+    {
+      "id": 1596406,
+      "title": "Fishie",
+      "release_date": "2025-12-11",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1596191,
-      "title": "Monstres, camionnettes blanches et bonbons roses",
-      "release_date": "2025-12-10",
+      "id": 1596372,
+      "title": "Train of Remembrance: Chapter Two",
+      "release_date": "2025-12-11",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aNI7b8PU9eDjSfFSkiz4TpBKHQN.jpg",
+      "poster_url": null,
+      "genres": [
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1596370,
+      "title": "Grite-río",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1596365,
+      "title": "Eurobnoxious",
+      "release_date": "2025-12-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1tvQZINnA4Mnkqhxd9yqaCR3h3F.jpg",
+      "genres": [
+        "комедия",
+        "приключения",
+        "документальный",
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1596251,
+      "title": "La reserva del silencio",
+      "release_date": "2025-12-11",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный",
+        "история",
+        "семейный"
+      ]
+    },
+    {
+      "id": 1596199,
+      "title": "Why You?",
+      "release_date": "2025-12-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zMrPwUPyBpweKKQNQkC6tHabx2R.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ]
+    },
+    {
+      "id": 1596187,
+      "title": "Cidade, Feia",
+      "release_date": "2025-12-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4jbHQoQ4ERvGgJLu6jxhp1HIeCp.jpg",
       "genres": []
     },
     {
-      "id": 1596183,
-      "title": "Tu m'oppresses la gueule",
-      "release_date": "2025-12-10",
+      "id": 1596081,
+      "title": "Nijmegen, in de tijd verdwaald",
+      "release_date": "2025-12-11",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lT9XmMm7BmpYxEGYK3DnpzrNL4d.jpg",
-      "genres": []
-    },
-    {
-      "id": 1596181,
-      "title": "Des feux et des rois",
-      "release_date": "2025-12-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ebcVAq7WnCc5DuJTeUmbnlJIaeO.jpg",
-      "genres": []
-    },
-    {
-      "id": 1596178,
-      "title": "Mosome",
-      "release_date": "2025-12-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/q1F73rJbluzUBASi1lYjDtYERk6.jpg",
-      "genres": []
-    },
-    {
-      "id": 1596173,
-      "title": "Moy Dom",
-      "release_date": "2025-12-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rd8usMdGT0jQk2DnHSRwy9vEUHX.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tnSspTQx9wFmjLT1nkfmxNRmSDj.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1596169,
-      "title": "LIMIAR",
-      "release_date": "2025-12-10",
+      "id": 1595871,
+      "title": "Melancholy",
+      "release_date": "2025-12-11",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cyxcanNQ8dNghM3cyPEtpYsvmRC.jpg",
+      "poster_url": null,
       "genres": [
-        "детектив",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1596149,
-      "title": "Seorang Pria yang berusaha untuk bunuh diri",
-      "release_date": "2025-10-12",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zvMqizq2hxjShmaZkjnIGqmcZaf.jpg",
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1596046,
-      "title": "Bruce Lee. Dentro del dragón",
-      "release_date": "2025-12-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/r9uDemrjQSYMMVRS6Yj4KAfyeH.jpg",
-      "genres": []
-    },
-    {
-      "id": 1595910,
-      "title": "Classic!",
-      "release_date": "2025-12-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9JhymG6ACEuf2HKVSa28nFpqg7T.jpg",
-      "genres": [
-        "документальный"
+        "фантастика"
       ]
     }
   ],

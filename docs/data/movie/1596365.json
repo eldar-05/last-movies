@@ -1,0 +1,25 @@
+{
+  "id": 1596365,
+  "title": "Eurobnoxious",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-11",
+  "runtime": 109,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "приключения",
+    "документальный",
+    "мультфильм"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/1tvQZINnA4Mnkqhxd9yqaCR3h3F.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/dIp07CyKh4n8VLqPOvR5PXI0GPW.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1596365",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-11T01:05:19.283801+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
