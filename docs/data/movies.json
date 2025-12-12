@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-12-12T01:05:01.958667+00:00",
+  "fetched_at_utc": "2025-12-12T06:21:46.147050+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -7,7 +7,7 @@
     {
       "id": 1597001,
       "title": "empty alice",
-      "release_date": "",
+      "release_date": "2025-12-12",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/hR5p6RJFdH5pqn02qPhSleWsYS8.jpg",
       "genres": []
@@ -16,8 +16,8 @@
       "id": 1596973,
       "title": "BENORMALINE",
       "release_date": "2025-12-12",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hdkLF8hQj3vUds3bpSENcDjscyS.jpg",
       "genres": [
         "драма",
         "комедия"
@@ -69,7 +69,7 @@
     {
       "id": 1596695,
       "title": "The New Life",
-      "release_date": "2025-12-11",
+      "release_date": "2025-12-12",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/1usxaN3uMHVPj5wwVstN8pVwcX4.jpg",
       "genres": [

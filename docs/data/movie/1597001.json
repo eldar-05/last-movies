@@ -3,7 +3,7 @@
   "title": "empty alice",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-12-12",
   "runtime": 4,
   "vote_average": 0.0,
   "vote_count": 0,
@@ -12,9 +12,9 @@
   "spoken_languages": [],
   "production_countries": [],
   "poster_url": "https://image.tmdb.org/t/p/w500/hR5p6RJFdH5pqn02qPhSleWsYS8.jpg",
-  "backdrop_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/skzjEKLGhglDJDyO2SJWIKqvYYb.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1597001",
   "trailer": null,
-  "fetched_at_utc": "2025-12-12T01:04:59.057587+00:00",
+  "fetched_at_utc": "2025-12-12T06:21:44.605915+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

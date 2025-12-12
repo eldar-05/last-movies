@@ -5,20 +5,21 @@
   "overview": "",
   "release_date": "2025-12-12",
   "runtime": 3,
-  "vote_average": 0.0,
-  "vote_count": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
   "genres": [
-    "драма"
+    "драма",
+    "комедия"
   ],
   "original_language": "en",
   "spoken_languages": [
     "English"
   ],
   "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/hdkLF8hQj3vUds3bpSENcDjscyS.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/UYpf62EJnpK02S36hHyUVlsNvL.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1596973",
   "trailer": null,
-  "fetched_at_utc": "2025-12-12T01:04:59.394558+00:00",
+  "fetched_at_utc": "2025-12-12T06:21:44.781530+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
