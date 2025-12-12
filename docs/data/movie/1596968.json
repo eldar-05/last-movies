@@ -1,0 +1,30 @@
+{
+  "id": 1596968,
+  "title": "Art of the Fold",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-12",
+  "runtime": 3,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "приключения"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/huVXNxZEDDRRKjDmlcQShALQ6Yk.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/6jCvv6gJmuyVgL8oXlPVQ3wcMuZ.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1596968",
+  "trailer": {
+    "key": "smIkrcK3NYE",
+    "name": "Art of the Fold Teaser",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-12-12T18:20:41.477698+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

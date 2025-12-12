@@ -1,9 +1,40 @@
 {
-  "fetched_at_utc": "2025-12-12T12:27:40.643766+00:00",
+  "fetched_at_utc": "2025-12-12T18:20:41.478101+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1597403,
+      "title": "Come Home",
+      "release_date": "2025-12-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/sdyaSl71qEmjwRJMMVYSYFpz5XV.jpg",
+      "genres": [
+        "драма",
+        "фантастика"
+      ]
+    },
+    {
+      "id": 1597348,
+      "title": "Æternum",
+      "release_date": "2025-12-12",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/AgXikixQJ89C40w6SEoJE7AfvjV.jpg",
+      "genres": []
+    },
+    {
+      "id": 1597195,
+      "title": "Alingawngaw",
+      "release_date": "2025-12-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/78q9BjkUQYtYq9VnST0V5NQTpK9.jpg",
+      "genres": [
+        "драма",
+        "триллер",
+        "детектив"
+      ]
+    },
     {
       "id": 1597150,
       "title": "Seribu Payung Hitam dan Sisanya Rindu",
@@ -33,6 +64,16 @@
       "genres": []
     },
     {
+      "id": 1597028,
+      "title": "The Tale of Taco Niño",
+      "release_date": "2025-12-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tFAXlGVvRVVOgQ9jj9PmPOIB0wl.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 1597001,
       "title": "empty alice",
       "release_date": "2025-12-12",
@@ -52,58 +93,13 @@
       ]
     },
     {
-      "id": 1596802,
-      "title": "Raízes de Concreto",
+      "id": 1596968,
+      "title": "Art of the Fold",
       "release_date": "2025-12-12",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/huVXNxZEDDRRKjDmlcQShALQ6Yk.jpg",
       "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1596794,
-      "title": "The Serial Cereal Eater 2: The Second Spooning",
-      "release_date": "2025-12-12",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9TNlPPcKuLTZMT9EqQc7D0Fb6be.jpg",
-      "genres": [
-        "ужасы",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1596769,
-      "title": "Herança",
-      "release_date": "2025-12-12",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1596701,
-      "title": "Battesimo",
-      "release_date": "2025-12-12",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/u6DDyYRUVJ2jS1Fp9QhE38p2zRk.jpg",
-      "genres": [
-        "драма",
-        "криминал",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1596695,
-      "title": "The New Life",
-      "release_date": "2025-12-12",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1usxaN3uMHVPj5wwVstN8pVwcX4.jpg",
-      "genres": [
-        "приключения",
-        "документальный",
-        "драма"
+        "приключения"
       ]
     }
   ],
