@@ -1,45 +1,77 @@
 {
-  "fetched_at_utc": "2025-12-11T18:19:05.511080+00:00",
+  "fetched_at_utc": "2025-12-12T01:05:01.958667+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1596817,
-      "title": "F**k Off Santa",
-      "release_date": "2025-12-11",
+      "id": 1597001,
+      "title": "empty alice",
+      "release_date": "",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "комедия",
-        "фантастика"
-      ]
-    },
-    {
-      "id": 1596797,
-      "title": "Making Deltron 3030",
-      "release_date": "2025-12-11",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1596754,
-      "title": "SUFFER EXTRA",
-      "release_date": "2025-12-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/k30p5mmwTfqqmE3DbumZro5mJJp.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hR5p6RJFdH5pqn02qPhSleWsYS8.jpg",
       "genres": []
+    },
+    {
+      "id": 1596973,
+      "title": "BENORMALINE",
+      "release_date": "2025-12-12",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1596802,
+      "title": "Raízes de Concreto",
+      "release_date": "2025-12-12",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1596794,
+      "title": "The Serial Cereal Eater 2: The Second Spooning",
+      "release_date": "2025-12-12",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9TNlPPcKuLTZMT9EqQc7D0Fb6be.jpg",
+      "genres": [
+        "ужасы",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1596769,
+      "title": "Herança",
+      "release_date": "2025-12-12",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1596701,
+      "title": "Battesimo",
+      "release_date": "2025-12-12",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/u6DDyYRUVJ2jS1Fp9QhE38p2zRk.jpg",
+      "genres": [
+        "драма",
+        "криминал",
+        "триллер"
+      ]
     },
     {
       "id": 1596695,
       "title": "The New Life",
-      "release_date": "",
+      "release_date": "2025-12-11",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1usxaN3uMHVPj5wwVstN8pVwcX4.jpg",
       "genres": [
         "приключения",
         "документальный",
@@ -47,65 +79,34 @@
       ]
     },
     {
-      "id": 1596675,
-      "title": "Sumpah!",
-      "release_date": "2025-12-11",
+      "id": 1596673,
+      "title": "dust collector",
+      "release_date": "2025-12-12",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма",
-        "военный"
-      ]
-    },
-    {
-      "id": 1596640,
-      "title": "Beluret af min udlejer",
-      "release_date": "2025-12-11",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sS2E8QfduP3PJlDYRQ5oJTu3NaS.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/q3lrn52ofwjLLdy3765LiELbqcH.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1596547,
-      "title": "Schyffert forever",
-      "release_date": "2025-12-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ex81K891MnGdle3eVjFzl3mJOqp.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1596545,
-      "title": "Het Uur van De Pauw",
-      "release_date": "2025-12-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1hlJ474fUODVMkhmr4EzCJTLCfH.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1596517,
-      "title": "Fuimos héroes",
-      "release_date": "2025-12-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6W2fSJTxqdRP6ATWuCnirvL1Gik.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1596488,
-      "title": "Taking Care of Business",
-      "release_date": "2025-12-11",
+      "id": 1596637,
+      "title": "Ambalamukkile Visheshangal",
+      "release_date": "2025-12-12",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
         "комедия",
-        "криминал"
+        "семейный"
+      ]
+    },
+    {
+      "id": 1596617,
+      "title": "Shumshiret",
+      "release_date": "2025-12-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/dcB4GbNyQ1SGHeZTzoRzoQXb2iV.jpg",
+      "genres": [
+        "комедия"
       ]
     }
   ],

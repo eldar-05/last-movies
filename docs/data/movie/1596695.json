@@ -3,13 +3,14 @@
   "title": "The New Life",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-12-11",
   "runtime": 48,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
     "приключения",
-    "документальный"
+    "документальный",
+    "драма"
   ],
   "original_language": "en",
   "spoken_languages": [],
@@ -17,10 +18,10 @@
     "FR",
     "GB"
   ],
-  "poster_url": null,
-  "backdrop_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/1usxaN3uMHVPj5wwVstN8pVwcX4.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/gxWYd3QC7GIZrz8vZ6eQlXjaOg3.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1596695",
   "trailer": null,
-  "fetched_at_utc": "2025-12-11T18:19:04.381383+00:00",
+  "fetched_at_utc": "2025-12-12T01:05:01.066903+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

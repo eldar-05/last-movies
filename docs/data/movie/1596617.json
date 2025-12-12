@@ -1,0 +1,30 @@
+{
+  "id": 1596617,
+  "title": "Shumshiret",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-12",
+  "runtime": 90,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "am",
+  "spoken_languages": [
+    "Amharic"
+  ],
+  "production_countries": [
+    "ET"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/dcB4GbNyQ1SGHeZTzoRzoQXb2iV.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/dzZymGvCnvKqUUM9as7KUqOrgSQ.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1596617",
+  "trailer": {
+    "key": "_sbB7d8IwHk",
+    "name": "Shumshiret",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-12-12T01:05:01.958196+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
