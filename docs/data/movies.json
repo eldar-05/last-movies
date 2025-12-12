@@ -1,9 +1,37 @@
 {
-  "fetched_at_utc": "2025-12-12T06:21:46.147050+00:00",
+  "fetched_at_utc": "2025-12-12T12:27:40.643766+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1597150,
+      "title": "Seribu Payung Hitam dan Sisanya Rindu",
+      "release_date": "2025-12-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rHut34kbGmR0X40fVhaXtsC2hki.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1597068,
+      "title": "Stars in Our Eyes",
+      "release_date": "2025-12-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/luIOaBQ9Z93WE5vM2FCOvqjK620.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1597064,
+      "title": "INTERVIEWED",
+      "release_date": "2025-12-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vP1Pn4GIeCAqFghe2G0EL4kBms7.jpg",
+      "genres": []
+    },
     {
       "id": 1597001,
       "title": "empty alice",
@@ -76,37 +104,6 @@
         "приключения",
         "документальный",
         "драма"
-      ]
-    },
-    {
-      "id": 1596673,
-      "title": "dust collector",
-      "release_date": "2025-12-12",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/q3lrn52ofwjLLdy3765LiELbqcH.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1596637,
-      "title": "Ambalamukkile Visheshangal",
-      "release_date": "2025-12-12",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "комедия",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1596617,
-      "title": "Shumshiret",
-      "release_date": "2025-12-12",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dcB4GbNyQ1SGHeZTzoRzoQXb2iV.jpg",
-      "genres": [
-        "комедия"
       ]
     }
   ],
