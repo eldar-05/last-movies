@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-12-13T01:00:49.173590+00:00",
+  "fetched_at_utc": "2025-12-13T06:19:46.728288+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -7,9 +7,9 @@
     {
       "id": 1597541,
       "title": "Ballet de l’Opéra de Paris: Casse-Noisette",
-      "release_date": "",
+      "release_date": "2025-12-13",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qNv1cALsVNvnKL7cJUgRBO1diM2.jpg",
       "genres": [
         "фэнтези",
         "музыка",
@@ -77,6 +77,16 @@
       ]
     },
     {
+      "id": 1596968,
+      "title": "Art of the Fold",
+      "release_date": "2025-12-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/huVXNxZEDDRRKjDmlcQShALQ6Yk.jpg",
+      "genres": [
+        "приключения"
+      ]
+    },
+    {
       "id": 1596931,
       "title": "Ángel Blanco",
       "release_date": "2025-12-13",
@@ -89,14 +99,6 @@
     {
       "id": 1596664,
       "title": "Lactose",
-      "release_date": "2025-12-13",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1596649,
-      "title": "Hölty",
       "release_date": "2025-12-13",
       "vote_average": 0.0,
       "poster_url": null,
