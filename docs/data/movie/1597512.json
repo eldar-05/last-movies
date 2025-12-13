@@ -8,8 +8,7 @@
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "комедия",
-    "телевизионный фильм"
+    "комедия"
   ],
   "original_language": "fr",
   "spoken_languages": [
@@ -18,10 +17,10 @@
   "production_countries": [
     "FR"
   ],
-  "poster_url": "https://image.tmdb.org/t/p/w500/ctsuyWSb8VjffZpmMAqdXLjdOVu.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/mrKBulxreuLWj8ZeoIqm8ncxGn3.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/2ir9E3xzrj2I0iYL0pr15R9qJ5W.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1597512",
   "trailer": null,
-  "fetched_at_utc": "2025-12-13T12:24:22.283110+00:00",
+  "fetched_at_utc": "2025-12-13T18:17:07.417706+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

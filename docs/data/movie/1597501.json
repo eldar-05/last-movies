@@ -14,7 +14,11 @@
   "poster_url": null,
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1597501",
-  "trailer": null,
-  "fetched_at_utc": "2025-12-13T12:24:22.408727+00:00",
+  "trailer": {
+    "key": "tWP5Ui5xF3Q",
+    "name": "Flickering You by S Rayyan Showkat",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-12-13T18:17:07.598590+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

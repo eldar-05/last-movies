@@ -1,9 +1,30 @@
 {
-  "fetched_at_utc": "2025-12-13T12:24:23.432154+00:00",
+  "fetched_at_utc": "2025-12-13T18:17:08.808188+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1597680,
+      "title": "DR's store juleshow - 2025",
+      "release_date": "2025-12-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hfGlcycfS34veNYoidfGysCgI82.jpg",
+      "genres": [
+        "музыка"
+      ]
+    },
+    {
+      "id": 1597658,
+      "title": "“骑”逢对手",
+      "release_date": "2025-12-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ba3P4T6zdHVuaPG30GUTTd1vy6p.jpg",
+      "genres": [
+        "комедия",
+        "детектив"
+      ]
+    },
     {
       "id": 1597541,
       "title": "Ballet de l’Opéra de Paris: Casse-Noisette",
@@ -21,7 +42,7 @@
       "title": "Doully : Hier j'arrête !",
       "release_date": "2025-12-13",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ctsuyWSb8VjffZpmMAqdXLjdOVu.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mrKBulxreuLWj8ZeoIqm8ncxGn3.jpg",
       "genres": [
         "комедия",
         "телевизионный фильм"
@@ -85,24 +106,6 @@
       "genres": [
         "приключения"
       ]
-    },
-    {
-      "id": 1596931,
-      "title": "Ángel Blanco",
-      "release_date": "2025-12-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yUtttSIs2hyQINrVGnd9gRdf8yq.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1596664,
-      "title": "Lactose",
-      "release_date": "2025-12-13",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
     }
   ],
   "source": "TMDB",
