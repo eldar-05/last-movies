@@ -1,9 +1,17 @@
 {
-  "fetched_at_utc": "2025-12-14T06:19:36.676729+00:00",
+  "fetched_at_utc": "2025-12-14T12:24:29.297260+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1597947,
+      "title": "Ozymandias",
+      "release_date": "2025-12-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/h1VuZFU99XGiMiaTIbxW19HOf0t.jpg",
+      "genres": []
+    },
     {
       "id": 1597749,
       "title": "Bosnia y Herzegovina: 30 años de una paz frustrada",
@@ -60,7 +68,7 @@
       "title": "Jean-Claude Darmon - L'argentier : L'homme, le pouvoir, le foot",
       "release_date": "2025-12-14",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/d1KaYWLrW7wdMQQgZ9FoPfpjT2D.jpg",
       "genres": [
         "документальный"
       ]
@@ -93,16 +101,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/9SdhEq2vBnKYBVI7Eun4ZjEnaiY.jpg",
       "genres": [
         "драма"
-      ]
-    },
-    {
-      "id": 1595097,
-      "title": "dreamtext",
-      "release_date": "2025-12-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6oYL4nd1GSSh6JqmGOxNXqNjyPA.jpg",
-      "genres": [
-        "музыка"
       ]
     }
   ],
