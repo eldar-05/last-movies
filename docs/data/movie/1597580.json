@@ -1,0 +1,30 @@
+{
+  "id": 1597580,
+  "title": "A Distância É Sempre Azul",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-14",
+  "runtime": 11,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/m1g40K30lCu8exRzkHIKFRZGCBc.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/ehdqD16r0q7xPGPC4ASBEJUjz7J.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1597580",
+  "trailer": {
+    "key": "vldktYP4eiM",
+    "name": "COLAGEM- Distance Is Always Blue",
+    "type": "Teaser"
+  },
+  "fetched_at_utc": "2025-12-14T01:09:20.651832+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

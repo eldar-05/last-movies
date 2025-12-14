@@ -1,0 +1,25 @@
+{
+  "id": 1596762,
+  "title": "Upiór",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-14",
+  "runtime": 6,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фэнтези",
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "BH"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/8I1lBYgtUJ4wfBPO0pf5qSpoztq.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1596762",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-14T01:09:21.653743+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

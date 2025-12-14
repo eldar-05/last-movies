@@ -1,86 +1,64 @@
 {
-  "fetched_at_utc": "2025-12-13T18:17:08.808188+00:00",
+  "fetched_at_utc": "2025-12-14T01:09:23.264266+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1597680,
-      "title": "DR's store juleshow - 2025",
-      "release_date": "2025-12-13",
+      "id": 1597749,
+      "title": "Bosnia y Herzegovina: 30 años de una paz frustrada",
+      "release_date": "2025-12-14",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hfGlcycfS34veNYoidfGysCgI82.jpg",
+      "poster_url": null,
       "genres": [
-        "музыка"
+        "документальный"
       ]
     },
     {
-      "id": 1597658,
-      "title": "“骑”逢对手",
-      "release_date": "2025-12-13",
+      "id": 1597580,
+      "title": "A Distância É Sempre Azul",
+      "release_date": "2025-12-14",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ba3P4T6zdHVuaPG30GUTTd1vy6p.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/m1g40K30lCu8exRzkHIKFRZGCBc.jpg",
       "genres": [
-        "комедия",
-        "детектив"
+        "драма"
       ]
     },
     {
-      "id": 1597541,
-      "title": "Ballet de l’Opéra de Paris: Casse-Noisette",
-      "release_date": "2025-12-13",
+      "id": 1597355,
+      "title": "Kroken på døra",
+      "release_date": "2025-12-14",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qNv1cALsVNvnKL7cJUgRBO1diM2.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lxJO70GsBaaFysHV4VpNgesLk1b.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1597126,
+      "title": "The Laurita Show",
+      "release_date": "2025-12-14",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/36l9jLfklj4YWJatg8xpHOH49d3.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1596762,
+      "title": "Upiór",
+      "release_date": "2025-12-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8I1lBYgtUJ4wfBPO0pf5qSpoztq.jpg",
       "genres": [
         "фэнтези",
-        "музыка",
-        "мелодрама"
+        "драма"
       ]
     },
     {
-      "id": 1597512,
-      "title": "Doully : Hier j'arrête !",
-      "release_date": "2025-12-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mrKBulxreuLWj8ZeoIqm8ncxGn3.jpg",
-      "genres": [
-        "комедия",
-        "телевизионный фильм"
-      ]
-    },
-    {
-      "id": 1597501,
-      "title": "Flickering You",
-      "release_date": "2025-12-13",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1597430,
-      "title": "108 spin",
-      "release_date": "2025-12-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9oYNYqUoSFRqc1o2AWaNLJOM6kp.jpg",
-      "genres": [
-        "документальный",
-        "история"
-      ]
-    },
-    {
-      "id": 1597406,
-      "title": "Historia Viva",
-      "release_date": "2025-12-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5v6ep7fsLOly6Tl6AEg9JZWw0iz.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1597154,
-      "title": "The Art Exhibit",
-      "release_date": "2025-12-13",
+      "id": 1596025,
+      "title": "Jean-Claude Darmon - L'argentier : L'homme, le pouvoir, le foot",
+      "release_date": "2025-12-14",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
@@ -88,23 +66,43 @@
       ]
     },
     {
-      "id": 1597020,
-      "title": "Paranoia",
-      "release_date": "2025-12-13",
+      "id": 1595918,
+      "title": "Nutcrackers And Cancelled Flights",
+      "release_date": "2025-12-14",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mh89YkbHeJe7UGqFhXewtAKYjnH.jpg",
       "genres": [
-        "ужасы"
+        "комедия"
       ]
     },
     {
-      "id": 1596968,
-      "title": "Art of the Fold",
-      "release_date": "2025-12-13",
+      "id": 1595648,
+      "title": "La mañana siguiente",
+      "release_date": "2025-12-14",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/huVXNxZEDDRRKjDmlcQShALQ6Yk.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3aR1PPbcasBm5aUL9VqPk3ZUWUV.jpg",
       "genres": [
-        "приключения"
+        "комедия"
+      ]
+    },
+    {
+      "id": 1595584,
+      "title": "Scrupule",
+      "release_date": "2025-12-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9SdhEq2vBnKYBVI7Eun4ZjEnaiY.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1595097,
+      "title": "dreamtext",
+      "release_date": "2025-12-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6oYL4nd1GSSh6JqmGOxNXqNjyPA.jpg",
+      "genres": [
+        "музыка"
       ]
     }
   ],
