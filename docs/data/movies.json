@@ -1,9 +1,43 @@
 {
-  "fetched_at_utc": "2025-12-14T12:24:29.297260+00:00",
+  "fetched_at_utc": "2025-12-14T18:18:21.196135+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1598242,
+      "title": "HALWAAI: An Untold Story",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1598235,
+      "title": "pour la vie",
+      "release_date": "2025-12-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4dbHZJ8AgrX06v3PaRtzhYHXovC.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1598136,
+      "title": "Grelina",
+      "release_date": "2025-12-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vR7V6zmO1zWBHdA8VEXsKj1SnRU.jpg",
+      "genres": []
+    },
+    {
+      "id": 1598101,
+      "title": "THE 5 STAGES OF LIBERTY",
+      "release_date": "2025-12-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/44n08rPCZJzdlIGv4ucWFVGT7t2.jpg",
+      "genres": []
+    },
     {
       "id": 1597947,
       "title": "Ozymandias",
@@ -60,46 +94,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/8I1lBYgtUJ4wfBPO0pf5qSpoztq.jpg",
       "genres": [
         "фэнтези",
-        "драма"
-      ]
-    },
-    {
-      "id": 1596025,
-      "title": "Jean-Claude Darmon - L'argentier : L'homme, le pouvoir, le foot",
-      "release_date": "2025-12-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/d1KaYWLrW7wdMQQgZ9FoPfpjT2D.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1595918,
-      "title": "Nutcrackers And Cancelled Flights",
-      "release_date": "2025-12-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mh89YkbHeJe7UGqFhXewtAKYjnH.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1595648,
-      "title": "La mañana siguiente",
-      "release_date": "2025-12-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3aR1PPbcasBm5aUL9VqPk3ZUWUV.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1595584,
-      "title": "Scrupule",
-      "release_date": "2025-12-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9SdhEq2vBnKYBVI7Eun4ZjEnaiY.jpg",
-      "genres": [
         "драма"
       ]
     }
