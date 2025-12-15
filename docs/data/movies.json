@@ -1,9 +1,19 @@
 {
-  "fetched_at_utc": "2025-12-15T06:23:38.145737+00:00",
+  "fetched_at_utc": "2025-12-15T12:30:36.249679+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1598509,
+      "title": "Sarah Millican: Late Bloomer",
+      "release_date": "2025-12-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/39flGRy4WiQIoNfTQwIKMxADk3K.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
     {
       "id": 1598116,
       "title": "Gabby and Eleanor Go Up and Down the Mountain",
@@ -100,18 +110,6 @@
       "genres": [
         "документальный",
         "боевик"
-      ]
-    },
-    {
-      "id": 1595188,
-      "title": "A SHOT IN THE DARK",
-      "release_date": "2025-12-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tzwcnoLvMV73zJlSf9X6gRq1BD7.jpg",
-      "genres": [
-        "комедия",
-        "детектив",
-        "триллер"
       ]
     }
   ],
