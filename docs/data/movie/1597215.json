@@ -1,0 +1,25 @@
+{
+  "id": 1597215,
+  "title": "Le Ciel Nous Regarde",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-15",
+  "runtime": 4,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "вестерн",
+    "драма"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/1iZZaMcsh8nv1vavoG8ew7nswoP.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/stTsAYju6FeTBCo3ZuX4qNoQZQb.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1597215",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-15T01:07:02.968662+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,55 +1,13 @@
 {
-  "fetched_at_utc": "2025-12-14T18:18:21.196135+00:00",
+  "fetched_at_utc": "2025-12-15T01:07:03.738162+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1598242,
-      "title": "HALWAAI: An Untold Story",
-      "release_date": "",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1598235,
-      "title": "pour la vie",
-      "release_date": "2025-12-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4dbHZJ8AgrX06v3PaRtzhYHXovC.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1598136,
-      "title": "Grelina",
-      "release_date": "2025-12-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vR7V6zmO1zWBHdA8VEXsKj1SnRU.jpg",
-      "genres": []
-    },
-    {
-      "id": 1598101,
-      "title": "THE 5 STAGES OF LIBERTY",
-      "release_date": "2025-12-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/44n08rPCZJzdlIGv4ucWFVGT7t2.jpg",
-      "genres": []
-    },
-    {
-      "id": 1597947,
-      "title": "Ozymandias",
-      "release_date": "2025-12-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/h1VuZFU99XGiMiaTIbxW19HOf0t.jpg",
-      "genres": []
-    },
-    {
-      "id": 1597749,
-      "title": "Bosnia y Herzegovina: 30 años de una paz frustrada",
-      "release_date": "2025-12-14",
+      "id": 1598116,
+      "title": "Gabby and Eleanor Go Up and Down the Mountain",
+      "release_date": "2025-12-15",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
@@ -57,44 +15,103 @@
       ]
     },
     {
-      "id": 1597580,
-      "title": "A Distância É Sempre Azul",
-      "release_date": "2025-12-14",
+      "id": 1597774,
+      "title": "狄仁杰之彼岸奇花",
+      "release_date": "2025-12-15",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/m1g40K30lCu8exRzkHIKFRZGCBc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4wXiKFabYpQZvcWfGxcrE04fxPE.jpg",
       "genres": [
-        "драма"
+        "боевик",
+        "ужасы",
+        "детектив"
       ]
     },
     {
-      "id": 1597355,
-      "title": "Kroken på døra",
-      "release_date": "2025-12-14",
+      "id": 1597746,
+      "title": "Envy",
+      "release_date": "2025-12-15",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lxJO70GsBaaFysHV4VpNgesLk1b.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2dTOqFmt8sqEGd3AA3hZV9uGioD.jpg",
       "genres": [
-        "документальный"
+        "драма",
+        "триллер"
       ]
     },
     {
-      "id": 1597126,
-      "title": "The Laurita Show",
-      "release_date": "2025-12-14",
+      "id": 1597720,
+      "title": "Aadi Pona Aavani",
+      "release_date": "2025-12-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vqHCD8MMecz3DTXy412wB0QnRBN.jpg",
+      "genres": [
+        "мелодрама",
+        "музыка",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1597465,
+      "title": "Sobre o Hábito",
+      "release_date": "2025-12-15",
       "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/36l9jLfklj4YWJatg8xpHOH49d3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/teTEqgzgAFYWVHRcIpj5KujxtNG.jpg",
       "genres": [
-        "комедия"
+        "документальный"
       ]
     },
     {
-      "id": 1596762,
-      "title": "Upiór",
-      "release_date": "2025-12-14",
+      "id": 1597215,
+      "title": "Le Ciel Nous Regarde",
+      "release_date": "2025-12-15",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8I1lBYgtUJ4wfBPO0pf5qSpoztq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1iZZaMcsh8nv1vavoG8ew7nswoP.jpg",
       "genres": [
-        "фэнтези",
+        "вестерн",
         "драма"
+      ]
+    },
+    {
+      "id": 1597160,
+      "title": "Swept By",
+      "release_date": "2025-12-15",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qyit1IZM9zf6KlzZU99yJomRKEY.jpg",
+      "genres": [
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1596075,
+      "title": "Diam's : De la lumière à l'ombre",
+      "release_date": "2025-12-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pGj8QdV34coQjjHzwZvOyMKlXTy.jpg",
+      "genres": [
+        "документальный",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1595732,
+      "title": "Dumanın İsi, Lastiğin İzi: Modifiye Kültürü",
+      "release_date": "2025-12-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jfKX6TZxc6lVrc7xeuV8W91KSyO.jpg",
+      "genres": [
+        "документальный",
+        "боевик"
+      ]
+    },
+    {
+      "id": 1595188,
+      "title": "A SHOT IN THE DARK",
+      "release_date": "2025-12-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tzwcnoLvMV73zJlSf9X6gRq1BD7.jpg",
+      "genres": [
+        "комедия",
+        "детектив",
+        "триллер"
       ]
     }
   ],
