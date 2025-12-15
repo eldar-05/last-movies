@@ -1,0 +1,23 @@
+{
+  "id": 1598706,
+  "title": "Daaru",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-15",
+  "runtime": 13,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/13OLgc7724vrHBeL4VhsB5XBWw1.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/bG4Mn5UTW1HrkXCH50TwLJMbxmU.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1598706",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-15T18:21:14.814736+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,6 +1,6 @@
 {
-  "id": 1597746,
-  "title": "Envy",
+  "id": 1598624,
+  "title": "Salamandre",
   "tagline": "",
   "overview": "",
   "release_date": "2025-12-15",
@@ -9,7 +9,8 @@
   "vote_count": 0,
   "genres": [
     "драма",
-    "триллер"
+    "фэнтези",
+    "история"
   ],
   "original_language": "fr",
   "spoken_languages": [
@@ -18,10 +19,10 @@
   "production_countries": [
     "FR"
   ],
-  "poster_url": "https://image.tmdb.org/t/p/w500/2dTOqFmt8sqEGd3AA3hZV9uGioD.jpg",
-  "backdrop_url": "https://image.tmdb.org/t/p/w780/bmcAaglDwdLXWbivZ812svTx2v1.jpg",
-  "tmdb_url": "https://www.themoviedb.org/movie/1597746",
+  "poster_url": "https://image.tmdb.org/t/p/w500/77CW9xubFLUSMQZ3gCEsf8SXN0O.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1598624",
   "trailer": null,
-  "fetched_at_utc": "2025-12-15T18:21:17.248098+00:00",
+  "fetched_at_utc": "2025-12-15T18:21:15.554393+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

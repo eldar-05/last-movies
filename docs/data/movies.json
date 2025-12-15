@@ -1,9 +1,50 @@
 {
-  "fetched_at_utc": "2025-12-15T12:30:36.249679+00:00",
+  "fetched_at_utc": "2025-12-15T18:21:17.980168+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1598706,
+      "title": "Daaru",
+      "release_date": "2025-12-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/13OLgc7724vrHBeL4VhsB5XBWw1.jpg",
+      "genres": [
+        "документальный",
+        "драма"
+      ]
+    },
+    {
+      "id": 1598629,
+      "title": "Isi",
+      "release_date": "2025-12-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8aNnei4hrPwceG73uRFIT5eAcmQ.jpg",
+      "genres": []
+    },
+    {
+      "id": 1598624,
+      "title": "Salamandre",
+      "release_date": "2025-12-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/77CW9xubFLUSMQZ3gCEsf8SXN0O.jpg",
+      "genres": [
+        "драма",
+        "фэнтези",
+        "история"
+      ]
+    },
+    {
+      "id": 1598580,
+      "title": "The Wayfarer and the River of Longing",
+      "release_date": "2025-12-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4u7Q6ruw4ehbyflV4lmSHXiY6YG.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1598509,
       "title": "Sarah Millican: Late Bloomer",
@@ -19,7 +60,7 @@
       "title": "Gabby and Eleanor Go Up and Down the Mountain",
       "release_date": "2025-12-15",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8gtum6b57xMQUSFKbUZlnX7bbYh.jpg",
       "genres": [
         "документальный"
       ]
@@ -67,49 +108,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/teTEqgzgAFYWVHRcIpj5KujxtNG.jpg",
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1597215,
-      "title": "Le Ciel Nous Regarde",
-      "release_date": "2025-12-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1iZZaMcsh8nv1vavoG8ew7nswoP.jpg",
-      "genres": [
-        "вестерн",
-        "драма"
-      ]
-    },
-    {
-      "id": 1597160,
-      "title": "Swept By",
-      "release_date": "2025-12-15",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qyit1IZM9zf6KlzZU99yJomRKEY.jpg",
-      "genres": [
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1596075,
-      "title": "Diam's : De la lumière à l'ombre",
-      "release_date": "2025-12-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pGj8QdV34coQjjHzwZvOyMKlXTy.jpg",
-      "genres": [
-        "документальный",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1595732,
-      "title": "Dumanın İsi, Lastiğin İzi: Modifiye Kültürü",
-      "release_date": "2025-12-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jfKX6TZxc6lVrc7xeuV8W91KSyO.jpg",
-      "genres": [
-        "документальный",
-        "боевик"
       ]
     }
   ],
