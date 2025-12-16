@@ -1,111 +1,106 @@
 {
-  "fetched_at_utc": "2025-12-15T18:21:17.980168+00:00",
+  "fetched_at_utc": "2025-12-16T01:05:27.432005+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1598706,
-      "title": "Daaru",
-      "release_date": "2025-12-15",
+      "id": 1598809,
+      "title": "Canada for the Masses",
+      "release_date": "",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/13OLgc7724vrHBeL4VhsB5XBWw1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6UndLLl6vkoxahfR1lLLtR4aOdc.jpg",
       "genres": [
         "документальный",
-        "драма"
+        "военный"
       ]
     },
     {
-      "id": 1598629,
-      "title": "Isi",
-      "release_date": "2025-12-15",
+      "id": 1598804,
+      "title": "Night Shift",
+      "release_date": "2025-12-16",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8aNnei4hrPwceG73uRFIT5eAcmQ.jpg",
-      "genres": []
-    },
-    {
-      "id": 1598624,
-      "title": "Salamandre",
-      "release_date": "2025-12-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/77CW9xubFLUSMQZ3gCEsf8SXN0O.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jghCecAjmSyC14ATKfsbL6NLcOH.jpg",
       "genres": [
-        "драма",
-        "фэнтези",
-        "история"
-      ]
-    },
-    {
-      "id": 1598580,
-      "title": "The Wayfarer and the River of Longing",
-      "release_date": "2025-12-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4u7Q6ruw4ehbyflV4lmSHXiY6YG.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1598509,
-      "title": "Sarah Millican: Late Bloomer",
-      "release_date": "2025-12-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/39flGRy4WiQIoNfTQwIKMxADk3K.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1598116,
-      "title": "Gabby and Eleanor Go Up and Down the Mountain",
-      "release_date": "2025-12-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8gtum6b57xMQUSFKbUZlnX7bbYh.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1597774,
-      "title": "狄仁杰之彼岸奇花",
-      "release_date": "2025-12-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4wXiKFabYpQZvcWfGxcrE04fxPE.jpg",
-      "genres": [
-        "боевик",
         "ужасы",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1597746,
-      "title": "Envy",
-      "release_date": "2025-12-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2dTOqFmt8sqEGd3AA3hZV9uGioD.jpg",
-      "genres": [
-        "драма",
         "триллер"
       ]
     },
     {
-      "id": 1597720,
-      "title": "Aadi Pona Aavani",
-      "release_date": "2025-12-15",
+      "id": 1598801,
+      "title": "Espirais de Mim",
+      "release_date": "",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vqHCD8MMecz3DTXy412wB0QnRBN.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xMbEiEmUVe3R6ew6bof6T2nQNsx.jpg",
+      "genres": []
+    },
+    {
+      "id": 1598797,
+      "title": "The Last Shift",
+      "release_date": "2025-12-16",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
-        "мелодрама",
-        "музыка",
-        "фэнтези"
+        "ужасы",
+        "триллер"
       ]
     },
     {
-      "id": 1597465,
-      "title": "Sobre o Hábito",
-      "release_date": "2025-12-15",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/teTEqgzgAFYWVHRcIpj5KujxtNG.jpg",
+      "id": 1598684,
+      "title": "Darcy Fagundes: Meu Famoso Pai Desconhecido",
+      "release_date": "2025-12-16",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1598683,
+      "title": "Samba Popular",
+      "release_date": "2025-12-16",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1598682,
+      "title": "Na Escuta",
+      "release_date": "2025-12-16",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1598680,
+      "title": "Estado Terminal",
+      "release_date": "2025-12-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/l6t7LtfYwxZaQH2x3V5QAyhCVkv.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1598677,
+      "title": "Coração de Cobre",
+      "release_date": "2025-12-16",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1598561,
+      "title": "Nos oeufs au congélo, le temps de la réflexion ?",
+      "release_date": "2025-12-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/87EYzH4dzKMXRXsiSHxpckC6PpH.jpg",
       "genres": [
         "документальный"
       ]

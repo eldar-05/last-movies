@@ -1,0 +1,23 @@
+{
+  "id": 1598804,
+  "title": "Night Shift",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-16",
+  "runtime": 4,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "триллер"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/jghCecAjmSyC14ATKfsbL6NLcOH.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/8cwiUlZgx6oFkaoLHcjtqGGHzrL.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1598804",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-16T01:05:24.463624+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
