@@ -3,18 +3,20 @@
   "title": "Espirais de Mim",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-12-16",
   "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [],
   "original_language": "pt",
-  "spoken_languages": [],
+  "spoken_languages": [
+    "Portuguese"
+  ],
   "production_countries": [],
   "poster_url": "https://image.tmdb.org/t/p/w500/xMbEiEmUVe3R6ew6bof6T2nQNsx.jpg",
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1598801",
   "trailer": null,
-  "fetched_at_utc": "2025-12-16T01:05:24.822749+00:00",
+  "fetched_at_utc": "2025-12-16T06:22:20.316403+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
