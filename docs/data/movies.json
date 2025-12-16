@@ -1,9 +1,41 @@
 {
-  "fetched_at_utc": "2025-12-16T06:22:22.664397+00:00",
+  "fetched_at_utc": "2025-12-16T12:29:12.281422+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1599048,
+      "title": "Reparasi Memori",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма",
+        "фантастика"
+      ]
+    },
+    {
+      "id": 1599015,
+      "title": "The Rob Reiner Story: A Hollywood Tragedy",
+      "release_date": "2025-12-16",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1598996,
+      "title": "Indi",
+      "release_date": "2025-12-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bYsinj3ST1hUPL6W29qe2mvfAve.jpg",
+      "genres": [
+        "документальный",
+        "музыка"
+      ]
+    },
     {
       "id": 1598809,
       "title": "Canada for the Masses",
@@ -73,36 +105,6 @@
       "poster_url": null,
       "genres": [
         "драма"
-      ]
-    },
-    {
-      "id": 1598680,
-      "title": "Estado Terminal",
-      "release_date": "2025-12-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/l6t7LtfYwxZaQH2x3V5QAyhCVkv.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1598677,
-      "title": "Coração de Cobre",
-      "release_date": "2025-12-16",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1598561,
-      "title": "Nos oeufs au congélo, le temps de la réflexion ?",
-      "release_date": "2025-12-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/87EYzH4dzKMXRXsiSHxpckC6PpH.jpg",
-      "genres": [
-        "документальный"
       ]
     }
   ],
