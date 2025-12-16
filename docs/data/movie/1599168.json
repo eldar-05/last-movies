@@ -1,0 +1,27 @@
+{
+  "id": 1599168,
+  "title": "Hjem til jul med Lasse Madsen",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-16",
+  "runtime": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "документальный",
+    "комедия"
+  ],
+  "original_language": "da",
+  "spoken_languages": [
+    "Danish"
+  ],
+  "production_countries": [
+    "DK"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/uVYoTYF4VqYuXIxfaKxuQM1uYsA.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/ykbmAov8G4CkyGjZJHgx7P6Ioon.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1599168",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-16T18:20:56.161836+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
