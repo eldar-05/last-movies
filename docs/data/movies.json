@@ -1,107 +1,104 @@
 {
-  "fetched_at_utc": "2025-12-16T18:20:57.736448+00:00",
+  "fetched_at_utc": "2025-12-17T01:00:18.080606+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1599168,
-      "title": "Hjem til jul med Lasse Madsen",
-      "release_date": "2025-12-16",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uVYoTYF4VqYuXIxfaKxuQM1uYsA.jpg",
+      "id": 1599489,
+      "title": "Memiliki Viola 9",
+      "release_date": "2025-12-17",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
-        "документальный",
+        "криминал",
+        "драма"
+      ]
+    },
+    {
+      "id": 1599233,
+      "title": "Boss It",
+      "release_date": "2025-12-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3CFTqkZPvtvafo1oGmj3328e3bh.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1599209,
+      "title": "Radta",
+      "release_date": "2025-12-17",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
         "комедия"
       ]
     },
     {
-      "id": 1599048,
-      "title": "Reparasi Memori",
-      "release_date": "2025-12-16",
+      "id": 1599197,
+      "title": "Santa's Coming",
+      "release_date": "2025-12-17",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "драма",
-        "фантастика"
+        "комедия"
       ]
     },
     {
-      "id": 1599015,
-      "title": "The Rob Reiner Story: A Hollywood Tragedy",
-      "release_date": "2025-12-16",
+      "id": 1599126,
+      "title": "Reminiscências de um Jantar a Dois",
+      "release_date": "2025-12-17",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "документальный"
+        "драма"
       ]
     },
     {
-      "id": 1598996,
-      "title": "Indi",
-      "release_date": "2025-12-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bYsinj3ST1hUPL6W29qe2mvfAve.jpg",
-      "genres": [
-        "документальный",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1598809,
-      "title": "Canada for the Masses",
-      "release_date": "2025-12-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6UndLLl6vkoxahfR1lLLtR4aOdc.jpg",
-      "genres": [
-        "документальный",
-        "военный"
-      ]
-    },
-    {
-      "id": 1598804,
-      "title": "Night Shift",
-      "release_date": "2025-12-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jghCecAjmSyC14ATKfsbL6NLcOH.jpg",
-      "genres": [
-        "ужасы",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1598801,
-      "title": "Espirais de Mim",
-      "release_date": "2025-12-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xMbEiEmUVe3R6ew6bof6T2nQNsx.jpg",
-      "genres": []
-    },
-    {
-      "id": 1598797,
-      "title": "The Last Shift",
-      "release_date": "2025-12-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lg8p42jfnplFqrZXGcuEYP1yAlW.jpg",
-      "genres": [
-        "ужасы",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1598684,
-      "title": "Darcy Fagundes: Meu Famoso Pai Desconhecido",
-      "release_date": "2025-12-16",
+      "id": 1599123,
+      "title": "Com amor, Anônimo",
+      "release_date": "2025-12-17",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "документальный"
+        "драма"
       ]
     },
     {
-      "id": 1598683,
-      "title": "Samba Popular",
-      "release_date": "2025-12-16",
+      "id": 1599120,
+      "title": "Procissão",
+      "release_date": "2025-12-17",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1599114,
+      "title": "Meu Inferno",
+      "release_date": "2025-12-17",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1599112,
+      "title": "Vendedor de Sonhos",
+      "release_date": "2025-12-17",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1599108,
+      "title": "Porta Vermelha",
+      "release_date": "2025-12-17",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
