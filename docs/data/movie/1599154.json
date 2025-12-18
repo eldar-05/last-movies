@@ -1,0 +1,26 @@
+{
+  "id": 1599154,
+  "title": "Número 98, casa",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-18",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "документальный",
+    "семейный"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/2a19UTvqHfXwNqnBklqfvkajknt.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/kvc1FGFVQ4Fhlo6Skjr5F0RGoyd.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1599154",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-18T01:01:49.628711+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

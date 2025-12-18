@@ -1,108 +1,110 @@
 {
-  "fetched_at_utc": "2025-12-17T18:21:37.216194+00:00",
+  "fetched_at_utc": "2025-12-18T01:01:50.254155+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1599732,
-      "title": "Fuck up på fertilitetsklinikken",
-      "release_date": "2025-12-17",
+      "id": 1599520,
+      "title": "LADY GAGA IN HARLEQUIN LIVE – ONE NIGHT ONLY",
+      "release_date": "2025-12-18",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pvCQcUaDpkC7jSoIlw80U39RZ9f.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9sE6Vu5722npPaDL35N2fXOgsFB.jpg",
       "genres": [
-        "документальный"
+        "музыка"
       ]
     },
     {
-      "id": 1599617,
-      "title": "Vers d'autres chemins",
-      "release_date": "2025-12-17",
+      "id": 1599261,
+      "title": "111",
+      "release_date": "2025-12-18",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iTkq1ZHgiuc7AA8M2tta3rdvtLr.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aqDNu5qzMqJHcYcrF4QD5kJNK0o.jpg",
       "genres": [
-        "документальный"
+        "ужасы"
       ]
     },
     {
-      "id": 1599489,
-      "title": "Memiliki Viola 9",
-      "release_date": "2025-12-17",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xRBICthhgCUuxdgdseAd3HnrEqV.jpg",
-      "genres": [
-        "криминал",
-        "драма"
-      ]
-    },
-    {
-      "id": 1599233,
-      "title": "Boss It",
-      "release_date": "2025-12-17",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3CFTqkZPvtvafo1oGmj3328e3bh.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1599209,
-      "title": "Radta",
-      "release_date": "2025-12-17",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1599197,
-      "title": "Santa's Coming",
-      "release_date": "2025-12-17",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1599126,
-      "title": "Reminiscências de um Jantar a Dois",
-      "release_date": "2025-12-17",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1599123,
-      "title": "Com amor, Anônimo",
-      "release_date": "2025-12-17",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1599120,
-      "title": "Procissão",
-      "release_date": "2025-12-17",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1599114,
-      "title": "Meu Inferno",
-      "release_date": "2025-12-17",
+      "id": 1599161,
+      "title": "Deus e o Diabo na Terra de Jó",
+      "release_date": "2025-12-18",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
         "мультфильм"
+      ]
+    },
+    {
+      "id": 1599159,
+      "title": "Luciano Spiderwick e o Paradoxo do Pé Preso",
+      "release_date": "2025-12-18",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1599157,
+      "title": "Apertado",
+      "release_date": "2025-12-18",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1599154,
+      "title": "Número 98, casa",
+      "release_date": "2025-12-18",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2a19UTvqHfXwNqnBklqfvkajknt.jpg",
+      "genres": [
+        "драма",
+        "документальный",
+        "семейный"
+      ]
+    },
+    {
+      "id": 1599151,
+      "title": "Confissão",
+      "release_date": "2025-12-18",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9Dqv6x2l8QVpGOU6fesZlkXNhBx.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1599150,
+      "title": "Vislumbre",
+      "release_date": "2025-12-18",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1599147,
+      "title": "Perpétuo",
+      "release_date": "2025-12-18",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1599146,
+      "title": "Sapinho Admirável",
+      "release_date": "2025-12-18",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
       ]
     }
   ],
