@@ -1,9 +1,17 @@
 {
-  "fetched_at_utc": "2025-12-18T06:21:28.275569+00:00",
+  "fetched_at_utc": "2025-12-18T12:28:19.854406+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1600170,
+      "title": "Ups, vi er voksne julespecial",
+      "release_date": "2025-12-18",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
     {
       "id": 1599520,
       "title": "LADY GAGA IN HARLEQUIN LIVE – ONE NIGHT ONLY",
@@ -95,16 +103,6 @@
       "poster_url": null,
       "genres": [
         "драма"
-      ]
-    },
-    {
-      "id": 1599146,
-      "title": "Sapinho Admirável",
-      "release_date": "2025-12-18",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
       ]
     }
   ],
