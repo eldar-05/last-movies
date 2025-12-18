@@ -1,16 +1,64 @@
 {
-  "fetched_at_utc": "2025-12-18T12:28:19.854406+00:00",
+  "fetched_at_utc": "2025-12-18T18:20:44.937801+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1600391,
+      "title": "Souvenirs d'Autrefois - 昔の思い出",
+      "release_date": "2025-12-18",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nvdxm8xj0gtbdGU9ikArKhew0a1.jpg",
+      "genres": [
+        "фэнтези",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1600390,
+      "title": "父亲的卡车",
+      "release_date": "2025-12-18",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/clzoLQFpJJz1YMNFsoKpE9ZATae.jpg",
+      "genres": [
+        "семейный",
+        "драма"
+      ]
+    },
+    {
+      "id": 1600369,
+      "title": "河童之湄澜怪谈",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы",
+        "детектив",
+        "фантастика"
+      ]
+    },
+    {
+      "id": 1600239,
+      "title": "Nosegay",
+      "release_date": "2025-12-18",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nRbnmHcXFF6kyv1W3WiH6OEcuJO.jpg",
+      "genres": [
+        "комедия",
+        "детектив",
+        "криминал"
+      ]
+    },
+    {
       "id": 1600170,
       "title": "Ups, vi er voksne julespecial",
       "release_date": "2025-12-18",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nkcmbv2m6t01AxWbptwYuDYwP9E.jpg",
+      "genres": [
+        "документальный"
+      ]
     },
     {
       "id": 1599520,
@@ -55,49 +103,6 @@
     {
       "id": 1599157,
       "title": "Apertado",
-      "release_date": "2025-12-18",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1599154,
-      "title": "Número 98, casa",
-      "release_date": "2025-12-18",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2a19UTvqHfXwNqnBklqfvkajknt.jpg",
-      "genres": [
-        "драма",
-        "документальный",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1599151,
-      "title": "Confissão",
-      "release_date": "2025-12-18",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9Dqv6x2l8QVpGOU6fesZlkXNhBx.jpg",
-      "genres": [
-        "драма",
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1599150,
-      "title": "Vislumbre",
-      "release_date": "2025-12-18",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1599147,
-      "title": "Perpétuo",
       "release_date": "2025-12-18",
       "vote_average": 0.0,
       "poster_url": null,

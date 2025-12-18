@@ -1,6 +1,6 @@
 {
-  "id": 1599159,
-  "title": "Luciano Spiderwick e o Paradoxo do Pé Preso",
+  "id": 1600390,
+  "title": "父亲的卡车",
   "tagline": "",
   "overview": "",
   "release_date": "2025-12-18",
@@ -8,15 +8,16 @@
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
+    "семейный",
     "драма"
   ],
-  "original_language": "pt",
+  "original_language": "zh",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/clzoLQFpJJz1YMNFsoKpE9ZATae.jpg",
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1599159",
+  "tmdb_url": "https://www.themoviedb.org/movie/1600390",
   "trailer": null,
-  "fetched_at_utc": "2025-12-18T18:20:44.540547+00:00",
+  "fetched_at_utc": "2025-12-18T18:20:41.968186+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

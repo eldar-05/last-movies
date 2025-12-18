@@ -5,16 +5,18 @@
   "overview": "",
   "release_date": "2025-12-18",
   "runtime": 0,
-  "vote_average": 0.0,
-  "vote_count": 0,
-  "genres": [],
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "документальный"
+  ],
   "original_language": "da",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/nkcmbv2m6t01AxWbptwYuDYwP9E.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/1yuXnmcKWMCwpkUPqTxvbyF3PsA.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1600170",
   "trailer": null,
-  "fetched_at_utc": "2025-12-18T12:28:18.276760+00:00",
+  "fetched_at_utc": "2025-12-18T18:20:43.059420+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
