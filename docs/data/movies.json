@@ -1,113 +1,111 @@
 {
-  "fetched_at_utc": "2025-12-18T18:20:44.937801+00:00",
+  "fetched_at_utc": "2025-12-19T01:05:00.160739+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1600391,
-      "title": "Souvenirs d'Autrefois - 昔の思い出",
-      "release_date": "2025-12-18",
+      "id": 1600574,
+      "title": "Denosferatuzacja 2 (czyli dowody na istnienie Świętego Mikołaja)",
+      "release_date": "2025-12-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nvdxm8xj0gtbdGU9ikArKhew0a1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aoRZQNJ4CE5nMFqbEkVjiMTPYlV.jpg",
       "genres": [
-        "фэнтези",
-        "мелодрама"
+        "комедия",
+        "ужасы"
       ]
     },
     {
-      "id": 1600390,
-      "title": "父亲的卡车",
-      "release_date": "2025-12-18",
+      "id": 1600535,
+      "title": "Date with Saie",
+      "release_date": "2025-12-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/clzoLQFpJJz1YMNFsoKpE9ZATae.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/x9VjMlxYcBEdzKHkYggH2GbZBR.jpg",
       "genres": [
-        "семейный",
+        "триллер",
         "драма"
       ]
     },
     {
-      "id": 1600369,
-      "title": "河童之湄澜怪谈",
+      "id": 1600473,
+      "title": "อีหนิง",
       "release_date": "",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "ужасы",
-        "детектив",
-        "фантастика"
+        "драма",
+        "семейный"
       ]
     },
     {
-      "id": 1600239,
-      "title": "Nosegay",
-      "release_date": "2025-12-18",
+      "id": 1600417,
+      "title": "Chalachew",
+      "release_date": "2025-12-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nRbnmHcXFF6kyv1W3WiH6OEcuJO.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/m8bpytgBx9hWSyK9GuHCLu2C90z.jpg",
       "genres": [
-        "комедия",
-        "детектив",
-        "криминал"
+        "комедия"
       ]
     },
     {
-      "id": 1600170,
-      "title": "Ups, vi er voksne julespecial",
-      "release_date": "2025-12-18",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nkcmbv2m6t01AxWbptwYuDYwP9E.jpg",
+      "id": 1600316,
+      "title": "Além-mar",
+      "release_date": "2025-12-19",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма",
+        "семейный"
+      ]
+    },
+    {
+      "id": 1600263,
+      "title": "A Study In Meshes",
+      "release_date": "2025-12-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oxL5sWdlkeqd1YremicB3h9rjV9.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1599520,
-      "title": "LADY GAGA IN HARLEQUIN LIVE – ONE NIGHT ONLY",
-      "release_date": "2025-12-18",
+      "id": 1600230,
+      "title": "The Curse of the Main Guy",
+      "release_date": "2025-12-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9sE6Vu5722npPaDL35N2fXOgsFB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yASHd4PijNuG2h6GgRocgLvEyeZ.jpg",
       "genres": [
-        "музыка"
+        "драма"
       ]
     },
     {
-      "id": 1599261,
-      "title": "111",
-      "release_date": "2025-12-18",
+      "id": 1600214,
+      "title": "Peines d'amour presque jouées",
+      "release_date": "2025-12-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aqDNu5qzMqJHcYcrF4QD5kJNK0o.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1q1f0nWjXfXfpN7NJ8n1cHi6ygy.jpg",
+      "genres": []
+    },
+    {
+      "id": 1600128,
+      "title": "The Heist Of The Century II: The Christmas Job",
+      "release_date": "2025-12-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nNekol1uPEvYUbGbbaKpfxlfHm.jpg",
       "genres": [
-        "ужасы"
+        "комедия",
+        "боевик"
       ]
     },
     {
-      "id": 1599161,
-      "title": "Deus e o Diabo na Terra de Jó",
-      "release_date": "2025-12-18",
+      "id": 1600092,
+      "title": "Tonight's the Night",
+      "release_date": "2025-12-19",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
+        "ужасы",
         "мультфильм"
-      ]
-    },
-    {
-      "id": 1599159,
-      "title": "Luciano Spiderwick e o Paradoxo do Pé Preso",
-      "release_date": "2025-12-18",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1599157,
-      "title": "Apertado",
-      "release_date": "2025-12-18",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
       ]
     }
   ],

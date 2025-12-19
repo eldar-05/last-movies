@@ -1,0 +1,27 @@
+{
+  "id": 1600128,
+  "title": "The Heist Of The Century II: The Christmas Job",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-19",
+  "runtime": 22,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "боевик"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/nNekol1uPEvYUbGbbaKpfxlfHm.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1600128",
+  "trailer": {
+    "key": "SmIqUVcklik",
+    "name": "'The Heist Of The Century II' Official Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-12-19T01:04:59.693039+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

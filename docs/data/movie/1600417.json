@@ -1,0 +1,26 @@
+{
+  "id": 1600417,
+  "title": "Chalachew",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-19",
+  "runtime": 92,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "am",
+  "spoken_languages": [
+    "Amharic"
+  ],
+  "production_countries": [
+    "ET"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/m8bpytgBx9hWSyK9GuHCLu2C90z.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/i6f8zmR3ITKltA7gSF7pQaR0UnE.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1600417",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-19T01:04:57.505944+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

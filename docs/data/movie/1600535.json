@@ -1,0 +1,27 @@
+{
+  "id": 1600535,
+  "title": "Date with Saie",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-19",
+  "runtime": 130,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "драма"
+  ],
+  "original_language": "mr",
+  "spoken_languages": [
+    "Marathi"
+  ],
+  "production_countries": [
+    "IN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/x9VjMlxYcBEdzKHkYggH2GbZBR.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1600535",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-19T01:04:56.575369+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
