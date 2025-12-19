@@ -1,9 +1,19 @@
 {
-  "fetched_at_utc": "2025-12-19T06:21:07.850523+00:00",
+  "fetched_at_utc": "2025-12-19T12:27:02.790925+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1600694,
+      "title": "Divya Drushti",
+      "release_date": "2025-12-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nqqJfUi2KgrHTyzRO2rEMZZ8nvu.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
     {
       "id": 1600574,
       "title": "Denosferatuzacja 2 (czyli dowody na istnienie Świętego Mikołaja)",
@@ -95,17 +105,6 @@
       "genres": [
         "комедия",
         "боевик"
-      ]
-    },
-    {
-      "id": 1600092,
-      "title": "Tonight's the Night",
-      "release_date": "2025-12-19",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "ужасы",
-        "мультфильм"
       ]
     }
   ],
