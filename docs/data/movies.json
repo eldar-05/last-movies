@@ -1,9 +1,70 @@
 {
-  "fetched_at_utc": "2025-12-19T12:27:02.790925+00:00",
+  "fetched_at_utc": "2025-12-19T18:19:48.608096+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1600899,
+      "title": "Kampfzone Klassenzimmer",
+      "release_date": "2025-12-19",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1600896,
+      "title": "The Undead Water",
+      "release_date": "2025-12-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cu6qCYO6yiC6jBwkMnjoLdOKJlO.jpg",
+      "genres": [
+        "ужасы",
+        "фантастика"
+      ]
+    },
+    {
+      "id": 1600886,
+      "title": "Death Cap: The Mushrooms Murders",
+      "release_date": "2025-12-19",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный",
+        "криминал"
+      ]
+    },
+    {
+      "id": 1600816,
+      "title": "Alletiders Juleshow 2025",
+      "release_date": "2025-12-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/26skIxyI6lL5VUCphe0M7bI56WH.jpg",
+      "genres": []
+    },
+    {
+      "id": 1600767,
+      "title": "Salt Çoğunluk",
+      "release_date": "2025-12-19",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ppIXvJyXIHbNBRwIGeKwEzlRbYW.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1600754,
+      "title": "kuqe 2115: nareszcie w trasie",
+      "release_date": "2025-12-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qfB5qoa9oZJkjDALCJQTK70Y2fc.jpg",
+      "genres": [
+        "документальный",
+        "музыка"
+      ]
+    },
     {
       "id": 1600694,
       "title": "Divya Drushti",
@@ -45,66 +106,6 @@
       "genres": [
         "драма",
         "семейный"
-      ]
-    },
-    {
-      "id": 1600417,
-      "title": "Chalachew",
-      "release_date": "2025-12-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/m8bpytgBx9hWSyK9GuHCLu2C90z.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1600316,
-      "title": "Além-mar",
-      "release_date": "2025-12-19",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1600263,
-      "title": "A Study In Meshes",
-      "release_date": "2025-12-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oxL5sWdlkeqd1YremicB3h9rjV9.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1600230,
-      "title": "The Curse of the Main Guy",
-      "release_date": "2025-12-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yASHd4PijNuG2h6GgRocgLvEyeZ.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1600214,
-      "title": "Peines d'amour presque jouées",
-      "release_date": "2025-12-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1q1f0nWjXfXfpN7NJ8n1cHi6ygy.jpg",
-      "genres": []
-    },
-    {
-      "id": 1600128,
-      "title": "The Heist Of The Century II: The Christmas Job",
-      "release_date": "2025-12-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nNekol1uPEvYUbGbbaKpfxlfHm.jpg",
-      "genres": [
-        "комедия",
-        "боевик"
       ]
     }
   ],
