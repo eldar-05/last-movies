@@ -1,0 +1,26 @@
+{
+  "id": 1598699,
+  "title": "Averti addosso",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-20",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "it",
+  "spoken_languages": [
+    "Italian"
+  ],
+  "production_countries": [
+    "IT"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/xExM1lB2EkEzcHh9vtBODi7dkBo.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/cZhXWtca1YpraHWuaO1NAs7SasB.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1598699",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-20T01:00:42.948780+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

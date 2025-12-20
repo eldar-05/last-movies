@@ -1,0 +1,26 @@
+{
+  "id": 1595514,
+  "title": "herstory",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-20",
+  "runtime": 64,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "th",
+  "spoken_languages": [
+    "Thai"
+  ],
+  "production_countries": [
+    "TH"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/m4cnCzagzBCt3eve2FRBQb7MpBt.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1595514",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-20T01:00:43.802503+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

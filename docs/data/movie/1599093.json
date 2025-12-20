@@ -1,0 +1,26 @@
+{
+  "id": 1599093,
+  "title": "Rupture à domicile",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-20",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/u1ZZ60n0tbWMWV37LyGSh4IsCnQ.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/blyAmyV8JCSQH8Th7KsCCc0eljT.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1599093",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-20T01:00:42.372547+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

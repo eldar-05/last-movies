@@ -1,0 +1,26 @@
+{
+  "id": 1600352,
+  "title": "Holidaymaker",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-20",
+  "runtime": 4,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/9mMcLmoKi8BpAt251Si1iXKfUpB.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/wbNNPidiM9U14F2yTldWHzgjHlP.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1600352",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-20T01:00:40.954755+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

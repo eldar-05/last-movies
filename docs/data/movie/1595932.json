@@ -1,0 +1,26 @@
+{
+  "id": 1595932,
+  "title": "I Wish I Was A Dog",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-20",
+  "runtime": 11,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "CA"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/dqYRA5O86C0mWdncABpZxNKoUhJ.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/ijHCa3oWNelqeb9Am4QfuGkANKe.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1595932",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-20T01:00:43.402498+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

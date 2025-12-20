@@ -1,112 +1,108 @@
 {
-  "fetched_at_utc": "2025-12-19T18:19:48.608096+00:00",
+  "fetched_at_utc": "2025-12-20T01:00:44.080443+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1600899,
-      "title": "Kampfzone Klassenzimmer",
-      "release_date": "2025-12-19",
+      "id": 1601094,
+      "title": "Sail to the Moon",
+      "release_date": "2025-12-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gHiic5auvx2Y2YcemPe1zzVt14V.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1600993,
+      "title": "Anything You Can Sleigh, I Can Sleigh Better",
+      "release_date": "2025-12-20",
       "vote_average": 0.0,
       "poster_url": null,
+      "genres": [
+        "комедия",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1600352,
+      "title": "Holidaymaker",
+      "release_date": "2025-12-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9mMcLmoKi8BpAt251Si1iXKfUpB.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1600222,
+      "title": "Love & Ultraviolence",
+      "release_date": "2025-12-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/p0PuaOs1ERp3psMhYliuHuP8l1E.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1600896,
-      "title": "The Undead Water",
-      "release_date": "2025-12-19",
+      "id": 1599507,
+      "title": "SEEING RED",
+      "release_date": "2025-12-20",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cu6qCYO6yiC6jBwkMnjoLdOKJlO.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xQzjOEEqbZssDm862oyz1pnIX7Z.jpg",
       "genres": [
         "ужасы",
-        "фантастика"
+        "комедия"
       ]
     },
     {
-      "id": 1600886,
-      "title": "Death Cap: The Mushrooms Murders",
-      "release_date": "2025-12-19",
+      "id": 1599093,
+      "title": "Rupture à domicile",
+      "release_date": "2025-12-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/u1ZZ60n0tbWMWV37LyGSh4IsCnQ.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1598699,
+      "title": "Averti addosso",
+      "release_date": "2025-12-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xExM1lB2EkEzcHh9vtBODi7dkBo.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1595932,
+      "title": "I Wish I Was A Dog",
+      "release_date": "2025-12-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/dqYRA5O86C0mWdncABpZxNKoUhJ.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1595514,
+      "title": "herstory",
+      "release_date": "2025-12-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/m4cnCzagzBCt3eve2FRBQb7MpBt.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1594488,
+      "title": "離魂、トドケ",
+      "release_date": "2025-12-20",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": [
-        "документальный",
-        "криминал"
-      ]
-    },
-    {
-      "id": 1600816,
-      "title": "Alletiders Juleshow 2025",
-      "release_date": "2025-12-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/26skIxyI6lL5VUCphe0M7bI56WH.jpg",
       "genres": []
-    },
-    {
-      "id": 1600767,
-      "title": "Salt Çoğunluk",
-      "release_date": "2025-12-19",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ppIXvJyXIHbNBRwIGeKwEzlRbYW.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1600754,
-      "title": "kuqe 2115: nareszcie w trasie",
-      "release_date": "2025-12-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qfB5qoa9oZJkjDALCJQTK70Y2fc.jpg",
-      "genres": [
-        "документальный",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1600694,
-      "title": "Divya Drushti",
-      "release_date": "2025-12-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nqqJfUi2KgrHTyzRO2rEMZZ8nvu.jpg",
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1600574,
-      "title": "Denosferatuzacja 2 (czyli dowody na istnienie Świętego Mikołaja)",
-      "release_date": "2025-12-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aoRZQNJ4CE5nMFqbEkVjiMTPYlV.jpg",
-      "genres": [
-        "комедия",
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1600535,
-      "title": "Date with Saie",
-      "release_date": "2025-12-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/x9VjMlxYcBEdzKHkYggH2GbZBR.jpg",
-      "genres": [
-        "триллер",
-        "драма"
-      ]
-    },
-    {
-      "id": 1600473,
-      "title": "อีหนิง",
-      "release_date": "2025-12-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7tChs9aUB54oWCF37NBTqkn4L6I.jpg",
-      "genres": [
-        "драма",
-        "семейный"
-      ]
     }
   ],
   "source": "TMDB",
