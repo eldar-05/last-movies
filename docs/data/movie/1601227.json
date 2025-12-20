@@ -1,0 +1,28 @@
+{
+  "id": 1601227,
+  "title": "Hi Simon There",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-19",
+  "runtime": 106,
+  "vote_average": 8.25,
+  "vote_count": 4,
+  "genres": [
+    "ужасы",
+    "криминал",
+    "детектив"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/qypK8vwPbJH6880rq6zeI7L08xP.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1601227",
+  "trailer": {
+    "key": "ucAmWEewe98",
+    "name": "SIMON SAYS Official Trailer (2025) UK Horror Movie",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-12-20T18:17:13.852737+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

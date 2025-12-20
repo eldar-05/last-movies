@@ -1,16 +1,57 @@
 {
-  "fetched_at_utc": "2025-12-20T12:24:10.006105+00:00",
+  "fetched_at_utc": "2025-12-20T18:17:15.072238+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1601287,
+      "title": "Les Marées Basses",
+      "release_date": "2025-12-20",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1601275,
+      "title": "Gündüz Gözüyle Kedi (Catstanbul)",
+      "release_date": "2025-12-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4lBYeFsBhNxVngemkTSuVY74Ur6.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1601227,
+      "title": "Hi Simon There",
+      "release_date": "2025-12-19",
+      "vote_average": 8.25,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qypK8vwPbJH6880rq6zeI7L08xP.jpg",
+      "genres": [
+        "ужасы",
+        "криминал",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1601213,
+      "title": "Countdown",
+      "release_date": "2025-12-20",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cMRhgkdyZRGCEssCsxgo34iN4QO.jpg",
+      "genres": []
+    },
     {
       "id": 1601173,
       "title": "一起过家家",
       "release_date": "2025-12-20",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/x2PVyg645ycC1y9utSCGTDvkyrj.jpg",
-      "genres": []
+      "genres": [
+        "драма",
+        "комедия"
+      ]
     },
     {
       "id": 1601094,
@@ -61,48 +102,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/p0PuaOs1ERp3psMhYliuHuP8l1E.jpg",
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1599507,
-      "title": "SEEING RED",
-      "release_date": "2025-12-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xQzjOEEqbZssDm862oyz1pnIX7Z.jpg",
-      "genres": [
-        "ужасы",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1599093,
-      "title": "Rupture à domicile",
-      "release_date": "2025-12-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/u1ZZ60n0tbWMWV37LyGSh4IsCnQ.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1598699,
-      "title": "Averti addosso",
-      "release_date": "2025-12-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xExM1lB2EkEzcHh9vtBODi7dkBo.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1597630,
-      "title": "STEALTH X",
-      "release_date": "2025-12-20",
-      "vote_average": 10.0,
-      "poster_url": null,
-      "genres": [
-        "боевик",
-        "драма"
       ]
     }
   ],
