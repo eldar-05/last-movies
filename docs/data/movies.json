@@ -1,15 +1,33 @@
 {
-  "fetched_at_utc": "2025-12-20T06:20:19.275666+00:00",
+  "fetched_at_utc": "2025-12-20T12:24:10.006105+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1601173,
+      "title": "一起过家家",
+      "release_date": "2025-12-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/x2PVyg645ycC1y9utSCGTDvkyrj.jpg",
+      "genres": []
+    },
     {
       "id": 1601094,
       "title": "Sail to the Moon",
       "release_date": "2025-12-20",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/gHiic5auvx2Y2YcemPe1zzVt14V.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1600998,
+      "title": "Bagazo",
+      "release_date": "2025-12-20",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/dJQhuq5T47EqSUnftAmGpxOwogl.jpg",
       "genres": [
         "драма"
       ]
@@ -77,32 +95,15 @@
       ]
     },
     {
-      "id": 1595932,
-      "title": "I Wish I Was A Dog",
+      "id": 1597630,
+      "title": "STEALTH X",
       "release_date": "2025-12-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dqYRA5O86C0mWdncABpZxNKoUhJ.jpg",
+      "vote_average": 10.0,
+      "poster_url": null,
       "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1595514,
-      "title": "herstory",
-      "release_date": "2025-12-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/m4cnCzagzBCt3eve2FRBQb7MpBt.jpg",
-      "genres": [
+        "боевик",
         "драма"
       ]
-    },
-    {
-      "id": 1594488,
-      "title": "離魂、トドケ",
-      "release_date": "2025-12-20",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
     }
   ],
   "source": "TMDB",

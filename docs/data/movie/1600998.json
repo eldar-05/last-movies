@@ -1,0 +1,22 @@
+{
+  "id": 1600998,
+  "title": "Bagazo",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-20",
+  "runtime": 7,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "es",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/dJQhuq5T47EqSUnftAmGpxOwogl.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/10blRIrQIDLTN2HACN6x0L5A1k5.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1600998",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-20T12:24:07.781016+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
