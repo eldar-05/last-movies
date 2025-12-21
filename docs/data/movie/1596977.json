@@ -1,0 +1,30 @@
+{
+  "id": 1596977,
+  "title": "The Order Of Time",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-21",
+  "runtime": 37,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "драма",
+    "комедия",
+    "триллер",
+    "криминал",
+    "фантастика"
+  ],
+  "original_language": "ta",
+  "spoken_languages": [
+    "Tamil"
+  ],
+  "production_countries": [
+    "IN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/nUGUayYBTHigpgWX4lZkwfhhQQE.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/vwNSAJB0qLHsQrvfSyjJ8nlI1yJ.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1596977",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-21T01:09:09.109289+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

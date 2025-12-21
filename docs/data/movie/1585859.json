@@ -1,0 +1,24 @@
+{
+  "id": 1585859,
+  "title": "Teugels",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-21",
+  "runtime": 9,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "nl",
+  "spoken_languages": [
+    "Dutch"
+  ],
+  "production_countries": [
+    "NL"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/qYdlc9FVTDyvx1SxHyg6PycXwFw.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/vLK3iDRcZutmXBZNbiDgMX7EVig.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1585859",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-21T01:09:10.060148+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

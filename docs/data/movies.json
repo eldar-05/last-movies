@@ -1,108 +1,108 @@
 {
-  "fetched_at_utc": "2025-12-20T18:17:15.072238+00:00",
+  "fetched_at_utc": "2025-12-21T01:09:10.393728+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1601287,
-      "title": "Les Marées Basses",
-      "release_date": "2025-12-20",
+      "id": 1600478,
+      "title": "I Don't Know Where To Go",
+      "release_date": "2025-12-21",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1601275,
-      "title": "Gündüz Gözüyle Kedi (Catstanbul)",
-      "release_date": "2025-12-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4lBYeFsBhNxVngemkTSuVY74Ur6.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1601227,
-      "title": "Hi Simon There",
-      "release_date": "2025-12-19",
-      "vote_average": 8.25,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qypK8vwPbJH6880rq6zeI7L08xP.jpg",
+      "id": 1600442,
+      "title": "Bild und Ton gehen Auseinander",
+      "release_date": "2025-12-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/inH81uBgPI1rgnF9PamufhndxYG.jpg",
       "genres": [
-        "ужасы",
-        "криминал",
-        "детектив"
+        "документальный"
       ]
     },
     {
-      "id": 1601213,
-      "title": "Countdown",
-      "release_date": "2025-12-20",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cMRhgkdyZRGCEssCsxgo34iN4QO.jpg",
-      "genres": []
+      "id": 1599023,
+      "title": "The Things We Carry Home",
+      "release_date": "2025-12-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fVDgQHNSA1eClhlT7JB9CwdbE2d.jpg",
+      "genres": [
+        "документальный"
+      ]
     },
     {
-      "id": 1601173,
-      "title": "一起过家家",
-      "release_date": "2025-12-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/x2PVyg645ycC1y9utSCGTDvkyrj.jpg",
+      "id": 1596977,
+      "title": "The Order Of Time",
+      "release_date": "2025-12-21",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nUGUayYBTHigpgWX4lZkwfhhQQE.jpg",
       "genres": [
         "драма",
-        "комедия"
+        "комедия",
+        "триллер",
+        "криминал",
+        "фантастика"
       ]
     },
     {
-      "id": 1601094,
-      "title": "Sail to the Moon",
-      "release_date": "2025-12-20",
+      "id": 1596774,
+      "title": "김치",
+      "release_date": "2025-12-21",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gHiic5auvx2Y2YcemPe1zzVt14V.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8DD38t5H7mOLHRkMW5cR7d2H4ws.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1600998,
-      "title": "Bagazo",
-      "release_date": "2025-12-20",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dJQhuq5T47EqSUnftAmGpxOwogl.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1600993,
-      "title": "Anything You Can Sleigh, I Can Sleigh Better",
-      "release_date": "2025-12-20",
+      "id": 1595484,
+      "title": "Donovan Magicien : Spéciale ski",
+      "release_date": "2025-12-21",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "комедия",
-        "музыка"
+        "документальный"
       ]
     },
     {
-      "id": 1600352,
-      "title": "Holidaymaker",
-      "release_date": "2025-12-20",
+      "id": 1595477,
+      "title": "Donovan Magicien : Retour au Moyen Âge",
+      "release_date": "2025-12-21",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9mMcLmoKi8BpAt251Si1iXKfUpB.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1600222,
-      "title": "Love & Ultraviolence",
-      "release_date": "2025-12-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/p0PuaOs1ERp3psMhYliuHuP8l1E.jpg",
+      "poster_url": null,
       "genres": [
         "документальный"
       ]
+    },
+    {
+      "id": 1595474,
+      "title": "Donovan Magicien : À la foire de Liège",
+      "release_date": "2025-12-21",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1585859,
+      "title": "Teugels",
+      "release_date": "2025-12-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qYdlc9FVTDyvx1SxHyg6PycXwFw.jpg",
+      "genres": []
+    },
+    {
+      "id": 1585854,
+      "title": "Paulien",
+      "release_date": "2025-12-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6s8sY6ik2EenrDmw7mCaCo4IfjC.jpg",
+      "genres": []
     }
   ],
   "source": "TMDB",
