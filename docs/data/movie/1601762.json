@@ -1,0 +1,29 @@
+{
+  "id": 1601762,
+  "title": "Raktha Kashmira",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-21",
+  "runtime": 120,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "боевик",
+    "приключения"
+  ],
+  "original_language": "kn",
+  "spoken_languages": [
+    "Kannada"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/pu5CmU63P2JjNW7RsUEFfjKMrtr.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/aHqIY2lhQaF3swIC2ajip02UpOV.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1601762",
+  "trailer": {
+    "key": "3N2FmjSZMGc",
+    "name": "RAKTHA KASHMIRA Official Trailer | Real Star Upendra | Ramya | Grand Song Ft.All Kannada Stars! #KFI",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-12-21T18:18:22.184320+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

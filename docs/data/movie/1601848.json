@@ -1,0 +1,26 @@
+{
+  "id": 1601848,
+  "title": "جال",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-21",
+  "runtime": 4,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "триллер",
+    "детектив"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "PK"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/h85jmTH91iJo7wWtlCfnIgTQaCY.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/7wdLSPYNe0G8C2ujNjQZWBt5OWS.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1601848",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-21T18:18:21.897229+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

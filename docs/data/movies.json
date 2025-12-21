@@ -1,9 +1,40 @@
 {
-  "fetched_at_utc": "2025-12-21T12:24:51.815239+00:00",
+  "fetched_at_utc": "2025-12-21T18:18:23.321311+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1601848,
+      "title": "جال",
+      "release_date": "2025-12-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/h85jmTH91iJo7wWtlCfnIgTQaCY.jpg",
+      "genres": [
+        "ужасы",
+        "триллер",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1601831,
+      "title": "DDT Ring Finale 2025 ~Everyone is the star of the curtain call~",
+      "release_date": "2025-12-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/udGmgJGkk9eRaIwNkxZrXJOidk9.jpg",
+      "genres": []
+    },
+    {
+      "id": 1601762,
+      "title": "Raktha Kashmira",
+      "release_date": "2025-12-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pu5CmU63P2JjNW7RsUEFfjKMrtr.jpg",
+      "genres": [
+        "боевик",
+        "приключения"
+      ]
+    },
     {
       "id": 1600478,
       "title": "I Don't Know Where To Go",
@@ -77,32 +108,6 @@
       "genres": [
         "документальный"
       ]
-    },
-    {
-      "id": 1595474,
-      "title": "Donovan Magicien : À la foire de Liège",
-      "release_date": "2025-12-21",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1585859,
-      "title": "Teugels",
-      "release_date": "2025-12-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qYdlc9FVTDyvx1SxHyg6PycXwFw.jpg",
-      "genres": []
-    },
-    {
-      "id": 1585854,
-      "title": "Paulien",
-      "release_date": "2025-12-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6s8sY6ik2EenrDmw7mCaCo4IfjC.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",
