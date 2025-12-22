@@ -1,22 +1,23 @@
 {
-  "id": 1601522,
-  "title": "Canestrooooo!",
+  "id": 1602163,
+  "title": "Remembering Beth",
   "tagline": "",
   "overview": "",
   "release_date": "2025-12-22",
-  "runtime": 0,
+  "runtime": 6,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
-  "original_language": "it",
-  "spoken_languages": [
-    "Italian"
+  "genres": [
+    "ужасы",
+    "драма"
   ],
+  "original_language": "en",
+  "spoken_languages": [],
   "production_countries": [],
   "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1601522",
+  "tmdb_url": "https://www.themoviedb.org/movie/1602163",
   "trailer": null,
-  "fetched_at_utc": "2025-12-22T12:28:22.193440+00:00",
+  "fetched_at_utc": "2025-12-22T12:28:21.595984+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

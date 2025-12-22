@@ -1,9 +1,30 @@
 {
-  "fetched_at_utc": "2025-12-22T06:23:39.773653+00:00",
+  "fetched_at_utc": "2025-12-22T12:28:23.280100+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1602163,
+      "title": "Remembering Beth",
+      "release_date": "2025-12-22",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы",
+        "драма"
+      ]
+    },
+    {
+      "id": 1602077,
+      "title": "Le Cirque Phénix - 25 ans",
+      "release_date": "2025-12-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hpob9hS0l2GCztcnF7AcIUTzrrF.jpg",
+      "genres": [
+        "семейный"
+      ]
+    },
     {
       "id": 1601979,
       "title": "Los Fantasmas de Fuerte",
@@ -82,27 +103,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/lqhydeoXxrif7NaSEr0Yz6c1ZMV.jpg",
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1596936,
-      "title": "Tunico: Rir Não é o Suficiente",
-      "release_date": "2025-12-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zWkYdbfwoPo6TC4Rq90tkis9ZlS.jpg",
-      "genres": [
-        "комедия",
-        "документальный"
-      ]
-    },
-    {
-      "id": 1596632,
-      "title": "la fin absolue du monde",
-      "release_date": "2025-12-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kT0kRZ2dAF4veTRBcoWLqdqWNZg.jpg",
-      "genres": [
-        "драма"
       ]
     }
   ],

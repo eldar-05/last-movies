@@ -1,0 +1,26 @@
+{
+  "id": 1602077,
+  "title": "Le Cirque Phénix - 25 ans",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-22",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "семейный"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/hpob9hS0l2GCztcnF7AcIUTzrrF.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/9WJOorBNYmEDZnBr8TfpUmTcE9b.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1602077",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-22T12:28:21.774761+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
