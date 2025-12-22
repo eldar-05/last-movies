@@ -14,10 +14,10 @@
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/bf2R4hYIzO3wWsdJ1h0Lth3wRdd.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/2dbtlBcTnIB736Q2bNvFgr64DdW.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1602163",
   "trailer": null,
-  "fetched_at_utc": "2025-12-22T12:28:21.595984+00:00",
+  "fetched_at_utc": "2025-12-22T18:20:24.816111+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
