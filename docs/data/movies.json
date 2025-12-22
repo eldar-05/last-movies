@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-12-22T01:07:55.442844+00:00",
+  "fetched_at_utc": "2025-12-22T06:23:39.773653+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -7,9 +7,9 @@
     {
       "id": 1601979,
       "title": "Los Fantasmas de Fuerte",
-      "release_date": "",
+      "release_date": "2025-12-22",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/v7M0swyDhlfcIM2AwcDhnj1pznn.jpg",
       "genres": [
         "музыка",
         "документальный"
@@ -48,7 +48,7 @@
       "title": "47e Festival international du cirque de Monte-Carlo",
       "release_date": "2025-12-22",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qtxjtRf4GSFOwwOEvhUHi9yMqBY.jpg",
       "genres": [
         "семейный"
       ]
