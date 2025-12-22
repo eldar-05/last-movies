@@ -1,0 +1,25 @@
+{
+  "id": 1598783,
+  "title": "A",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-22",
+  "runtime": 4,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "ужасы"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/51003pqOcL4QBTsOe29Ti2NJ7hI.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1598783",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-22T01:07:54.600416+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1600894,
+  "title": "47e Festival international du cirque de Monte-Carlo",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-22",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "семейный"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [
+    "FR",
+    "MC"
+  ],
+  "poster_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/uOm9zyfUqv5sc8OP9hapcHoYLPG.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1600894",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-22T01:07:54.411856+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

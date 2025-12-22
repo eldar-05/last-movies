@@ -1,112 +1,108 @@
 {
-  "fetched_at_utc": "2025-12-21T18:18:23.321311+00:00",
+  "fetched_at_utc": "2025-12-22T01:07:55.442844+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1601848,
-      "title": "جال",
-      "release_date": "2025-12-21",
+      "id": 1601979,
+      "title": "Los Fantasmas de Fuerte",
+      "release_date": "",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/h85jmTH91iJo7wWtlCfnIgTQaCY.jpg",
+      "poster_url": null,
       "genres": [
-        "ужасы",
-        "триллер",
+        "музыка",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1601522,
+      "title": "Canestrooooo!",
+      "release_date": "2025-12-22",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1601120,
+      "title": "Macbeth, o Filme",
+      "release_date": "2025-12-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/51003pqOcL4QBTsOe29Ti2NJ7hI.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1600977,
+      "title": "Slipknot - Live at Resurrection Fest EG 2025",
+      "release_date": "2025-12-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/m4BIf9vqSXtpgatkQqfNMREAWBW.jpg",
+      "genres": [
+        "музыка"
+      ]
+    },
+    {
+      "id": 1600894,
+      "title": "47e Festival international du cirque de Monte-Carlo",
+      "release_date": "2025-12-22",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "семейный"
+      ]
+    },
+    {
+      "id": 1598783,
+      "title": "A",
+      "release_date": "2025-12-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/51003pqOcL4QBTsOe29Ti2NJ7hI.jpg",
+      "genres": [
+        "комедия",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1597879,
+      "title": "Subterranean",
+      "release_date": "2025-12-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aPsnaGHQLxC8AwgAnohhqOyxz79.jpg",
+      "genres": [
         "детектив"
       ]
     },
     {
-      "id": 1601831,
-      "title": "DDT Ring Finale 2025 ~Everyone is the star of the curtain call~",
-      "release_date": "2025-12-21",
+      "id": 1597485,
+      "title": "Tea with Judi Dench",
+      "release_date": "2025-12-22",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/udGmgJGkk9eRaIwNkxZrXJOidk9.jpg",
-      "genres": []
-    },
-    {
-      "id": 1601762,
-      "title": "Raktha Kashmira",
-      "release_date": "2025-12-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pu5CmU63P2JjNW7RsUEFfjKMrtr.jpg",
-      "genres": [
-        "боевик",
-        "приключения"
-      ]
-    },
-    {
-      "id": 1600478,
-      "title": "I Don't Know Where To Go",
-      "release_date": "2025-12-21",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lqhydeoXxrif7NaSEr0Yz6c1ZMV.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1600442,
-      "title": "Bild und Ton gehen Auseinander",
-      "release_date": "2025-12-21",
+      "id": 1596936,
+      "title": "Tunico: Rir Não é o Suficiente",
+      "release_date": "2025-12-22",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/inH81uBgPI1rgnF9PamufhndxYG.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zWkYdbfwoPo6TC4Rq90tkis9ZlS.jpg",
       "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1599023,
-      "title": "The Things We Carry Home",
-      "release_date": "2025-12-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fVDgQHNSA1eClhlT7JB9CwdbE2d.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1596977,
-      "title": "The Order Of Time",
-      "release_date": "2025-12-21",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nUGUayYBTHigpgWX4lZkwfhhQQE.jpg",
-      "genres": [
-        "драма",
         "комедия",
-        "триллер",
-        "криминал",
-        "фантастика"
+        "документальный"
       ]
     },
     {
-      "id": 1596774,
-      "title": "김치",
-      "release_date": "2025-12-21",
+      "id": 1596632,
+      "title": "la fin absolue du monde",
+      "release_date": "2025-12-22",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8DD38t5H7mOLHRkMW5cR7d2H4ws.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kT0kRZ2dAF4veTRBcoWLqdqWNZg.jpg",
       "genres": [
         "драма"
-      ]
-    },
-    {
-      "id": 1595484,
-      "title": "Donovan Magicien : Spéciale ski",
-      "release_date": "2025-12-21",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1595477,
-      "title": "Donovan Magicien : Retour au Moyen Âge",
-      "release_date": "2025-12-21",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
       ]
     }
   ],
