@@ -1,0 +1,26 @@
+{
+  "id": 1602929,
+  "title": "Lisa Ostermann: Makkelijk in de omgang",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-23",
+  "runtime": 85,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "nl",
+  "spoken_languages": [
+    "Dutch"
+  ],
+  "production_countries": [
+    "NL"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/mBl2LVPy4bHhH68cRFE9dbNGZrI.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/qQU5BRR29ilpgC2EDqVB7Obsskm.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1602929",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-23T18:20:25.746132+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1602797,
+  "title": "O Último Natal de William - O FILME",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-23",
+  "runtime": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "фантастика"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [
+    "BE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/yRW41ZN28nrkGtjU4heEInVaaWD.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/r4rE99qBVVWWghMnkJQmM8egkwk.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1602797",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-23T18:20:26.506652+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,9 +1,73 @@
 {
-  "fetched_at_utc": "2025-12-23T12:28:22.829113+00:00",
+  "fetched_at_utc": "2025-12-23T18:20:26.901778+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1603103,
+      "title": "Driller",
+      "release_date": "2025-12-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gMuTqtfHiyuEeJkl6q4rMj8AnjZ.jpg",
+      "genres": []
+    },
+    {
+      "id": 1603049,
+      "title": "NOAH Thanksgiving 2025",
+      "release_date": "2025-12-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4Ul8cLcvMHHguFtpS5z7f8OZf9m.jpg",
+      "genres": []
+    },
+    {
+      "id": 1603047,
+      "title": "O la chiesa o il campanile",
+      "release_date": "2025-12-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nAiPNppCfN5fzXbwflUFCtmzJJM.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1603032,
+      "title": "Ania Magliano: I Can't Believe You've Done This",
+      "release_date": "2025-12-23",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1602937,
+      "title": "Rundfunk: Schau",
+      "release_date": "2025-12-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wppBu8BnTn5rMdneNJ21c9xH926.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1602931,
+      "title": "Kirsten van Teijn: Club Queersten",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pdcVn0ZRVLsODpxYy51WNbLt866.jpg",
+      "genres": [
+        "музыка"
+      ]
+    },
+    {
+      "id": 1602929,
+      "title": "Lisa Ostermann: Makkelijk in de omgang",
+      "release_date": "2025-12-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mBl2LVPy4bHhH68cRFE9dbNGZrI.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
     {
       "id": 1602845,
       "title": "Homeless: At The Train Station",
@@ -16,6 +80,16 @@
       ]
     },
     {
+      "id": 1602797,
+      "title": "O Último Natal de William - O FILME",
+      "release_date": "2025-12-23",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yRW41ZN28nrkGtjU4heEInVaaWD.jpg",
+      "genres": [
+        "фантастика"
+      ]
+    },
+    {
       "id": 1602229,
       "title": "Trine Gadebergs Juleshow",
       "release_date": "2025-12-23",
@@ -24,90 +98,6 @@
       "genres": [
         "музыка"
       ]
-    },
-    {
-      "id": 1601909,
-      "title": "PLANO-PERDA",
-      "release_date": "2025-12-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nJfFVr4RzJ0GgD5tRFf5ik9dBW4.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1601359,
-      "title": "Pierre Garnier : Le concert événement",
-      "release_date": "2025-12-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4GCEUJdgn3SVolJco7g34volO6T.jpg",
-      "genres": [
-        "музыка"
-      ]
-    },
-    {
-      "id": 1601280,
-      "title": "Another Trainwreck at Bitchharbour Bridge",
-      "release_date": "2025-12-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/s3J1irY67q0PRVE02wHep1kMv7d.jpg",
-      "genres": [
-        "детектив",
-        "драма",
-        "ужасы",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1601261,
-      "title": "Canet Rock, abans que surti el sol",
-      "release_date": "2025-12-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sCkZ6Uo2aU0gNOzaiBTV5GeWTJg.jpg",
-      "genres": [
-        "документальный",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1601090,
-      "title": "What Is An Ocean…Reconnecting the Cast and Crew of Cloud Atlas",
-      "release_date": "2025-12-23",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1600935,
-      "title": "Le Bracelet",
-      "release_date": "2025-12-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fwgvrqEpdPN2QrKm1Cq3FmVs6Yk.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1600615,
-      "title": "The Christmas Present Mystery II",
-      "release_date": "2025-12-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4Kq9mfKrh0ixXhR9TZgYkNyA2WE.jpg",
-      "genres": [
-        "детектив",
-        "боевик",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1600346,
-      "title": "The Jinkx and DeLa Holiday Show 2025",
-      "release_date": "2025-12-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mD2MaXcWTEIy9B0X9tk8qrn3Krr.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",
