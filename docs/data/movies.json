@@ -1,9 +1,20 @@
 {
-  "fetched_at_utc": "2025-12-23T06:22:22.384650+00:00",
+  "fetched_at_utc": "2025-12-23T12:28:22.829113+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1602845,
+      "title": "Homeless: At The Train Station",
+      "release_date": "2025-12-23",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы",
+        "комедия"
+      ]
+    },
     {
       "id": 1602229,
       "title": "Trine Gadebergs Juleshow",
@@ -97,16 +108,6 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/mD2MaXcWTEIy9B0X9tk8qrn3Krr.jpg",
       "genres": []
-    },
-    {
-      "id": 1599251,
-      "title": "Micha Wertheim: Nergens Anders",
-      "release_date": "2025-12-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ov0xbc5zCGDf2piqLFLf10A9zJw.jpg",
-      "genres": [
-        "комедия"
-      ]
     }
   ],
   "source": "TMDB",
