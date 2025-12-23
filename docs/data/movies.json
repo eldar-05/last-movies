@@ -1,108 +1,111 @@
 {
-  "fetched_at_utc": "2025-12-22T18:20:27.109980+00:00",
+  "fetched_at_utc": "2025-12-23T01:04:40.949356+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1602163,
-      "title": "Remembering Beth",
-      "release_date": "2025-12-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bf2R4hYIzO3wWsdJ1h0Lth3wRdd.jpg",
-      "genres": [
-        "ужасы",
-        "драма"
-      ]
-    },
-    {
-      "id": 1602086,
-      "title": "Poli en la ciudad",
-      "release_date": "2025-12-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wf7GZV9UAT74PBFDeTvjEvkvGsQ.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1602077,
-      "title": "Le Cirque Phénix - 25 ans",
-      "release_date": "2025-12-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hpob9hS0l2GCztcnF7AcIUTzrrF.jpg",
-      "genres": [
-        "семейный"
-      ]
-    },
-    {
-      "id": 1601979,
-      "title": "Los Fantasmas de Fuerte",
-      "release_date": "2025-12-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/v7M0swyDhlfcIM2AwcDhnj1pznn.jpg",
-      "genres": [
-        "музыка",
-        "документальный"
-      ]
-    },
-    {
-      "id": 1601522,
-      "title": "Canestrooooo!",
-      "release_date": "2025-12-22",
+      "id": 1602229,
+      "title": "Trine Gadebergs Juleshow",
+      "release_date": "2025-12-23",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1601120,
-      "title": "Macbeth, o Filme",
-      "release_date": "2025-12-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/51003pqOcL4QBTsOe29Ti2NJ7hI.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1600977,
-      "title": "Slipknot - Live at Resurrection Fest EG 2025",
-      "release_date": "2025-12-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/m4BIf9vqSXtpgatkQqfNMREAWBW.jpg",
       "genres": [
         "музыка"
       ]
     },
     {
-      "id": 1600894,
-      "title": "47e Festival international du cirque de Monte-Carlo",
-      "release_date": "2025-12-22",
+      "id": 1601909,
+      "title": "PLANO-PERDA",
+      "release_date": "2025-12-23",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qtxjtRf4GSFOwwOEvhUHi9yMqBY.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nJfFVr4RzJ0GgD5tRFf5ik9dBW4.jpg",
       "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1601359,
+      "title": "Pierre Garnier : le concert évènement",
+      "release_date": "2025-12-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wBe2dWx3BgegmshCeojrXv8ljXY.jpg",
+      "genres": [
+        "музыка"
+      ]
+    },
+    {
+      "id": 1601280,
+      "title": "Another Trainwreck at Bitchharbour Bridge",
+      "release_date": "2025-12-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/s3J1irY67q0PRVE02wHep1kMv7d.jpg",
+      "genres": [
+        "детектив",
+        "драма",
+        "ужасы",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1601261,
+      "title": "Canet Rock, abans que surti el sol",
+      "release_date": "2025-12-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/sCkZ6Uo2aU0gNOzaiBTV5GeWTJg.jpg",
+      "genres": [
+        "документальный",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1601090,
+      "title": "What Is An Ocean…Reconnecting the Cast and Crew of Cloud Atlas",
+      "release_date": "2025-12-23",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1600935,
+      "title": "Le Bracelet",
+      "release_date": "2025-12-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fwgvrqEpdPN2QrKm1Cq3FmVs6Yk.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1600615,
+      "title": "The Christmas Present Mystery II",
+      "release_date": "2025-12-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4Kq9mfKrh0ixXhR9TZgYkNyA2WE.jpg",
+      "genres": [
+        "детектив",
+        "боевик",
         "семейный"
       ]
     },
     {
-      "id": 1598783,
-      "title": "A",
-      "release_date": "2025-12-22",
+      "id": 1600346,
+      "title": "The Jinkx and DeLa Holiday Show 2025",
+      "release_date": "2025-12-23",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/51003pqOcL4QBTsOe29Ti2NJ7hI.jpg",
-      "genres": [
-        "комедия",
-        "ужасы"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/mD2MaXcWTEIy9B0X9tk8qrn3Krr.jpg",
+      "genres": []
     },
     {
-      "id": 1597879,
-      "title": "Subterranean",
-      "release_date": "2025-12-22",
+      "id": 1599251,
+      "title": "Micha Wertheim: Nergens Anders",
+      "release_date": "2025-12-23",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aPsnaGHQLxC8AwgAnohhqOyxz79.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ov0xbc5zCGDf2piqLFLf10A9zJw.jpg",
       "genres": [
-        "детектив"
+        "комедия"
       ]
     }
   ],

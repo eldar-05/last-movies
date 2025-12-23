@@ -1,0 +1,27 @@
+{
+  "id": 1601261,
+  "title": "Canet Rock, abans que surti el sol",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-23",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "музыка"
+  ],
+  "original_language": "ca",
+  "spoken_languages": [
+    "Catalan"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/sCkZ6Uo2aU0gNOzaiBTV5GeWTJg.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1601261",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-23T01:04:40.086349+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
