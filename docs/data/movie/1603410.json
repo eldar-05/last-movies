@@ -7,7 +7,11 @@
   "runtime": 5,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "военный",
+    "музыка",
+    "документальный"
+  ],
   "original_language": "en",
   "spoken_languages": [
     "English",
@@ -18,6 +22,6 @@
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1603410",
   "trailer": null,
-  "fetched_at_utc": "2025-12-24T12:27:46.450210+00:00",
+  "fetched_at_utc": "2025-12-24T18:20:02.060277+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

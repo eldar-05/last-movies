@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-12-24T12:27:49.104329+00:00",
+  "fetched_at_utc": "2025-12-24T18:20:03.084160+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -9,7 +9,7 @@
       "title": "Plein Air",
       "release_date": "2025-12-24",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aHHPXv0ZNRbBPkoCmdgCr84MNz1.jpg",
       "genres": [
         "драма",
         "семейный"
