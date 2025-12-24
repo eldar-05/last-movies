@@ -17,13 +17,13 @@
   "spoken_languages": [],
   "production_countries": [],
   "poster_url": "https://image.tmdb.org/t/p/w500/bLfWzs5XhoGxlWFUenMtQcHBH4S.jpg",
-  "backdrop_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/gfmuL1FMgU5D2rwKngtohQyY6yK.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1602423",
   "trailer": {
     "key": "KyM17q4BRyg",
     "name": "The Naughty Ones | official trailer",
     "type": "Trailer"
   },
-  "fetched_at_utc": "2025-12-24T01:04:14.296266+00:00",
+  "fetched_at_utc": "2025-12-24T06:22:46.124279+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
