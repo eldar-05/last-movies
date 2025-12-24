@@ -1,0 +1,26 @@
+{
+  "id": 1602952,
+  "title": "CURBED",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-24",
+  "runtime": 19,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "криминал",
+    "приключения"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/pDK8B9j8cypIPuIknpVkAtQmYas.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/rctDXWpyWSiFhpVChkqZMG5Swhc.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1602952",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-24T01:04:13.751934+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

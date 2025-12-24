@@ -1,103 +1,114 @@
 {
-  "fetched_at_utc": "2025-12-23T18:20:26.901778+00:00",
+  "fetched_at_utc": "2025-12-24T01:04:14.442760+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1603103,
-      "title": "Driller",
-      "release_date": "2025-12-23",
+      "id": 1603284,
+      "title": "Simpsons Yule Log",
+      "release_date": "2025-12-24",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gMuTqtfHiyuEeJkl6q4rMj8AnjZ.jpg",
+      "poster_url": null,
       "genres": []
     },
     {
-      "id": 1603049,
-      "title": "NOAH Thanksgiving 2025",
-      "release_date": "2025-12-23",
+      "id": 1603246,
+      "title": "Old Meridian",
+      "release_date": "2025-12-24",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4Ul8cLcvMHHguFtpS5z7f8OZf9m.jpg",
-      "genres": []
-    },
-    {
-      "id": 1603047,
-      "title": "O la chiesa o il campanile",
-      "release_date": "2025-12-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nAiPNppCfN5fzXbwflUFCtmzJJM.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sWMhvMjkJnJMrgjfdT13yFE6WCE.jpg",
       "genres": [
+        "комедия",
         "документальный"
       ]
     },
     {
-      "id": 1603032,
-      "title": "Ania Magliano: I Can't Believe You've Done This",
-      "release_date": "2025-12-23",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1602937,
-      "title": "Rundfunk: Schau",
-      "release_date": "2025-12-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wppBu8BnTn5rMdneNJ21c9xH926.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1602931,
-      "title": "Kirsten van Teijn: Club Queersten",
-      "release_date": "",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pdcVn0ZRVLsODpxYy51WNbLt866.jpg",
-      "genres": [
-        "музыка"
-      ]
-    },
-    {
-      "id": 1602929,
-      "title": "Lisa Ostermann: Makkelijk in de omgang",
-      "release_date": "2025-12-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mBl2LVPy4bHhH68cRFE9dbNGZrI.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1602845,
-      "title": "Homeless: At The Train Station",
-      "release_date": "2025-12-23",
+      "id": 1603154,
+      "title": "On the Sofa with Esther Holiday Special featuring Billy 'Sutty' Sutton - Part One",
+      "release_date": "2025-12-24",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "ужасы",
-        "комедия"
+        "документальный",
+        "история"
       ]
     },
     {
-      "id": 1602797,
-      "title": "O Último Natal de William - O FILME",
-      "release_date": "2025-12-23",
+      "id": 1603086,
+      "title": "Joelma - Isso É Calypso Tour Brasil: Ao Vivo em Vitória",
+      "release_date": "2025-12-24",
       "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yRW41ZN28nrkGtjU4heEInVaaWD.jpg",
-      "genres": [
-        "фантастика"
-      ]
-    },
-    {
-      "id": 1602229,
-      "title": "Trine Gadebergs Juleshow",
-      "release_date": "2025-12-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cvY1cqSkhKdCWJ8sU52RKLya7wc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/veKS2z8yHDah4DYAErwGvnRDHd6.jpg",
       "genres": [
         "музыка"
       ]
+    },
+    {
+      "id": 1602983,
+      "title": "A Prison on the Equator",
+      "release_date": "2025-12-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3G9gJeDn8luoBcIvEYnkSZPcsNs.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1602952,
+      "title": "CURBED",
+      "release_date": "2025-12-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pDK8B9j8cypIPuIknpVkAtQmYas.jpg",
+      "genres": [
+        "комедия",
+        "криминал",
+        "приключения"
+      ]
+    },
+    {
+      "id": 1602612,
+      "title": "Slick",
+      "release_date": "2025-12-24",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zJa8Rp6SxL3xTAJ3Mb4bMNM5zeC.jpg",
+      "genres": [
+        "комедия",
+        "криминал",
+        "боевик"
+      ]
+    },
+    {
+      "id": 1602551,
+      "title": "Mr. President",
+      "release_date": "2025-12-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1lbYDTOE7e9aQcHUT8uIEhhoprL.jpg",
+      "genres": [
+        "комедия",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1602423,
+      "title": "The Naughty Ones",
+      "release_date": "2025-12-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bLfWzs5XhoGxlWFUenMtQcHBH4S.jpg",
+      "genres": [
+        "триллер",
+        "боевик",
+        "мультфильм",
+        "криминал"
+      ]
+    },
+    {
+      "id": 1602407,
+      "title": "Veling",
+      "release_date": "2025-12-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/s72sWdR7wzINuLYvx6qKVBkpe16.jpg",
+      "genres": []
     }
   ],
   "source": "TMDB",

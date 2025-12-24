@@ -1,0 +1,23 @@
+{
+  "id": 1603246,
+  "title": "Old Meridian",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-24",
+  "runtime": 19,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "документальный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/sWMhvMjkJnJMrgjfdT13yFE6WCE.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1603246",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-24T01:04:12.940495+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

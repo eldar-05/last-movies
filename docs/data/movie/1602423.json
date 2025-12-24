@@ -1,0 +1,29 @@
+{
+  "id": 1602423,
+  "title": "The Naughty Ones",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-24",
+  "runtime": 4,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "боевик",
+    "мультфильм",
+    "криминал"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/bLfWzs5XhoGxlWFUenMtQcHBH4S.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1602423",
+  "trailer": {
+    "key": "KyM17q4BRyg",
+    "name": "The Naughty Ones | official trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-12-24T01:04:14.296266+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
