@@ -1,23 +1,23 @@
 {
-  "id": 1603246,
-  "title": "Old Meridian",
+  "id": 1603444,
+  "title": "Plein Air",
   "tagline": "",
   "overview": "",
   "release_date": "2025-12-24",
-  "runtime": 19,
+  "runtime": 3,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "комедия",
-    "документальный"
+    "драма",
+    "семейный"
   ],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": "https://image.tmdb.org/t/p/w500/sWMhvMjkJnJMrgjfdT13yFE6WCE.jpg",
+  "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1603246",
+  "tmdb_url": "https://www.themoviedb.org/movie/1603444",
   "trailer": null,
-  "fetched_at_utc": "2025-12-24T12:27:47.632514+00:00",
+  "fetched_at_utc": "2025-12-24T12:27:45.679101+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

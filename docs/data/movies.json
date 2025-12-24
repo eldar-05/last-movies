@@ -1,12 +1,53 @@
 {
-  "fetched_at_utc": "2025-12-24T06:22:46.340817+00:00",
+  "fetched_at_utc": "2025-12-24T12:27:49.104329+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1603284,
-      "title": "Simpsons Yule Log",
+      "id": 1603444,
+      "title": "Plein Air",
+      "release_date": "2025-12-24",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма",
+        "семейный"
+      ]
+    },
+    {
+      "id": 1603415,
+      "title": "The Swedish Llama Christmas Special",
+      "release_date": "2025-12-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tdvfEJ5Zeb8DO4sMandbo7Z9rtz.jpg",
+      "genres": []
+    },
+    {
+      "id": 1603410,
+      "title": "Muddy Winters",
+      "release_date": "2025-12-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/l83UtSPmyumoq0gwODBmwEP7NDM.jpg",
+      "genres": [
+        "военный",
+        "музыка",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1603344,
+      "title": "UCHIDA MAAYA LIVE 2025 SUMMER OF LOVE",
+      "release_date": "2025-12-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iBIBZyQIlYMM4AZ3M9EOA0egDnx.jpg",
+      "genres": [
+        "музыка"
+      ]
+    },
+    {
+      "id": 1603342,
+      "title": "Lady Gaga in Harlequin Live: One Night Only",
       "release_date": "2025-12-24",
       "vote_average": 0.0,
       "poster_url": null,
@@ -65,50 +106,6 @@
         "криминал",
         "приключения"
       ]
-    },
-    {
-      "id": 1602612,
-      "title": "Slick",
-      "release_date": "2025-12-24",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zJa8Rp6SxL3xTAJ3Mb4bMNM5zeC.jpg",
-      "genres": [
-        "комедия",
-        "криминал",
-        "боевик"
-      ]
-    },
-    {
-      "id": 1602551,
-      "title": "Mr. President",
-      "release_date": "2025-12-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1lbYDTOE7e9aQcHUT8uIEhhoprL.jpg",
-      "genres": [
-        "комедия",
-        "фэнтези"
-      ]
-    },
-    {
-      "id": 1602423,
-      "title": "The Naughty Ones",
-      "release_date": "2025-12-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bLfWzs5XhoGxlWFUenMtQcHBH4S.jpg",
-      "genres": [
-        "триллер",
-        "боевик",
-        "мультфильм",
-        "криминал"
-      ]
-    },
-    {
-      "id": 1602407,
-      "title": "Veling",
-      "release_date": "2025-12-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/s72sWdR7wzINuLYvx6qKVBkpe16.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",
