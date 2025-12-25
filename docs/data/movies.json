@@ -1,111 +1,101 @@
 {
-  "fetched_at_utc": "2025-12-24T18:20:03.084160+00:00",
+  "fetched_at_utc": "2025-12-25T01:04:36.333705+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1603444,
-      "title": "Plein Air",
-      "release_date": "2025-12-24",
+      "id": 1603683,
+      "title": "Prism",
+      "release_date": "2025-12-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aHHPXv0ZNRbBPkoCmdgCr84MNz1.jpg",
-      "genres": [
-        "драма",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1603415,
-      "title": "The Swedish Llama Christmas Special",
-      "release_date": "2025-12-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tdvfEJ5Zeb8DO4sMandbo7Z9rtz.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bKykOrsFBK3i0ZeXpaCVAUn4y2l.jpg",
       "genres": []
     },
     {
-      "id": 1603410,
-      "title": "Muddy Winters",
-      "release_date": "2025-12-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/l83UtSPmyumoq0gwODBmwEP7NDM.jpg",
-      "genres": [
-        "военный",
-        "музыка",
-        "документальный"
-      ]
-    },
-    {
-      "id": 1603344,
-      "title": "UCHIDA MAAYA LIVE 2025 SUMMER OF LOVE",
-      "release_date": "2025-12-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iBIBZyQIlYMM4AZ3M9EOA0egDnx.jpg",
-      "genres": [
-        "музыка"
-      ]
-    },
-    {
-      "id": 1603342,
-      "title": "Lady Gaga in Harlequin Live: One Night Only",
-      "release_date": "2025-12-24",
+      "id": 1603673,
+      "title": "Kei to the City 2",
+      "release_date": "2025-12-25",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1603246,
-      "title": "Old Meridian",
-      "release_date": "2025-12-24",
+      "id": 1602561,
+      "title": "Santa's Coming!",
+      "release_date": "2025-12-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sWMhvMjkJnJMrgjfdT13yFE6WCE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gpdw5JwoAbuwIdCSkYBs2c4CL1i.jpg",
+      "genres": []
+    },
+    {
+      "id": 1601791,
+      "title": "Pesaa Varigal",
+      "release_date": "2025-12-25",
+      "vote_average": 9.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bpUjaZkoi0qAXVMWPKtCtcMqQsw.jpg",
       "genres": [
-        "комедия",
-        "документальный"
+        "драма",
+        "мелодрама"
       ]
     },
     {
-      "id": 1603154,
-      "title": "On the Sofa with Esther Holiday Special featuring Billy 'Sutty' Sutton - Part One",
-      "release_date": "2025-12-24",
+      "id": 1601755,
+      "title": "V4",
+      "release_date": "2025-12-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nefmdbysjOi5U8u2KiBZCrINqDs.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eUOytdTUIyDvsSDLbbj7i1pKZnO.jpg",
       "genres": [
-        "документальный",
-        "история"
+        "боевик"
       ]
     },
     {
-      "id": 1603086,
-      "title": "Joelma - Isso É Calypso Tour Brasil: Ao Vivo em Vitória",
-      "release_date": "2025-12-24",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/veKS2z8yHDah4DYAErwGvnRDHd6.jpg",
-      "genres": [
-        "музыка"
-      ]
+      "id": 1601393,
+      "title": "Navidad en lo de los Rapists: La mosca",
+      "release_date": "2025-12-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/q5CqP4BkdbS7NtQcvS3iTfTqT3K.jpg",
+      "genres": []
     },
     {
-      "id": 1602983,
-      "title": "A Prison on the Equator",
-      "release_date": "2025-12-24",
+      "id": 1601310,
+      "title": "ఈశా",
+      "release_date": "2025-12-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3G9gJeDn8luoBcIvEYnkSZPcsNs.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/87MhKILHPwcForDY0HxzII4tPvA.jpg",
       "genres": [
+        "ужасы",
         "триллер"
       ]
     },
     {
-      "id": 1602952,
-      "title": "CURBED",
-      "release_date": "2025-12-24",
+      "id": 1601141,
+      "title": "Solo fue el viento",
+      "release_date": "2025-12-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pDK8B9j8cypIPuIknpVkAtQmYas.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2GcWxlc3GYXk2QP0TxclQ0wZJ63.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1600955,
+      "title": "Ο Έρωτας γράφεται...",
+      "release_date": "2025-12-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ndnl9buO3KVIRgkAaWFQ2CzzPUr.jpg",
       "genres": [
         "комедия",
-        "криминал",
-        "приключения"
+        "мелодрама"
       ]
+    },
+    {
+      "id": 1600028,
+      "title": "La Celda de los Milagros",
+      "release_date": "2025-12-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/d9i9EZHpjwqAP9byTJDAuXgSdZP.jpg",
+      "genres": []
     }
   ],
   "source": "TMDB",

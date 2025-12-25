@@ -1,0 +1,31 @@
+{
+  "id": 1600955,
+  "title": "Ο Έρωτας γράφεται...",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-25",
+  "runtime": 95,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "мелодрама"
+  ],
+  "original_language": "el",
+  "spoken_languages": [
+    "Greek"
+  ],
+  "production_countries": [
+    "GR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/ndnl9buO3KVIRgkAaWFQ2CzzPUr.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/zRCAWqMqDPNA1tqw9CXFhzfvAIO.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1600955",
+  "trailer": {
+    "key": "YnlYCP8SMXI",
+    "name": "Ο ΕΡΩΤΑΣ ΓΡΑΦΕΤΑΙ... official trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-12-25T01:04:36.168149+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

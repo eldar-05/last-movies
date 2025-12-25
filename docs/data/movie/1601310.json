@@ -1,0 +1,27 @@
+{
+  "id": 1601310,
+  "title": "ఈశా",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-25",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "триллер"
+  ],
+  "original_language": "te",
+  "spoken_languages": [
+    "Telugu"
+  ],
+  "production_countries": [
+    "IN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/87MhKILHPwcForDY0HxzII4tPvA.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/s9KTqzmvfdGwWKTT46MmcIoPpI3.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1601310",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-25T01:04:35.897334+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

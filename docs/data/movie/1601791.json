@@ -1,0 +1,25 @@
+{
+  "id": 1601791,
+  "title": "Pesaa Varigal",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-25",
+  "runtime": 14,
+  "vote_average": 9.0,
+  "vote_count": 1,
+  "genres": [
+    "драма",
+    "мелодрама"
+  ],
+  "original_language": "ta",
+  "spoken_languages": [],
+  "production_countries": [
+    "IN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/bpUjaZkoi0qAXVMWPKtCtcMqQsw.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/64HNJh6pVGPRA4eukruALSfgEtF.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1601791",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-25T01:04:35.374174+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
