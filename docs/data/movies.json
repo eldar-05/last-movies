@@ -1,9 +1,89 @@
 {
-  "fetched_at_utc": "2025-12-25T06:21:55.715078+00:00",
+  "fetched_at_utc": "2025-12-25T12:27:13.760121+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1603836,
+      "title": "Christmas in Vienna 2025",
+      "release_date": "2025-12-25",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "музыка"
+      ]
+    },
+    {
+      "id": 1603792,
+      "title": "Christmas Project: หิมะฤดูร้อน",
+      "release_date": "2025-12-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vXYmPMRTNXii5jzUM40SwQVAgEb.jpg",
+      "genres": []
+    },
+    {
+      "id": 1603789,
+      "title": "Øgendahl Bag Grinet",
+      "release_date": "2025-12-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8GQyLEgrSjXHBlnw3lSVANPzLmv.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1603788,
+      "title": "2050",
+      "release_date": "2025-12-25",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1603786,
+      "title": "2025",
+      "release_date": "2025-12-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qLLVXUL3dHDkGtJV7XLX2QHt2gs.jpg",
+      "genres": [
+        "ужасы",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1603785,
+      "title": "1775",
+      "release_date": "2025-12-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ooId65hoCxJsm5DE1ag6enVrK4W.jpg",
+      "genres": [
+        "ужасы",
+        "история"
+      ]
+    },
+    {
+      "id": 1603784,
+      "title": "Vakansi Raksasa",
+      "release_date": "2025-12-25",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1603757,
+      "title": "A Special Christmastime: A Special Christmas Special",
+      "release_date": "2025-12-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zKVnJKY7wwXBoB7KIo8SHwfAUaT.jpg",
+      "genres": [
+        "семейный",
+        "комедия"
+      ]
+    },
     {
       "id": 1603683,
       "title": "Prism",
@@ -13,89 +93,15 @@
       "genres": []
     },
     {
-      "id": 1603673,
-      "title": "Kei to the City 2",
+      "id": 1603676,
+      "title": "Time For Single Santa Jr. To Seek A Princess Coming Home For A Christmas Carol With Mrs. Miracle's Magic Stocking And Matchmaker Santa's Three Wise British Ninja Elves And A Boy: The Rudolph Incident",
       "release_date": "2025-12-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uSfMZ2Lw0lD3xUZNqyC6QNpTSYl.jpg",
-      "genres": []
-    },
-    {
-      "id": 1602561,
-      "title": "Santa's Coming!",
-      "release_date": "2025-12-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gpdw5JwoAbuwIdCSkYBs2c4CL1i.jpg",
-      "genres": []
-    },
-    {
-      "id": 1601791,
-      "title": "Pesaa Varigal",
-      "release_date": "2025-12-25",
-      "vote_average": 9.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bpUjaZkoi0qAXVMWPKtCtcMqQsw.jpg",
-      "genres": [
-        "драма",
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1601755,
-      "title": "V4",
-      "release_date": "2025-12-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eUOytdTUIyDvsSDLbbj7i1pKZnO.jpg",
-      "genres": [
-        "боевик"
-      ]
-    },
-    {
-      "id": 1601393,
-      "title": "Navidad en lo de los Rapists: La mosca",
-      "release_date": "2025-12-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/q5CqP4BkdbS7NtQcvS3iTfTqT3K.jpg",
-      "genres": []
-    },
-    {
-      "id": 1601310,
-      "title": "ఈశా",
-      "release_date": "2025-12-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/87MhKILHPwcForDY0HxzII4tPvA.jpg",
-      "genres": [
-        "ужасы",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1601141,
-      "title": "Solo fue el viento",
-      "release_date": "2025-12-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2GcWxlc3GYXk2QP0TxclQ0wZJ63.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1600955,
-      "title": "Ο Έρωτας γράφεται...",
-      "release_date": "2025-12-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ndnl9buO3KVIRgkAaWFQ2CzzPUr.jpg",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ztYUPUU3UEo9lcVXvtEtQ4LxYK3.jpg",
       "genres": [
         "комедия",
         "мелодрама"
       ]
-    },
-    {
-      "id": 1600028,
-      "title": "La Celda de los Milagros",
-      "release_date": "2025-12-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/d9i9EZHpjwqAP9byTJDAuXgSdZP.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",
