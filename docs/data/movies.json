@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-12-25T01:04:36.333705+00:00",
+  "fetched_at_utc": "2025-12-25T06:21:55.715078+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -17,7 +17,7 @@
       "title": "Kei to the City 2",
       "release_date": "2025-12-25",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/uSfMZ2Lw0lD3xUZNqyC6QNpTSYl.jpg",
       "genres": []
     },
     {
