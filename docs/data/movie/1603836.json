@@ -11,14 +11,18 @@
     "музыка"
   ],
   "original_language": "en",
-  "spoken_languages": [],
+  "spoken_languages": [
+    "English",
+    "French",
+    "Latin"
+  ],
   "production_countries": [
     "FR"
   ],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/dUKwpAsf5aPXSPfab79zpl3frGn.jpg",
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1603836",
   "trailer": null,
-  "fetched_at_utc": "2025-12-25T12:27:10.840943+00:00",
+  "fetched_at_utc": "2025-12-25T18:19:52.562922+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
