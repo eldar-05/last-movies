@@ -1,106 +1,108 @@
 {
-  "fetched_at_utc": "2025-12-25T18:19:54.049556+00:00",
+  "fetched_at_utc": "2025-12-26T01:05:09.565821+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1603836,
-      "title": "Christmas in Vienna 2025",
-      "release_date": "2025-12-25",
+      "id": 1603850,
+      "title": "Beyond the Line",
+      "release_date": "2025-12-26",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dUKwpAsf5aPXSPfab79zpl3frGn.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/x5MdVAieNQ0mVkfebAIbLKLQ7hf.jpg",
       "genres": [
-        "музыка"
+        "драма",
+        "ужасы",
+        "боевик"
       ]
     },
     {
-      "id": 1603792,
-      "title": "Christmas Project: หิมะฤดูร้อน",
-      "release_date": "2025-12-25",
+      "id": 1603847,
+      "title": "Two Thousand II World",
+      "release_date": "2025-12-26",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vXYmPMRTNXii5jzUM40SwQVAgEb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7vMtmD5j2DG1qRkvKXdn2aqtJZC.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1603442,
+      "title": "Dead in the Water",
+      "release_date": "2025-12-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/m2r1Ove3Ic8qbAZlIuTnFJu4nF3.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1603439,
+      "title": "The Fourtieth day",
+      "release_date": "2025-12-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iwEhh4e1W5JhYdcaLWNUPpVoaRv.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1603432,
+      "title": "Crimson Silence",
+      "release_date": "2025-12-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2UbeBaYAEoBh73hNPjZI2fKogmV.jpg",
+      "genres": [
+        "драма",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1603428,
+      "title": "تایماز",
+      "release_date": "2025-12-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yO12yzEbsuBqrD9X5T0pDuWCHDs.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1603117,
+      "title": "Nhà Hai Chủ",
+      "release_date": "2025-12-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rAw86ejG5vFhq8sl8RBAomZez62.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1603017,
+      "title": "雷霆营救",
+      "release_date": "2025-12-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iXr9yJSiKqh7rC322SPEboOTFsP.jpg",
+      "genres": [
+        "боевик"
+      ]
+    },
+    {
+      "id": 1602957,
+      "title": "Diaspharaw",
+      "release_date": "2025-12-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zBLi8HkOhPXbSTl2UVJ3urU6AEA.jpg",
       "genres": []
     },
     {
-      "id": 1603789,
-      "title": "Øgendahl Bag Grinet",
-      "release_date": "2025-12-25",
+      "id": 1602414,
+      "title": "Artistu",
+      "release_date": "2025-12-26",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8GQyLEgrSjXHBlnw3lSVANPzLmv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/96DbiO5ZtXHVD0tA6fIvnxUAxGF.jpg",
       "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1603788,
-      "title": "2050",
-      "release_date": "2025-12-25",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "ужасы",
-        "фэнтези"
-      ]
-    },
-    {
-      "id": 1603786,
-      "title": "2025",
-      "release_date": "2025-12-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qLLVXUL3dHDkGtJV7XLX2QHt2gs.jpg",
-      "genres": [
-        "ужасы",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1603785,
-      "title": "1775",
-      "release_date": "2025-12-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ooId65hoCxJsm5DE1ag6enVrK4W.jpg",
-      "genres": [
-        "ужасы",
-        "история"
-      ]
-    },
-    {
-      "id": 1603784,
-      "title": "Vakansi Raksasa",
-      "release_date": "2025-12-25",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1603757,
-      "title": "A Special Christmastime: A Special Christmas Special",
-      "release_date": "2025-12-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zKVnJKY7wwXBoB7KIo8SHwfAUaT.jpg",
-      "genres": [
-        "семейный",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1603683,
-      "title": "Prism",
-      "release_date": "2025-12-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bKykOrsFBK3i0ZeXpaCVAUn4y2l.jpg",
-      "genres": []
-    },
-    {
-      "id": 1603676,
-      "title": "Time For Single Santa Jr. To Seek A Princess Coming Home For A Christmas Carol With Mrs. Miracle's Magic Stocking And Matchmaker Santa's Three Wise British Ninja Elves And A Boy: The Rudolph Incident",
-      "release_date": "2025-12-25",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ztYUPUU3UEo9lcVXvtEtQ4LxYK3.jpg",
-      "genres": [
-        "комедия",
-        "мелодрама"
+        "драма"
       ]
     }
   ],

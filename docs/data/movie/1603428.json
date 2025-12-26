@@ -1,0 +1,24 @@
+{
+  "id": 1603428,
+  "title": "تایماز",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-26",
+  "runtime": 20,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "fa",
+  "spoken_languages": [],
+  "production_countries": [
+    "IR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/yO12yzEbsuBqrD9X5T0pDuWCHDs.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1603428",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-26T01:05:08.309487+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1603850,
+  "title": "Beyond the Line",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-26",
+  "runtime": 22,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "ужасы",
+    "боевик"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/x5MdVAieNQ0mVkfebAIbLKLQ7hf.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1603850",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-26T01:05:06.410216+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

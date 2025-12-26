@@ -1,0 +1,28 @@
+{
+  "id": 1602957,
+  "title": "Diaspharaw",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-26",
+  "runtime": 105,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "am",
+  "spoken_languages": [
+    "Amharic"
+  ],
+  "production_countries": [
+    "ET"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/zBLi8HkOhPXbSTl2UVJ3urU6AEA.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/rrPpI4wsdao6Bi7N6pLjiq5Acqg.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1602957",
+  "trailer": {
+    "key": "QL3PBs_xK9w",
+    "name": "Diaspharaw",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-12-26T01:05:09.195424+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

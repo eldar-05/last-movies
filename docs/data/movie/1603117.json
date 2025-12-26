@@ -1,0 +1,30 @@
+{
+  "id": 1603117,
+  "title": "Nhà Hai Chủ",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-26",
+  "runtime": 102,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "vi",
+  "spoken_languages": [
+    "Vietnamese"
+  ],
+  "production_countries": [
+    "VN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/rAw86ejG5vFhq8sl8RBAomZez62.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/zB2QzBTtcESCcNR5MzB8cT0MEsE.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1603117",
+  "trailer": {
+    "key": "DBJcGuXXVOE",
+    "name": "NHÀ HAI CHỦ | OFFICIAL TRAILER| Suất chiếu đặc biệt: 24 & 25.12.2025 |Khởi chiếu tại rạp: 26.12.2025",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2025-12-26T01:05:08.574597+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

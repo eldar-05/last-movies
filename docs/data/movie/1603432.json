@@ -1,0 +1,23 @@
+{
+  "id": 1603432,
+  "title": "Crimson Silence",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-26",
+  "runtime": 10,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "ужасы"
+  ],
+  "original_language": "lv",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/2UbeBaYAEoBh73hNPjZI2fKogmV.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1603432",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-26T01:05:07.939745+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
