@@ -4,7 +4,7 @@
   "tagline": "",
   "overview": "",
   "release_date": "2025-12-26",
-  "runtime": 0,
+  "runtime": 74,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
@@ -14,11 +14,13 @@
   "spoken_languages": [
     "Mandarin"
   ],
-  "production_countries": [],
+  "production_countries": [
+    "CN"
+  ],
   "poster_url": "https://image.tmdb.org/t/p/w500/iXr9yJSiKqh7rC322SPEboOTFsP.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/rMTBnYSauOEqTv3oCzb00Mk4L1S.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1603017",
   "trailer": null,
-  "fetched_at_utc": "2025-12-26T01:05:08.951291+00:00",
+  "fetched_at_utc": "2025-12-26T06:21:41.256663+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
