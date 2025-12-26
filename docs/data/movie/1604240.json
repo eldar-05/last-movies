@@ -1,0 +1,27 @@
+{
+  "id": 1604240,
+  "title": "Året der gik- 2025",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-26",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "семейный",
+    "музыка"
+  ],
+  "original_language": "da",
+  "spoken_languages": [
+    "Danish"
+  ],
+  "production_countries": [
+    "DK"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/iGppfxZZoHWWhhnaTx0KkesETSN.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/hc030eb5nGBqihOG0FYjMRxVQ8d.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1604240",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-26T12:27:01.593274+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

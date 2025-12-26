@@ -1,9 +1,70 @@
 {
-  "fetched_at_utc": "2025-12-26T06:21:41.966673+00:00",
+  "fetched_at_utc": "2025-12-26T12:27:04.870067+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1604240,
+      "title": "Året der gik- 2025",
+      "release_date": "2025-12-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iGppfxZZoHWWhhnaTx0KkesETSN.jpg",
+      "genres": [
+        "семейный",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1604199,
+      "title": "Sidste Tjek Ind på Badehotellet",
+      "release_date": "2025-12-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/55PNJRmZtvvIjdppJeVgD8wWXof.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1604153,
+      "title": "The Gathering",
+      "release_date": "2025-12-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aTulOqr5GnEj60H9q8lBL81q8Cg.jpg",
+      "genres": [
+        "драма",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1604136,
+      "title": "𐕣TAPE 1𐕣 - Why Does Jesus Hate Me?",
+      "release_date": "2025-12-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/a7BjqPs3ZsfLHz2uRHHK9JCX3hF.jpg",
+      "genres": []
+    },
+    {
+      "id": 1604132,
+      "title": "Merry Christmas II",
+      "release_date": "2025-12-26",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "комедия",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1604028,
+      "title": "Mick Øgendahl - Bad Boy",
+      "release_date": "2025-12-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5TN59BcRJYlLIu7iSpkDq2B7sIg.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
     {
       "id": 1603850,
       "title": "Beyond the Line",
@@ -42,65 +103,6 @@
       "release_date": "2025-12-26",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/iwEhh4e1W5JhYdcaLWNUPpVoaRv.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1603432,
-      "title": "Crimson Silence",
-      "release_date": "2025-12-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2UbeBaYAEoBh73hNPjZI2fKogmV.jpg",
-      "genres": [
-        "драма",
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1603428,
-      "title": "تایماز",
-      "release_date": "2025-12-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yO12yzEbsuBqrD9X5T0pDuWCHDs.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1603117,
-      "title": "Nhà Hai Chủ",
-      "release_date": "2025-12-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rAw86ejG5vFhq8sl8RBAomZez62.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1603017,
-      "title": "雷霆营救",
-      "release_date": "2025-12-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iXr9yJSiKqh7rC322SPEboOTFsP.jpg",
-      "genres": [
-        "боевик"
-      ]
-    },
-    {
-      "id": 1602957,
-      "title": "Diaspharaw",
-      "release_date": "2025-12-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zBLi8HkOhPXbSTl2UVJ3urU6AEA.jpg",
-      "genres": []
-    },
-    {
-      "id": 1602414,
-      "title": "Artistu",
-      "release_date": "2025-12-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/96DbiO5ZtXHVD0tA6fIvnxUAxGF.jpg",
       "genres": [
         "драма"
       ]
