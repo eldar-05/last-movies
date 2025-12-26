@@ -1,25 +1,24 @@
 {
-  "id": 1604132,
-  "title": "Merry Christmas II",
+  "id": 1604403,
+  "title": "Sancho",
   "tagline": "",
   "overview": "",
-  "release_date": "2025-12-26",
-  "runtime": 1,
+  "release_date": "",
+  "runtime": 16,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
+    "драма",
     "комедия",
     "документальный"
   ],
   "original_language": "en",
   "spoken_languages": [],
-  "production_countries": [
-    "US"
-  ],
-  "poster_url": null,
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/yzPs0Mh9P2bqjogglWcwOmkYVts.jpg",
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1604132",
+  "tmdb_url": "https://www.themoviedb.org/movie/1604403",
   "trailer": null,
-  "fetched_at_utc": "2025-12-26T18:19:58.072161+00:00",
+  "fetched_at_utc": "2025-12-26T18:19:56.763559+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

@@ -1,25 +1,22 @@
 {
-  "id": 1604132,
-  "title": "Merry Christmas II",
+  "id": 1604170,
+  "title": "Disney Parks Magical Christmas Day Parade",
   "tagline": "",
   "overview": "",
   "release_date": "2025-12-26",
-  "runtime": 1,
+  "runtime": 82,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "комедия",
-    "документальный"
+    "музыка"
   ],
   "original_language": "en",
   "spoken_languages": [],
-  "production_countries": [
-    "US"
-  ],
+  "production_countries": [],
   "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1604132",
+  "tmdb_url": "https://www.themoviedb.org/movie/1604170",
   "trailer": null,
-  "fetched_at_utc": "2025-12-26T18:19:58.072161+00:00",
+  "fetched_at_utc": "2025-12-26T18:19:57.517072+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

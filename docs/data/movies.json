@@ -1,9 +1,42 @@
 {
-  "fetched_at_utc": "2025-12-26T12:27:04.870067+00:00",
+  "fetched_at_utc": "2025-12-26T18:19:58.275293+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1604454,
+      "title": "Mare Mundi. Tribut al mar",
+      "release_date": "2025-12-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xihTjZofh4yjOXGuJljAoM4kv0t.jpg",
+      "genres": [
+        "телевизионный фильм",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1604403,
+      "title": "Sancho",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yzPs0Mh9P2bqjogglWcwOmkYVts.jpg",
+      "genres": [
+        "драма",
+        "комедия",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1604346,
+      "title": "À la recherche d'une voi.e.x",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/x7fdOWtHMcsECqXpnkc9vtQfpv4.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
     {
       "id": 1604240,
       "title": "Året der gik- 2025",
@@ -23,6 +56,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/55PNJRmZtvvIjdppJeVgD8wWXof.jpg",
       "genres": [
         "документальный"
+      ]
+    },
+    {
+      "id": 1604170,
+      "title": "Disney Parks Magical Christmas Day Parade",
+      "release_date": "2025-12-26",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "музыка"
       ]
     },
     {
@@ -56,16 +99,6 @@
       ]
     },
     {
-      "id": 1604028,
-      "title": "Mick Øgendahl - Bad Boy",
-      "release_date": "2025-12-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5TN59BcRJYlLIu7iSpkDq2B7sIg.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
       "id": 1603850,
       "title": "Beyond the Line",
       "release_date": "2025-12-26",
@@ -75,36 +108,6 @@
         "драма",
         "ужасы",
         "боевик"
-      ]
-    },
-    {
-      "id": 1603847,
-      "title": "Two Thousand II World",
-      "release_date": "2025-12-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7vMtmD5j2DG1qRkvKXdn2aqtJZC.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1603442,
-      "title": "Dead in the Water",
-      "release_date": "2025-12-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/m2r1Ove3Ic8qbAZlIuTnFJu4nF3.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1603439,
-      "title": "The Fourtieth day",
-      "release_date": "2025-12-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iwEhh4e1W5JhYdcaLWNUPpVoaRv.jpg",
-      "genres": [
-        "драма"
       ]
     }
   ],
