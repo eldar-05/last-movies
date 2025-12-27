@@ -1,113 +1,109 @@
 {
-  "fetched_at_utc": "2025-12-26T18:19:58.275293+00:00",
+  "fetched_at_utc": "2025-12-27T01:03:07.480221+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1604454,
-      "title": "Mare Mundi. Tribut al mar",
-      "release_date": "2025-12-26",
+      "id": 1604289,
+      "title": "Nice Human",
+      "release_date": "2025-12-27",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xihTjZofh4yjOXGuJljAoM4kv0t.jpg",
-      "genres": [
-        "телевизионный фильм",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1604403,
-      "title": "Sancho",
-      "release_date": "",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yzPs0Mh9P2bqjogglWcwOmkYVts.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9fSG71N15WZtyruyQM3fxXijQ36.jpg",
       "genres": [
         "драма",
-        "комедия",
-        "документальный"
+        "ужасы"
       ]
     },
     {
-      "id": 1604346,
-      "title": "À la recherche d'une voi.e.x",
-      "release_date": "",
+      "id": 1604286,
+      "title": "شقاء.",
+      "release_date": "2025-12-27",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/x7fdOWtHMcsECqXpnkc9vtQfpv4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cHSf6j5tdNcGLqm9gNv0xNPPemH.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1604240,
-      "title": "Året der gik- 2025",
-      "release_date": "2025-12-26",
+      "id": 1603858,
+      "title": "Peony",
+      "release_date": "2025-12-27",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iGppfxZZoHWWhhnaTx0KkesETSN.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zvA7QjrsBtJrOJiKE4baAyED3Wg.jpg",
       "genres": [
-        "семейный",
-        "музыка"
+        "драма"
       ]
     },
     {
-      "id": 1604199,
-      "title": "Sidste Tjek Ind på Badehotellet",
-      "release_date": "2025-12-26",
+      "id": 1603856,
+      "title": "Death between life",
+      "release_date": "2025-12-27",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/55PNJRmZtvvIjdppJeVgD8wWXof.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xUDdV4Wnoa3MVAsx0xEPW1n6gdV.jpg",
       "genres": [
-        "документальный"
+        "драма"
       ]
     },
     {
-      "id": 1604170,
-      "title": "Disney Parks Magical Christmas Day Parade",
-      "release_date": "2025-12-26",
+      "id": 1603853,
+      "title": "Mon jules à moi",
+      "release_date": "2025-12-27",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "музыка"
-      ]
-    },
-    {
-      "id": 1604153,
-      "title": "The Gathering",
-      "release_date": "2025-12-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aTulOqr5GnEj60H9q8lBL81q8Cg.jpg",
-      "genres": [
-        "драма",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1604136,
-      "title": "𐕣TAPE 1𐕣 - Why Does Jesus Hate Me?",
-      "release_date": "2025-12-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/a7BjqPs3ZsfLHz2uRHHK9JCX3hF.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pT4egpKOijQeJ7CuVJsn4KVJXHQ.jpg",
       "genres": []
     },
     {
-      "id": 1604132,
-      "title": "Merry Christmas II",
-      "release_date": "2025-12-26",
+      "id": 1603759,
+      "title": "Planet Disagreements X",
+      "release_date": "2025-12-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pVFzV2QZMPoErbjcEWxflVrmiEh.jpg",
+      "genres": [
+        "комедия",
+        "фантастика"
+      ]
+    },
+    {
+      "id": 1603423,
+      "title": "Pandji Pragiwaksono: Mens Rea",
+      "release_date": "2025-12-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6Y5opHynWs0XsjrZXeYGk23vEDc.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1603251,
+      "title": "De storm van Balkenende",
+      "release_date": "2025-12-27",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "комедия",
         "документальный"
       ]
     },
     {
-      "id": 1603850,
-      "title": "Beyond the Line",
-      "release_date": "2025-12-26",
+      "id": 1602426,
+      "title": "Wierszyki domowe. Film",
+      "release_date": "2025-12-27",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/x5MdVAieNQ0mVkfebAIbLKLQ7hf.jpg",
+      "poster_url": null,
       "genres": [
-        "драма",
-        "ужасы",
-        "боевик"
+        "мультфильм",
+        "семейный"
+      ]
+    },
+    {
+      "id": 1601688,
+      "title": "25 ans de Laurent Gerra à la radio",
+      "release_date": "2025-12-27",
+      "vote_average": 5.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pePykml3t3lGfbq85ldOThrwjnV.jpg",
+      "genres": [
+        "документальный",
+        "комедия"
       ]
     }
   ],

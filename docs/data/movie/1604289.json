@@ -1,0 +1,23 @@
+{
+  "id": 1604289,
+  "title": "Nice Human",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-27",
+  "runtime": 18,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "ужасы"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/9fSG71N15WZtyruyQM3fxXijQ36.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1604289",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-27T01:03:05.776423+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
