@@ -1,9 +1,40 @@
 {
-  "fetched_at_utc": "2025-12-27T12:25:05.827775+00:00",
+  "fetched_at_utc": "2025-12-27T18:18:45.822998+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1604915,
+      "title": "Confissão",
+      "release_date": "2025-12-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wJS9asClazMVlek26y8q1ZwOcWU.jpg",
+      "genres": [
+        "детектив",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1604886,
+      "title": "Sportens årskrönika 2025",
+      "release_date": "2025-12-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wbcq08avSYgTjeNvWw1a6aRLgNH.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1604746,
+      "title": "Portrait de mon grand-père paternel",
+      "release_date": "2025-12-27",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1604656,
       "title": "In Darkness",
@@ -19,7 +50,8 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/sNUqXc0T6UGiSkyPe5XzKzoQoB1.jpg",
       "genres": [
-        "ужасы"
+        "ужасы",
+        "комедия"
       ]
     },
     {
@@ -70,37 +102,6 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/pT4egpKOijQeJ7CuVJsn4KVJXHQ.jpg",
       "genres": []
-    },
-    {
-      "id": 1603759,
-      "title": "Planet Disagreements X",
-      "release_date": "2025-12-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pVFzV2QZMPoErbjcEWxflVrmiEh.jpg",
-      "genres": [
-        "комедия",
-        "фантастика"
-      ]
-    },
-    {
-      "id": 1603423,
-      "title": "Mens Rea",
-      "release_date": "2025-12-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6Y5opHynWs0XsjrZXeYGk23vEDc.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1603251,
-      "title": "De storm van Balkenende",
-      "release_date": "2025-12-27",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
     }
   ],
   "source": "TMDB",
