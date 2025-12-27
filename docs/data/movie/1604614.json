@@ -1,0 +1,24 @@
+{
+  "id": 1604614,
+  "title": "El Vídeo 4",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-27",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/sNUqXc0T6UGiSkyPe5XzKzoQoB1.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/m3wYNOsyPgRLX00CG0PzYhRobKj.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1604614",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-27T12:25:04.674128+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

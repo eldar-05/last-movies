@@ -1,9 +1,27 @@
 {
-  "fetched_at_utc": "2025-12-27T06:20:18.036306+00:00",
+  "fetched_at_utc": "2025-12-27T12:25:05.827775+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1604656,
+      "title": "In Darkness",
+      "release_date": "2025-12-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/goFg2cEbhFKQRBsBSC0MuQTGsMI.jpg",
+      "genres": []
+    },
+    {
+      "id": 1604614,
+      "title": "El Vídeo 4",
+      "release_date": "2025-12-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/sNUqXc0T6UGiSkyPe5XzKzoQoB1.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
     {
       "id": 1604289,
       "title": "Nice Human",
@@ -82,28 +100,6 @@
       "poster_url": null,
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1602426,
-      "title": "Wierszyki domowe. Film",
-      "release_date": "2025-12-27",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мультфильм",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1601688,
-      "title": "25 ans de Laurent Gerra à la radio",
-      "release_date": "2025-12-27",
-      "vote_average": 5.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pePykml3t3lGfbq85ldOThrwjnV.jpg",
-      "genres": [
-        "документальный",
-        "комедия"
       ]
     }
   ],
