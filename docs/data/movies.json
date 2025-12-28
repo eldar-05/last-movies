@@ -1,9 +1,37 @@
 {
-  "fetched_at_utc": "2025-12-28T12:25:38.586606+00:00",
+  "fetched_at_utc": "2025-12-28T18:19:23.439633+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1605439,
+      "title": "When Lost",
+      "release_date": "2025-12-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/1mG3ZTMtK8kpHzJNxiuurMuQtGj.jpg",
+      "genres": []
+    },
+    {
+      "id": 1605374,
+      "title": "Prologue : Shadows of Silence",
+      "release_date": "2025-12-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9prZbC4JCEicLTqblycobDxQGK3.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1605344,
+      "title": "Главная роль",
+      "release_date": "2025-12-28",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1605208,
       "title": "Kael Ryven: Between Wing and Wyrm",
@@ -77,38 +105,6 @@
       "genres": [
         "триллер",
         "ужасы"
-      ]
-    },
-    {
-      "id": 1602147,
-      "title": "Kraus, el último romántico",
-      "release_date": "2025-12-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rdcZfZlkdJaIg39o2o5u2tVoBKU.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1600680,
-      "title": "The Nurse Who Knew Too Much",
-      "release_date": "2025-12-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lQosmTWpsTPPRQrSxQSZ7lgtD34.jpg",
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1596707,
-      "title": "세상에 없는 사운드트랙",
-      "release_date": "2025-12-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kbCbMzkS6jtCxyN1ncsHzWzOU7t.jpg",
-      "genres": [
-        "драма",
-        "музыка",
-        "мелодрама"
       ]
     }
   ],
