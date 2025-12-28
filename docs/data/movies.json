@@ -1,9 +1,32 @@
 {
-  "fetched_at_utc": "2025-12-28T06:20:26.866155+00:00",
+  "fetched_at_utc": "2025-12-28T12:25:38.586606+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1605208,
+      "title": "Kael Ryven: Between Wing and Wyrm",
+      "release_date": "2025-12-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fOnx4XXfMPL7t9w9pSv7TgXBx4Y.jpg",
+      "genres": [
+        "боевик",
+        "приключения",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1605136,
+      "title": "Forever, Forever",
+      "release_date": "2025-12-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/eAIKvM5gaLovydCTNa3H8EW2e06.jpg",
+      "genres": [
+        "документальный",
+        "музыка"
+      ]
+    },
     {
       "id": 1604982,
       "title": "Sebagai Manusia",
@@ -86,27 +109,6 @@
         "драма",
         "музыка",
         "мелодрама"
-      ]
-    },
-    {
-      "id": 1594137,
-      "title": "Carved",
-      "release_date": "2025-12-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cNlwzFGlRrJkGD6hldd83RQqx7L.jpg",
-      "genres": [
-        "вестерн",
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1583115,
-      "title": "Katherine Ryan: First Born Daughter",
-      "release_date": "2025-12-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nIOCzLWj7Px3S7EyJiz2PDP2a6.jpg",
-      "genres": [
-        "комедия"
       ]
     }
   ],
