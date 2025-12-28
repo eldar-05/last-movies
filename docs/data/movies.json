@@ -1,107 +1,113 @@
 {
-  "fetched_at_utc": "2025-12-27T18:18:45.822998+00:00",
+  "fetched_at_utc": "2025-12-28T01:13:01.068391+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1604915,
-      "title": "Confissão",
-      "release_date": "2025-12-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wJS9asClazMVlek26y8q1ZwOcWU.jpg",
-      "genres": [
-        "детектив",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1604886,
-      "title": "Sportens årskrönika 2025",
-      "release_date": "2025-12-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wbcq08avSYgTjeNvWw1a6aRLgNH.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1604746,
-      "title": "Portrait de mon grand-père paternel",
-      "release_date": "2025-12-27",
+      "id": 1604982,
+      "title": "Sebagai Manusia",
+      "release_date": "",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "документальный"
+        "драма"
       ]
     },
     {
-      "id": 1604656,
-      "title": "In Darkness",
-      "release_date": "2025-12-27",
+      "id": 1604294,
+      "title": "Plüss – one awakens to live, another to die for",
+      "release_date": "2025-12-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/goFg2cEbhFKQRBsBSC0MuQTGsMI.jpg",
-      "genres": []
-    },
-    {
-      "id": 1604614,
-      "title": "El Vídeo 4",
-      "release_date": "2025-12-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sNUqXc0T6UGiSkyPe5XzKzoQoB1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mDL3kreTP9CUQk2nkYpYYne8zom.jpg",
       "genres": [
-        "ужасы",
-        "комедия"
+        "драма"
       ]
     },
     {
-      "id": 1604289,
-      "title": "Nice Human",
-      "release_date": "2025-12-27",
+      "id": 1604290,
+      "title": "Un delitto ideale",
+      "release_date": "2025-12-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9fSG71N15WZtyruyQM3fxXijQ36.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/A8G1jggJ4pecoTYtOHlovUc4kVc.jpg",
       "genres": [
         "драма",
+        "история"
+      ]
+    },
+    {
+      "id": 1604283,
+      "title": "Les enfants ont peur",
+      "release_date": "2025-12-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6hunE9vJcotaOmh89fTyQL40dsF.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1602806,
+      "title": "Lost Keys",
+      "release_date": "2025-12-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/dBG9feEvM3seksbQmPpFsnpV38R.jpg",
+      "genres": [
+        "триллер",
         "ужасы"
       ]
     },
     {
-      "id": 1604286,
-      "title": "شقاء.",
-      "release_date": "2025-12-27",
+      "id": 1602147,
+      "title": "Kraus, el último romántico",
+      "release_date": "2025-12-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cHSf6j5tdNcGLqm9gNv0xNPPemH.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rdcZfZlkdJaIg39o2o5u2tVoBKU.jpg",
       "genres": [
-        "драма"
+        "документальный"
       ]
     },
     {
-      "id": 1603858,
-      "title": "Peony",
-      "release_date": "2025-12-27",
+      "id": 1600680,
+      "title": "The Nurse Who Knew Too Much",
+      "release_date": "2025-12-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zvA7QjrsBtJrOJiKE4baAyED3Wg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lQosmTWpsTPPRQrSxQSZ7lgtD34.jpg",
       "genres": [
-        "драма"
+        "триллер"
       ]
     },
     {
-      "id": 1603856,
-      "title": "Death between life",
-      "release_date": "2025-12-27",
+      "id": 1596707,
+      "title": "세상에 없는 사운드트랙",
+      "release_date": "2025-12-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xUDdV4Wnoa3MVAsx0xEPW1n6gdV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kbCbMzkS6jtCxyN1ncsHzWzOU7t.jpg",
       "genres": [
-        "драма"
+        "драма",
+        "музыка",
+        "мелодрама"
       ]
     },
     {
-      "id": 1603853,
-      "title": "Mon jules à moi",
-      "release_date": "2025-12-27",
+      "id": 1594137,
+      "title": "Carved",
+      "release_date": "2025-12-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pT4egpKOijQeJ7CuVJsn4KVJXHQ.jpg",
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/cNlwzFGlRrJkGD6hldd83RQqx7L.jpg",
+      "genres": [
+        "вестерн",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1583115,
+      "title": "Katherine Ryan: First Born Daughter",
+      "release_date": "2025-12-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nIOCzLWj7Px3S7EyJiz2PDP2a6.jpg",
+      "genres": [
+        "комедия"
+      ]
     }
   ],
   "source": "TMDB",

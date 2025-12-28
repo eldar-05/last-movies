@@ -1,0 +1,32 @@
+{
+  "id": 1596707,
+  "title": "세상에 없는 사운드트랙",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-28",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "музыка",
+    "мелодрама"
+  ],
+  "original_language": "ko",
+  "spoken_languages": [
+    "Korean"
+  ],
+  "production_countries": [
+    "KR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/kbCbMzkS6jtCxyN1ncsHzWzOU7t.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/sxXmKtqN8DHxQ9YUpqf6XYcM6Ob.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1596707",
+  "trailer": {
+    "key": "w_WzoxU3_Kc",
+    "name": "[하이라이트] 당신에게 사랑이란 어떤 의미인가요?💝 [러브 : 트랙] | KBS 방송",
+    "type": "Teaser"
+  },
+  "fetched_at_utc": "2025-12-28T01:13:00.385185+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
