@@ -3,20 +3,24 @@
   "title": "Sebagai Manusia",
   "tagline": "",
   "overview": "",
-  "release_date": "",
-  "runtime": 0,
+  "release_date": "2025-12-28",
+  "runtime": 27,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "драма"
+  ],
   "original_language": "id",
   "spoken_languages": [
     "Indonesian"
   ],
-  "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "production_countries": [
+    "ID"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/9doeBikL0m2OZVLhXbnrdtKWZSi.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/5KiNVjhwq2tc6AzSXDQcsoN0NTD.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1604982",
   "trailer": null,
-  "fetched_at_utc": "2025-12-28T01:12:58.164503+00:00",
+  "fetched_at_utc": "2025-12-28T06:20:24.336291+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

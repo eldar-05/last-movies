@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2025-12-28T01:13:01.068391+00:00",
+  "fetched_at_utc": "2025-12-28T06:20:26.866155+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -7,9 +7,9 @@
     {
       "id": 1604982,
       "title": "Sebagai Manusia",
-      "release_date": "",
+      "release_date": "2025-12-28",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9doeBikL0m2OZVLhXbnrdtKWZSi.jpg",
       "genres": [
         "драма"
       ]
