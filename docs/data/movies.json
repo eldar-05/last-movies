@@ -1,9 +1,52 @@
 {
-  "fetched_at_utc": "2025-12-29T12:29:09.049577+00:00",
+  "fetched_at_utc": "2025-12-29T18:20:56.275178+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1606203,
+      "title": "Une Histoire de Tapis",
+      "release_date": "2025-12-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9yWND2oyo2vvh9tgH3twqmaWhMg.jpg",
+      "genres": [
+        "комедия",
+        "приключения",
+        "семейный",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1606113,
+      "title": "The Story of Wimbledon 2025",
+      "release_date": "2025-12-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mS9gy3jbPWVYVB6KtptEgMrR6L3.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1606044,
+      "title": "Thuleulykkens sidste vidner",
+      "release_date": "2025-12-29",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/j5EFQJmCUT6EFkFLXKV0MqwihV5.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1605970,
+      "title": "À la rencontre de l'Auvergne",
+      "release_date": "2025-12-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/e41J96qRzYRfjXGW8IhZfsSymyf.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1605530,
       "title": "Melk",
@@ -29,7 +72,7 @@
     },
     {
       "id": 1605361,
-      "title": "THE BIRTH OF A CANORUS.",
+      "title": "THE BIRTH OF A CANORUS",
       "release_date": "2025-12-29",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/kzJOiOygissqIVKF9fGCvGwkpXr.jpg",
@@ -41,7 +84,10 @@
       "release_date": "2025-12-29",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": []
+      "genres": [
+        "комедия",
+        "музыка"
+      ]
     },
     {
       "id": 1604313,
@@ -61,50 +107,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/19Uh8u66XHrtVFMdWfs4fEOiCg3.jpg",
       "genres": [
         "драма"
-      ]
-    },
-    {
-      "id": 1604304,
-      "title": "Martyrion, Storia di Isabelle",
-      "release_date": "2025-12-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xdhcUcXFrKQGHLMZoADDc9lH89i.jpg",
-      "genres": [
-        "документальный",
-        "драма"
-      ]
-    },
-    {
-      "id": 1602962,
-      "title": "Mamma",
-      "release_date": "2025-12-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tU70WKsfO113f7B3TJTPHv4o5Rq.jpg",
-      "genres": [
-        "драма",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1602844,
-      "title": "Edició de Lux",
-      "release_date": "2025-12-29",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "комедия",
-        "телевизионный фильм"
-      ]
-    },
-    {
-      "id": 1601189,
-      "title": "Laurie Peret - À bientôt quelque part",
-      "release_date": "2025-12-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dI4zfsG3Z9GTJ2qpCKfgc2kmAs9.jpg",
-      "genres": [
-        "комедия",
-        "семейный"
       ]
     }
   ],
