@@ -1,0 +1,27 @@
+{
+  "id": 1605509,
+  "title": "Le Carnaval des animaux",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-29",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "музыка",
+    "семейный"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/e40suGxZcTStLwqE3lvwKPFD2jv.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/5CNHvuIYmNglb6frU6H9K7mTomY.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1605509",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-29T01:10:37.372317+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

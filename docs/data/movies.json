@@ -1,110 +1,110 @@
 {
-  "fetched_at_utc": "2025-12-28T18:19:23.439633+00:00",
+  "fetched_at_utc": "2025-12-29T01:10:41.077481+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1605439,
-      "title": "When Lost",
-      "release_date": "2025-12-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1mG3ZTMtK8kpHzJNxiuurMuQtGj.jpg",
-      "genres": []
-    },
-    {
-      "id": 1605374,
-      "title": "Prologue : Shadows of Silence",
-      "release_date": "2025-12-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9prZbC4JCEicLTqblycobDxQGK3.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1605344,
-      "title": "Главная роль",
-      "release_date": "2025-12-28",
+      "id": 1605530,
+      "title": "Melk",
+      "release_date": "2025-12-29",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "документальный"
+        "ужасы",
+        "триллер",
+        "драма"
       ]
     },
     {
-      "id": 1605208,
-      "title": "Kael Ryven: Between Wing and Wyrm",
-      "release_date": "2025-12-28",
+      "id": 1605509,
+      "title": "Le Carnaval des animaux",
+      "release_date": "2025-12-29",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fOnx4XXfMPL7t9w9pSv7TgXBx4Y.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/e40suGxZcTStLwqE3lvwKPFD2jv.jpg",
       "genres": [
-        "боевик",
-        "приключения",
-        "фэнтези"
+        "музыка",
+        "семейный"
       ]
     },
     {
-      "id": 1605136,
-      "title": "Forever, Forever",
-      "release_date": "2025-12-28",
+      "id": 1605361,
+      "title": "THE BIRTH OF A CANORUS.",
+      "release_date": "2025-12-29",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eAIKvM5gaLovydCTNa3H8EW2e06.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kzJOiOygissqIVKF9fGCvGwkpXr.jpg",
+      "genres": []
+    },
+    {
+      "id": 1605008,
+      "title": "Meglio stasera! Quasi one man show",
+      "release_date": "2025-12-29",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1604313,
+      "title": "Il Costo di un Miracolo",
+      "release_date": "2025-12-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/eR6KmbHRZ4mdAgaUMDYxIdRJDqd.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1604307,
+      "title": "Tria Fata",
+      "release_date": "2025-12-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/19Uh8u66XHrtVFMdWfs4fEOiCg3.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1604304,
+      "title": "Martyrion, Storia di Isabelle",
+      "release_date": "2025-12-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xdhcUcXFrKQGHLMZoADDc9lH89i.jpg",
       "genres": [
         "документальный",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1604982,
-      "title": "Sebagai Manusia",
-      "release_date": "2025-12-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9doeBikL0m2OZVLhXbnrdtKWZSi.jpg",
-      "genres": [
         "драма"
       ]
     },
     {
-      "id": 1604294,
-      "title": "Plüss – one awakens to live, another to die for",
-      "release_date": "2025-12-28",
+      "id": 1602962,
+      "title": "Mamma",
+      "release_date": "2025-12-29",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mDL3kreTP9CUQk2nkYpYYne8zom.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1604290,
-      "title": "Un delitto ideale",
-      "release_date": "2025-12-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/A8G1jggJ4pecoTYtOHlovUc4kVc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tU70WKsfO113f7B3TJTPHv4o5Rq.jpg",
       "genres": [
         "драма",
-        "история"
+        "комедия"
       ]
     },
     {
-      "id": 1604283,
-      "title": "Les enfants ont peur",
-      "release_date": "2025-12-28",
+      "id": 1602844,
+      "title": "Edició de Lux",
+      "release_date": "2025-12-29",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6hunE9vJcotaOmh89fTyQL40dsF.jpg",
+      "poster_url": null,
       "genres": [
-        "драма"
+        "комедия",
+        "телевизионный фильм"
       ]
     },
     {
-      "id": 1602806,
-      "title": "Lost Keys",
-      "release_date": "2025-12-28",
+      "id": 1601189,
+      "title": "Laurie Peret - À bientôt quelque part",
+      "release_date": "2025-12-29",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dBG9feEvM3seksbQmPpFsnpV38R.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dI4zfsG3Z9GTJ2qpCKfgc2kmAs9.jpg",
       "genres": [
-        "триллер",
-        "ужасы"
+        "комедия",
+        "семейный"
       ]
     }
   ],

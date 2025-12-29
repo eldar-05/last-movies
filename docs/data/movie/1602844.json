@@ -1,0 +1,27 @@
+{
+  "id": 1602844,
+  "title": "Edició de Lux",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-29",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "телевизионный фильм"
+  ],
+  "original_language": "ca",
+  "spoken_languages": [
+    "Catalan"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1602844",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-29T01:10:40.598572+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1604307,
+  "title": "Tria Fata",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-29",
+  "runtime": 6,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/19Uh8u66XHrtVFMdWfs4fEOiCg3.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1604307",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-29T01:10:39.414411+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
