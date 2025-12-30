@@ -1,0 +1,24 @@
+{
+  "id": 1604482,
+  "title": "Una notte ancora",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-30",
+  "runtime": 20,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "it",
+  "spoken_languages": [],
+  "production_countries": [
+    "IT"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/cELw4GnYSvg2PiLFlIBCreU7q0G.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1604482",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-30T01:05:13.198658+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

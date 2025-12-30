@@ -1,0 +1,26 @@
+{
+  "id": 1605529,
+  "title": "À Sombra das Oliveiras",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-30",
+  "runtime": 22,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/99Koko5cFvHmFUMTdEQNzCGdSsn.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/ssrypy5OxlHSbIdT8RFXF0GN8U6.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1605529",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-30T01:05:12.229731+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

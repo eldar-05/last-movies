@@ -1,110 +1,103 @@
 {
-  "fetched_at_utc": "2025-12-29T18:20:56.275178+00:00",
+  "fetched_at_utc": "2025-12-30T01:05:14.512965+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1606203,
-      "title": "Une Histoire de Tapis",
-      "release_date": "2025-12-29",
+      "id": 1606248,
+      "title": "a walk with homer j.",
+      "release_date": "2025-12-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9yWND2oyo2vvh9tgH3twqmaWhMg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vBGYON27PGAbe0WLRwtfupumYD1.jpg",
       "genres": [
-        "комедия",
-        "приключения",
-        "семейный",
-        "фэнтези"
+        "документальный",
+        "комедия"
       ]
     },
     {
-      "id": 1606113,
-      "title": "The Story of Wimbledon 2025",
-      "release_date": "2025-12-29",
+      "id": 1605975,
+      "title": "I Am That",
+      "release_date": "2025-12-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mS9gy3jbPWVYVB6KtptEgMrR6L3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gtGNC8vRSTjodqKM7uaRi1rlJvq.jpg",
       "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1606044,
-      "title": "Thuleulykkens sidste vidner",
-      "release_date": "2025-12-29",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/j5EFQJmCUT6EFkFLXKV0MqwihV5.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1605970,
-      "title": "À la rencontre de l'Auvergne",
-      "release_date": "2025-12-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/e41J96qRzYRfjXGW8IhZfsSymyf.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1605530,
-      "title": "Melk",
-      "release_date": "2025-12-29",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "ужасы",
-        "триллер",
         "драма"
       ]
     },
     {
-      "id": 1605509,
-      "title": "Le Carnaval des animaux",
-      "release_date": "2025-12-29",
+      "id": 1605529,
+      "title": "À Sombra das Oliveiras",
+      "release_date": "2025-12-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/e40suGxZcTStLwqE3lvwKPFD2jv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/99Koko5cFvHmFUMTdEQNzCGdSsn.jpg",
       "genres": [
-        "музыка",
-        "семейный"
+        "драма"
       ]
     },
     {
-      "id": 1605361,
-      "title": "THE BIRTH OF A CANORUS",
-      "release_date": "2025-12-29",
+      "id": 1605343,
+      "title": "Journey in 21st century",
+      "release_date": "2025-12-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kzJOiOygissqIVKF9fGCvGwkpXr.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eNGCZ4aWYfBwrqDXzNqgktjQHqJ.jpg",
       "genres": []
     },
     {
-      "id": 1605008,
-      "title": "Meglio stasera! Quasi one man show",
-      "release_date": "2025-12-29",
+      "id": 1605060,
+      "title": "Through the noise and light",
+      "release_date": "2025-12-30",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "комедия",
-        "музыка"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/5Gj6NG9EKGNtrZNLspPZpZkyF97.jpg",
+      "genres": []
     },
     {
-      "id": 1604313,
-      "title": "Il Costo di un Miracolo",
-      "release_date": "2025-12-29",
+      "id": 1604482,
+      "title": "Una notte ancora",
+      "release_date": "2025-12-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eR6KmbHRZ4mdAgaUMDYxIdRJDqd.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cELw4GnYSvg2PiLFlIBCreU7q0G.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1604307,
-      "title": "Tria Fata",
-      "release_date": "2025-12-29",
+      "id": 1604481,
+      "title": "Samsa",
+      "release_date": "2025-12-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/19Uh8u66XHrtVFMdWfs4fEOiCg3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lFIv8IReRlABQ3y39H0EskfztTy.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1604472,
+      "title": "Er Zinale",
+      "release_date": "2025-12-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oN48o1EECkXOi9odTuktaA6GiEK.jpg",
+      "genres": [
+        "драма",
+        "история"
+      ]
+    },
+    {
+      "id": 1604466,
+      "title": "Com'è profondo il mare",
+      "release_date": "2025-12-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pjdyWrpC6TnpcdswvIOhzvMLnd0.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1604458,
+      "title": "枯木上的乌尔朵",
+      "release_date": "2025-12-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4PpYfwY1OtIiWXat703xgnPdGNa.jpg",
       "genres": [
         "драма"
       ]
