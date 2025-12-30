@@ -1,9 +1,45 @@
 {
-  "fetched_at_utc": "2025-12-30T12:28:35.375882+00:00",
+  "fetched_at_utc": "2025-12-30T18:21:02.051692+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1606778,
+      "title": "Portrait of Grief",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oZV7NIRg3aHdyjhYXlvS3M3dlwg.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1606757,
+      "title": "Urban Priol - TILT! 2025",
+      "release_date": "2025-12-30",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1606640,
+      "title": "spinning flower",
+      "release_date": "2025-12-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jJeChvE6j0zejs6ELy4DM4jSyNF.jpg",
+      "genres": []
+    },
+    {
+      "id": 1606604,
+      "title": "F#%*! 2025 - Le Roast de l'année Juste pour rire",
+      "release_date": "2025-12-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/o78drvdcBcwGrgi6SFAEBBoqzOh.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
     {
       "id": 1606549,
       "title": "21. Yüzyıl Sineması İndeksi",
@@ -19,7 +55,7 @@
       "title": "Making Wicked: For Good",
       "release_date": "2025-12-30",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/q79aljyjqxgJo8osLxKxvXa5Oxd.jpg",
       "genres": [
         "документальный"
       ]
@@ -33,6 +69,14 @@
       "genres": [
         "фэнтези"
       ]
+    },
+    {
+      "id": 1606379,
+      "title": "EN CAPITALE",
+      "release_date": "2025-12-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/dKKPCKDmWbRdPwkmTCYTbFHhpLn.jpg",
+      "genres": []
     },
     {
       "id": 1606248,
@@ -51,52 +95,6 @@
       "release_date": "2025-12-30",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/gtGNC8vRSTjodqKM7uaRi1rlJvq.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1605529,
-      "title": "À Sombra das Oliveiras",
-      "release_date": "2025-12-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/99Koko5cFvHmFUMTdEQNzCGdSsn.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1605343,
-      "title": "Journey in 21st century",
-      "release_date": "2025-12-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eNGCZ4aWYfBwrqDXzNqgktjQHqJ.jpg",
-      "genres": []
-    },
-    {
-      "id": 1605060,
-      "title": "Through the noise and light",
-      "release_date": "2025-12-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5Gj6NG9EKGNtrZNLspPZpZkyF97.jpg",
-      "genres": []
-    },
-    {
-      "id": 1604482,
-      "title": "Una notte ancora",
-      "release_date": "2025-12-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cELw4GnYSvg2PiLFlIBCreU7q0G.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1604481,
-      "title": "Samsa",
-      "release_date": "2025-12-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lFIv8IReRlABQ3y39H0EskfztTy.jpg",
       "genres": [
         "драма"
       ]
