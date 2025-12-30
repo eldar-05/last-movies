@@ -1,0 +1,26 @@
+{
+  "id": 1606426,
+  "title": "Do You Belong Here?",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-30",
+  "runtime": 1,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фэнтези"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "GB"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/co4lenxVsgEaezHWMblfzyWSQQN.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/xBapsg1GyIpgFzg05nDvW16D8V.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1606426",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-30T12:28:34.114646+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

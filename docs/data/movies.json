@@ -1,9 +1,39 @@
 {
-  "fetched_at_utc": "2025-12-30T06:21:56.733037+00:00",
+  "fetched_at_utc": "2025-12-30T12:28:35.375882+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1606549,
+      "title": "21. Yüzyıl Sineması İndeksi",
+      "release_date": "2025-12-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/e40yl3Vxvxi9HUisQjYKjgnRmrq.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1606506,
+      "title": "Making Wicked: For Good",
+      "release_date": "2025-12-30",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1606426,
+      "title": "Do You Belong Here?",
+      "release_date": "2025-12-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/co4lenxVsgEaezHWMblfzyWSQQN.jpg",
+      "genres": [
+        "фэнтези"
+      ]
+    },
     {
       "id": 1606248,
       "title": "a walk with homer j.",
@@ -67,37 +97,6 @@
       "release_date": "2025-12-30",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/lFIv8IReRlABQ3y39H0EskfztTy.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1604472,
-      "title": "Er Zinale",
-      "release_date": "2025-12-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oN48o1EECkXOi9odTuktaA6GiEK.jpg",
-      "genres": [
-        "драма",
-        "история"
-      ]
-    },
-    {
-      "id": 1604466,
-      "title": "Com'è profondo il mare",
-      "release_date": "2025-12-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pjdyWrpC6TnpcdswvIOhzvMLnd0.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1604458,
-      "title": "枯木上的乌尔朵",
-      "release_date": "2025-12-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4PpYfwY1OtIiWXat703xgnPdGNa.jpg",
       "genres": [
         "драма"
       ]
