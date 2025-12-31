@@ -3,7 +3,7 @@
   "title": "WADESAM: A Retrospectiva Cabulosa 2025",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2025-12-31",
   "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
@@ -15,11 +15,13 @@
   "spoken_languages": [
     "Portuguese"
   ],
-  "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/sD19E3efJdlaEbmbXUBw6jeCYrC.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/emlwL3418zc8FKVhWILg5ShgwQU.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1607031",
   "trailer": null,
-  "fetched_at_utc": "2025-12-31T01:06:32.325034+00:00",
+  "fetched_at_utc": "2025-12-31T06:22:06.991217+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
