@@ -1,0 +1,26 @@
+{
+  "id": 1604134,
+  "title": "Oasis Bandung Live Forever",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2025-12-31",
+  "runtime": 10,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "драма",
+    "история"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "Indonesian"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/xJdn0elG87HJCctaO9ja0ADlKKm.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/ox1R2NIEA5Sak3bF7z1wyLKnELC.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1604134",
+  "trailer": null,
+  "fetched_at_utc": "2025-12-31T01:06:33.765366+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,102 +1,102 @@
 {
-  "fetched_at_utc": "2025-12-30T18:21:02.051692+00:00",
+  "fetched_at_utc": "2025-12-31T01:06:33.953284+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1606778,
-      "title": "Portrait of Grief",
+      "id": 1607031,
+      "title": "WADESAM: A Retrospectiva Cabulosa 2025",
       "release_date": "",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oZV7NIRg3aHdyjhYXlvS3M3dlwg.jpg",
+      "poster_url": null,
       "genres": [
-        "драма"
+        "комедия",
+        "документальный"
       ]
     },
     {
-      "id": 1606757,
-      "title": "Urban Priol - TILT! 2025",
-      "release_date": "2025-12-30",
+      "id": 1606909,
+      "title": "2025-12-14 (izzy film)",
+      "release_date": "2025-12-31",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1606640,
-      "title": "spinning flower",
-      "release_date": "2025-12-30",
+      "id": 1605416,
+      "title": "The Bro Family Journey",
+      "release_date": "2025-12-31",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jJeChvE6j0zejs6ELy4DM4jSyNF.jpg",
-      "genres": []
-    },
-    {
-      "id": 1606604,
-      "title": "F#%*! 2025 - Le Roast de l'année Juste pour rire",
-      "release_date": "2025-12-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/o78drvdcBcwGrgi6SFAEBBoqzOh.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1606549,
-      "title": "21. Yüzyıl Sineması İndeksi",
-      "release_date": "2025-12-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/e40yl3Vxvxi9HUisQjYKjgnRmrq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5UF0WWdCFpstMgocSDLtd2JBIA9.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1606506,
-      "title": "Making Wicked: For Good",
-      "release_date": "2025-12-30",
+      "id": 1605333,
+      "title": "Tivolirevyen 2025",
+      "release_date": "2025-12-31",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/q79aljyjqxgJo8osLxKxvXa5Oxd.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AK4MKZiO5tc4FiseckQ1PI2q46.jpg",
       "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1606426,
-      "title": "Do You Belong Here?",
-      "release_date": "2025-12-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/co4lenxVsgEaezHWMblfzyWSQQN.jpg",
-      "genres": [
-        "фэнтези"
-      ]
-    },
-    {
-      "id": 1606379,
-      "title": "EN CAPITALE",
-      "release_date": "2025-12-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dKKPCKDmWbRdPwkmTCYTbFHhpLn.jpg",
-      "genres": []
-    },
-    {
-      "id": 1606248,
-      "title": "a walk with homer j.",
-      "release_date": "2025-12-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vBGYON27PGAbe0WLRwtfupumYD1.jpg",
-      "genres": [
-        "документальный",
         "комедия"
       ]
     },
     {
-      "id": 1605975,
-      "title": "I Am That",
-      "release_date": "2025-12-30",
+      "id": 1605203,
+      "title": "i only have eyes",
+      "release_date": "2025-12-31",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gtGNC8vRSTjodqKM7uaRi1rlJvq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nMkQDq5pl1EoQGR7YckRTEldRtY.jpg",
+      "genres": []
+    },
+    {
+      "id": 1605175,
+      "title": "Avenue de l'Opéra",
+      "release_date": "2025-12-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nYBIRv0pFuvtCTdTOLe9HGNUrPl.jpg",
+      "genres": []
+    },
+    {
+      "id": 1604926,
+      "title": "Gak Jadi",
+      "release_date": "2025-12-31",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wqnPneyROSnwvmj86KLedmlpuor.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 1604695,
+      "title": "Áramótaskaup: 2025",
+      "release_date": "2025-12-31",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1604134,
+      "title": "Oasis Bandung Live Forever",
+      "release_date": "2025-12-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xJdn0elG87HJCctaO9ja0ADlKKm.jpg",
+      "genres": [
+        "документальный",
+        "драма",
+        "история"
+      ]
+    },
+    {
+      "id": 1604023,
+      "title": "Trump, mon père et moi",
+      "release_date": "2025-12-31",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
       ]
     }
   ],
