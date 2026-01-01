@@ -3,7 +3,7 @@
   "title": "Depraved",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2026-01-01",
   "runtime": 4,
   "vote_average": 0.0,
   "vote_count": 0,
@@ -22,6 +22,6 @@
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1607015",
   "trailer": null,
-  "fetched_at_utc": "2026-01-01T12:28:00.628752+00:00",
+  "fetched_at_utc": "2026-01-01T18:20:14.018355+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

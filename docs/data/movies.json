@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-01-01T12:28:00.629292+00:00",
+  "fetched_at_utc": "2026-01-01T18:20:14.018649+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -103,7 +103,7 @@
     {
       "id": 1607015,
       "title": "Depraved",
-      "release_date": "",
+      "release_date": "2026-01-01",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/fAyJtaNPy5MBsGXMF6bBSYjSL1K.jpg",
       "genres": [
