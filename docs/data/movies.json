@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-01-01T01:13:05.465931+00:00",
+  "fetched_at_utc": "2026-01-01T06:22:11.101802+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -28,9 +28,9 @@
     {
       "id": 1607468,
       "title": "Into the Spiral",
-      "release_date": "",
+      "release_date": "2026-01-01",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gBbuWzhuvtAHKTGpoOOHYzDKVOD.jpg",
       "genres": [
         "ужасы",
         "криминал",
@@ -44,13 +44,13 @@
       "title": "Cinco ensayos de cámara de un Solsticio",
       "release_date": "2026-01-01",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nfWETK1eSBgzGkwqPuCXD0uGxdS.jpg",
       "genres": []
     },
     {
       "id": 1607348,
       "title": "INTEGRATION",
-      "release_date": "",
+      "release_date": "2026-01-01",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
