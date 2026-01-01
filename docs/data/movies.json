@@ -1,9 +1,51 @@
 {
-  "fetched_at_utc": "2026-01-01T06:22:11.101802+00:00",
+  "fetched_at_utc": "2026-01-01T12:28:00.629292+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1607665,
+      "title": "O penúltimo ano",
+      "release_date": "2026-01-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jj9adEjBYWL5QxHdMly8GENh3ZC.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1607653,
+      "title": "The WEN",
+      "release_date": "2026-01-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8JrQ7I8oDLVC2TQ4GpETa7wJGAv.jpg",
+      "genres": [
+        "фантастика",
+        "комедия",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1607607,
+      "title": "Atvienotie",
+      "release_date": "2026-01-01",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1607593,
+      "title": "突袭",
+      "release_date": "2026-01-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/t5KjYZTYyWWfnBKBQllkH4NuANK.jpg",
+      "genres": [
+        "боевик"
+      ]
+    },
     {
       "id": 1607559,
       "title": "Fix It In Post",
@@ -59,50 +101,14 @@
       ]
     },
     {
-      "id": 1606958,
-      "title": "Theertharoopa Thandeyavarige",
-      "release_date": "2026-01-01",
+      "id": 1607015,
+      "title": "Depraved",
+      "release_date": "",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mfwcUim9bRJDsGRRXotzvj43xFD.jpg",
-      "genres": []
-    },
-    {
-      "id": 1606937,
-      "title": "Trouble in Truffletown",
-      "release_date": "2026-01-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zT1ciXuV1f2bvp2YqXOoCXzGI51.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fAyJtaNPy5MBsGXMF6bBSYjSL1K.jpg",
       "genres": [
         "ужасы",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1606881,
-      "title": "Les Folies Gruss, 50 ans à Paris",
-      "release_date": "2026-01-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ctvxqoOvZuqTiuGNyYH5idQElE9.jpg",
-      "genres": [
-        "семейный"
-      ]
-    },
-    {
-      "id": 1606694,
-      "title": "from tokyo",
-      "release_date": "2026-01-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iY5ZkzUgtABpP0yzKwgufhJ3yUx.jpg",
-      "genres": []
-    },
-    {
-      "id": 1606669,
-      "title": "The Wilderness Tapes: Volume One",
-      "release_date": "2026-01-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/asPDDlXEPzsATwBmD3ipUgLpX4j.jpg",
-      "genres": [
-        "ужасы"
+        "триллер"
       ]
     }
   ],

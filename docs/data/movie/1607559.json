@@ -15,9 +15,9 @@
   "spoken_languages": [],
   "production_countries": [],
   "poster_url": "https://image.tmdb.org/t/p/w500/2oyk6y18Wdnbo78jmnWeK6KgQbR.jpg",
-  "backdrop_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/7JkVZMg3ksFOgDylrY1MfnkxieE.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1607559",
   "trailer": null,
-  "fetched_at_utc": "2026-01-01T06:22:09.305668+00:00",
+  "fetched_at_utc": "2026-01-01T12:27:58.688563+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

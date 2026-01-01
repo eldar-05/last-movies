@@ -1,23 +1,24 @@
 {
-  "id": 1607348,
-  "title": "INTEGRATION",
+  "id": 1607607,
+  "title": "Atvienotie",
   "tagline": "",
   "overview": "",
   "release_date": "2026-01-01",
-  "runtime": 0,
+  "runtime": 25,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "триллер",
-    "семейный"
+    "комедия"
   ],
-  "original_language": "fr",
-  "spoken_languages": [],
+  "original_language": "lv",
+  "spoken_languages": [
+    "Latvian"
+  ],
   "production_countries": [],
   "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1607348",
+  "tmdb_url": "https://www.themoviedb.org/movie/1607607",
   "trailer": null,
-  "fetched_at_utc": "2026-01-01T12:28:00.239795+00:00",
+  "fetched_at_utc": "2026-01-01T12:27:57.908563+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
