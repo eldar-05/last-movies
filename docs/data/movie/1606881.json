@@ -1,0 +1,26 @@
+{
+  "id": 1606881,
+  "title": "Les Folies Gruss, 50 ans à Paris",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-01",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "семейный"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/ctvxqoOvZuqTiuGNyYH5idQElE9.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/76OgfzSRgtVJdhq4o91LhPIQeRM.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1606881",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-01T01:13:05.151910+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

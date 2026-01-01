@@ -1,98 +1,108 @@
 {
-  "fetched_at_utc": "2025-12-31T18:20:12.182853+00:00",
+  "fetched_at_utc": "2026-01-01T01:13:05.465931+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1607126,
-      "title": "Bahkan Di Ujung Waktu Pun, Segelintir Cahaya Akan Menyentuhmu",
-      "release_date": "2025-12-31",
+      "id": 1607559,
+      "title": "Fix It In Post",
+      "release_date": "2026-01-01",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6DP4qMAL1Eom4TqhlG63jUgACPN.jpg",
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/2oyk6y18Wdnbo78jmnWeK6KgQbR.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ]
     },
     {
-      "id": 1607123,
-      "title": "untitled recording",
-      "release_date": "2025-12-31",
+      "id": 1607527,
+      "title": "Where You Goin' Little Birdie",
+      "release_date": "2026-01-01",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yKaYXjRpC3AsKW8ZTeyaCRgaKTV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6ySichDtoq9bJvFUasiJ3HUSYBx.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1607036,
-      "title": "Josh Wakes Up In Purgatory",
-      "release_date": "2025-12-31",
+      "id": 1607468,
+      "title": "Into the Spiral",
+      "release_date": "",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ulWRVDdmqR1wIvPYLuWHeoVOHCR.jpg",
-      "genres": []
-    },
-    {
-      "id": 1607031,
-      "title": "WADESAM: A Retrospectiva Cabulosa 2025",
-      "release_date": "2025-12-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sD19E3efJdlaEbmbXUBw6jeCYrC.jpg",
+      "poster_url": null,
       "genres": [
-        "комедия",
-        "документальный"
+        "ужасы",
+        "криминал",
+        "драма",
+        "детектив",
+        "триллер"
       ]
     },
     {
-      "id": 1606909,
-      "title": "2025-12-14 (izzy film)",
-      "release_date": "2025-12-31",
+      "id": 1607460,
+      "title": "Cinco ensayos de cámara de un Solsticio",
+      "release_date": "2026-01-01",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/v7rtb1v2LfNqGiaYdflvwDDLr7d.jpg",
+      "poster_url": null,
       "genres": []
     },
     {
-      "id": 1605416,
-      "title": "The Bro Family Journey",
-      "release_date": "2025-12-31",
+      "id": 1607348,
+      "title": "INTEGRATION",
+      "release_date": "",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5UF0WWdCFpstMgocSDLtd2JBIA9.jpg",
+      "poster_url": null,
       "genres": [
-        "документальный"
+        "триллер",
+        "семейный"
       ]
     },
     {
-      "id": 1605333,
-      "title": "Tivolirevyen 2025",
-      "release_date": "2025-12-31",
+      "id": 1606958,
+      "title": "Theertharoopa Thandeyavarige",
+      "release_date": "2026-01-01",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/AK4MKZiO5tc4FiseckQ1PI2q46.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mfwcUim9bRJDsGRRXotzvj43xFD.jpg",
+      "genres": []
+    },
+    {
+      "id": 1606937,
+      "title": "Trouble in Truffletown",
+      "release_date": "2026-01-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zT1ciXuV1f2bvp2YqXOoCXzGI51.jpg",
       "genres": [
+        "ужасы",
         "комедия"
       ]
     },
     {
-      "id": 1605203,
-      "title": "i only have eyes",
-      "release_date": "2025-12-31",
+      "id": 1606881,
+      "title": "Les Folies Gruss, 50 ans à Paris",
+      "release_date": "2026-01-01",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nMkQDq5pl1EoQGR7YckRTEldRtY.jpg",
-      "genres": []
-    },
-    {
-      "id": 1605175,
-      "title": "Avenue de l'Opéra",
-      "release_date": "2025-12-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nYBIRv0pFuvtCTdTOLe9HGNUrPl.jpg",
-      "genres": []
-    },
-    {
-      "id": 1604926,
-      "title": "Gak Jadi",
-      "release_date": "2025-12-31",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wqnPneyROSnwvmj86KLedmlpuor.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ctvxqoOvZuqTiuGNyYH5idQElE9.jpg",
       "genres": [
-        "драма"
+        "семейный"
+      ]
+    },
+    {
+      "id": 1606694,
+      "title": "from tokyo",
+      "release_date": "2026-01-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iY5ZkzUgtABpP0yzKwgufhJ3yUx.jpg",
+      "genres": []
+    },
+    {
+      "id": 1606669,
+      "title": "The Wilderness Tapes: Volume One",
+      "release_date": "2026-01-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/asPDDlXEPzsATwBmD3ipUgLpX4j.jpg",
+      "genres": [
+        "ужасы"
       ]
     }
   ],

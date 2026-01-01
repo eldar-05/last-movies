@@ -1,0 +1,27 @@
+{
+  "id": 1606937,
+  "title": "Trouble in Truffletown",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-01",
+  "runtime": 38,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/zT1ciXuV1f2bvp2YqXOoCXzGI51.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1606937",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-01T01:13:04.948204+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

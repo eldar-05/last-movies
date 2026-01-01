@@ -1,0 +1,23 @@
+{
+  "id": 1607559,
+  "title": "Fix It In Post",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-01",
+  "runtime": 11,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/2oyk6y18Wdnbo78jmnWeK6KgQbR.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1607559",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-01T01:13:03.756812+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

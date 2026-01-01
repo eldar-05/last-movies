@@ -1,0 +1,26 @@
+{
+  "id": 1606669,
+  "title": "The Wilderness Tapes: Volume One",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-01",
+  "runtime": 52,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/asPDDlXEPzsATwBmD3ipUgLpX4j.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/xWjvtWYAEhWfv6dEc4b3Jrm5U8N.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1606669",
+  "trailer": {
+    "key": "qckx_MHVElU",
+    "name": "WEBCAST - Official Trailer #1 (2018) - Horror Movie HD",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-01T01:13:05.465532+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
