@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-01-02T12:27:08.795540+00:00",
+  "fetched_at_utc": "2026-01-02T18:20:10.693192+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -7,7 +7,7 @@
     {
       "id": 1608230,
       "title": "Broken Bonds",
-      "release_date": "",
+      "release_date": "2026-01-02",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/kXdBxAK9V2Qu23AP0h0ph1jDJtB.jpg",
       "genres": [
