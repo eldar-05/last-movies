@@ -1,0 +1,27 @@
+{
+  "id": 1606181,
+  "title": "Лирика",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-02",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "комедия"
+  ],
+  "original_language": "ka",
+  "spoken_languages": [
+    "Georgian"
+  ],
+  "production_countries": [
+    "GE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/2Wsrw4u4DmlhYYJvquj5KIs1qRT.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/8BCS2LG47558GSXAE2tC3kwhP59.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1606181",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-02T01:06:42.939997+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

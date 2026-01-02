@@ -1,0 +1,24 @@
+{
+  "id": 1603520,
+  "title": "Babil-i Cin 2",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-02",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "tr",
+  "spoken_languages": [
+    "Turkish"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/9IoxGTu3C2Wt3EtqbYy6qmO3Caq.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1603520",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-02T01:06:44.407149+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

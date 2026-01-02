@@ -1,0 +1,24 @@
+{
+  "id": 1607599,
+  "title": "Break Point",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-02",
+  "runtime": 4,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/2vkUEUeOPGrODW7O2PBlFRN38x8.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/4sCYsBVcG9NaLa1g5fjM8pCZVAw.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1607599",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-02T01:06:41.475477+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
