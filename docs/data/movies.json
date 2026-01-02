@@ -1,9 +1,19 @@
 {
-  "fetched_at_utc": "2026-01-02T06:21:59.526132+00:00",
+  "fetched_at_utc": "2026-01-02T12:27:08.795540+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1608230,
+      "title": "Broken Bonds",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kXdBxAK9V2Qu23AP0h0ph1jDJtB.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
     {
       "id": 1607599,
       "title": "Break Point",
@@ -94,17 +104,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/9IoxGTu3C2Wt3EtqbYy6qmO3Caq.jpg",
       "genres": [
         "ужасы"
-      ]
-    },
-    {
-      "id": 1603519,
-      "title": "Encontro com Darcy (VR)",
-      "release_date": "2026-01-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sscByNDrqoYazu0IewNikCERPc2.jpg",
-      "genres": [
-        "история",
-        "драма"
       ]
     }
   ],
