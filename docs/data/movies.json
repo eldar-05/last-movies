@@ -1,9 +1,20 @@
 {
-  "fetched_at_utc": "2026-01-03T06:20:44.559585+00:00",
+  "fetched_at_utc": "2026-01-03T12:25:13.974598+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1608864,
+      "title": "A Saigon-Noon",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "семейный",
+        "документальный"
+      ]
+    },
     {
       "id": 1608628,
       "title": "Crazy Cattle 4D: Highlights War Zone",
@@ -14,6 +25,16 @@
         "драма",
         "триллер",
         "военный"
+      ]
+    },
+    {
+      "id": 1608579,
+      "title": "Anantha",
+      "release_date": "2026-01-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/y1GAbomStmF8dnvrsYzUGiqBFy4.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -76,28 +97,6 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/62SDa4V7GmM9cMjQ1aK7T1lDMIy.jpg",
       "genres": []
-    },
-    {
-      "id": 1593174,
-      "title": "When the Water Stops Flowing",
-      "release_date": "2026-01-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hYKHkswTffxcO0G8BueUEqxOClL.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1592021,
-      "title": "Lost in Paradise",
-      "release_date": "2026-01-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2wOmjscD10xSeZ1d7LgFiBGcSvt.jpg",
-      "genres": [
-        "мелодрама",
-        "телевизионный фильм",
-        "комедия"
-      ]
     }
   ],
   "source": "TMDB",

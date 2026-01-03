@@ -6,7 +6,7 @@
   "release_date": "2026-01-03",
   "runtime": 16,
   "vote_average": 10.0,
-  "vote_count": 1,
+  "vote_count": 3,
   "genres": [
     "драма",
     "триллер",
@@ -23,6 +23,6 @@
   "backdrop_url": "https://image.tmdb.org/t/p/w780/hGXXRE25KHOcbNsFKxwi9NseUqe.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1608628",
   "trailer": null,
-  "fetched_at_utc": "2026-01-03T06:20:41.287443+00:00",
+  "fetched_at_utc": "2026-01-03T12:25:12.159919+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

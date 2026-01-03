@@ -1,0 +1,29 @@
+{
+  "id": 1608579,
+  "title": "Anantha",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-03",
+  "runtime": 136,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "ta",
+  "spoken_languages": [
+    "Tamil",
+    "Telugu"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/y1GAbomStmF8dnvrsYzUGiqBFy4.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1608579",
+  "trailer": {
+    "key": "fiuoMvm8zps",
+    "name": "Anantha - Official Trailer | Sri Sathya Sai Baba | Suresh Krishna | Thenisai Thendral Deva | API",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-03T12:25:12.332315+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
