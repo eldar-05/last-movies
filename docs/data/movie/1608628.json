@@ -9,7 +9,8 @@
   "vote_count": 1,
   "genres": [
     "драма",
-    "триллер"
+    "триллер",
+    "военный"
   ],
   "original_language": "en",
   "spoken_languages": [
@@ -22,6 +23,6 @@
   "backdrop_url": "https://image.tmdb.org/t/p/w780/hGXXRE25KHOcbNsFKxwi9NseUqe.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1608628",
   "trailer": null,
-  "fetched_at_utc": "2026-01-03T01:02:31.351150+00:00",
+  "fetched_at_utc": "2026-01-03T06:20:41.287443+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
