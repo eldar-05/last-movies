@@ -1,109 +1,102 @@
 {
-  "fetched_at_utc": "2026-01-02T18:20:10.693192+00:00",
+  "fetched_at_utc": "2026-01-03T01:02:32.800162+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1608230,
-      "title": "Broken Bonds",
-      "release_date": "2026-01-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kXdBxAK9V2Qu23AP0h0ph1jDJtB.jpg",
+      "id": 1608628,
+      "title": "Crazy Cattle 4D: Highlights War Zone",
+      "release_date": "2026-01-03",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/q2UYYz9pE9rI7z6fIv905uNn97A.jpg",
       "genres": [
-        "триллер"
+        "драма",
+        "триллер",
+        "военный"
       ]
     },
     {
-      "id": 1607599,
-      "title": "Break Point",
-      "release_date": "2026-01-02",
+      "id": 1607910,
+      "title": "Sans Jour",
+      "release_date": "2026-01-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2vkUEUeOPGrODW7O2PBlFRN38x8.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/opeqr8MhiSyR94hj1r9QIz1ZYyv.jpg",
       "genres": [
-        "драма"
+        "комедия",
+        "детектив"
       ]
     },
     {
-      "id": 1607439,
-      "title": "Seduci e scappa",
-      "release_date": "2026-01-02",
+      "id": 1606195,
+      "title": "quando chove em um sábado",
+      "release_date": "2026-01-03",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aFBM4I58sqMtFHLl2iBi9nUPRbv.jpg",
       "genres": []
     },
     {
-      "id": 1607388,
-      "title": "Days",
-      "release_date": "2026-01-02",
+      "id": 1605197,
+      "title": "Hijos de David",
+      "release_date": "2026-01-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ko9zccbmXaSOORdqA8XR8Xq9py3.jpg",
-      "genres": [
-        "драма"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/lGVvBww9RKXnYI8BO6gNBCbcsf8.jpg",
+      "genres": []
     },
     {
-      "id": 1606938,
-      "title": "காக்கா",
-      "release_date": "2026-01-02",
+      "id": 1602848,
+      "title": "十惡不赦",
+      "release_date": "2026-01-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fl7vU6bo6ShoaxPCC8WXnVZKD3i.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1g0y3AVW4E7Xt6k8cpdvzRcTDOw.jpg",
+      "genres": []
+    },
+    {
+      "id": 1600654,
+      "title": "Holy Shit!",
+      "release_date": "2026-01-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bZ4a4PHBnLXNJGQXmQWDGKztaPe.jpg",
       "genres": [
         "комедия"
       ]
     },
     {
-      "id": 1606181,
-      "title": "Лирика",
-      "release_date": "2026-01-02",
+      "id": 1600134,
+      "title": "STARDOM NEW YEAR DREAM 2026〜Night〜",
+      "release_date": "2026-01-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2Wsrw4u4DmlhYYJvquj5KIs1qRT.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/62SDa4V7GmM9cMjQ1aK7T1lDMIy.jpg",
+      "genres": []
+    },
+    {
+      "id": 1600133,
+      "title": "STARDOM NEW YEAR DREAM 2026〜Day〜",
+      "release_date": "2026-01-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/62SDa4V7GmM9cMjQ1aK7T1lDMIy.jpg",
+      "genres": []
+    },
+    {
+      "id": 1593174,
+      "title": "When the Water Stops Flowing",
+      "release_date": "2026-01-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hYKHkswTffxcO0G8BueUEqxOClL.jpg",
       "genres": [
-        "драма",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1592021,
+      "title": "Lost in Paradise",
+      "release_date": "2026-01-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2wOmjscD10xSeZ1d7LgFiBGcSvt.jpg",
+      "genres": [
+        "мелодрама",
+        "телевизионный фильм",
         "комедия"
-      ]
-    },
-    {
-      "id": 1604666,
-      "title": "Xander De Rycke: Houdt Het Voor Bekeken X",
-      "release_date": "2026-01-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zlcs2ePyN1Um3l1TXsK2gHOYLR0.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1604186,
-      "title": "தீ பெட்",
-      "release_date": "2026-01-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6CdtezbuyAOoysNeHacPXxPqXSz.jpg",
-      "genres": [
-        "криминал",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1603526,
-      "title": "Super Wings: Journey to the Center of the World",
-      "release_date": "2026-01-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/h48dSvUW8sfNyV3HrMGhsK1h5VJ.jpg",
-      "genres": [
-        "приключения",
-        "мультфильм",
-        "фэнтези"
-      ]
-    },
-    {
-      "id": 1603520,
-      "title": "Babil-i Cin 2",
-      "release_date": "2026-01-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9IoxGTu3C2Wt3EtqbYy6qmO3Caq.jpg",
-      "genres": [
-        "ужасы"
       ]
     }
   ],

@@ -1,0 +1,24 @@
+{
+  "id": 1606195,
+  "title": "quando chove em um sábado",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-03",
+  "runtime": 12,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "pt",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/aFBM4I58sqMtFHLl2iBi9nUPRbv.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/iM2PwTsl3VLbZg4K4prjDucLLtV.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1606195",
+  "trailer": {
+    "key": "n9tEc37KEys",
+    "name": "quando chove em um sábado",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-03T01:02:31.660437+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
