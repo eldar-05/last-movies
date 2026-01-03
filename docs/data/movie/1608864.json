@@ -3,18 +3,23 @@
   "title": "A Saigon-Noon",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2026-01-03",
   "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "семейный",
+    "документальный"
+  ],
   "original_language": "fr",
   "spoken_languages": [],
-  "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/zoRkZIdF2oowkTMDRDwq7nBPnsN.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/5bghg8yGFEv0KxdQVBtyR9fiz7G.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1608864",
   "trailer": null,
-  "fetched_at_utc": "2026-01-03T12:25:11.888539+00:00",
+  "fetched_at_utc": "2026-01-03T18:18:31.242752+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

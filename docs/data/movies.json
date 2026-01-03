@@ -1,15 +1,25 @@
 {
-  "fetched_at_utc": "2026-01-03T12:25:13.974598+00:00",
+  "fetched_at_utc": "2026-01-03T18:18:33.661484+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1609042,
+      "title": "Les trésors des favorites des rois de France",
+      "release_date": "2026-01-03",
+      "vote_average": 8.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/96QiBY9rq1hNck155pYkQJFVkOy.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
       "id": 1608864,
       "title": "A Saigon-Noon",
-      "release_date": "",
+      "release_date": "2026-01-03",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zoRkZIdF2oowkTMDRDwq7nBPnsN.jpg",
       "genres": [
         "семейный",
         "документальный"
@@ -85,14 +95,6 @@
     {
       "id": 1600134,
       "title": "STARDOM NEW YEAR DREAM 2026〜Night〜",
-      "release_date": "2026-01-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/62SDa4V7GmM9cMjQ1aK7T1lDMIy.jpg",
-      "genres": []
-    },
-    {
-      "id": 1600133,
-      "title": "STARDOM NEW YEAR DREAM 2026〜Day〜",
       "release_date": "2026-01-03",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/62SDa4V7GmM9cMjQ1aK7T1lDMIy.jpg",
