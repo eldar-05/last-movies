@@ -1,9 +1,53 @@
 {
-  "fetched_at_utc": "2026-01-04T12:25:47.251024+00:00",
+  "fetched_at_utc": "2026-01-04T18:19:01.593661+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1609851,
+      "title": "برگ‌های پاییزی",
+      "release_date": "2026-01-04",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8DZZn8e74JLcq3UJdtYKqtdrIbw.jpg",
+      "genres": [
+        "ужасы",
+        "документальный",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1609787,
+      "title": "What's In The Case?",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "боевик",
+        "криминал"
+      ]
+    },
+    {
+      "id": 1609730,
+      "title": "Time to Go",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8DFavYi2kK3FWAtsUbMsWWqMIa4.jpg",
+      "genres": [
+        "триллер",
+        "драма",
+        "криминал",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1609689,
+      "title": "Bu İşin Şakası Yok",
+      "release_date": "2026-01-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3SZuy7WyxKZJj25YvSBSG8rbkKM.jpg",
+      "genres": []
+    },
     {
       "id": 1609621,
       "title": "Новогодний мульт-парад",
@@ -48,12 +92,11 @@
       "id": 1608804,
       "title": "Juanjo Bona en Concierto",
       "release_date": "2026-01-04",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/derORAPof9KPimipNjjzVZ2N15p.jpg",
       "genres": [
         "документальный",
-        "музыка",
-        "телевизионный фильм"
+        "музыка"
       ]
     },
     {
@@ -67,48 +110,6 @@
         "драма",
         "комедия",
         "музыка"
-      ]
-    },
-    {
-      "id": 1608113,
-      "title": "Gross boy piercing",
-      "release_date": "2026-01-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/s9tH4qPxphy5i4wLfdttNvq9qnT.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1607440,
-      "title": "Tihar's End (तिहारको अन्त्य)",
-      "release_date": "2026-01-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yM8Y12PNErG6j1aqPjorLCMdEPH.jpg",
-      "genres": [
-        "документальный",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1605150,
-      "title": "Break N' Enter",
-      "release_date": "2026-01-04",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/drshUBykOjGwcREv030Zc5tflAk.jpg",
-      "genres": [
-        "боевик",
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1603247,
-      "title": "Each Day in a Moment: 2025",
-      "release_date": "2026-01-04",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
       ]
     }
   ],

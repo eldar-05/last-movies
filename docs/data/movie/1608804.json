@@ -5,22 +5,21 @@
   "overview": "",
   "release_date": "2026-01-04",
   "runtime": 85,
-  "vote_average": 0.0,
-  "vote_count": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
   "genres": [
     "документальный",
-    "музыка",
-    "телевизионный фильм"
+    "музыка"
   ],
   "original_language": "es",
   "spoken_languages": [
     "Spanish"
   ],
   "production_countries": [],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/derORAPof9KPimipNjjzVZ2N15p.jpg",
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1608804",
   "trailer": null,
-  "fetched_at_utc": "2026-01-04T12:25:46.410978+00:00",
+  "fetched_at_utc": "2026-01-04T18:19:01.374913+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

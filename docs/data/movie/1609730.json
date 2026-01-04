@@ -1,0 +1,29 @@
+{
+  "id": 1609730,
+  "title": "Time to Go",
+  "tagline": "",
+  "overview": "",
+  "release_date": "",
+  "runtime": 16,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "драма",
+    "криминал",
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "GB"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/8DFavYi2kK3FWAtsUbMsWWqMIa4.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1609730",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-04T18:19:00.191030+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
