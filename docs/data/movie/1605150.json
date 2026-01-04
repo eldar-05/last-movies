@@ -1,0 +1,29 @@
+{
+  "id": 1605150,
+  "title": "Break N' Enter",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-04",
+  "runtime": 10,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "боевик",
+    "ужасы"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/drshUBykOjGwcREv030Zc5tflAk.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/4funOJdzxrnVgu9ewJIXfAULCCi.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1605150",
+  "trailer": {
+    "key": "ubSN-myUz2s",
+    "name": "Break N' Enter | Teaser Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-04T01:13:36.778109+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

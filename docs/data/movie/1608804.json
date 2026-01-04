@@ -1,0 +1,26 @@
+{
+  "id": 1608804,
+  "title": "Juanjo Bona en Concierto",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-04",
+  "runtime": 85,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "музыка",
+    "телевизионный фильм"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1608804",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-04T01:13:35.765087+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

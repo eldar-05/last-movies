@@ -1,0 +1,25 @@
+{
+  "id": 1601107,
+  "title": "The 12 Ball",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-04",
+  "runtime": 9,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "боевик",
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/a3zHRUm7pabcG1BlqhB9f9SD9zH.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1601107",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-04T01:13:37.339887+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

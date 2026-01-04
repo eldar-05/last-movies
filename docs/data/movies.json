@@ -1,104 +1,116 @@
 {
-  "fetched_at_utc": "2026-01-03T18:18:33.661484+00:00",
+  "fetched_at_utc": "2026-01-04T01:13:37.340355+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1609042,
-      "title": "Les trésors des favorites des rois de France",
-      "release_date": "2026-01-03",
-      "vote_average": 8.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/96QiBY9rq1hNck155pYkQJFVkOy.jpg",
+      "id": 1609418,
+      "title": "konečná stanice",
+      "release_date": "2026-01-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/anuNnc5uiqY7uQHM7ECCqXH4Hy4.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1608864,
-      "title": "A Saigon-Noon",
-      "release_date": "2026-01-03",
+      "id": 1609305,
+      "title": "Rage en Ukraine : des vétériaires en première ligne",
+      "release_date": "2026-01-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zoRkZIdF2oowkTMDRDwq7nBPnsN.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hmUmH0P4Owr2jMNyOfr1jYs8VTW.jpg",
       "genres": [
-        "семейный",
         "документальный"
       ]
     },
     {
-      "id": 1608628,
-      "title": "Crazy Cattle 4D: Highlights War Zone",
-      "release_date": "2026-01-03",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/q2UYYz9pE9rI7z6fIv905uNn97A.jpg",
-      "genres": [
-        "драма",
-        "триллер",
-        "военный"
-      ]
-    },
-    {
-      "id": 1608579,
-      "title": "Anantha",
-      "release_date": "2026-01-03",
+      "id": 1609208,
+      "title": "We Love Poetry",
+      "release_date": "2026-01-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/y1GAbomStmF8dnvrsYzUGiqBFy4.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1607910,
-      "title": "Sans Jour",
-      "release_date": "2026-01-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/opeqr8MhiSyR94hj1r9QIz1ZYyv.jpg",
-      "genres": [
-        "комедия",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1606195,
-      "title": "quando chove em um sábado",
-      "release_date": "2026-01-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aFBM4I58sqMtFHLl2iBi9nUPRbv.jpg",
-      "genres": []
-    },
-    {
-      "id": 1605197,
-      "title": "Hijos de David",
-      "release_date": "2026-01-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lGVvBww9RKXnYI8BO6gNBCbcsf8.jpg",
-      "genres": []
-    },
-    {
-      "id": 1602848,
-      "title": "十惡不赦",
-      "release_date": "2026-01-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1g0y3AVW4E7Xt6k8cpdvzRcTDOw.jpg",
-      "genres": []
-    },
-    {
-      "id": 1600654,
-      "title": "Holy Shit!",
-      "release_date": "2026-01-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bZ4a4PHBnLXNJGQXmQWDGKztaPe.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/j9zvElvE1fiVgHKFieXXjqs2o6M.jpg",
       "genres": [
         "комедия"
       ]
     },
     {
-      "id": 1600134,
-      "title": "STARDOM NEW YEAR DREAM 2026〜Night〜",
-      "release_date": "2026-01-03",
+      "id": 1608804,
+      "title": "Juanjo Bona en Concierto",
+      "release_date": "2026-01-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/62SDa4V7GmM9cMjQ1aK7T1lDMIy.jpg",
-      "genres": []
+      "poster_url": null,
+      "genres": [
+        "документальный",
+        "музыка",
+        "телевизионный фильм"
+      ]
+    },
+    {
+      "id": 1608570,
+      "title": "TJPW Tokyo Joshi Pro '26!",
+      "release_date": "2026-01-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ytLyukC00s5avboKDGKWwIEI1Dl.jpg",
+      "genres": [
+        "боевик",
+        "драма",
+        "комедия",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1608113,
+      "title": "Gross boy piercing",
+      "release_date": "2026-01-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/s9tH4qPxphy5i4wLfdttNvq9qnT.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1607440,
+      "title": "Tihar's End (तिहारको अन्त्य)",
+      "release_date": "2026-01-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yM8Y12PNErG6j1aqPjorLCMdEPH.jpg",
+      "genres": [
+        "документальный",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1605150,
+      "title": "Break N' Enter",
+      "release_date": "2026-01-04",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/drshUBykOjGwcREv030Zc5tflAk.jpg",
+      "genres": [
+        "боевик",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1603247,
+      "title": "Each Day in a Moment: 2025",
+      "release_date": "2026-01-04",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1601107,
+      "title": "The 12 Ball",
+      "release_date": "2026-01-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/a3zHRUm7pabcG1BlqhB9f9SD9zH.jpg",
+      "genres": [
+        "боевик",
+        "комедия"
+      ]
     }
   ],
   "source": "TMDB",

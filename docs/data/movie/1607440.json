@@ -1,0 +1,26 @@
+{
+  "id": 1607440,
+  "title": "Tihar's End (तिहारको अन्त्य)",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-04",
+  "runtime": 2,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "музыка"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "NP",
+    "GB"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/yM8Y12PNErG6j1aqPjorLCMdEPH.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/8Rp7DgRdGXK81KIHqqu9M2h2tJ2.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1607440",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-04T01:13:36.592948+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

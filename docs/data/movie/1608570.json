@@ -1,0 +1,29 @@
+{
+  "id": 1608570,
+  "title": "TJPW Tokyo Joshi Pro '26!",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-04",
+  "runtime": 240,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "боевик",
+    "драма",
+    "комедия",
+    "музыка"
+  ],
+  "original_language": "ja",
+  "spoken_languages": [
+    "Japanese"
+  ],
+  "production_countries": [
+    "JP"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/ytLyukC00s5avboKDGKWwIEI1Dl.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/fb4UzXHDTJ7HQlG3Zsu2RfYAimW.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1608570",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-04T01:13:36.044215+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1609208,
+  "title": "We Love Poetry",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-04",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/j9zvElvE1fiVgHKFieXXjqs2o6M.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1609208",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-04T01:13:35.489981+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
