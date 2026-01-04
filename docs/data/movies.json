@@ -1,9 +1,19 @@
 {
-  "fetched_at_utc": "2026-01-04T06:20:59.771532+00:00",
+  "fetched_at_utc": "2026-01-04T12:25:47.251024+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1609621,
+      "title": "Новогодний мульт-парад",
+      "release_date": "2026-01-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/eTUmBnmOrJmo7GDHeKY7zuxiDMs.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1609418,
       "title": "konečná stanice",
@@ -99,17 +109,6 @@
       "poster_url": null,
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1601107,
-      "title": "The 12 Ball",
-      "release_date": "2026-01-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/a3zHRUm7pabcG1BlqhB9f9SD9zH.jpg",
-      "genres": [
-        "боевик",
-        "комедия"
       ]
     }
   ],
