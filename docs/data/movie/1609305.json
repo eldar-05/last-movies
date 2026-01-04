@@ -11,7 +11,11 @@
     "документальный"
   ],
   "original_language": "fr",
-  "spoken_languages": [],
+  "spoken_languages": [
+    "English",
+    "French",
+    "Ukrainian"
+  ],
   "production_countries": [
     "FR"
   ],
@@ -19,6 +23,6 @@
   "backdrop_url": "https://image.tmdb.org/t/p/w780/3oXI59KLLQYbrIMvoM4g3tCNCOE.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1609305",
   "trailer": null,
-  "fetched_at_utc": "2026-01-04T01:13:35.217611+00:00",
+  "fetched_at_utc": "2026-01-04T06:20:57.852372+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
