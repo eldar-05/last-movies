@@ -1,9 +1,20 @@
 {
-  "fetched_at_utc": "2026-01-05T06:27:28.405088+00:00",
+  "fetched_at_utc": "2026-01-05T12:30:27.109709+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1610017,
+      "title": "Un'arte del contatto - Incontro con Romeo Castelluci",
+      "release_date": "2026-01-05",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный",
+        "телевизионный фильм"
+      ]
+    },
     {
       "id": 1609972,
       "title": "Je ne veux qu'elle",
@@ -91,14 +102,6 @@
       "genres": [
         "документальный"
       ]
-    },
-    {
-      "id": 1585481,
-      "title": "Symphonies",
-      "release_date": "2026-01-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/i6NOdb24TDjPerHGRNncBfVqKyC.jpg",
-      "genres": []
     },
     {
       "id": 1577619,
