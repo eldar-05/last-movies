@@ -1,0 +1,28 @@
+{
+  "id": 1609770,
+  "title": "Paty",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-05",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм",
+    "ужасы",
+    "фэнтези"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/vk4TfPhTqn8y3VI1jPIGvJzbhKH.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/sqW7PM07VJHJvW7g1uTA7nhVHJK.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1609770",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-05T01:12:24.068232+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

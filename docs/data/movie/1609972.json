@@ -1,0 +1,28 @@
+{
+  "id": 1609972,
+  "title": "Je ne veux qu'elle",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-05",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "драма",
+    "мелодрама"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/jS4UW3nO2kzy6qz736Zui2ZoNj9.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/oNdTuQwrLXWy4MrhVTHhP7lYFXk.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1609972",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-05T01:12:23.716602+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

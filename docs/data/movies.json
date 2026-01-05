@@ -1,116 +1,112 @@
 {
-  "fetched_at_utc": "2026-01-04T18:19:01.593661+00:00",
+  "fetched_at_utc": "2026-01-05T01:12:25.329140+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1609851,
-      "title": "برگ‌های پاییزی",
-      "release_date": "2026-01-04",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8DZZn8e74JLcq3UJdtYKqtdrIbw.jpg",
+      "id": 1609972,
+      "title": "Je ne veux qu'elle",
+      "release_date": "2026-01-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jS4UW3nO2kzy6qz736Zui2ZoNj9.jpg",
       "genres": [
-        "ужасы",
         "документальный",
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1609840,
+      "title": "Musings From a Writer at the End of Days",
+      "release_date": "2026-01-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yUzIDHThb7hTs2snEYo2KSWCmr1.jpg",
+      "genres": [
+        "драма",
         "детектив"
       ]
     },
     {
-      "id": 1609787,
-      "title": "What's In The Case?",
-      "release_date": "",
+      "id": 1609770,
+      "title": "Paty",
+      "release_date": "2026-01-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vk4TfPhTqn8y3VI1jPIGvJzbhKH.jpg",
+      "genres": [
+        "мультфильм",
+        "ужасы",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1609608,
+      "title": "Corriedale: Backstage Pass",
+      "release_date": "2026-01-05",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "боевик",
-        "криминал"
+        "документальный"
       ]
     },
     {
-      "id": 1609730,
-      "title": "Time to Go",
-      "release_date": "",
+      "id": 1608472,
+      "title": "Sound Magazine Documentary",
+      "release_date": "2026-01-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8DFavYi2kK3FWAtsUbMsWWqMIa4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sfOhE8nFh1CSHwCgkofdTdJAWap.jpg",
       "genres": [
-        "триллер",
-        "драма",
-        "криминал",
-        "комедия"
+        "документальный",
+        "история"
       ]
     },
     {
-      "id": 1609689,
-      "title": "Bu İşin Şakası Yok",
-      "release_date": "2026-01-04",
+      "id": 1605735,
+      "title": "Special Agent Tak: The Return",
+      "release_date": "2026-01-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3SZuy7WyxKZJj25YvSBSG8rbkKM.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/57y8uNuKDaxcXUvplbATVSP9qmY.jpg",
+      "genres": [
+        "криминал",
+        "боевик"
+      ]
+    },
+    {
+      "id": 1591240,
+      "title": "Corriedale",
+      "release_date": "2026-01-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2fml28dRzoq6vkz4dGafZeXbsyd.jpg",
+      "genres": [
+        "драма",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1587536,
+      "title": "Return: Salvando a las Tortugas",
+      "release_date": "2026-01-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/AcjOcFvLiMRhqLC6JOAQMfyNEr1.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1585481,
+      "title": "Symphonies",
+      "release_date": "2026-01-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/i6NOdb24TDjPerHGRNncBfVqKyC.jpg",
       "genres": []
     },
     {
-      "id": 1609621,
-      "title": "Новогодний мульт-парад",
-      "release_date": "2026-01-04",
+      "id": 1577619,
+      "title": "NJPW New Year Dash !! 2026",
+      "release_date": "2026-01-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eTUmBnmOrJmo7GDHeKY7zuxiDMs.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1609418,
-      "title": "konečná stanice",
-      "release_date": "2026-01-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/anuNnc5uiqY7uQHM7ECCqXH4Hy4.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1609305,
-      "title": "Rage en Ukraine : des vétériaires en première ligne",
-      "release_date": "2026-01-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hmUmH0P4Owr2jMNyOfr1jYs8VTW.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1609208,
-      "title": "We Love Poetry",
-      "release_date": "2026-01-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/j9zvElvE1fiVgHKFieXXjqs2o6M.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1608804,
-      "title": "Juanjo Bona en Concierto",
-      "release_date": "2026-01-04",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/derORAPof9KPimipNjjzVZ2N15p.jpg",
-      "genres": [
-        "документальный",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1608570,
-      "title": "TJPW Tokyo Joshi Pro '26!",
-      "release_date": "2026-01-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ytLyukC00s5avboKDGKWwIEI1Dl.jpg",
-      "genres": [
-        "боевик",
-        "драма",
-        "комедия",
-        "музыка"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/hN78S6sxR1JdizV83rWKi0Lc05V.jpg",
+      "genres": []
     }
   ],
   "source": "TMDB",

@@ -1,0 +1,31 @@
+{
+  "id": 1591240,
+  "title": "Corriedale",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-05",
+  "runtime": 60,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "триллер"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "GB"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/2fml28dRzoq6vkz4dGafZeXbsyd.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/dsUX7HRTFXopHLXZXygmY5E2Xy1.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1591240",
+  "trailer": {
+    "key": "lfx-KTDMd14",
+    "name": "Brand-New Corriedale Trailer!",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-05T01:12:24.799865+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
