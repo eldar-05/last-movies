@@ -4,7 +4,7 @@
   "tagline": "",
   "overview": "",
   "release_date": "2026-01-05",
-  "runtime": 0,
+  "runtime": 196,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [],
@@ -15,9 +15,9 @@
   ],
   "production_countries": [],
   "poster_url": "https://image.tmdb.org/t/p/w500/hN78S6sxR1JdizV83rWKi0Lc05V.jpg",
-  "backdrop_url": "https://image.tmdb.org/t/p/w780/ol7uh8v5RZc5rBgRfE6DsPFCey4.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/baj1Yu6qip90T1eomvV26iywQ4g.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1577619",
   "trailer": null,
-  "fetched_at_utc": "2026-01-05T12:30:27.109363+00:00",
+  "fetched_at_utc": "2026-01-05T18:21:57.344706+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

@@ -4,7 +4,7 @@
   "tagline": "",
   "overview": "",
   "release_date": "2026-01-05",
-  "runtime": 60,
+  "runtime": 44,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
@@ -26,6 +26,6 @@
     "name": "Brand-New Corriedale Trailer!",
     "type": "Trailer"
   },
-  "fetched_at_utc": "2026-01-05T12:30:26.469810+00:00",
+  "fetched_at_utc": "2026-01-05T18:21:56.656707+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
