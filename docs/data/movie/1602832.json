@@ -1,0 +1,29 @@
+{
+  "id": 1602832,
+  "title": "มนต์รักพิศวาส",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-06",
+  "runtime": 32,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "фэнтези",
+    "музыка",
+    "мелодрама"
+  ],
+  "original_language": "th",
+  "spoken_languages": [
+    "Thai"
+  ],
+  "production_countries": [
+    "TH"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/z7hiWcVRkoMlC9XqCEaQL5skScz.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/5EDyCqLmOcfmHwRC8ZeR77FUE6H.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1602832",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-06T01:06:32.603581+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

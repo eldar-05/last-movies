@@ -1,115 +1,113 @@
 {
-  "fetched_at_utc": "2026-01-05T18:21:57.345250+00:00",
+  "fetched_at_utc": "2026-01-06T01:06:33.779820+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1610017,
-      "title": "Un'arte del contatto - Incontro con Romeo Castelluci",
-      "release_date": "2026-01-05",
+      "id": 1610404,
+      "title": "little snow",
+      "release_date": "2026-01-06",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9Fxy9jY9C5TcP6oqvDChQ7JylIA.jpg",
       "genres": [
-        "документальный",
-        "телевизионный фильм"
+        "ужасы"
       ]
     },
     {
-      "id": 1609972,
-      "title": "Je ne veux qu'elle",
-      "release_date": "2026-01-05",
+      "id": 1608498,
+      "title": "Notturno, 21",
+      "release_date": "2026-01-06",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jS4UW3nO2kzy6qz736Zui2ZoNj9.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dvqbQMIKB5ZgvVEAEOPBgUXPsNR.jpg",
       "genres": [
-        "документальный",
-        "драма",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1608205,
+      "title": "Shopping with sorrow and wet hair",
+      "release_date": "2026-01-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/A3wKo1nurgacnV2AjljTp8ConGz.jpg",
+      "genres": []
+    },
+    {
+      "id": 1602832,
+      "title": "มนต์รักพิศวาส",
+      "release_date": "2026-01-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/z7hiWcVRkoMlC9XqCEaQL5skScz.jpg",
+      "genres": [
+        "комедия",
+        "фэнтези",
+        "музыка",
         "мелодрама"
       ]
     },
     {
-      "id": 1609840,
-      "title": "Musings From a Writer at the End of Days",
-      "release_date": "2026-01-05",
+      "id": 1600845,
+      "title": "Mandala",
+      "release_date": "2026-01-06",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yUzIDHThb7hTs2snEYo2KSWCmr1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yLI9y8vHH1K3lwDR52jOVqXwj45.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1596338,
+      "title": "BREAK IN",
+      "release_date": "2026-01-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vOV5ckpHq5g0lLME6xKYUV6ccCD.jpg",
       "genres": [
         "драма",
-        "детектив"
+        "криминал"
       ]
     },
     {
-      "id": 1609770,
-      "title": "Paty",
-      "release_date": "2026-01-05",
+      "id": 1585377,
+      "title": "Bombshell",
+      "release_date": "2026-01-06",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vk4TfPhTqn8y3VI1jPIGvJzbhKH.jpg",
-      "genres": [
-        "мультфильм",
-        "ужасы",
-        "фэнтези"
-      ]
-    },
-    {
-      "id": 1609608,
-      "title": "Corriedale: Backstage Pass",
-      "release_date": "2026-01-05",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1608472,
-      "title": "Sound Magazine Documentary",
-      "release_date": "2026-01-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sfOhE8nFh1CSHwCgkofdTdJAWap.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/utgV3qd4zLoJp9AKsR9y0Jh9MV9.jpg",
       "genres": [
         "документальный",
         "история"
       ]
     },
     {
-      "id": 1605735,
-      "title": "Special Agent Tak: The Return",
-      "release_date": "2026-01-05",
+      "id": 1578461,
+      "title": "El Otro Inquilino",
+      "release_date": "2026-01-06",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/57y8uNuKDaxcXUvplbATVSP9qmY.jpg",
+      "poster_url": null,
       "genres": [
-        "криминал",
-        "боевик"
+        "фантастика",
+        "ужасы"
       ]
     },
     {
-      "id": 1591240,
-      "title": "Corriedale",
-      "release_date": "2026-01-05",
+      "id": 1571406,
+      "title": "ΣΚΙΕΣ",
+      "release_date": "2026-01-06",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2fml28dRzoq6vkz4dGafZeXbsyd.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/h9ilW1Ka7q7Hx6TWZEzThBjSgoz.jpg",
       "genres": [
-        "драма",
+        "ужасы",
         "триллер"
       ]
     },
     {
-      "id": 1587536,
-      "title": "Return: Salvando a las Tortugas",
-      "release_date": "2026-01-05",
+      "id": 1323410,
+      "title": "月光里的男孩",
+      "release_date": "2026-01-06",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/AcjOcFvLiMRhqLC6JOAQMfyNEr1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1OpiJUxYEfchgZcAK5JdRMb4fMd.jpg",
       "genres": [
-        "документальный"
+        "драма"
       ]
-    },
-    {
-      "id": 1577619,
-      "title": "NJPW New Year Dash !! 2026",
-      "release_date": "2026-01-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hN78S6sxR1JdizV83rWKi0Lc05V.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",

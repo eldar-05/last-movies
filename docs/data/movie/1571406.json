@@ -1,0 +1,31 @@
+{
+  "id": 1571406,
+  "title": "ΣΚΙΕΣ",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-06",
+  "runtime": 14,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "триллер"
+  ],
+  "original_language": "el",
+  "spoken_languages": [
+    "Greek"
+  ],
+  "production_countries": [
+    "GR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/h9ilW1Ka7q7Hx6TWZEzThBjSgoz.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/jRGw8k0Jh9KP1xGqwbXbLf5OZ5u.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1571406",
+  "trailer": {
+    "key": "1VP-NC_nJyY",
+    "name": "Shadows (2026) - ΣΚΙΕΣ | Official Trailer | Short Horror Film",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-06T01:06:33.617072+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
