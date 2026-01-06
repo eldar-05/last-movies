@@ -1,0 +1,26 @@
+{
+  "id": 1610988,
+  "title": "Redbull Jernhest",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-06",
+  "runtime": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "da",
+  "spoken_languages": [
+    "Danish"
+  ],
+  "production_countries": [
+    "DK"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/yYPHEusEGw3WZMq8FHybAAsr1Wp.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/k2SfYAP5M9ui7HURE9Be8dDLiPp.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1610988",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-06T18:20:42.557805+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
