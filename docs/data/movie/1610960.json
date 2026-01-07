@@ -1,0 +1,26 @@
+{
+  "id": 1610960,
+  "title": "Un seul héros le peuple",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-07",
+  "runtime": 30,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "ar",
+  "spoken_languages": [
+    "Arabic",
+    "English",
+    "French"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/xbBnskaRZIIacOhkLS7B1GG9niI.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/uVrSfKsmnnbpGhALctqyDean6l6.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1610960",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-07T01:06:49.328861+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

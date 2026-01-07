@@ -1,0 +1,27 @@
+{
+  "id": 1609329,
+  "title": "Səkkiz II",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-07",
+  "runtime": 60,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "криминал",
+    "триллер",
+    "ужасы",
+    "детектив"
+  ],
+  "original_language": "az",
+  "spoken_languages": [
+    "Azerbaijani"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/3fElAyolV8FNjFuYDyODo4IqrdS.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1609329",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-07T01:06:50.179868+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
