@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-01-07T01:06:50.999428+00:00",
+  "fetched_at_utc": "2026-01-07T06:22:54.580677+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -69,8 +69,8 @@
     {
       "id": 1609305,
       "title": "Rage en Ukraine : des vétériaires en première ligne",
-      "release_date": "2026-01-04",
-      "vote_average": 0.0,
+      "release_date": "2026-01-07",
+      "vote_average": 10.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/hmUmH0P4Owr2jMNyOfr1jYs8VTW.jpg",
       "genres": [
         "документальный"

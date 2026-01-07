@@ -3,10 +3,10 @@
   "title": "Rage en Ukraine : des vétériaires en première ligne",
   "tagline": "",
   "overview": "",
-  "release_date": "2026-01-04",
+  "release_date": "2026-01-07",
   "runtime": 0,
-  "vote_average": 0.0,
-  "vote_count": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
   "genres": [
     "документальный"
   ],
@@ -23,6 +23,6 @@
   "backdrop_url": "https://image.tmdb.org/t/p/w780/3oXI59KLLQYbrIMvoM4g3tCNCOE.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1609305",
   "trailer": null,
-  "fetched_at_utc": "2026-01-07T01:06:50.367929+00:00",
+  "fetched_at_utc": "2026-01-07T06:22:54.102602+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
