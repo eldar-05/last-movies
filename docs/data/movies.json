@@ -1,9 +1,37 @@
 {
-  "fetched_at_utc": "2026-01-07T12:29:48.972406+00:00",
+  "fetched_at_utc": "2026-01-07T18:21:41.134096+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1611695,
+      "title": "ASPAN",
+      "release_date": "2026-01-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kbjbuuYIkyW007LpmpJPikBnPsN.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1611622,
+      "title": "Enfumés, j'ai infiltré l'industrie de la vape - Le documentaire",
+      "release_date": "2026-01-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2kpZM6HU1qWEK3M0ZrWPbFIhLn4.jpg",
+      "genres": []
+    },
+    {
+      "id": 1611613,
+      "title": "70 Anos da Universidade Federal do Ceará",
+      "release_date": "2026-01-07",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1611281,
       "title": "Fête des Lumières",
@@ -74,34 +102,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/hmUmH0P4Owr2jMNyOfr1jYs8VTW.jpg",
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1609144,
-      "title": "Tempi supplementari",
-      "release_date": "2026-01-07",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1608946,
-      "title": "The Basement",
-      "release_date": "2026-01-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/goQ1RkhknYXG4dUYJiePw6xcbBl.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1608943,
-      "title": "ភូមិមរណៈ",
-      "release_date": "2026-01-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4Wa3sUvVbbmdYz9LnhmvxSShrSE.jpg",
-      "genres": [
-        "ужасы"
       ]
     }
   ],
