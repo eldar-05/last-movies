@@ -1,0 +1,29 @@
+{
+  "id": 1608810,
+  "title": "Never Fear Man",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-08",
+  "runtime": 33,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "криминал"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "AU"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/njiIcnJfOtvtc3F25mar2UyiTMp.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/3fZmBsBPTXk1Y10vsWYzZ05l4DV.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1608810",
+  "trailer": {
+    "key": "TQzVL_mWeEE",
+    "name": "Never Fear Man | Official Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-08T01:06:56.094960+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

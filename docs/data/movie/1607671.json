@@ -1,0 +1,26 @@
+{
+  "id": 1607671,
+  "title": "Father",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-08",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "si",
+  "spoken_languages": [
+    "Sinhalese"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/fzscAxC6NYmTPiptQbaUYFQokZZ.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1607671",
+  "trailer": {
+    "key": "wZq_svKB0KQ",
+    "name": "Father ( ෆාදර් ) - Official Movie Trailer | Saumya | Poojana | Dilhani | Jagath",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-08T01:06:56.363730+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

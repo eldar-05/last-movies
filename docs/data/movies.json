@@ -1,107 +1,106 @@
 {
-  "fetched_at_utc": "2026-01-07T18:21:41.134096+00:00",
+  "fetched_at_utc": "2026-01-08T01:06:57.577234+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1611695,
-      "title": "ASPAN",
-      "release_date": "2026-01-07",
+      "id": 1611604,
+      "title": "Vague Times",
+      "release_date": "2026-01-08",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kbjbuuYIkyW007LpmpJPikBnPsN.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1611622,
-      "title": "Enfumés, j'ai infiltré l'industrie de la vape - Le documentaire",
-      "release_date": "2026-01-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2kpZM6HU1qWEK3M0ZrWPbFIhLn4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qdUBnB5yINsr359WBqBNBqOg1V4.jpg",
       "genres": []
     },
     {
-      "id": 1611613,
-      "title": "70 Anos da Universidade Federal do Ceará",
-      "release_date": "2026-01-07",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "id": 1611398,
+      "title": "Un Hombre por Semana",
+      "release_date": "2026-01-08",
+      "vote_average": 6.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ynrvcl6e3Ev0SGkpPeXdhfdv1Pt.jpg",
       "genres": [
-        "документальный"
+        "комедия"
       ]
     },
     {
-      "id": 1611281,
-      "title": "Fête des Lumières",
-      "release_date": "2026-01-07",
+      "id": 1610924,
+      "title": "The Memory Jar",
+      "release_date": "2026-01-08",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aNeAJMPzJpl9R1iQrH3oEM5vUNB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/u31IEfEwM5cU896qXx9HjNgkkvC.jpg",
       "genres": [
-        "музыка"
+        "драма",
+        "семейный"
       ]
     },
     {
-      "id": 1610960,
-      "title": "Un seul héros le peuple",
-      "release_date": "2026-01-07",
+      "id": 1610720,
+      "title": "Suit & Tied Execution",
+      "release_date": "2026-01-08",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xbBnskaRZIIacOhkLS7B1GG9niI.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1610611,
-      "title": "Rekviyem",
-      "release_date": "2026-01-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jcCzxVOIVGSfV7IaOJT3W105y45.jpg",
-      "genres": []
-    },
-    {
-      "id": 1610343,
-      "title": "บอล888",
-      "release_date": "2026-01-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/u7tXcmogZrCwpfF3OHuj9T8BsVJ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/i3kayu4sQs4m4FSTPPTDlLB6cR0.jpg",
       "genres": [
         "комедия",
-        "драма"
-      ]
-    },
-    {
-      "id": 1609645,
-      "title": "Istanbul: Chronopolis",
-      "release_date": "2026-01-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/m2Ya5eH9vb0eV1GO7k4VB6yVTAk.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1609329,
-      "title": "Səkkiz II",
-      "release_date": "2026-01-07",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3fElAyolV8FNjFuYDyODo4IqrdS.jpg",
-      "genres": [
-        "криминал",
-        "триллер",
         "ужасы",
-        "детектив"
+        "криминал",
+        "триллер"
       ]
     },
     {
-      "id": 1609305,
-      "title": "Rage en Ukraine : des vétériaires en première ligne",
-      "release_date": "2026-01-07",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hmUmH0P4Owr2jMNyOfr1jYs8VTW.jpg",
+      "id": 1610312,
+      "title": "The City With Annie",
+      "release_date": "2026-01-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aTjYgsf2M99mSM36Ax90cBHblkS.jpg",
+      "genres": []
+    },
+    {
+      "id": 1608810,
+      "title": "Never Fear Man",
+      "release_date": "2026-01-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/njiIcnJfOtvtc3F25mar2UyiTMp.jpg",
       "genres": [
-        "документальный"
+        "триллер",
+        "криминал"
+      ]
+    },
+    {
+      "id": 1607671,
+      "title": "Father",
+      "release_date": "2026-01-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fzscAxC6NYmTPiptQbaUYFQokZZ.jpg",
+      "genres": []
+    },
+    {
+      "id": 1607630,
+      "title": "LEMON!!!",
+      "release_date": "2026-01-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oMR33dOljHd9B48sW2fX5tOMc0o.jpg",
+      "genres": []
+    },
+    {
+      "id": 1607401,
+      "title": "François Mitterrand, une autre vie possible",
+      "release_date": "2026-01-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cELz6B4RhbHN1dGVyRlyVDIhUUR.jpg",
+      "genres": [
+        "документальный",
+        "история"
+      ]
+    },
+    {
+      "id": 1606912,
+      "title": "Volver a los 17",
+      "release_date": "2026-01-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/etzThCbeYmZnfmO7f7KpzQ64xSW.jpg",
+      "genres": [
+        "комедия",
+        "мелодрама"
       ]
     }
   ],

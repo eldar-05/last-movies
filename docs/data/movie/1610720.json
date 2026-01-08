@@ -1,0 +1,33 @@
+{
+  "id": 1610720,
+  "title": "Suit & Tied Execution",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-08",
+  "runtime": 6,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "ужасы",
+    "криминал",
+    "триллер"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "CL"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/i3kayu4sQs4m4FSTPPTDlLB6cR0.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/uRLMWZweAxDmNKGcL28i7yuh5px.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1610720",
+  "trailer": {
+    "key": "ExJmbt_kzQU",
+    "name": "Suit & Tie Execution trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-08T01:06:55.462931+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
