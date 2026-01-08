@@ -1,9 +1,30 @@
 {
-  "fetched_at_utc": "2026-01-08T12:30:09.492445+00:00",
+  "fetched_at_utc": "2026-01-08T18:19:01.673314+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1612292,
+      "title": "Can I Come In?",
+      "release_date": "2026-01-08",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1612071,
+      "title": "Elaichi Ek Prem Katha",
+      "release_date": "2026-01-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/uaHRJYzURYiNyZmF0p0bTiQMpOK.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
+      ]
+    },
     {
       "id": 1611989,
       "title": "Silent Screams : The Lost Girls Of Telangana",
@@ -25,6 +46,16 @@
       ]
     },
     {
+      "id": 1611818,
+      "title": "Chaos in The City",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/q7z10uepl6FadSIcuiaVTfSIiVJ.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
       "id": 1611604,
       "title": "Vague Times",
       "release_date": "2026-01-08",
@@ -36,7 +67,7 @@
       "id": 1611398,
       "title": "Un Hombre por Semana",
       "release_date": "2026-01-08",
-      "vote_average": 6.0,
+      "vote_average": 7.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/ynrvcl6e3Ev0SGkpPeXdhfdv1Pt.jpg",
       "genres": [
         "комедия"
@@ -72,35 +103,6 @@
       "release_date": "2026-01-08",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/aTjYgsf2M99mSM36Ax90cBHblkS.jpg",
-      "genres": []
-    },
-    {
-      "id": 1609125,
-      "title": "手遮天",
-      "release_date": "2026-01-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/auFCJcZcUmAWxd50Ch1IJ0SdU91.jpg",
-      "genres": [
-        "боевик"
-      ]
-    },
-    {
-      "id": 1608810,
-      "title": "Never Fear Man",
-      "release_date": "2026-01-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/njiIcnJfOtvtc3F25mar2UyiTMp.jpg",
-      "genres": [
-        "триллер",
-        "криминал"
-      ]
-    },
-    {
-      "id": 1607671,
-      "title": "Father",
-      "release_date": "2026-01-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fzscAxC6NYmTPiptQbaUYFQokZZ.jpg",
       "genres": []
     }
   ],

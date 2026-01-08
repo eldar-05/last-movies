@@ -5,18 +5,20 @@
   "overview": "",
   "release_date": "2026-01-08",
   "runtime": 0,
-  "vote_average": 6.0,
+  "vote_average": 7.0,
   "vote_count": 1,
   "genres": [
     "комедия"
   ],
   "original_language": "es",
-  "spoken_languages": [],
+  "spoken_languages": [
+    "Spanish"
+  ],
   "production_countries": [],
   "poster_url": "https://image.tmdb.org/t/p/w500/ynrvcl6e3Ev0SGkpPeXdhfdv1Pt.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/5T1W9Jx9ollJkrKrBoPxy3zPHzp.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1611398",
   "trailer": null,
-  "fetched_at_utc": "2026-01-08T12:30:07.653570+00:00",
+  "fetched_at_utc": "2026-01-08T18:19:01.169391+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
