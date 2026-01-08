@@ -1,9 +1,29 @@
 {
-  "fetched_at_utc": "2026-01-08T06:23:01.532185+00:00",
+  "fetched_at_utc": "2026-01-08T12:30:09.492445+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1611989,
+      "title": "Silent Screams : The Lost Girls Of Telangana",
+      "release_date": "2026-01-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6EIEDxGssaf0ulxF7Z8YyzJHg72.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1611889,
+      "title": "蜜恋合租",
+      "release_date": "2026-01-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5NHKEabv4CeC3ZgP7OPekOUTBgL.jpg",
+      "genres": [
+        "мелодрама"
+      ]
+    },
     {
       "id": 1611604,
       "title": "Vague Times",
@@ -55,6 +75,16 @@
       "genres": []
     },
     {
+      "id": 1609125,
+      "title": "手遮天",
+      "release_date": "2026-01-08",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/auFCJcZcUmAWxd50Ch1IJ0SdU91.jpg",
+      "genres": [
+        "боевик"
+      ]
+    },
+    {
       "id": 1608810,
       "title": "Never Fear Man",
       "release_date": "2026-01-08",
@@ -72,36 +102,6 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/fzscAxC6NYmTPiptQbaUYFQokZZ.jpg",
       "genres": []
-    },
-    {
-      "id": 1607630,
-      "title": "LEMON!!!",
-      "release_date": "2026-01-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oMR33dOljHd9B48sW2fX5tOMc0o.jpg",
-      "genres": []
-    },
-    {
-      "id": 1607401,
-      "title": "François Mitterrand, une autre vie possible",
-      "release_date": "2026-01-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cELz6B4RhbHN1dGVyRlyVDIhUUR.jpg",
-      "genres": [
-        "документальный",
-        "история"
-      ]
-    },
-    {
-      "id": 1606912,
-      "title": "Volver a los 17",
-      "release_date": "2026-01-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/etzThCbeYmZnfmO7f7KpzQ64xSW.jpg",
-      "genres": [
-        "комедия",
-        "мелодрама"
-      ]
     }
   ],
   "source": "TMDB",
