@@ -9,7 +9,8 @@
   "vote_count": 0,
   "genres": [
     "детектив",
-    "триллер"
+    "триллер",
+    "телевизионный фильм"
   ],
   "original_language": "en",
   "spoken_languages": [],
@@ -18,6 +19,6 @@
   "backdrop_url": "https://image.tmdb.org/t/p/w780/kFmnD6deQs8ONAwooh7A11RMJGr.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1611384",
   "trailer": null,
-  "fetched_at_utc": "2026-01-09T06:22:42.396695+00:00",
+  "fetched_at_utc": "2026-01-09T12:28:55.800534+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

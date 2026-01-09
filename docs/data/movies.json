@@ -1,15 +1,53 @@
 {
-  "fetched_at_utc": "2026-01-09T06:22:44.084441+00:00",
+  "fetched_at_utc": "2026-01-09T12:28:56.341692+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1612552,
+      "title": "Roaming",
+      "release_date": "2026-01-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/teCZn9jM3LqBGFnHwUciMjgsiMT.jpg",
+      "genres": []
+    },
+    {
+      "id": 1612546,
+      "title": "特殊检测",
+      "release_date": "2026-01-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cBLogZC2cGEGHMKwaYhZ39zc5I0.jpg",
+      "genres": []
+    },
+    {
+      "id": 1612542,
+      "title": "Between The Living & The Dead, The Lovers Reside",
+      "release_date": "2026-01-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mcFD2QnU42KROL0YtO50OXnnEM7.jpg",
+      "genres": [
+        "драма",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1612536,
+      "title": "Buried",
+      "release_date": "2026-01-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qpwBXV3LB2Ek0WDcPmVdCiR3xBe.jpg",
+      "genres": [
+        "триллер",
+        "драма"
+      ]
+    },
+    {
       "id": 1612504,
       "title": "18 or the Daisies Withers",
-      "release_date": "",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "release_date": "2026-01-09",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hDeG87Gb9dfXsrUb3UfqXH2AXxq.jpg",
       "genres": [
         "ужасы",
         "драма"
@@ -45,7 +83,8 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/nzQQsZBy0H86TTl6OMh9yJH9reL.jpg",
       "genres": [
         "детектив",
-        "триллер"
+        "триллер",
+        "телевизионный фильм"
       ]
     },
     {
@@ -66,50 +105,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/bBkl9ttHa6HEOdNCr2cbPtN6cTo.jpg",
       "genres": [
         "ужасы"
-      ]
-    },
-    {
-      "id": 1604231,
-      "title": "Hafiz & Friends: We Were Always Meant to Be Here",
-      "release_date": "2026-01-09",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1601243,
-      "title": "Оскар Шоу",
-      "release_date": "2026-01-09",
-      "vote_average": 1.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
-      "genres": [
-        "боевик",
-        "криминал",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1594638,
-      "title": "Tangerine",
-      "release_date": "2026-01-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/1mqOzaixf3zUeB75Kpv7WmeNvJ7.jpg",
-      "genres": [
-        "музыка"
-      ]
-    },
-    {
-      "id": 1591654,
-      "title": "A Gangster's Life",
-      "release_date": "2026-01-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/v7K6zal9otOPE6NISOnQ5XDR5va.jpg",
-      "genres": [
-        "криминал",
-        "комедия"
       ]
     }
   ],

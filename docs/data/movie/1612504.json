@@ -3,20 +3,25 @@
   "title": "18 or the Daisies Withers",
   "tagline": "",
   "overview": "",
-  "release_date": "",
-  "runtime": 0,
-  "vote_average": 0.0,
-  "vote_count": 0,
-  "genres": [],
+  "release_date": "2026-01-09",
+  "runtime": 13,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "ужасы",
+    "драма"
+  ],
   "original_language": "fr",
   "spoken_languages": [
     "French"
   ],
-  "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/hDeG87Gb9dfXsrUb3UfqXH2AXxq.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/rE2hgj4dvcOJCPEdDDgzn85tu5K.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1612504",
   "trailer": null,
-  "fetched_at_utc": "2026-01-09T06:22:41.315238+00:00",
+  "fetched_at_utc": "2026-01-09T12:28:55.007570+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
