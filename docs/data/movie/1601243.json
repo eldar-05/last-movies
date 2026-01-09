@@ -1,0 +1,30 @@
+{
+  "id": 1601243,
+  "title": "Оскар Шоу",
+  "tagline": "",
+  "overview": "После ухода из полиции решительный детектив берет на себя личную миссию отомстить за смерть своего лучшего друга. Он берется за сложную задачу восстановления справедливости на улицах, чего ему не удалось достичь во время службы..",
+  "release_date": "2026-01-09",
+  "runtime": 93,
+  "vote_average": 1.0,
+  "vote_count": 1,
+  "genres": [
+    "боевик",
+    "криминал",
+    "триллер"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/6D6M5z4reppUxo2cnBEKI02Csp1.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1601243",
+  "trailer": {
+    "key": "ZMlCJQ2SefU",
+    "name": "Official Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-09T01:07:15.592932+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

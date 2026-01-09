@@ -1,0 +1,24 @@
+{
+  "id": 1612284,
+  "title": "Mr. Box Cutter",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-09",
+  "runtime": 4,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "криминал",
+    "триллер",
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/v5bwCXqLQUALayQKCPHa5ovxSpQ.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/pl4FlaB37sIeFcqMSpqoWlgKHWz.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1612284",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-09T01:07:13.975729+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

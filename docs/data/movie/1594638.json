@@ -1,0 +1,28 @@
+{
+  "id": 1594638,
+  "title": "Tangerine",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-09",
+  "runtime": 5,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "музыка"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "CA"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/1mqOzaixf3zUeB75Kpv7WmeNvJ7.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/oDudpAQ1RGk28oNA6NCsbeuGQda.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1594638",
+  "trailer": {
+    "key": "bLzWDFLg6js",
+    "name": "Tangerine Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-09T01:07:15.816048+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

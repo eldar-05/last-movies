@@ -1,0 +1,29 @@
+{
+  "id": 1604231,
+  "title": "Hafiz & Friends: We Were Always Meant to Be Here",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-09",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "музыка"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "ID"
+  ],
+  "poster_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/wQXQDJcpi9KinjV8IHg4Xp1PGJj.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1604231",
+  "trailer": {
+    "key": "B2_CnoeVRYo",
+    "name": "Hafiz & Friends: We Were Always Meant to Be Here (Official Trailer)",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-09T01:07:15.392747+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

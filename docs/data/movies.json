@@ -1,109 +1,116 @@
 {
-  "fetched_at_utc": "2026-01-08T18:19:01.673314+00:00",
+  "fetched_at_utc": "2026-01-09T01:07:16.017982+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1612292,
-      "title": "Can I Come In?",
-      "release_date": "2026-01-08",
+      "id": 1612504,
+      "title": "18 or the Daisies Withers",
+      "release_date": "",
       "vote_average": 0.0,
       "poster_url": null,
+      "genres": [
+        "ужасы",
+        "драма"
+      ]
+    },
+    {
+      "id": 1612284,
+      "title": "Mr. Box Cutter",
+      "release_date": "2026-01-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/v5bwCXqLQUALayQKCPHa5ovxSpQ.jpg",
+      "genres": [
+        "криминал",
+        "триллер",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1612057,
+      "title": "Tila 2026",
+      "release_date": "2026-01-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jSXE4l8grFfENEuAeZNRmUPTcmH.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1611384,
+      "title": "The Pastor Who Preys",
+      "release_date": "2026-01-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nzQQsZBy0H86TTl6OMh9yJH9reL.jpg",
+      "genres": [
+        "детектив",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1610829,
+      "title": "Velleppam",
+      "release_date": "2026-01-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/u2EA3nwPkVNYbOh5txAd6xkhRE9.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1607760,
+      "title": "Where Have You Gone, Girl?",
+      "release_date": "2026-01-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bBkl9ttHa6HEOdNCr2cbPtN6cTo.jpg",
       "genres": [
         "ужасы"
       ]
     },
     {
-      "id": 1612071,
-      "title": "Elaichi Ek Prem Katha",
-      "release_date": "2026-01-08",
+      "id": 1604231,
+      "title": "Hafiz & Friends: We Were Always Meant to Be Here",
+      "release_date": "2026-01-09",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uaHRJYzURYiNyZmF0p0bTiQMpOK.jpg",
+      "poster_url": null,
       "genres": [
-        "драма",
-        "мелодрама"
+        "документальный",
+        "музыка"
       ]
     },
     {
-      "id": 1611989,
-      "title": "Silent Screams : The Lost Girls Of Telangana",
-      "release_date": "2026-01-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6EIEDxGssaf0ulxF7Z8YyzJHg72.jpg",
+      "id": 1601243,
+      "title": "Оскар Шоу",
+      "release_date": "2026-01-09",
+      "vote_average": 1.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
       "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1611889,
-      "title": "蜜恋合租",
-      "release_date": "2026-01-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5NHKEabv4CeC3ZgP7OPekOUTBgL.jpg",
-      "genres": [
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1611818,
-      "title": "Chaos in The City",
-      "release_date": "",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/q7z10uepl6FadSIcuiaVTfSIiVJ.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1611604,
-      "title": "Vague Times",
-      "release_date": "2026-01-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qdUBnB5yINsr359WBqBNBqOg1V4.jpg",
-      "genres": []
-    },
-    {
-      "id": 1611398,
-      "title": "Un Hombre por Semana",
-      "release_date": "2026-01-08",
-      "vote_average": 7.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ynrvcl6e3Ev0SGkpPeXdhfdv1Pt.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1610924,
-      "title": "The Memory Jar",
-      "release_date": "2026-01-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/u31IEfEwM5cU896qXx9HjNgkkvC.jpg",
-      "genres": [
-        "драма",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1610720,
-      "title": "Suit & Tied Execution",
-      "release_date": "2026-01-08",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/i3kayu4sQs4m4FSTPPTDlLB6cR0.jpg",
-      "genres": [
-        "комедия",
-        "ужасы",
+        "боевик",
         "криминал",
         "триллер"
       ]
     },
     {
-      "id": 1610312,
-      "title": "The City With Annie",
-      "release_date": "2026-01-08",
+      "id": 1594638,
+      "title": "Tangerine",
+      "release_date": "2026-01-09",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aTjYgsf2M99mSM36Ax90cBHblkS.jpg",
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/1mqOzaixf3zUeB75Kpv7WmeNvJ7.jpg",
+      "genres": [
+        "музыка"
+      ]
+    },
+    {
+      "id": 1591654,
+      "title": "A Gangster's Life",
+      "release_date": "2026-01-09",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/v7K6zal9otOPE6NISOnQ5XDR5va.jpg",
+      "genres": [
+        "криминал",
+        "комедия"
+      ]
     }
   ],
   "source": "TMDB",

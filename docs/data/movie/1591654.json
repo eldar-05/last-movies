@@ -1,0 +1,31 @@
+{
+  "id": 1591654,
+  "title": "A Gangster's Life",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-09",
+  "runtime": 93,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "криминал",
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "GB"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/v7K6zal9otOPE6NISOnQ5XDR5va.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/lq2wy4hY2iqcCRIn7Teh07QjfxR.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1591654",
+  "trailer": {
+    "key": "t6JA6MmAY1U",
+    "name": "Official Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-09T01:07:16.017568+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
