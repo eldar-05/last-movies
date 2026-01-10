@@ -1,17 +1,36 @@
 {
-  "fetched_at_utc": "2026-01-10T12:25:37.153081+00:00",
+  "fetched_at_utc": "2026-01-10T18:19:30.644192+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1613522,
+      "title": "Who Loves The Sun",
+      "release_date": "2026-01-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xwk7cSqCMGzDbVxUfvPfCzR2MPN.jpg",
+      "genres": []
+    },
+    {
       "id": 1613360,
       "title": "Plaguepits: The Torture Dead",
-      "release_date": "",
+      "release_date": "2026-01-10",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/yZ75vh2q2b3GBvDsv15e5oBfrhC.jpg",
       "genres": [
         "ужасы"
+      ]
+    },
+    {
+      "id": 1612812,
+      "title": "民国惊魂录",
+      "release_date": "2026-01-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/eARmff2yDTUTqZpei8fZcyAz5FV.jpg",
+      "genres": [
+        "детектив",
+        "триллер"
       ]
     },
     {
@@ -42,16 +61,6 @@
       "genres": [
         "боевик",
         "драма"
-      ]
-    },
-    {
-      "id": 1611849,
-      "title": "Rizal dan Sayap",
-      "release_date": "2026-01-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/j7PRNQmoIch0QlhSFJBpUqssJL1.jpg",
-      "genres": [
-        "триллер"
       ]
     },
     {
@@ -97,14 +106,6 @@
         "комедия",
         "музыка"
       ]
-    },
-    {
-      "id": 1609327,
-      "title": "Sing the World Better",
-      "release_date": "2026-01-10",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
     }
   ],
   "source": "TMDB",
