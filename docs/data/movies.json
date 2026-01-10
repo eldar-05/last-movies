@@ -1,9 +1,19 @@
 {
-  "fetched_at_utc": "2026-01-10T06:20:02.518698+00:00",
+  "fetched_at_utc": "2026-01-10T12:25:37.153081+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1613360,
+      "title": "Plaguepits: The Torture Dead",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yZ75vh2q2b3GBvDsv15e5oBfrhC.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
     {
       "id": 1612690,
       "title": "a lot of snow!",
@@ -95,16 +105,6 @@
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
-    },
-    {
-      "id": 1608583,
-      "title": "Grigny, la fabrique de la banlieue",
-      "release_date": "2026-01-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8mglH2C8Xw5FzGmuTSjEUwSidbr.jpg",
-      "genres": [
-        "документальный"
-      ]
     }
   ],
   "source": "TMDB",
