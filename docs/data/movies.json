@@ -1,110 +1,109 @@
 {
-  "fetched_at_utc": "2026-01-09T18:21:16.016383+00:00",
+  "fetched_at_utc": "2026-01-10T01:04:49.890127+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1612552,
-      "title": "Roaming",
-      "release_date": "2026-01-09",
+      "id": 1612690,
+      "title": "a lot of snow!",
+      "release_date": "2026-01-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/teCZn9jM3LqBGFnHwUciMjgsiMT.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/k8uaWyFg7NkKBoMnNfMdg0QJFxA.jpg",
       "genres": []
     },
     {
-      "id": 1612546,
-      "title": "特殊检测",
-      "release_date": "2026-01-09",
+      "id": 1612569,
+      "title": "The Downpour We Dealt With",
+      "release_date": "2026-01-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cBLogZC2cGEGHMKwaYhZ39zc5I0.jpg",
-      "genres": []
-    },
-    {
-      "id": 1612542,
-      "title": "Between The Living & The Dead, The Lovers Reside",
-      "release_date": "2026-01-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mcFD2QnU42KROL0YtO50OXnnEM7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/14NB92noBoSvL0kWAOrE9lwfwOD.jpg",
       "genres": [
-        "драма",
-        "фэнтези"
+        "мультфильм",
+        "семейный"
       ]
     },
     {
-      "id": 1612536,
-      "title": "Buried",
-      "release_date": "2026-01-09",
+      "id": 1612232,
+      "title": "スターダム旗揚げ15周年記念シリーズ NEW YEAR STARS 2026 in KORAKUEN DAY1",
+      "release_date": "2026-01-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qpwBXV3LB2Ek0WDcPmVdCiR3xBe.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9uL1wzyFfA0EMcqsXaxqhHVRW23.jpg",
       "genres": [
-        "триллер",
+        "боевик",
         "драма"
       ]
     },
     {
-      "id": 1612504,
-      "title": "18 or the Daisies Withers",
-      "release_date": "2026-01-09",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hDeG87Gb9dfXsrUb3UfqXH2AXxq.jpg",
-      "genres": [
-        "ужасы",
-        "драма"
-      ]
-    },
-    {
-      "id": 1612284,
-      "title": "Mr. Box Cutter",
-      "release_date": "2026-01-09",
+      "id": 1611849,
+      "title": "Rizal dan Sayap",
+      "release_date": "2026-01-11",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/v5bwCXqLQUALayQKCPHa5ovxSpQ.jpg",
-      "genres": [
-        "криминал",
-        "триллер",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1612057,
-      "title": "Tila 2026",
-      "release_date": "2026-01-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jSXE4l8grFfENEuAeZNRmUPTcmH.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/j7PRNQmoIch0QlhSFJBpUqssJL1.jpg",
       "genres": [
         "триллер"
       ]
     },
     {
-      "id": 1611384,
-      "title": "The Pastor Who Preys",
-      "release_date": "2026-01-09",
+      "id": 1611478,
+      "title": "Ekosistem Rasa: The Gula Anau Story",
+      "release_date": "2026-01-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nzQQsZBy0H86TTl6OMh9yJH9reL.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kJeUn7jpJgbAT1sSWaPRwGQ7CRA.jpg",
       "genres": [
-        "детектив",
-        "триллер",
-        "телевизионный фильм"
+        "документальный"
       ]
     },
     {
-      "id": 1610829,
-      "title": "Velleppam",
-      "release_date": "2026-01-09",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/u2EA3nwPkVNYbOh5txAd6xkhRE9.jpg",
+      "id": 1611125,
+      "title": "Drifts",
+      "release_date": "2026-01-10",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mIdqJj5D6I5KGXEiJimtFDHMC8X.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1607760,
-      "title": "Where Have You Gone, Girl?",
-      "release_date": "2026-01-09",
+      "id": 1610544,
+      "title": "Killed the Pussy",
+      "release_date": "2026-01-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bBkl9ttHa6HEOdNCr2cbPtN6cTo.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hbmA3e3NHPDMEiXnCr2myXsVTte.jpg",
       "genres": [
-        "ужасы"
+        "комедия",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1610432,
+      "title": "TJPW New-Year Party 2026",
+      "release_date": "2026-01-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/eqNk9hoQA9B0cxbEh4HAFz7HgTC.jpg",
+      "genres": [
+        "боевик",
+        "драма",
+        "комедия",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1609327,
+      "title": "Sing the World Better",
+      "release_date": "2026-01-10",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1608583,
+      "title": "Grigny, la fabrique de la banlieue",
+      "release_date": "2026-01-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8mglH2C8Xw5FzGmuTSjEUwSidbr.jpg",
+      "genres": [
+        "документальный"
       ]
     }
   ],

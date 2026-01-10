@@ -1,0 +1,26 @@
+{
+  "id": 1611849,
+  "title": "Rizal dan Sayap",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-11",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер"
+  ],
+  "original_language": "id",
+  "spoken_languages": [
+    "Indonesian"
+  ],
+  "production_countries": [
+    "ID"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/j7PRNQmoIch0QlhSFJBpUqssJL1.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1611849",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-10T01:04:48.197780+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

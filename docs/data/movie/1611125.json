@@ -1,0 +1,26 @@
+{
+  "id": 1611125,
+  "title": "Drifts",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-10",
+  "runtime": 19,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/mIdqJj5D6I5KGXEiJimtFDHMC8X.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/khEbvWVENePADRtFq7dbNS5WpL9.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1611125",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-10T01:04:48.786824+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
