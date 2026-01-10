@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-01-10T01:04:49.890127+00:00",
+  "fetched_at_utc": "2026-01-10T06:20:02.518698+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -37,7 +37,7 @@
     {
       "id": 1611849,
       "title": "Rizal dan Sayap",
-      "release_date": "2026-01-11",
+      "release_date": "2026-01-10",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/j7PRNQmoIch0QlhSFJBpUqssJL1.jpg",
       "genres": [
