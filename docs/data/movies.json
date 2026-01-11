@@ -1,61 +1,13 @@
 {
-  "fetched_at_utc": "2026-01-10T18:19:30.644192+00:00",
+  "fetched_at_utc": "2026-01-11T01:13:23.098961+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1613522,
-      "title": "Who Loves The Sun",
-      "release_date": "2026-01-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xwk7cSqCMGzDbVxUfvPfCzR2MPN.jpg",
-      "genres": []
-    },
-    {
-      "id": 1613360,
-      "title": "Plaguepits: The Torture Dead",
-      "release_date": "2026-01-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yZ75vh2q2b3GBvDsv15e5oBfrhC.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1612812,
-      "title": "民国惊魂录",
-      "release_date": "2026-01-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eARmff2yDTUTqZpei8fZcyAz5FV.jpg",
-      "genres": [
-        "детектив",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1612690,
-      "title": "a lot of snow!",
-      "release_date": "2026-01-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/k8uaWyFg7NkKBoMnNfMdg0QJFxA.jpg",
-      "genres": []
-    },
-    {
-      "id": 1612569,
-      "title": "The Downpour We Dealt With",
-      "release_date": "2026-01-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/14NB92noBoSvL0kWAOrE9lwfwOD.jpg",
-      "genres": [
-        "мультфильм",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1612232,
-      "title": "スターダム旗揚げ15周年記念シリーズ NEW YEAR STARS 2026 in KORAKUEN DAY1",
-      "release_date": "2026-01-10",
+      "id": 1612240,
+      "title": "スターダム旗揚げ15周年記念シリーズ NEW YEAR STARS 2026 in KORAKUEN DAY2",
+      "release_date": "2026-01-11",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/9uL1wzyFfA0EMcqsXaxqhHVRW23.jpg",
       "genres": [
@@ -64,48 +16,94 @@
       ]
     },
     {
-      "id": 1611478,
-      "title": "Ekosistem Rasa: The Gula Anau Story",
-      "release_date": "2026-01-10",
+      "id": 1610881,
+      "title": "La Última Noche del Cielo",
+      "release_date": "2026-01-11",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kJeUn7jpJgbAT1sSWaPRwGQ7CRA.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nQnlS0RVIPJrGdandy4MRbOVa26.jpg",
+      "genres": [
+        "мелодрама",
+        "драма"
+      ]
+    },
+    {
+      "id": 1610761,
+      "title": "Don't",
+      "release_date": "2026-01-11",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1610413,
+      "title": "One Last Adventure: The Making of Stranger Things 5",
+      "release_date": "2026-01-11",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aZhrAx5CevLfjXcGIG3wBXxDiAL.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1611125,
-      "title": "Drifts",
-      "release_date": "2026-01-10",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mIdqJj5D6I5KGXEiJimtFDHMC8X.jpg",
+      "id": 1610176,
+      "title": "Les tableaux d'Édith",
+      "release_date": "2026-01-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tvUECfx4ghniATuRT9ayQKIonpX.jpg",
       "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1439713,
+      "title": "మన శంకర వరప్రసాద్ గారు",
+      "release_date": "2026-01-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/sfj6SLSzbzHN2633HcqabHFJz5y.jpg",
+      "genres": [
+        "комедия",
+        "боевик",
         "драма"
       ]
     },
     {
-      "id": 1610544,
-      "title": "Killed the Pussy",
+      "id": 1613708,
+      "title": "Qualcosa è andato storto",
       "release_date": "2026-01-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hbmA3e3NHPDMEiXnCr2myXsVTte.jpg",
+      "poster_url": null,
       "genres": [
-        "комедия",
-        "мелодрама"
+        "комедия"
       ]
     },
     {
-      "id": 1610432,
-      "title": "TJPW New-Year Party 2026",
+      "id": 1613675,
+      "title": "Tomáš Töpfer - Mám se líp, než si zasloužím",
       "release_date": "2026-01-10",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eqNk9hoQA9B0cxbEh4HAFz7HgTC.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/n69ZxJnSzMq9rGI7GjUBFoJMThO.jpg",
       "genres": [
-        "боевик",
-        "драма",
-        "комедия",
-        "музыка"
+        "телевизионный фильм",
+        "документальный"
       ]
+    },
+    {
+      "id": 1613620,
+      "title": "2026 ONF CONCERT [THE MAP: BEYOND THE HORIZON]",
+      "release_date": "2026-01-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rdBfTLnI0BzKerDGF0CUmMbDdc7.jpg",
+      "genres": []
+    },
+    {
+      "id": 1613522,
+      "title": "Who Loves The Sun",
+      "release_date": "2026-01-10",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xwk7cSqCMGzDbVxUfvPfCzR2MPN.jpg",
+      "genres": []
     }
   ],
   "source": "TMDB",

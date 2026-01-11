@@ -1,0 +1,30 @@
+{
+  "id": 1610413,
+  "title": "One Last Adventure: The Making of Stranger Things 5",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-11",
+  "runtime": 122,
+  "vote_average": 10.0,
+  "vote_count": 2,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/aZhrAx5CevLfjXcGIG3wBXxDiAL.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/cGfQSdC2OoovVcCW1tchZCWxYIA.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1610413",
+  "trailer": {
+    "key": "bLxvdUroRic",
+    "name": "Official Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-11T01:13:22.011241+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
