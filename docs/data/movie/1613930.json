@@ -1,22 +1,20 @@
 {
-  "id": 1610761,
-  "title": "Don't",
+  "id": 1613930,
+  "title": "Sky Wars",
   "tagline": "",
   "overview": "",
   "release_date": "2026-01-11",
-  "runtime": 0,
+  "runtime": 52,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [
-    "ужасы"
-  ],
+  "genres": [],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/cisDYVZASNVyGPSi1QJQhSC3EUp.jpg",
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1610761",
+  "tmdb_url": "https://www.themoviedb.org/movie/1613930",
   "trailer": null,
-  "fetched_at_utc": "2026-01-11T18:19:29.449336+00:00",
+  "fetched_at_utc": "2026-01-11T18:19:28.120672+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

@@ -1,9 +1,61 @@
 {
-  "fetched_at_utc": "2026-01-11T06:21:10.376506+00:00",
+  "fetched_at_utc": "2026-01-11T18:19:29.871607+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1614119,
+      "title": "Machu Picchu: City of Stone",
+      "release_date": "2026-01-11",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "история",
+        "документальный",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1613958,
+      "title": "Breakfast bowl",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "семейный"
+      ]
+    },
+    {
+      "id": 1613930,
+      "title": "Sky Wars",
+      "release_date": "2026-01-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cisDYVZASNVyGPSi1QJQhSC3EUp.jpg",
+      "genres": []
+    },
+    {
+      "id": 1613872,
+      "title": "Transcend",
+      "release_date": "2026-01-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/uENm9TONvsbUkQXR0ykXHPx19aa.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1613758,
+      "title": "Secrets on the Ranch",
+      "release_date": "2026-01-11",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ib8PrP8YrIctgzrVsSJFppLegwp.jpg",
+      "genres": [
+        "триллер",
+        "детектив",
+        "драма"
+      ]
+    },
     {
       "id": 1612240,
       "title": "スターダム旗揚げ15周年記念シリーズ NEW YEAR STARS 2026 in KORAKUEN DAY2",
@@ -55,55 +107,6 @@
       "genres": [
         "документальный"
       ]
-    },
-    {
-      "id": 1439713,
-      "title": "మన శంకర వరప్రసాద్ గారు",
-      "release_date": "2026-01-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sfj6SLSzbzHN2633HcqabHFJz5y.jpg",
-      "genres": [
-        "комедия",
-        "боевик",
-        "драма"
-      ]
-    },
-    {
-      "id": 1613708,
-      "title": "Qualcosa è andato storto",
-      "release_date": "2026-01-10",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1613675,
-      "title": "Tomáš Töpfer - Mám se líp, než si zasloužím",
-      "release_date": "2026-01-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/n69ZxJnSzMq9rGI7GjUBFoJMThO.jpg",
-      "genres": [
-        "телевизионный фильм",
-        "документальный"
-      ]
-    },
-    {
-      "id": 1613620,
-      "title": "2026 ONF CONCERT [THE MAP: BEYOND THE HORIZON]",
-      "release_date": "2026-01-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rdBfTLnI0BzKerDGF0CUmMbDdc7.jpg",
-      "genres": []
-    },
-    {
-      "id": 1613522,
-      "title": "Who Loves The Sun",
-      "release_date": "2026-01-10",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xwk7cSqCMGzDbVxUfvPfCzR2MPN.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",

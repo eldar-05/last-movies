@@ -1,0 +1,26 @@
+{
+  "id": 1613758,
+  "title": "Secrets on the Ranch",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-11",
+  "runtime": 90,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "детектив",
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "CA"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/ib8PrP8YrIctgzrVsSJFppLegwp.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/jn1cZclPiQB0EAkqyLXmz7oN600.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1613758",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-11T18:19:28.640932+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
