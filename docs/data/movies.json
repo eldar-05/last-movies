@@ -1,9 +1,31 @@
 {
-  "fetched_at_utc": "2026-01-12T12:30:50.766040+00:00",
+  "fetched_at_utc": "2026-01-12T18:21:56.538187+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1614653,
+      "title": "François Pirette | Pro-fête en son pays",
+      "release_date": "2026-01-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zzx4YpzncLg6SMg1HV3wtvmhgTG.jpg",
+      "genres": []
+    },
+    {
+      "id": 1614479,
+      "title": "WHO DO YOU THINK YOU ARE?",
+      "release_date": "2026-01-12",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lfp3dpFgo34Z3OW3xj1fDK3VRSl.jpg",
+      "genres": [
+        "драма",
+        "документальный",
+        "комедия",
+        "музыка",
+        "история"
+      ]
+    },
     {
       "id": 1614400,
       "title": "Folorn",
@@ -86,26 +108,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/oYurVe5EE3L2PD0eQYvVoTsqXbT.jpg",
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1611562,
-      "title": "Chronicles of You",
-      "release_date": "2026-01-12",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8mwoaoKxKPNBX1MnfZGOwoLZoAg.jpg",
-      "genres": [
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1611487,
-      "title": "Kill Tony: Once Upon a Time in Texas",
-      "release_date": "2026-01-12",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "комедия"
       ]
     }
   ],
