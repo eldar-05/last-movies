@@ -1,0 +1,24 @@
+{
+  "id": 1611562,
+  "title": "Chronicles of You",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-12",
+  "runtime": 10,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "мелодрама"
+  ],
+  "original_language": "id",
+  "spoken_languages": [],
+  "production_countries": [
+    "ID"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/8mwoaoKxKPNBX1MnfZGOwoLZoAg.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/yiwIzTqsIziN3WDu9uobz9Cefvq.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1611562",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-12T01:10:04.497318+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

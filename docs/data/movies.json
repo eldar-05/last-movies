@@ -1,109 +1,107 @@
 {
-  "fetched_at_utc": "2026-01-11T18:19:29.871607+00:00",
+  "fetched_at_utc": "2026-01-12T01:10:04.850748+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1614119,
-      "title": "Machu Picchu: City of Stone",
-      "release_date": "2026-01-11",
+      "id": 1614275,
+      "title": "Schicksalsrad",
+      "release_date": "2026-01-12",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "история",
-        "документальный",
-        "детектив"
+        "криминал"
       ]
     },
     {
-      "id": 1613958,
-      "title": "Breakfast bowl",
-      "release_date": "",
+      "id": 1614272,
+      "title": "Assise mais Toujours Debout",
+      "release_date": "2026-01-12",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mNjxLFA4HBLV9MJkkTL2ozjOlUL.jpg",
       "genres": [
+        "драма",
+        "документальный",
         "семейный"
       ]
     },
     {
-      "id": 1613930,
-      "title": "Sky Wars",
-      "release_date": "2026-01-11",
+      "id": 1614039,
+      "title": "The Beauty Queen and the Catfish",
+      "release_date": "2026-01-12",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cisDYVZASNVyGPSi1QJQhSC3EUp.jpg",
-      "genres": []
-    },
-    {
-      "id": 1613872,
-      "title": "Transcend",
-      "release_date": "2026-01-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uENm9TONvsbUkQXR0ykXHPx19aa.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jGDDjIS7UURFKxL5S3WvYdUFZWA.jpg",
       "genres": [
-        "драма"
+        "документальный"
       ]
     },
     {
-      "id": 1613758,
-      "title": "Secrets on the Ranch",
-      "release_date": "2026-01-11",
+      "id": 1613463,
+      "title": "Marigold New Year Golden Garden 2026 ~ Day 1",
+      "release_date": "2026-01-12",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ib8PrP8YrIctgzrVsSJFppLegwp.jpg",
-      "genres": [
-        "триллер",
-        "детектив",
-        "драма"
-      ]
-    },
-    {
-      "id": 1612240,
-      "title": "スターダム旗揚げ15周年記念シリーズ NEW YEAR STARS 2026 in KORAKUEN DAY2",
-      "release_date": "2026-01-11",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9uL1wzyFfA0EMcqsXaxqhHVRW23.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/o5Wz2IbwfXTio35gQCL3N9KaqJ2.jpg",
       "genres": [
         "боевик",
         "драма"
       ]
     },
     {
-      "id": 1610881,
-      "title": "La Última Noche del Cielo",
-      "release_date": "2026-01-11",
+      "id": 1613417,
+      "title": "Rise of the Rhima",
+      "release_date": "2026-01-12",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nQnlS0RVIPJrGdandy4MRbOVa26.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oe4AYJH3veRP4PdBC8sPbbhfSXv.jpg",
       "genres": [
-        "мелодрама",
-        "драма"
-      ]
-    },
-    {
-      "id": 1610761,
-      "title": "Don't",
-      "release_date": "2026-01-11",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
+        "комедия",
         "ужасы"
       ]
     },
     {
-      "id": 1610413,
-      "title": "One Last Adventure: The Making of Stranger Things 5",
-      "release_date": "2026-01-11",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aZhrAx5CevLfjXcGIG3wBXxDiAL.jpg",
+      "id": 1612507,
+      "title": "Yo deseo Misericordia, no Sacrificio",
+      "release_date": "2026-01-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aGE79lgkVsBG5drGyZ6R6uDwDB3.jpg",
+      "genres": []
+    },
+    {
+      "id": 1612299,
+      "title": "Trumps Amerika - Macht, Wandel, Widerstand",
+      "release_date": "2026-01-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oYurVe5EE3L2PD0eQYvVoTsqXbT.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1610176,
-      "title": "Les tableaux d'Édith",
-      "release_date": "2026-01-11",
+      "id": 1611562,
+      "title": "Chronicles of You",
+      "release_date": "2026-01-12",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8mwoaoKxKPNBX1MnfZGOwoLZoAg.jpg",
+      "genres": [
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1611487,
+      "title": "Kill Tony: Once Upon a Time in Texas",
+      "release_date": "2026-01-12",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tvUECfx4ghniATuRT9ayQKIonpX.jpg",
+      "poster_url": null,
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1610932,
+      "title": "Ku'damm 77 - Die Dokumentation",
+      "release_date": "2026-01-12",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tGTxExXttU1oL6Wt6fD61bamUps.jpg",
       "genres": [
         "документальный"
       ]

@@ -1,0 +1,27 @@
+{
+  "id": 1613417,
+  "title": "Rise of the Rhima",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-12",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "ужасы"
+  ],
+  "original_language": "nl",
+  "spoken_languages": [
+    "Dutch"
+  ],
+  "production_countries": [
+    "NL"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/oe4AYJH3veRP4PdBC8sPbbhfSXv.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/dLhM5K0Ta5y24VJT1pPJjHZxfQ4.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1613417",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-12T01:10:03.867775+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

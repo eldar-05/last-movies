@@ -1,0 +1,27 @@
+{
+  "id": 1614275,
+  "title": "Schicksalsrad",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-12",
+  "runtime": 90,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "криминал"
+  ],
+  "original_language": "de",
+  "spoken_languages": [
+    "German"
+  ],
+  "production_countries": [
+    "AT",
+    "DE"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1614275",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-12T01:10:03.137643+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
