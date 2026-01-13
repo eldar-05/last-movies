@@ -1,113 +1,108 @@
 {
-  "fetched_at_utc": "2026-01-12T18:21:56.538187+00:00",
+  "fetched_at_utc": "2026-01-13T01:03:38.661510+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1614653,
-      "title": "François Pirette | Pro-fête en son pays",
-      "release_date": "2026-01-12",
+      "id": 1614871,
+      "title": "notice sur la métamorphose",
+      "release_date": "2026-01-13",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zzx4YpzncLg6SMg1HV3wtvmhgTG.jpg",
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/iDDMSQQjvk7Lz9wzZS0uaXk3tEh.jpg",
+      "genres": [
+        "документальный"
+      ]
     },
     {
-      "id": 1614479,
-      "title": "WHO DO YOU THINK YOU ARE?",
-      "release_date": "2026-01-12",
+      "id": 1614580,
+      "title": "城市印象：深圳2",
+      "release_date": "2026-01-13",
       "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lfp3dpFgo34Z3OW3xj1fDK3VRSl.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/i9n6Tpn2ewWpShEVPu5MgoMpIvn.jpg",
       "genres": [
-        "драма",
-        "документальный",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1614354,
+      "title": "notice sur la métamorphose",
+      "release_date": "2026-01-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iDDMSQQjvk7Lz9wzZS0uaXk3tEh.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1614201,
+      "title": "The Mysterious Sound!",
+      "release_date": "2026-01-13",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
         "комедия",
-        "музыка",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1613721,
+      "title": "判妖邪",
+      "release_date": "2026-01-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/45dmyVEyHSUMxyF4Z7MrV0YtIfe.jpg",
+      "genres": [
+        "детектив"
+      ]
+    },
+    {
+      "id": 1612424,
+      "title": "Repay It in Blood",
+      "release_date": "2026-01-13",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1603750,
+      "title": "Pilleurs de Terre",
+      "release_date": "2026-01-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/w2EXW6CCz54yBW3qdAupsZCe177.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1601004,
+      "title": "Et faran un home. Morts silenciades",
+      "release_date": "2026-01-13",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный",
+        "драма",
         "история"
       ]
     },
     {
-      "id": 1614400,
-      "title": "Folorn",
-      "release_date": "2026-01-12",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/398bEbDxsZsKcYmkrYOyBVhUCSL.jpg",
-      "genres": [
-        "комедия",
-        "боевик",
-        "криминал"
-      ]
-    },
-    {
-      "id": 1614275,
-      "title": "Schicksalsrad",
-      "release_date": "2026-01-12",
+      "id": 1596917,
+      "title": "Oublie pas le gruau",
+      "release_date": "2026-01-13",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "криминал"
-      ]
-    },
-    {
-      "id": 1614272,
-      "title": "Assise mais Toujours Debout",
-      "release_date": "2026-01-12",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mNjxLFA4HBLV9MJkkTL2ozjOlUL.jpg",
-      "genres": [
-        "драма",
-        "документальный",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1614039,
-      "title": "The Beauty Queen and the Catfish",
-      "release_date": "2026-01-12",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jGDDjIS7UURFKxL5S3WvYdUFZWA.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1613463,
-      "title": "Marigold New Year Golden Garden 2026 ~ Day 1",
-      "release_date": "2026-01-12",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/o5Wz2IbwfXTio35gQCL3N9KaqJ2.jpg",
-      "genres": [
-        "боевик",
-        "драма"
-      ]
-    },
-    {
-      "id": 1613417,
-      "title": "Rise of the Rhima",
-      "release_date": "2026-01-12",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oe4AYJH3veRP4PdBC8sPbbhfSXv.jpg",
-      "genres": [
-        "комедия",
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1612507,
-      "title": "Yo deseo Misericordia, no Sacrificio",
-      "release_date": "2026-01-12",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aGE79lgkVsBG5drGyZ6R6uDwDB3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ycGFcrpmiCXtidvyom94aDyMqB1.jpg",
       "genres": []
     },
     {
-      "id": 1612299,
-      "title": "Trumps Amerika - Macht, Wandel, Widerstand",
-      "release_date": "2026-01-12",
+      "id": 1584215,
+      "title": "The Internship",
+      "release_date": "2026-01-13",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oYurVe5EE3L2PD0eQYvVoTsqXbT.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
       "genres": [
-        "документальный"
+        "боевик"
       ]
     }
   ],

@@ -1,0 +1,28 @@
+{
+  "id": 1584215,
+  "title": "The Internship",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-13",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "боевик"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/5eqnrbV7V76weYdYyJjy27vSZLp.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1584215",
+  "trailer": {
+    "key": "uXRFha7MLTM",
+    "name": "The Internship | Official Trailer | Paramount Movies",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-13T01:03:38.661051+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

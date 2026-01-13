@@ -1,0 +1,27 @@
+{
+  "id": 1614580,
+  "title": "城市印象：深圳2",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-13",
+  "runtime": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "zh",
+  "spoken_languages": [
+    "Mandarin"
+  ],
+  "production_countries": [
+    "SG",
+    "CN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/i9n6Tpn2ewWpShEVPu5MgoMpIvn.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1614580",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-13T01:03:37.275172+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
