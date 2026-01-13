@@ -1,22 +1,24 @@
 {
-  "id": 1612424,
-  "title": "Repay It in Blood",
+  "id": 1615290,
+  "title": "The Nursing Home",
   "tagline": "",
   "overview": "",
   "release_date": "2026-01-13",
-  "runtime": 109,
+  "runtime": 87,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "триллер"
+    "ужасы"
   ],
   "original_language": "en",
   "spoken_languages": [],
-  "production_countries": [],
+  "production_countries": [
+    "US"
+  ],
   "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1612424",
+  "tmdb_url": "https://www.themoviedb.org/movie/1615290",
   "trailer": null,
-  "fetched_at_utc": "2026-01-13T18:22:40.397540+00:00",
+  "fetched_at_utc": "2026-01-13T18:22:36.720786+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

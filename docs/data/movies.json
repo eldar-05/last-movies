@@ -1,9 +1,29 @@
 {
-  "fetched_at_utc": "2026-01-13T12:30:33.022952+00:00",
+  "fetched_at_utc": "2026-01-13T18:22:40.840180+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1615290,
+      "title": "The Nursing Home",
+      "release_date": "2026-01-13",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1615093,
+      "title": "Ser du mig nu?",
+      "release_date": "2026-01-13",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gMQO4ttrHuLw2gdv09xEI0tR8Ni.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1614957,
       "title": "Lena Situations : la femme la plus influente de France",
@@ -85,26 +105,6 @@
       "genres": [
         "документальный"
       ]
-    },
-    {
-      "id": 1601004,
-      "title": "Et faran un home. Morts silenciades",
-      "release_date": "2026-01-13",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный",
-        "драма",
-        "история"
-      ]
-    },
-    {
-      "id": 1596917,
-      "title": "Oublie pas le gruau",
-      "release_date": "2026-01-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ycGFcrpmiCXtidvyom94aDyMqB1.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",
