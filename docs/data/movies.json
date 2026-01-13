@@ -1,9 +1,19 @@
 {
-  "fetched_at_utc": "2026-01-13T06:22:50.761291+00:00",
+  "fetched_at_utc": "2026-01-13T12:30:33.022952+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1614957,
+      "title": "Lena Situations : la femme la plus influente de France",
+      "release_date": "2026-01-13",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/byiEiBrWovxCwc1u8ZjDAfeqTvu.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1614871,
       "title": "notice sur la métamorphose",
@@ -52,7 +62,8 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/45dmyVEyHSUMxyF4Z7MrV0YtIfe.jpg",
       "genres": [
-        "детектив"
+        "детектив",
+        "триллер"
       ]
     },
     {
@@ -94,16 +105,6 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/ycGFcrpmiCXtidvyom94aDyMqB1.jpg",
       "genres": []
-    },
-    {
-      "id": 1584215,
-      "title": "The Internship",
-      "release_date": "2026-01-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
-      "genres": [
-        "боевик"
-      ]
     }
   ],
   "source": "TMDB",
