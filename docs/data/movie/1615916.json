@@ -1,24 +1,27 @@
 {
-  "id": 1612446,
-  "title": "Annette",
+  "id": 1615916,
+  "title": "The G.H.O.S.T.",
   "tagline": "",
   "overview": "",
   "release_date": "2026-01-14",
-  "runtime": 30,
+  "runtime": 6,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "документальный"
+    "криминал",
+    "комедия",
+    "детектив",
+    "драма"
   ],
   "original_language": "en",
   "spoken_languages": [
     "English"
   ],
   "production_countries": [],
-  "poster_url": "https://image.tmdb.org/t/p/w500/8RD1t1QabuZCBRKURu1jYWxexlA.jpg",
+  "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1612446",
+  "tmdb_url": "https://www.themoviedb.org/movie/1615916",
   "trailer": null,
-  "fetched_at_utc": "2026-01-14T12:29:30.165160+00:00",
+  "fetched_at_utc": "2026-01-14T12:29:28.589959+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

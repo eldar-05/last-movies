@@ -1,0 +1,26 @@
+{
+  "id": 1615840,
+  "title": "大劫案",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-14",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "боевик",
+    "детектив",
+    "криминал"
+  ],
+  "original_language": "zh",
+  "spoken_languages": [],
+  "production_countries": [
+    "CN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/rp07i7B5MYRCPWqRHG4yRvWo6dB.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1615840",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-14T12:29:28.760420+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

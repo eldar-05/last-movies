@@ -1,15 +1,52 @@
 {
-  "fetched_at_utc": "2026-01-14T06:23:27.104194+00:00",
+  "fetched_at_utc": "2026-01-14T12:29:30.165558+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1615916,
+      "title": "The G.H.O.S.T.",
+      "release_date": "2026-01-14",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "криминал",
+        "комедия",
+        "детектив",
+        "драма"
+      ]
+    },
+    {
+      "id": 1615840,
+      "title": "大劫案",
+      "release_date": "2026-01-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rp07i7B5MYRCPWqRHG4yRvWo6dB.jpg",
+      "genres": [
+        "боевик",
+        "детектив",
+        "криминал"
+      ]
+    },
+    {
+      "id": 1615767,
+      "title": "大劫案",
+      "release_date": "2026-01-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/r6paIFC4hrvqPHf8ydQ2DkqD3Rn.jpg",
+      "genres": [
+        "детектив",
+        "криминал",
+        "боевик"
+      ]
+    },
+    {
       "id": 1615725,
       "title": "Liitıl Kampani",
       "release_date": "2026-01-14",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/d5KXmKbf4vQE5Fb11eSpwj7dOSK.jpg",
       "genres": [
         "комедия",
         "приключения",
@@ -78,34 +115,6 @@
       "genres": [
         "документальный"
       ]
-    },
-    {
-      "id": 1611697,
-      "title": "O Grande Banquete - Ao Vivo em João Pessoa",
-      "release_date": "2026-01-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wfTvhseSowM115zAI9fXtTTOGYI.jpg",
-      "genres": [
-        "музыка"
-      ]
-    },
-    {
-      "id": 1609164,
-      "title": "البحث عن داوود عبدالسيد",
-      "release_date": "2026-01-14",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1607734,
-      "title": "Atma Tantra Rasa",
-      "release_date": "2026-01-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qxPcVqXUe2jLleUl9ertDdWjwoy.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",
