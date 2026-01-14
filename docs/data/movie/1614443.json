@@ -1,0 +1,25 @@
+{
+  "id": 1614443,
+  "title": "Gimme One Last",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-14",
+  "runtime": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "драма",
+    "комедия"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/g55QqcOGUIrpmIISWjaU5d6adtz.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/sUwVD97TojNlfF2hYPsAgvV8lX0.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1614443",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-14T01:09:06.902624+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

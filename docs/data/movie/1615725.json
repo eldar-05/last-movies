@@ -1,0 +1,28 @@
+{
+  "id": 1615725,
+  "title": "Liitıl Kampani",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-14",
+  "runtime": 23,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "приключения",
+    "боевик",
+    "семейный",
+    "ужасы"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "TR"
+  ],
+  "poster_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/ehIizFbtrl5X3WMgGtJMw1N1ehz.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1615725",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-14T01:09:05.778290+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

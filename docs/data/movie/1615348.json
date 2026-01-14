@@ -1,0 +1,28 @@
+{
+  "id": 1615348,
+  "title": "Hiraeth",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-14",
+  "runtime": 10,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фантастика",
+    "фэнтези",
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "IN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/lFk58fKYRogoRiUKbXwKoPoEVJi.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/q2vy07Z8Ht3bGJwp2fHIo4QF50R.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1615348",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-14T01:09:06.154652+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

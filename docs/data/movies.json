@@ -1,110 +1,111 @@
 {
-  "fetched_at_utc": "2026-01-13T18:22:40.840180+00:00",
+  "fetched_at_utc": "2026-01-14T01:09:09.237404+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1615290,
-      "title": "The Nursing Home",
-      "release_date": "2026-01-13",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1615093,
-      "title": "Ser du mig nu?",
-      "release_date": "2026-01-13",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gMQO4ttrHuLw2gdv09xEI0tR8Ni.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1614957,
-      "title": "Lena Situations : la femme la plus influente de France",
-      "release_date": "2026-01-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/byiEiBrWovxCwc1u8ZjDAfeqTvu.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1614871,
-      "title": "notice sur la métamorphose",
-      "release_date": "2026-01-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iDDMSQQjvk7Lz9wzZS0uaXk3tEh.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1614580,
-      "title": "城市印象：深圳2",
-      "release_date": "2026-01-13",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/i9n6Tpn2ewWpShEVPu5MgoMpIvn.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1614354,
-      "title": "notice sur la métamorphose",
-      "release_date": "2026-01-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iDDMSQQjvk7Lz9wzZS0uaXk3tEh.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1614201,
-      "title": "The Mysterious Sound!",
-      "release_date": "2026-01-13",
+      "id": 1615725,
+      "title": "Liitıl Kampani",
+      "release_date": "2026-01-14",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
         "комедия",
+        "приключения",
+        "боевик",
+        "семейный",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1615348,
+      "title": "Hiraeth",
+      "release_date": "2026-01-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lFk58fKYRogoRiUKbXwKoPoEVJi.jpg",
+      "genres": [
+        "фантастика",
+        "фэнтези",
+        "драма"
+      ]
+    },
+    {
+      "id": 1614844,
+      "title": "Tusker: Brotherhood of Elephants",
+      "release_date": "2026-01-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2IHzMNrdltlgLj6xtO33B8UdBRF.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1614443,
+      "title": "Gimme One Last",
+      "release_date": "2026-01-14",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/g55QqcOGUIrpmIISWjaU5d6adtz.jpg",
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1614282,
+      "title": "Godfrey: Rebel with a Cause",
+      "release_date": "2026-01-14",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1613630,
+      "title": "Guillermo Guiz - La formidable ascension sociale temporaire de Guy Verstraeten",
+      "release_date": "2026-01-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bPopbwZLLaC2HIM99kxofxm5xtp.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1612446,
+      "title": "Annette",
+      "release_date": "2026-01-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8RD1t1QabuZCBRKURu1jYWxexlA.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1611697,
+      "title": "O Grande Banquete - Ao Vivo em João Pessoa",
+      "release_date": "2026-01-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wfTvhseSowM115zAI9fXtTTOGYI.jpg",
+      "genres": [
         "музыка"
       ]
     },
     {
-      "id": 1613721,
-      "title": "判妖邪",
-      "release_date": "2026-01-13",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/45dmyVEyHSUMxyF4Z7MrV0YtIfe.jpg",
-      "genres": [
-        "детектив",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1612424,
-      "title": "Repay It in Blood",
-      "release_date": "2026-01-13",
+      "id": 1609164,
+      "title": "البحث عن داوود عبدالسيد",
+      "release_date": "2026-01-14",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "триллер"
+        "документальный"
       ]
     },
     {
-      "id": 1603750,
-      "title": "Pilleurs de Terre",
-      "release_date": "2026-01-13",
+      "id": 1607734,
+      "title": "Atma Tantra Rasa",
+      "release_date": "2026-01-14",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/w2EXW6CCz54yBW3qdAupsZCe177.jpg",
-      "genres": [
-        "документальный"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/qxPcVqXUe2jLleUl9ertDdWjwoy.jpg",
+      "genres": []
     }
   ],
   "source": "TMDB",
