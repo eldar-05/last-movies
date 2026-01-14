@@ -1,0 +1,29 @@
+{
+  "id": 1616059,
+  "title": "Gamer",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-14",
+  "runtime": 61,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "боевик",
+    "мелодрама",
+    "триллер"
+  ],
+  "original_language": "te",
+  "spoken_languages": [
+    "Hindi",
+    "Telugu"
+  ],
+  "production_countries": [
+    "IN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/5DAiw8QKskNjuDRxkGw91XKIZzJ.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1616059",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-14T18:22:37.981508+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

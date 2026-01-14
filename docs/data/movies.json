@@ -1,9 +1,42 @@
 {
-  "fetched_at_utc": "2026-01-14T12:29:30.165558+00:00",
+  "fetched_at_utc": "2026-01-14T18:22:39.277057+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1616292,
+      "title": "Crosswire",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1616240,
+      "title": "Fin del juego",
+      "release_date": "2026-01-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/85XQZvhm0KZcnUmHeLKvJsAGwG0.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1616059,
+      "title": "Gamer",
+      "release_date": "2026-01-14",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5DAiw8QKskNjuDRxkGw91XKIZzJ.jpg",
+      "genres": [
+        "боевик",
+        "мелодрама",
+        "триллер"
+      ]
+    },
     {
       "id": 1615916,
       "title": "The G.H.O.S.T.",
@@ -86,34 +119,6 @@
       "genres": [
         "драма",
         "комедия"
-      ]
-    },
-    {
-      "id": 1614282,
-      "title": "Godfrey: Rebel with a Cause",
-      "release_date": "2026-01-14",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1613630,
-      "title": "Guillermo Guiz - La formidable ascension sociale temporaire de Guy Verstraeten",
-      "release_date": "2026-01-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bPopbwZLLaC2HIM99kxofxm5xtp.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1612446,
-      "title": "Annette",
-      "release_date": "2026-01-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8RD1t1QabuZCBRKURu1jYWxexlA.jpg",
-      "genres": [
-        "документальный"
       ]
     }
   ],

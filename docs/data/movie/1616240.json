@@ -1,27 +1,24 @@
 {
-  "id": 1615916,
-  "title": "The G.H.O.S.T.",
+  "id": 1616240,
+  "title": "Fin del juego",
   "tagline": "",
   "overview": "",
   "release_date": "2026-01-14",
-  "runtime": 6,
+  "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "криминал",
-    "комедия",
-    "детектив",
     "драма"
   ],
-  "original_language": "en",
+  "original_language": "es",
   "spoken_languages": [
-    "English"
+    "Spanish"
   ],
   "production_countries": [],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/85XQZvhm0KZcnUmHeLKvJsAGwG0.jpg",
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1615916",
+  "tmdb_url": "https://www.themoviedb.org/movie/1616240",
   "trailer": null,
-  "fetched_at_utc": "2026-01-14T18:22:38.111884+00:00",
+  "fetched_at_utc": "2026-01-14T18:22:37.791416+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
