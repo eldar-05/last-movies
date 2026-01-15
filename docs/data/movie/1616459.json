@@ -1,20 +1,24 @@
 {
   "id": 1616459,
-  "title": "Aatka",
+  "title": "আতকা",
   "tagline": "",
   "overview": "",
   "release_date": "2026-01-15",
   "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
-  "original_language": "en",
-  "spoken_languages": [],
+  "genres": [
+    "драма"
+  ],
+  "original_language": "bn",
+  "spoken_languages": [
+    "Bengali"
+  ],
   "production_countries": [],
   "poster_url": "https://image.tmdb.org/t/p/w500/vc6TWzIB7a3npz2gqWNuEsGIsIX.jpg",
-  "backdrop_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/aZs3VZfg8Xx0dNirsg1ReghEcBX.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1616459",
   "trailer": null,
-  "fetched_at_utc": "2026-01-15T06:22:27.805615+00:00",
+  "fetched_at_utc": "2026-01-15T12:28:55.911595+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

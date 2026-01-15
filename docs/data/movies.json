@@ -1,16 +1,50 @@
 {
-  "fetched_at_utc": "2026-01-15T06:22:29.330850+00:00",
+  "fetched_at_utc": "2026-01-15T12:28:58.065480+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1616665,
+      "title": "Mati Ketawa",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1616648,
+      "title": "Hillwood College Theatre Troupe Callbacks",
+      "release_date": "2026-01-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yjOh9ew8ZH2zAUxrfsAjptkyQrO.jpg",
+      "genres": [
+        "ужасы",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1616578,
+      "title": "Delivery Boy Pizza On Time",
+      "release_date": "2026-01-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iy7UrpXGCcSpBqpY4yM9a0oU1Gm.jpg",
+      "genres": [
+        "детектив"
+      ]
+    },
+    {
       "id": 1616459,
-      "title": "Aatka",
+      "title": "আতকা",
       "release_date": "2026-01-15",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/vc6TWzIB7a3npz2gqWNuEsGIsIX.jpg",
-      "genres": []
+      "genres": [
+        "драма"
+      ]
     },
     {
       "id": 1616390,
@@ -69,37 +103,6 @@
       "genres": [
         "комедия",
         "триллер"
-      ]
-    },
-    {
-      "id": 1612125,
-      "title": "Vertical Diaries: Kilimanjaro",
-      "release_date": "2026-01-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dKuZE0XakEJ4Kz4fBJBObRQ3tAh.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1611370,
-      "title": "De vuelta a los 80",
-      "release_date": "2026-01-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/o37PrUDTTMdlaBASLS3H18BREBb.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1610375,
-      "title": "Romzsa Tódor",
-      "release_date": "2026-01-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jGfRSL5vCBiiS2EqdyN3sUJzbjA.jpg",
-      "genres": [
-        "драма",
-        "история"
       ]
     }
   ],
