@@ -1,124 +1,105 @@
 {
-  "fetched_at_utc": "2026-01-14T18:22:39.277057+00:00",
+  "fetched_at_utc": "2026-01-15T01:05:20.406684+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1616292,
-      "title": "Crosswire",
+      "id": 1616459,
+      "title": "Aatka",
+      "release_date": "2026-01-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vc6TWzIB7a3npz2gqWNuEsGIsIX.jpg",
+      "genres": []
+    },
+    {
+      "id": 1616390,
+      "title": "Caja Rapida",
+      "release_date": "2026-01-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/euNvpeJ180wFTLUR2vzIqo2bW7o.jpg",
+      "genres": []
+    },
+    {
+      "id": 1616086,
+      "title": "The Internal Garden",
       "release_date": "",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "ужасы",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1616240,
-      "title": "Fin del juego",
-      "release_date": "2026-01-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/85XQZvhm0KZcnUmHeLKvJsAGwG0.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1616059,
-      "title": "Gamer",
-      "release_date": "2026-01-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5DAiw8QKskNjuDRxkGw91XKIZzJ.jpg",
-      "genres": [
-        "боевик",
-        "мелодрама",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1615916,
-      "title": "The G.H.O.S.T.",
-      "release_date": "2026-01-14",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "криминал",
-        "комедия",
-        "детектив",
-        "драма"
-      ]
-    },
-    {
-      "id": 1615840,
-      "title": "大劫案",
-      "release_date": "2026-01-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rp07i7B5MYRCPWqRHG4yRvWo6dB.jpg",
-      "genres": [
-        "боевик",
-        "детектив",
-        "криминал"
-      ]
-    },
-    {
-      "id": 1615767,
-      "title": "大劫案",
-      "release_date": "2026-01-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/r6paIFC4hrvqPHf8ydQ2DkqD3Rn.jpg",
-      "genres": [
-        "детектив",
-        "криминал",
-        "боевик"
-      ]
-    },
-    {
-      "id": 1615725,
-      "title": "Liitıl Kampani",
-      "release_date": "2026-01-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/d5KXmKbf4vQE5Fb11eSpwj7dOSK.jpg",
-      "genres": [
-        "комедия",
-        "приключения",
-        "боевик",
-        "семейный",
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1615348,
-      "title": "Hiraeth",
-      "release_date": "2026-01-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lFk58fKYRogoRiUKbXwKoPoEVJi.jpg",
-      "genres": [
-        "фантастика",
-        "фэнтези",
-        "драма"
-      ]
-    },
-    {
-      "id": 1614844,
-      "title": "Tusker: Brotherhood of Elephants",
-      "release_date": "2026-01-14",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2IHzMNrdltlgLj6xtO33B8UdBRF.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ynqZy5BwhxhkbDiEUysg9LzeZ4y.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1614443,
-      "title": "Gimme One Last",
-      "release_date": "2026-01-14",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/g55QqcOGUIrpmIISWjaU5d6adtz.jpg",
+      "id": 1615046,
+      "title": "Η ύβρις της ανθρωπότητας",
+      "release_date": "2026-01-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9kri0as55tO6GD9kHJKA4gJYzWn.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1614782,
+      "title": "Spitfire",
+      "release_date": "2026-01-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8OAp5jUASUJDzulxwURuY4mz21F.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1614640,
+      "title": "Raanan Hershberg: Morbidly Jewish",
+      "release_date": "2026-01-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hmtqBTeqIOuuBGTaARWGuhmBkx8.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1612293,
+      "title": "Decoris",
+      "release_date": "2026-01-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cRH9KbTfFj6pBQ6KtevmdM2MRnL.jpg",
+      "genres": [
+        "комедия",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1612125,
+      "title": "Vertical Diaries: Kilimanjaro",
+      "release_date": "2026-01-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/dKuZE0XakEJ4Kz4fBJBObRQ3tAh.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1611370,
+      "title": "De vuelta a los 80",
+      "release_date": "2026-01-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/o37PrUDTTMdlaBASLS3H18BREBb.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1610375,
+      "title": "Romzsa Tódor",
+      "release_date": "2026-01-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jGfRSL5vCBiiS2EqdyN3sUJzbjA.jpg",
       "genres": [
         "драма",
-        "комедия"
+        "история"
       ]
     }
   ],

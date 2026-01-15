@@ -1,0 +1,28 @@
+{
+  "id": 1612125,
+  "title": "Vertical Diaries: Kilimanjaro",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-15",
+  "runtime": 28,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "UZ",
+    "TZ",
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/dKuZE0XakEJ4Kz4fBJBObRQ3tAh.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/75czvk3YLc62jO9RqsY1fhkl5UI.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1612125",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-15T01:05:19.998935+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1615046,
+  "title": "Η ύβρις της ανθρωπότητας",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-15",
+  "runtime": 83,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "el",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "GR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/9kri0as55tO6GD9kHJKA4gJYzWn.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1615046",
+  "trailer": {
+    "key": "U1mFgbmw7cw",
+    "name": "Mankind's Folly | Official Trailer | English Version",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-15T01:05:19.147870+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
