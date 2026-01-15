@@ -18,7 +18,11 @@
   "poster_url": "https://image.tmdb.org/t/p/w500/vc6TWzIB7a3npz2gqWNuEsGIsIX.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/aZs3VZfg8Xx0dNirsg1ReghEcBX.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1616459",
-  "trailer": null,
-  "fetched_at_utc": "2026-01-15T12:28:55.911595+00:00",
+  "trailer": {
+    "key": "QTSQJKBpjf4",
+    "name": "Aatka | Trailer | Chorki Original | Arosh khan | Sunerah | Abul Hayat | Nidhi",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-15T18:26:31.054718+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

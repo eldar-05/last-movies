@@ -1,15 +1,38 @@
 {
-  "fetched_at_utc": "2026-01-15T12:28:58.065480+00:00",
+  "fetched_at_utc": "2026-01-15T18:26:31.787892+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1617017,
+      "title": "কাঁটা ২",
+      "release_date": "2026-01-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yuHIZlX4gplVsw2i8M7Dn8nIPz7.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ]
+    },
+    {
+      "id": 1616958,
+      "title": "The Home of Comedy",
+      "release_date": "2026-01-15",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gaztVZIP37sZkEufswUmkWxvvwe.jpg",
+      "genres": [
+        "документальный",
+        "комедия",
+        "драма"
+      ]
+    },
+    {
       "id": 1616665,
       "title": "Mati Ketawa",
-      "release_date": "",
+      "release_date": "2026-01-15",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/w0U6xapfdIHi9unpnF3QEofbHFA.jpg",
       "genres": [
         "драма",
         "комедия"
@@ -55,6 +78,17 @@
       "genres": []
     },
     {
+      "id": 1616192,
+      "title": "热血敢死队",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/AqCM8TweFsYwsQvgvJQEhIWdEeY.jpg",
+      "genres": [
+        "военный",
+        "боевик"
+      ]
+    },
+    {
       "id": 1616086,
       "title": "The Internal Garden",
       "release_date": "2026-01-15",
@@ -72,37 +106,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/9kri0as55tO6GD9kHJKA4gJYzWn.jpg",
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1614782,
-      "title": "Spitfire",
-      "release_date": "2026-01-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8OAp5jUASUJDzulxwURuY4mz21F.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1614640,
-      "title": "Raanan Hershberg: Morbidly Jewish",
-      "release_date": "2026-01-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hmtqBTeqIOuuBGTaARWGuhmBkx8.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1612293,
-      "title": "Decoris",
-      "release_date": "2026-01-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cRH9KbTfFj6pBQ6KtevmdM2MRnL.jpg",
-      "genres": [
-        "комедия",
-        "триллер"
       ]
     }
   ],
