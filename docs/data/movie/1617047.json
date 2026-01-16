@@ -1,0 +1,26 @@
+{
+  "id": 1617047,
+  "title": "Dernier vol",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-16",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/4yMARhlkBz6UFZ2KjMnuJh7q3ST.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/ka9BlFNvAGq8zYXdQsJoQ0eEToz.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1617047",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-16T01:07:28.307858+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

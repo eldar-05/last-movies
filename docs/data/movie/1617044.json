@@ -1,0 +1,27 @@
+{
+  "id": 1617044,
+  "title": "Lek med Alfons Åberg",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-16",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм",
+    "семейный"
+  ],
+  "original_language": "sv",
+  "spoken_languages": [
+    "Swedish"
+  ],
+  "production_countries": [
+    "SE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/nd9rdR9piqtyGhYgLLUYr55yB15.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/4suK4Ay9SoZwo6ByA8QNOKMyiMf.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1617044",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-16T01:07:28.686261+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

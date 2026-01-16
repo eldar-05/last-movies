@@ -1,0 +1,27 @@
+{
+  "id": 1616993,
+  "title": "Safia/Safdar",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-16",
+  "runtime": 105,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "мелодрама"
+  ],
+  "original_language": "hi",
+  "spoken_languages": [
+    "Hindi"
+  ],
+  "production_countries": [
+    "IN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/ggN2WBU8cRMehVdS1nV0VYHACin.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/uSBUMknphVjcnGJk6se3gWe9omG.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1616993",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-16T01:07:29.110906+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

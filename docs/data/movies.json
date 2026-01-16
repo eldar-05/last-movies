@@ -1,111 +1,105 @@
 {
-  "fetched_at_utc": "2026-01-15T18:26:31.787892+00:00",
+  "fetched_at_utc": "2026-01-16T01:07:30.623931+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1617017,
-      "title": "কাঁটা ২",
-      "release_date": "2026-01-15",
+      "id": 1617243,
+      "title": "Lačni znanja",
+      "release_date": "2026-01-16",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yuHIZlX4gplVsw2i8M7Dn8nIPz7.jpg",
+      "poster_url": null,
       "genres": [
-        "комедия",
-        "драма"
-      ]
-    },
-    {
-      "id": 1616958,
-      "title": "The Home of Comedy",
-      "release_date": "2026-01-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gaztVZIP37sZkEufswUmkWxvvwe.jpg",
-      "genres": [
-        "документальный",
-        "комедия",
-        "драма"
-      ]
-    },
-    {
-      "id": 1616665,
-      "title": "Mati Ketawa",
-      "release_date": "2026-01-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/w0U6xapfdIHi9unpnF3QEofbHFA.jpg",
-      "genres": [
-        "драма",
         "комедия"
       ]
     },
     {
-      "id": 1616648,
-      "title": "Hillwood College Theatre Troupe Callbacks",
-      "release_date": "2026-01-15",
+      "id": 1617175,
+      "title": "Drowning",
+      "release_date": "",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yjOh9ew8ZH2zAUxrfsAjptkyQrO.jpg",
-      "genres": [
-        "ужасы",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1616578,
-      "title": "Delivery Boy Pizza On Time",
-      "release_date": "2026-01-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iy7UrpXGCcSpBqpY4yM9a0oU1Gm.jpg",
-      "genres": [
-        "детектив"
-      ]
-    },
-    {
-      "id": 1616459,
-      "title": "আতকা",
-      "release_date": "2026-01-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vc6TWzIB7a3npz2gqWNuEsGIsIX.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1616390,
-      "title": "Caja Rapida",
-      "release_date": "2026-01-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/euNvpeJ180wFTLUR2vzIqo2bW7o.jpg",
+      "poster_url": null,
       "genres": []
     },
     {
-      "id": 1616192,
-      "title": "热血敢死队",
+      "id": 1617099,
+      "title": "Carta de amor",
       "release_date": "",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/AqCM8TweFsYwsQvgvJQEhIWdEeY.jpg",
+      "poster_url": null,
+      "genres": [
+        "мелодрама",
+        "приключения"
+      ]
+    },
+    {
+      "id": 1617047,
+      "title": "Dernier vol",
+      "release_date": "2026-01-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4yMARhlkBz6UFZ2KjMnuJh7q3ST.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1617044,
+      "title": "Lek med Alfons Åberg",
+      "release_date": "2026-01-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/nd9rdR9piqtyGhYgLLUYr55yB15.jpg",
+      "genres": [
+        "мультфильм",
+        "семейный"
+      ]
+    },
+    {
+      "id": 1616993,
+      "title": "Safia/Safdar",
+      "release_date": "2026-01-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ggN2WBU8cRMehVdS1nV0VYHACin.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1616778,
+      "title": "ACA 199: Frolov vs. Emeev",
+      "release_date": "2026-01-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8BJQgLB2zO0Hgip57CoDszXTQfu.jpg",
+      "genres": []
+    },
+    {
+      "id": 1616659,
+      "title": "2024.12.03 그날 조작된 내란, 감춰진 진실",
+      "release_date": "2026-01-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2cLTatUsCDZsRpHsgELbdFaZJyD.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1616426,
+      "title": "Nord bei Nordwest – Das Nolden-Haus",
+      "release_date": "2026-01-16",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1615597,
+      "title": "Operasjon barbarossa",
+      "release_date": "2026-01-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6MdubkA4kMsrcddUpcbd2HjqlDb.jpg",
       "genres": [
         "военный",
         "боевик"
-      ]
-    },
-    {
-      "id": 1616086,
-      "title": "The Internal Garden",
-      "release_date": "2026-01-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9XHQeuGY8g4depxgoUp6UXMul5q.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1615046,
-      "title": "Η ύβρις της ανθρωπότητας",
-      "release_date": "2026-01-15",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9kri0as55tO6GD9kHJKA4gJYzWn.jpg",
-      "genres": [
-        "документальный"
       ]
     }
   ],
