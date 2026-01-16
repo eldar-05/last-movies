@@ -1,0 +1,26 @@
+{
+  "id": 1617536,
+  "title": "One Two Cha Cha Chaa",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-16",
+  "runtime": 160,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "боевик",
+    "приключения",
+    "комедия"
+  ],
+  "original_language": "hi",
+  "spoken_languages": [
+    "Hindi"
+  ],
+  "production_countries": [],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1617536",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-16T12:28:18.559542+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

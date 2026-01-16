@@ -1,9 +1,37 @@
 {
-  "fetched_at_utc": "2026-01-16T06:23:06.965324+00:00",
+  "fetched_at_utc": "2026-01-16T12:28:21.546789+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1617588,
+      "title": "Holland America Cruise Cancellation & Rebooking – Complete Guidance",
+      "release_date": "2026-01-16",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1617536,
+      "title": "One Two Cha Cha Chaa",
+      "release_date": "2026-01-16",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "боевик",
+        "приключения",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1617387,
+      "title": "outtakes from quezon lights",
+      "release_date": "2026-01-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4GYnX35YVGjRZDhddvehh3JfP2r.jpg",
+      "genres": []
+    },
     {
       "id": 1617243,
       "title": "Lačni znanja",
@@ -72,35 +100,6 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/8BJQgLB2zO0Hgip57CoDszXTQfu.jpg",
       "genres": []
-    },
-    {
-      "id": 1616659,
-      "title": "2024.12.03 그날 조작된 내란, 감춰진 진실",
-      "release_date": "2026-01-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2cLTatUsCDZsRpHsgELbdFaZJyD.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1616426,
-      "title": "Nord bei Nordwest – Das Nolden-Haus",
-      "release_date": "2026-01-16",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1615597,
-      "title": "Operasjon barbarossa",
-      "release_date": "2026-01-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6MdubkA4kMsrcddUpcbd2HjqlDb.jpg",
-      "genres": [
-        "военный",
-        "боевик"
-      ]
     }
   ],
   "source": "TMDB",
