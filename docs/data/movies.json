@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-01-16T01:07:30.623931+00:00",
+  "fetched_at_utc": "2026-01-16T06:23:06.965324+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -17,7 +17,7 @@
     {
       "id": 1617175,
       "title": "Drowning",
-      "release_date": "",
+      "release_date": "2026-01-16",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
@@ -25,9 +25,9 @@
     {
       "id": 1617099,
       "title": "Carta de amor",
-      "release_date": "",
+      "release_date": "2026-01-16",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/uzvqF9zbTjGbL4CVF8cvtEDvHP2.jpg",
       "genres": [
         "мелодрама",
         "приключения"

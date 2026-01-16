@@ -3,18 +3,21 @@
   "title": "Carta de amor",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2026-01-16",
   "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "мелодрама",
+    "приключения"
+  ],
   "original_language": "es",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/uzvqF9zbTjGbL4CVF8cvtEDvHP2.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/aCMqAvI8WuQpxPm7Zxh1o4m7Dg0.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1617099",
   "trailer": null,
-  "fetched_at_utc": "2026-01-16T01:07:27.946655+00:00",
+  "fetched_at_utc": "2026-01-16T06:23:05.602893+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
