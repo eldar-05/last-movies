@@ -17,10 +17,10 @@
     "Hindi"
   ],
   "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/cWfX0Pog0ZHgTKY3glhIjvkWxgB.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/pWq3jl2WBlD17x1CkprNeCe2cGG.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1617536",
   "trailer": null,
-  "fetched_at_utc": "2026-01-16T12:28:18.559542+00:00",
+  "fetched_at_utc": "2026-01-16T18:21:24.107564+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

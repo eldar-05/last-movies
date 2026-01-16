@@ -1,23 +1,65 @@
 {
-  "fetched_at_utc": "2026-01-16T12:28:21.546789+00:00",
+  "fetched_at_utc": "2026-01-16T18:21:25.484727+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1617588,
-      "title": "Holland America Cruise Cancellation & Rebooking – Complete Guidance",
+      "id": 1617889,
+      "title": "Talvez Ainda Dê Tempo",
+      "release_date": "2026-01-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6KkkST6T9pn3m7da6He9qnozx0S.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1617844,
+      "title": "Capitão Fausto - Um Ensaio para o Futuro",
       "release_date": "2026-01-16",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": []
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1617827,
+      "title": "Catherine Bohart: Again, With Feelings",
+      "release_date": "2026-01-16",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1617821,
+      "title": "Don't Trust the Quiet Ones",
+      "release_date": "2026-01-16",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aIkrhM9U3vopvbwN3Yyv7VAlQrm.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1617712,
+      "title": "STALKHER",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы"
+      ]
     },
     {
       "id": 1617536,
       "title": "One Two Cha Cha Chaa",
       "release_date": "2026-01-16",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cWfX0Pog0ZHgTKY3glhIjvkWxgB.jpg",
       "genres": [
         "боевик",
         "приключения",
@@ -60,46 +102,6 @@
         "мелодрама",
         "приключения"
       ]
-    },
-    {
-      "id": 1617047,
-      "title": "Dernier vol",
-      "release_date": "2026-01-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4yMARhlkBz6UFZ2KjMnuJh7q3ST.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1617044,
-      "title": "Lek med Alfons Åberg",
-      "release_date": "2026-01-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nd9rdR9piqtyGhYgLLUYr55yB15.jpg",
-      "genres": [
-        "мультфильм",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1616993,
-      "title": "Safia/Safdar",
-      "release_date": "2026-01-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ggN2WBU8cRMehVdS1nV0VYHACin.jpg",
-      "genres": [
-        "драма",
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1616778,
-      "title": "ACA 199: Frolov vs. Emeev",
-      "release_date": "2026-01-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8BJQgLB2zO0Hgip57CoDszXTQfu.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",
