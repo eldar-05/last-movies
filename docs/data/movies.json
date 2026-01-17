@@ -1,16 +1,37 @@
 {
-  "fetched_at_utc": "2026-01-17T06:20:22.129504+00:00",
+  "fetched_at_utc": "2026-01-17T18:18:29.991897+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1618385,
+      "title": "Kampen",
+      "release_date": "2026-01-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3mhwbpGBkP6mM0YIpxLWNuWrzop.jpg",
+      "genres": []
+    },
+    {
+      "id": 1618381,
+      "title": "Ett släktträd av guld",
+      "release_date": "2026-01-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4FgECJGDfjKlo58uJIZXRkScw9N.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1617433,
       "title": "I Am Mary Jo Buttafuoco",
       "release_date": "2026-01-17",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": []
+      "genres": [
+        "триллер",
+        "телевизионный фильм"
+      ]
     },
     {
       "id": 1617402,
@@ -77,27 +98,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/wJfVfEgC1F1SYy7Sp8t44XO4vf7.jpg",
       "genres": [
         "мультфильм"
-      ]
-    },
-    {
-      "id": 1616630,
-      "title": "Rudi: The Blood Nosed Reindeer",
-      "release_date": "2026-01-17",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qLxQYDISNRuo95MlXPkkcdW1Bd3.jpg",
-      "genres": [
-        "мультфильм",
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1616603,
-      "title": "Sayap Garuda",
-      "release_date": "2026-01-17",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/FnNPOOuO1bbnBRYYG4waUai7ET.jpg",
-      "genres": [
-        "драма"
       ]
     }
   ],
