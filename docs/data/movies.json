@@ -1,53 +1,55 @@
 {
-  "fetched_at_utc": "2026-01-16T18:21:25.484727+00:00",
+  "fetched_at_utc": "2026-01-17T01:04:21.757249+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1617889,
-      "title": "Talvez Ainda Dê Tempo",
-      "release_date": "2026-01-16",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6KkkST6T9pn3m7da6He9qnozx0S.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1617844,
-      "title": "Capitão Fausto - Um Ensaio para o Futuro",
-      "release_date": "2026-01-16",
+      "id": 1617433,
+      "title": "I Am Mary Jo Buttafuoco",
+      "release_date": "2026-01-17",
       "vote_average": 0.0,
       "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1617402,
+      "title": "Romeo dan Juliet",
+      "release_date": "2026-01-17",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cCJolGrYQNUeEIoDOQHtxuwiv3t.jpg",
       "genres": [
-        "документальный"
+        "мелодрама"
       ]
     },
     {
-      "id": 1617827,
-      "title": "Catherine Bohart: Again, With Feelings",
-      "release_date": "2026-01-16",
+      "id": 1617206,
+      "title": "Fine, I’ll Do It Myself",
+      "release_date": "2026-01-17",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": [
-        "комедия"
-      ]
+      "genres": []
     },
     {
-      "id": 1617821,
-      "title": "Don't Trust the Quiet Ones",
-      "release_date": "2026-01-16",
+      "id": 1617204,
+      "title": "Hand on Broken Glass",
+      "release_date": "2026-01-17",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aIkrhM9U3vopvbwN3Yyv7VAlQrm.jpg",
-      "genres": [
-        "триллер"
-      ]
+      "poster_url": null,
+      "genres": []
     },
     {
-      "id": 1617712,
-      "title": "STALKHER",
-      "release_date": "",
+      "id": 1617198,
+      "title": "Desert Silence",
+      "release_date": "2026-01-17",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1617166,
+      "title": "Your Sandwich Is Always Rotten",
+      "release_date": "2026-01-17",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
@@ -55,52 +57,47 @@
       ]
     },
     {
-      "id": 1617536,
-      "title": "One Two Cha Cha Chaa",
-      "release_date": "2026-01-16",
+      "id": 1616931,
+      "title": "TJPW The 6th \"Futari wa Princess\" Max Heart Tournament ~ Day 1",
+      "release_date": "2026-01-17",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cWfX0Pog0ZHgTKY3glhIjvkWxgB.jpg",
+      "poster_url": null,
       "genres": [
         "боевик",
-        "приключения",
-        "комедия"
+        "драма",
+        "комедия",
+        "музыка"
       ]
     },
     {
-      "id": 1617387,
-      "title": "outtakes from quezon lights",
-      "release_date": "2026-01-16",
+      "id": 1616642,
+      "title": "Pelot of Hate",
+      "release_date": "2026-01-17",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4GYnX35YVGjRZDhddvehh3JfP2r.jpg",
-      "genres": []
-    },
-    {
-      "id": 1617243,
-      "title": "Lačni znanja",
-      "release_date": "2026-01-16",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wJfVfEgC1F1SYy7Sp8t44XO4vf7.jpg",
       "genres": [
-        "комедия"
+        "мультфильм"
       ]
     },
     {
-      "id": 1617175,
-      "title": "Drowning",
-      "release_date": "2026-01-16",
+      "id": 1616630,
+      "title": "Rudi: The Blood Nosed Reindeer",
+      "release_date": "2026-01-17",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/qLxQYDISNRuo95MlXPkkcdW1Bd3.jpg",
+      "genres": [
+        "мультфильм",
+        "ужасы"
+      ]
     },
     {
-      "id": 1617099,
-      "title": "Carta de amor",
-      "release_date": "2026-01-16",
+      "id": 1616603,
+      "title": "Sayap Garuda",
+      "release_date": "2026-01-17",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uzvqF9zbTjGbL4CVF8cvtEDvHP2.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/FnNPOOuO1bbnBRYYG4waUai7ET.jpg",
       "genres": [
-        "мелодрама",
-        "приключения"
+        "драма"
       ]
     }
   ],
