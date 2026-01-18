@@ -1,0 +1,24 @@
+{
+  "id": 1616559,
+  "title": "Tomato",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-18",
+  "runtime": 7,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/en5jT47Xb7wZGywPHPWapfizfth.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1616559",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-18T01:12:27.571615+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

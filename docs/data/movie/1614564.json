@@ -1,0 +1,27 @@
+{
+  "id": 1614564,
+  "title": "Les Lapins Trois-Oreilles",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-18",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм",
+    "приключения",
+    "семейный",
+    "музыка"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/7cHFTwM5uoWsGLbF5JslNU9U5vn.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1614564",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-18T01:12:28.405070+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

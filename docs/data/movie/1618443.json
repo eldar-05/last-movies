@@ -1,0 +1,24 @@
+{
+  "id": 1618443,
+  "title": "The Glass Eye",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-18",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/vlnr8vTLISj30iLg83L8JEMP5Jm.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1618443",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-18T01:12:26.766821+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

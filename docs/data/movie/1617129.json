@@ -1,0 +1,27 @@
+{
+  "id": 1617129,
+  "title": "Mur mure",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-18",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "мелодрама"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French"
+  ],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/4HevJ3d3rzfTjgaZRx1fiYIRri8.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/tEs6S6MOQNWT2Kosne1pO2Pehqk.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1617129",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-18T01:12:27.155604+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

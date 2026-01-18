@@ -1,0 +1,22 @@
+{
+  "id": 1614854,
+  "title": "Dream Story",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-18",
+  "runtime": 19,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "ужасы"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/pbknhAX5LyVmuOThCTtv4a6A7po.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/A7cYX1Vead1zDBWKYdsvA6gBoO.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1614854",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-18T01:12:28.201651+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
