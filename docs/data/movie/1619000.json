@@ -1,0 +1,24 @@
+{
+  "id": 1619000,
+  "title": "Jerez",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-18",
+  "runtime": 26,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [
+    "PT"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/liyWXk8ItAbzYxlstbZ2KrwqKYZ.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1619000",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-18T18:18:40.334389+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
