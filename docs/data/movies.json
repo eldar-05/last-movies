@@ -1,9 +1,54 @@
 {
-  "fetched_at_utc": "2026-01-19T12:31:57.252436+00:00",
+  "fetched_at_utc": "2026-01-19T18:21:06.480587+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1619533,
+      "title": "Arctic Adventure: Ultimate Survival",
+      "release_date": "2026-01-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/hhk5M6f87cSLL45NZf2ywdqslFx.jpg",
+      "genres": [
+        "документальный",
+        "приключения"
+      ]
+    },
+    {
+      "id": 1619519,
+      "title": "Love of the Game",
+      "release_date": "2026-01-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/7vfe5f9je966TTvxJNhLkjx06I6.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1619479,
+      "title": "Oskar",
+      "release_date": "2026-01-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wDzllOW0CkZIx8vVRoODSaAiQAc.jpg",
+      "genres": []
+    },
+    {
+      "id": 1619402,
+      "title": "4th Annual ReelTok Awards Show",
+      "release_date": "2026-01-19",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1619383,
+      "title": "Last Cigarette",
+      "release_date": "2026-01-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jFbqwEtLpsVsIMy9o1KPGvej3ss.jpg",
+      "genres": []
+    },
     {
       "id": 1615353,
       "title": "スターダム旗揚げ15周年記念シリーズ NEW YEAR STARS 2026 in TAKAMATSU",
@@ -37,6 +82,19 @@
       ]
     },
     {
+      "id": 1614447,
+      "title": "APOKALIPS!!!",
+      "release_date": "2026-01-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2LvKLhHIi9q3DIN4b4vyHmUvw0b.jpg",
+      "genres": [
+        "фантастика",
+        "драма",
+        "фэнтези",
+        "музыка"
+      ]
+    },
+    {
       "id": 1614345,
       "title": "Veil",
       "release_date": "2026-01-19",
@@ -45,61 +103,6 @@
       "genres": [
         "драма",
         "мелодрама"
-      ]
-    },
-    {
-      "id": 1613967,
-      "title": "Dōng Shèn Shì",
-      "release_date": "2026-01-19",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1613788,
-      "title": "Atitama",
-      "release_date": "2026-01-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gGJPwdkRhPg8f3NglHjSdjJlVic.jpg",
-      "genres": [
-        "драма",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1613527,
-      "title": "NJPW Road to The New Beginning 2026 - Day 1",
-      "release_date": "2026-01-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/g9K9AbfdQDReBaaGywVxmHxlg3d.jpg",
-      "genres": []
-    },
-    {
-      "id": 1608415,
-      "title": "Jeroen Verdick: Klein Gevaarlijk Afval",
-      "release_date": "2026-01-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/trqNdUmo7qm3iKSWGga4ukpBL2F.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1607694,
-      "title": "Jan Van Eyken & Pascal Braeckman, Backstage",
-      "release_date": "2026-01-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lpldPR3JvX3QvMR8pkjwLbl30cq.jpg",
-      "genres": []
-    },
-    {
-      "id": 1597610,
-      "title": "Herman Verbruggen: Kram",
-      "release_date": "2026-01-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/urjbG40gfwa4yVurGV7eFuNDPTx.jpg",
-      "genres": [
-        "комедия"
       ]
     }
   ],

@@ -1,0 +1,30 @@
+{
+  "id": 1614447,
+  "title": "APOKALIPS!!!",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-19",
+  "runtime": 19,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "фантастика",
+    "драма",
+    "фэнтези",
+    "музыка"
+  ],
+  "original_language": "tl",
+  "spoken_languages": [
+    "English",
+    "Tagalog"
+  ],
+  "production_countries": [
+    "PH"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/2LvKLhHIi9q3DIN4b4vyHmUvw0b.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/3JXr9LHZ5rbRoiP4tYWyHiRg7qX.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1614447",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-19T18:21:06.338620+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

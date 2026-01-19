@@ -1,0 +1,22 @@
+{
+  "id": 1619479,
+  "title": "Oskar",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-19",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "de",
+  "spoken_languages": [],
+  "production_countries": [
+    "DE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/wDzllOW0CkZIx8vVRoODSaAiQAc.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1619479",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-19T18:21:05.423600+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
