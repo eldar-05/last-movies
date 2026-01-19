@@ -1,0 +1,25 @@
+{
+  "id": 1613788,
+  "title": "Atitama",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-19",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "семейный"
+  ],
+  "original_language": "id",
+  "spoken_languages": [
+    "Indonesian"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/gGJPwdkRhPg8f3NglHjSdjJlVic.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/raYUUNaUTd5UNIOA6lKomQOlu6r.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1613788",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-19T01:11:24.962917+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

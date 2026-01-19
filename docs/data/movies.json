@@ -1,107 +1,105 @@
 {
-  "fetched_at_utc": "2026-01-18T18:18:41.913415+00:00",
+  "fetched_at_utc": "2026-01-19T01:11:26.216313+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1619000,
-      "title": "Jerez",
-      "release_date": "2026-01-18",
+      "id": 1615353,
+      "title": "スターダム旗揚げ15周年記念シリーズ NEW YEAR STARS 2026 in TAKAMATSU",
+      "release_date": "2026-01-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/liyWXk8ItAbzYxlstbZ2KrwqKYZ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pDsaNdYKnFcL5z7Rw7j2qVXRizH.jpg",
+      "genres": [
+        "боевик",
+        "драма"
+      ]
+    },
+    {
+      "id": 1615284,
+      "title": "Caju, Meu Amigo",
+      "release_date": "2026-01-19",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма",
+        "телевизионный фильм"
+      ]
+    },
+    {
+      "id": 1614780,
+      "title": "I Guess.",
+      "release_date": "2026-01-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/K8UmuNHPQfxE79LgwGKEgJbRBc.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1614345,
+      "title": "Veil",
+      "release_date": "2026-01-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6LHKuBbG1BjwZ7l3QkHIRn63vc2.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1613967,
+      "title": "Dōng Shèn Shì",
+      "release_date": "2026-01-19",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": []
     },
     {
-      "id": 1618942,
-      "title": "The Night Walk",
-      "release_date": "2026-01-18",
+      "id": 1613788,
+      "title": "Atitama",
+      "release_date": "2026-01-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fU6Nchq8VL2q3MAYjrq6ASncwLg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gGJPwdkRhPg8f3NglHjSdjJlVic.jpg",
+      "genres": [
+        "драма",
+        "семейный"
+      ]
+    },
+    {
+      "id": 1613527,
+      "title": "NJPW Road to The New Beginning 2026 - Day 1",
+      "release_date": "2026-01-19",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/g9K9AbfdQDReBaaGywVxmHxlg3d.jpg",
       "genres": []
     },
     {
-      "id": 1618443,
-      "title": "The Glass Eye",
-      "release_date": "2026-01-18",
+      "id": 1608415,
+      "title": "Jeroen Verdick: Klein Gevaarlijk Afval",
+      "release_date": "2026-01-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vlnr8vTLISj30iLg83L8JEMP5Jm.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/trqNdUmo7qm3iKSWGga4ukpBL2F.jpg",
       "genres": [
         "комедия"
       ]
     },
     {
-      "id": 1617357,
-      "title": "Alien Yuri ASMR: The Movie (Kissing, Time Travel, Death)",
-      "release_date": "2026-01-18",
+      "id": 1607694,
+      "title": "Jan Van Eyken & Pascal Braeckman, Backstage",
+      "release_date": "2026-01-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zmGQzHuJoaUxWulLUL7htQpbJrs.jpg",
-      "genres": [
-        "драма",
-        "боевик",
-        "приключения",
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1617129,
-      "title": "Mur mure",
-      "release_date": "2026-01-18",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4HevJ3d3rzfTjgaZRx1fiYIRri8.jpg",
-      "genres": [
-        "комедия",
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1616945,
-      "title": "Dog Years",
-      "release_date": "2026-01-18",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vPYcsrQRYINqsAo0OP3r5kfw4wP.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lpldPR3JvX3QvMR8pkjwLbl30cq.jpg",
       "genres": []
     },
     {
-      "id": 1616559,
-      "title": "Tomato",
-      "release_date": "2026-01-18",
+      "id": 1597610,
+      "title": "Herman Verbruggen: Kram",
+      "release_date": "2026-01-19",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/en5jT47Xb7wZGywPHPWapfizfth.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/urjbG40gfwa4yVurGV7eFuNDPTx.jpg",
       "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1615988,
-      "title": "Eloy x Manzano",
-      "release_date": "2026-01-18",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/w5eRlZACuEQJuSEVwNQvpwNGx56.jpg",
-      "genres": [
-        "документальный",
-        "драма"
-      ]
-    },
-    {
-      "id": 1615906,
-      "title": "Tilburgse Sterke Vrouwen",
-      "release_date": "2026-01-18",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "история",
-        "документальный"
-      ]
-    },
-    {
-      "id": 1614854,
-      "title": "Dream Story",
-      "release_date": "2026-01-18",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pbknhAX5LyVmuOThCTtv4a6A7po.jpg",
-      "genres": [
-        "ужасы"
+        "комедия"
       ]
     }
   ],

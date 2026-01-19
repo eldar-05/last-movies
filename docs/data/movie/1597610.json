@@ -1,0 +1,26 @@
+{
+  "id": 1597610,
+  "title": "Herman Verbruggen: Kram",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-19",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "nl",
+  "spoken_languages": [
+    "Dutch"
+  ],
+  "production_countries": [
+    "BE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/urjbG40gfwa4yVurGV7eFuNDPTx.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/pVXfl5NedotaTcFYz4lU7nocD7Y.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1597610",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-19T01:11:26.215852+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
