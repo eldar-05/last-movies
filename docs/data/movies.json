@@ -1,108 +1,112 @@
 {
-  "fetched_at_utc": "2026-01-19T18:21:06.480587+00:00",
+  "fetched_at_utc": "2026-01-20T01:06:16.291926+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1619533,
-      "title": "Arctic Adventure: Ultimate Survival",
-      "release_date": "2026-01-19",
+      "id": 1619398,
+      "title": "NON-LIEUX",
+      "release_date": "2026-01-20",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hhk5M6f87cSLL45NZf2ywdqslFx.jpg",
+      "poster_url": null,
       "genres": [
-        "документальный",
-        "приключения"
+        "комедия",
+        "драма",
+        "боевик"
       ]
     },
     {
-      "id": 1619519,
-      "title": "Love of the Game",
-      "release_date": "2026-01-19",
+      "id": 1618855,
+      "title": "Els assassins del Capitán Trueno",
+      "release_date": "2026-01-20",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7vfe5f9je966TTvxJNhLkjx06I6.jpg",
+      "poster_url": null,
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1619479,
-      "title": "Oskar",
-      "release_date": "2026-01-19",
+      "id": 1618568,
+      "title": "Daniel Balavoine : 40 ans déjà",
+      "release_date": "2026-01-20",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wDzllOW0CkZIx8vVRoODSaAiQAc.jpg",
-      "genres": []
-    },
-    {
-      "id": 1619402,
-      "title": "4th Annual ReelTok Awards Show",
-      "release_date": "2026-01-19",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1619383,
-      "title": "Last Cigarette",
-      "release_date": "2026-01-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jFbqwEtLpsVsIMy9o1KPGvej3ss.jpg",
-      "genres": []
-    },
-    {
-      "id": 1615353,
-      "title": "スターダム旗揚げ15周年記念シリーズ NEW YEAR STARS 2026 in TAKAMATSU",
-      "release_date": "2026-01-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pDsaNdYKnFcL5z7Rw7j2qVXRizH.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dI3REUGiDl9SLM2jsgHiGuyRH5m.jpg",
       "genres": [
-        "боевик",
-        "драма"
-      ]
-    },
-    {
-      "id": 1615284,
-      "title": "Caju, Meu Amigo",
-      "release_date": "2026-01-19",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма",
-        "телевизионный фильм"
-      ]
-    },
-    {
-      "id": 1614780,
-      "title": "I Guess.",
-      "release_date": "2026-01-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/K8UmuNHPQfxE79LgwGKEgJbRBc.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1614447,
-      "title": "APOKALIPS!!!",
-      "release_date": "2026-01-19",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2LvKLhHIi9q3DIN4b4vyHmUvw0b.jpg",
-      "genres": [
-        "фантастика",
-        "драма",
-        "фэнтези",
+        "документальный",
         "музыка"
       ]
     },
     {
-      "id": 1614345,
-      "title": "Veil",
-      "release_date": "2026-01-19",
+      "id": 1618481,
+      "title": "Every Time I Look at You",
+      "release_date": "2026-01-20",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6LHKuBbG1BjwZ7l3QkHIRn63vc2.jpg",
+      "poster_url": null,
       "genres": [
-        "драма",
-        "мелодрама"
+        "драма"
+      ]
+    },
+    {
+      "id": 1618147,
+      "title": "Less Miserable",
+      "release_date": "2026-01-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/wkOyjxqSHSDOxD2Fc3fe9EliU1M.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ]
+    },
+    {
+      "id": 1617693,
+      "title": "Shapes of Days",
+      "release_date": "2026-01-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bwDQBgAFCdUlw0z1pgfejVps8dl.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1617181,
+      "title": "La Guerre, Donald Trump et nous : 2025, l'année de tous les dangers",
+      "release_date": "2026-01-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6bIJwe9d9g1BQnchSbdIjZKo0hT.jpg",
+      "genres": [
+        "документальный",
+        "история"
+      ]
+    },
+    {
+      "id": 1616923,
+      "title": "Charkh-e-falak",
+      "release_date": "2026-01-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fVJEJwJ6YwU8blJGO5z79kvaVqH.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1616220,
+      "title": "Vom bösen Blick",
+      "release_date": "2026-01-20",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1616219,
+      "title": "M.",
+      "release_date": "2026-01-20",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
       ]
     }
   ],

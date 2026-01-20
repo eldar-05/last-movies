@@ -1,0 +1,30 @@
+{
+  "id": 1616923,
+  "title": "Charkh-e-falak",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-20",
+  "runtime": 25,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "hi",
+  "spoken_languages": [
+    "Hindi"
+  ],
+  "production_countries": [
+    "IN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/fVJEJwJ6YwU8blJGO5z79kvaVqH.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1616923",
+  "trailer": {
+    "key": "VGAazk1VL8w",
+    "name": "Tumhari Kahani (From \"Charkh-e-Falak\")",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-20T01:06:15.626566+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
