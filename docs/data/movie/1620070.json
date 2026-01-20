@@ -1,27 +1,24 @@
 {
-  "id": 1619765,
-  "title": "House Sitter",
+  "id": 1620070,
+  "title": "Sultan - It's Drag Habibi",
   "tagline": "",
   "overview": "",
   "release_date": "2026-01-20",
-  "runtime": 87,
+  "runtime": 30,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [
-    "ужасы",
-    "триллер"
-  ],
-  "original_language": "en",
+  "genres": [],
+  "original_language": "de",
   "spoken_languages": [
     "English"
   ],
   "production_countries": [
-    "US"
+    "DE"
   ],
   "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1619765",
+  "tmdb_url": "https://www.themoviedb.org/movie/1620070",
   "trailer": null,
-  "fetched_at_utc": "2026-01-20T18:25:12.494400+00:00",
+  "fetched_at_utc": "2026-01-20T18:25:11.063139+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

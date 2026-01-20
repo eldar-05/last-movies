@@ -1,9 +1,35 @@
 {
-  "fetched_at_utc": "2026-01-20T12:32:35.111084+00:00",
+  "fetched_at_utc": "2026-01-20T18:25:14.120534+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1620070,
+      "title": "Sultan - It's Drag Habibi",
+      "release_date": "2026-01-20",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1620012,
+      "title": "Ice House",
+      "release_date": "2026-01-20",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1619902,
+      "title": "The Empathy Project",
+      "release_date": "2026-01-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/eJRbdjddCD2jtVOIJ4T75fv4gy6.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1619823,
       "title": "Walentynki z M jak miłość",
@@ -79,37 +105,6 @@
       "genres": [
         "документальный",
         "музыка"
-      ]
-    },
-    {
-      "id": 1618481,
-      "title": "Every Time I Look at You",
-      "release_date": "2026-01-20",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1618255,
-      "title": "双雄出击",
-      "release_date": "2026-01-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cGmUzWIHJrBoyV4nEEBqYdroprI.jpg",
-      "genres": [
-        "боевик"
-      ]
-    },
-    {
-      "id": 1618147,
-      "title": "Less Miserable",
-      "release_date": "2026-01-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/wkOyjxqSHSDOxD2Fc3fe9EliU1M.jpg",
-      "genres": [
-        "комедия",
-        "драма"
       ]
     }
   ],
