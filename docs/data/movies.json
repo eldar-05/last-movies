@@ -1,9 +1,53 @@
 {
-  "fetched_at_utc": "2026-01-20T06:25:07.835100+00:00",
+  "fetched_at_utc": "2026-01-20T12:32:35.111084+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1619823,
+      "title": "Walentynki z M jak miłość",
+      "release_date": "2026-01-20",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма",
+        "мелодрама",
+        "телевизионный фильм"
+      ]
+    },
+    {
+      "id": 1619765,
+      "title": "House Sitter",
+      "release_date": "2026-01-20",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1619722,
+      "title": "Odd Occurrence",
+      "release_date": "2026-01-20",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "комедия",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1619700,
+      "title": "Viagem dos Sonhos",
+      "release_date": "2026-01-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6Ch4ZG5gJPHnHO5we5yJcmOVA1T.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1619398,
       "title": "NON-LIEUX",
@@ -48,6 +92,16 @@
       ]
     },
     {
+      "id": 1618255,
+      "title": "双雄出击",
+      "release_date": "2026-01-20",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cGmUzWIHJrBoyV4nEEBqYdroprI.jpg",
+      "genres": [
+        "боевик"
+      ]
+    },
+    {
       "id": 1618147,
       "title": "Less Miserable",
       "release_date": "2026-01-20",
@@ -55,57 +109,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/wkOyjxqSHSDOxD2Fc3fe9EliU1M.jpg",
       "genres": [
         "комедия",
-        "драма"
-      ]
-    },
-    {
-      "id": 1617693,
-      "title": "Shapes of Days",
-      "release_date": "2026-01-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bwDQBgAFCdUlw0z1pgfejVps8dl.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1617181,
-      "title": "La Guerre, Donald Trump et nous : 2025, l'année de tous les dangers",
-      "release_date": "2026-01-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6bIJwe9d9g1BQnchSbdIjZKo0hT.jpg",
-      "genres": [
-        "документальный",
-        "история"
-      ]
-    },
-    {
-      "id": 1616923,
-      "title": "Charkh-e-falak",
-      "release_date": "2026-01-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fVJEJwJ6YwU8blJGO5z79kvaVqH.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1616220,
-      "title": "Vom bösen Blick",
-      "release_date": "2026-01-20",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1616219,
-      "title": "M.",
-      "release_date": "2026-01-20",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
         "драма"
       ]
     }

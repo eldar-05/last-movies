@@ -1,6 +1,6 @@
 {
-  "id": 1619398,
-  "title": "NON-LIEUX",
+  "id": 1619823,
+  "title": "Walentynki z M jak miłość",
   "tagline": "",
   "overview": "",
   "release_date": "2026-01-20",
@@ -8,22 +8,21 @@
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "комедия",
     "драма",
-    "боевик"
+    "мелодрама",
+    "телевизионный фильм"
   ],
-  "original_language": "fr",
+  "original_language": "pl",
   "spoken_languages": [
-    "French"
+    "Polish"
   ],
   "production_countries": [
-    "DE",
-    "FR"
+    "PL"
   ],
   "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1619398",
+  "tmdb_url": "https://www.themoviedb.org/movie/1619823",
   "trailer": null,
-  "fetched_at_utc": "2026-01-20T12:32:32.987391+00:00",
+  "fetched_at_utc": "2026-01-20T12:32:31.147605+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

@@ -1,23 +1,23 @@
 {
-  "id": 1618147,
-  "title": "Less Miserable",
+  "id": 1619765,
+  "title": "House Sitter",
   "tagline": "",
   "overview": "",
   "release_date": "2026-01-20",
-  "runtime": 7,
+  "runtime": 87,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "комедия",
-    "драма"
+    "ужасы",
+    "триллер"
   ],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": "https://image.tmdb.org/t/p/w500/wkOyjxqSHSDOxD2Fc3fe9EliU1M.jpg",
+  "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1618147",
+  "tmdb_url": "https://www.themoviedb.org/movie/1619765",
   "trailer": null,
-  "fetched_at_utc": "2026-01-20T12:32:35.110546+00:00",
+  "fetched_at_utc": "2026-01-20T12:32:31.647493+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
