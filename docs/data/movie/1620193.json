@@ -3,18 +3,21 @@
   "title": "How to Welcome a Stranger",
   "tagline": "",
   "overview": "",
-  "release_date": "",
+  "release_date": "2026-01-21",
   "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
-  "original_language": "ab",
+  "genres": [
+    "драма",
+    "детектив"
+  ],
+  "original_language": "fr",
   "spoken_languages": [],
   "production_countries": [],
-  "poster_url": null,
-  "backdrop_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/tTKUO80kfHC1uoZKV6IhxtzcSgN.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/p9YQkKzz16gsLI63NHjVkkG93uM.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1620193",
   "trailer": null,
-  "fetched_at_utc": "2026-01-21T01:08:33.493745+00:00",
+  "fetched_at_utc": "2026-01-21T06:25:03.106875+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
