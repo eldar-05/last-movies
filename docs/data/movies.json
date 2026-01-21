@@ -1,9 +1,53 @@
 {
-  "fetched_at_utc": "2026-01-21T12:32:30.822322+00:00",
+  "fetched_at_utc": "2026-01-21T18:33:04.459960+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1620627,
+      "title": "Mary",
+      "release_date": "2026-01-21",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1620589,
+      "title": "Remember",
+      "release_date": "2026-01-21",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2Vrj6UD0q1QowmHF4jbaL0xnW6N.jpg",
+      "genres": []
+    },
+    {
+      "id": 1620550,
+      "title": "Kriget om fröerna",
+      "release_date": "2026-01-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/m2m8JvQBglYvGZ9IyR5ObVr3nmf.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1620547,
+      "title": "Seragu",
+      "release_date": "2026-01-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/swGiynsarm8tLiD7CjnULPXV8m1.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1620533,
+      "title": "Vom Ende der Menschheit",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
     {
       "id": 1620453,
       "title": "Après eux, qui va raconter l'histoire ? - Le documentaire",
@@ -20,7 +64,9 @@
       "release_date": "2026-01-21",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/bsDOJBU5DHwNH1ycSy1PKBKdkQA.jpg",
-      "genres": []
+      "genres": [
+        "документальный"
+      ]
     },
     {
       "id": 1620436,
@@ -52,55 +98,6 @@
         "драма",
         "ужасы"
       ]
-    },
-    {
-      "id": 1620225,
-      "title": "NULLE PART",
-      "release_date": "2026-01-21",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gQpAkyetapAWlGlHK7hq1xr4hTp.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1620211,
-      "title": "Pilije",
-      "release_date": "2026-01-21",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1620193,
-      "title": "How to Welcome a Stranger",
-      "release_date": "2026-01-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tTKUO80kfHC1uoZKV6IhxtzcSgN.jpg",
-      "genres": [
-        "драма",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1620150,
-      "title": "The Masks We Wear",
-      "release_date": "2026-01-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sFhdfTTySeWiuVODDJ8mJuIliiP.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1620093,
-      "title": "Daggi",
-      "release_date": "2026-01-21",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
     }
   ],
   "source": "TMDB",

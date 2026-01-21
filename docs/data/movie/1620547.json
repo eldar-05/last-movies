@@ -1,0 +1,28 @@
+{
+  "id": 1620547,
+  "title": "Seragu",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-21",
+  "runtime": 45,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "kn",
+  "spoken_languages": [
+    "Kannada"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/swGiynsarm8tLiD7CjnULPXV8m1.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1620547",
+  "trailer": {
+    "key": "V-xTRyJSM5U",
+    "name": "SERAGU | An Award-Winning Emotional Kannada Short Film | Life of a Pregnant Weaver Woman.",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-21T18:33:03.239410+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

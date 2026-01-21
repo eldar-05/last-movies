@@ -7,7 +7,9 @@
   "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "документальный"
+  ],
   "original_language": "da",
   "spoken_languages": [
     "Danish"
@@ -17,6 +19,6 @@
   "backdrop_url": "https://image.tmdb.org/t/p/w780/6CuaJWAOifxOiGHFDal3aYxGfr3.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1620446",
   "trailer": null,
-  "fetched_at_utc": "2026-01-21T12:32:28.074501+00:00",
+  "fetched_at_utc": "2026-01-21T18:33:03.827856+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
