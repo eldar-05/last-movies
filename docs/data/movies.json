@@ -1,9 +1,58 @@
 {
-  "fetched_at_utc": "2026-01-21T06:25:05.028521+00:00",
+  "fetched_at_utc": "2026-01-21T12:32:30.822322+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1620453,
+      "title": "Après eux, qui va raconter l'histoire ? - Le documentaire",
+      "release_date": "2026-01-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pvDxhn1coOCemgojtCONVgQJNCB.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1620446,
+      "title": "Fræk fyr til Frede",
+      "release_date": "2026-01-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bsDOJBU5DHwNH1ycSy1PKBKdkQA.jpg",
+      "genres": []
+    },
+    {
+      "id": 1620436,
+      "title": "Générations burnout",
+      "release_date": "2026-01-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/etgQArRRmHNs8j0X2r80hPkYvrW.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1620288,
+      "title": "Straight Fire",
+      "release_date": "2026-01-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8ed5HsseAyfdcWQtFsuQGQJdcls.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1620255,
+      "title": "鬼月故事",
+      "release_date": "2026-01-21",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/eRVoEAmtG5h7qMwnxjDr2Xfw9E.jpg",
+      "genres": [
+        "драма",
+        "ужасы"
+      ]
+    },
     {
       "id": 1620225,
       "title": "NULLE PART",
@@ -52,60 +101,6 @@
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
-    },
-    {
-      "id": 1620036,
-      "title": "Sorry (I Love You)",
-      "release_date": "2026-01-21",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мелодрама",
-        "драма"
-      ]
-    },
-    {
-      "id": 1619593,
-      "title": "Catalyst",
-      "release_date": "2026-01-21",
-      "vote_average": 9.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vlYKVCoK9EWZm7ZATxtocELyrXt.jpg",
-      "genres": [
-        "боевик",
-        "фантастика"
-      ]
-    },
-    {
-      "id": 1619250,
-      "title": "Asteroids: The Spark of Life?",
-      "release_date": "2026-01-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5rK0Uaqi7Vpj5ISczCFbRwIb8bn.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1619181,
-      "title": "The Challenge King",
-      "release_date": "2026-01-21",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "приключения",
-        "детектив",
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1618815,
-      "title": "Anclados",
-      "release_date": "2026-01-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lkrTbI1NEXYf8kTiAmTyK4kA9zq.jpg",
-      "genres": [
-        "драма"
-      ]
     }
   ],
   "source": "TMDB",

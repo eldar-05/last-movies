@@ -1,0 +1,28 @@
+{
+  "id": 1620255,
+  "title": "鬼月故事",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-21",
+  "runtime": 19,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "ужасы"
+  ],
+  "original_language": "zh",
+  "spoken_languages": [
+    "Mandarin",
+    "German"
+  ],
+  "production_countries": [
+    "DE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/eRVoEAmtG5h7qMwnxjDr2Xfw9E.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1620255",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-21T12:32:29.127752+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
