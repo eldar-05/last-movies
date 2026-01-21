@@ -1,0 +1,26 @@
+{
+  "id": 1618815,
+  "title": "Anclados",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-21",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "ES"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/lkrTbI1NEXYf8kTiAmTyK4kA9zq.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/wkLxWPBHvSlZcGRUoYMKuBa2odx.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1618815",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-21T01:08:34.908553+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

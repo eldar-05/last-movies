@@ -1,110 +1,110 @@
 {
-  "fetched_at_utc": "2026-01-20T18:25:14.120534+00:00",
+  "fetched_at_utc": "2026-01-21T01:08:34.909074+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1620070,
-      "title": "Sultan - It's Drag Habibi",
-      "release_date": "2026-01-20",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1620012,
-      "title": "Ice House",
-      "release_date": "2026-01-20",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1619902,
-      "title": "The Empathy Project",
-      "release_date": "2026-01-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eJRbdjddCD2jtVOIJ4T75fv4gy6.jpg",
+      "id": 1620225,
+      "title": "NULLE PART",
+      "release_date": "2026-01-21",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gQpAkyetapAWlGlHK7hq1xr4hTp.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1619823,
-      "title": "Walentynki z M jak miłość",
-      "release_date": "2026-01-20",
+      "id": 1620211,
+      "title": "Pilije",
+      "release_date": "2026-01-21",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1620193,
+      "title": "How to Welcome a Stranger",
+      "release_date": "",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
         "драма",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1620150,
+      "title": "The Masks We Wear",
+      "release_date": "2026-01-21",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1620093,
+      "title": "Daggi",
+      "release_date": "2026-01-21",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1620036,
+      "title": "Sorry (I Love You)",
+      "release_date": "2026-01-21",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
         "мелодрама",
-        "телевизионный фильм"
+        "драма"
       ]
     },
     {
-      "id": 1619765,
-      "title": "House Sitter",
-      "release_date": "2026-01-20",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "id": 1619593,
+      "title": "Catalyst",
+      "release_date": "2026-01-21",
+      "vote_average": 9.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vlYKVCoK9EWZm7ZATxtocELyrXt.jpg",
       "genres": [
-        "ужасы",
-        "триллер"
+        "боевик",
+        "фантастика"
       ]
     },
     {
-      "id": 1619722,
-      "title": "Odd Occurrence",
-      "release_date": "2026-01-20",
+      "id": 1619250,
+      "title": "Asteroids: The Spark of Life?",
+      "release_date": "2026-01-21",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "комедия",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1619700,
-      "title": "Viagem dos Sonhos",
-      "release_date": "2026-01-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6Ch4ZG5gJPHnHO5we5yJcmOVA1T.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5rK0Uaqi7Vpj5ISczCFbRwIb8bn.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1619398,
-      "title": "NON-LIEUX",
-      "release_date": "2026-01-20",
+      "id": 1619181,
+      "title": "The Challenge King",
+      "release_date": "2026-01-21",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "комедия",
-        "драма",
-        "боевик"
+        "приключения",
+        "детектив",
+        "мелодрама"
       ]
     },
     {
-      "id": 1618855,
-      "title": "Els assassins del Capitán Trueno",
-      "release_date": "2026-01-20",
+      "id": 1618815,
+      "title": "Anclados",
+      "release_date": "2026-01-21",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lkrTbI1NEXYf8kTiAmTyK4kA9zq.jpg",
       "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1618568,
-      "title": "Daniel Balavoine : 40 ans déjà",
-      "release_date": "2026-01-20",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dI3REUGiDl9SLM2jsgHiGuyRH5m.jpg",
-      "genres": [
-        "документальный",
-        "музыка"
+        "драма"
       ]
     }
   ],

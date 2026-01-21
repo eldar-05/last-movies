@@ -1,0 +1,26 @@
+{
+  "id": 1620225,
+  "title": "NULLE PART",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-21",
+  "runtime": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish",
+    "French",
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/gQpAkyetapAWlGlHK7hq1xr4hTp.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1620225",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-21T01:08:33.103150+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

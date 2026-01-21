@@ -1,0 +1,23 @@
+{
+  "id": 1619593,
+  "title": "Catalyst",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-21",
+  "runtime": 22,
+  "vote_average": 9.0,
+  "vote_count": 1,
+  "genres": [
+    "боевик",
+    "фантастика"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/vlYKVCoK9EWZm7ZATxtocELyrXt.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1619593",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-21T01:08:34.298765+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
