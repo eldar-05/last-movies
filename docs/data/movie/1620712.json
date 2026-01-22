@@ -1,0 +1,25 @@
+{
+  "id": 1620712,
+  "title": "Die Schlacht",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-22",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "ужасы"
+  ],
+  "original_language": "de",
+  "spoken_languages": [],
+  "production_countries": [
+    "DE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/vZA1hmF5PTEJAAUudH9gGs7OLp4.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/c9Cts8K610ptuXrDT82aRZvLLXW.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1620712",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-22T01:08:49.903340+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

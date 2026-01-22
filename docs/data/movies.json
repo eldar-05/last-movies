@@ -1,102 +1,109 @@
 {
-  "fetched_at_utc": "2026-01-21T18:33:04.459960+00:00",
+  "fetched_at_utc": "2026-01-22T01:08:52.315108+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1620627,
-      "title": "Mary",
-      "release_date": "2026-01-21",
+      "id": 1620712,
+      "title": "Die Schlacht",
+      "release_date": "2026-01-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vZA1hmF5PTEJAAUudH9gGs7OLp4.jpg",
+      "genres": [
+        "драма",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1620079,
+      "title": "Petrichor",
+      "release_date": "2026-01-22",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1620589,
-      "title": "Remember",
-      "release_date": "2026-01-21",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2Vrj6UD0q1QowmHF4jbaL0xnW6N.jpg",
-      "genres": []
-    },
-    {
-      "id": 1620550,
-      "title": "Kriget om fröerna",
-      "release_date": "2026-01-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/m2m8JvQBglYvGZ9IyR5ObVr3nmf.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1620547,
-      "title": "Seragu",
-      "release_date": "2026-01-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/swGiynsarm8tLiD7CjnULPXV8m1.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1620533,
-      "title": "Vom Ende der Menschheit",
-      "release_date": "",
+      "id": 1620076,
+      "title": "Backstage",
+      "release_date": "2026-01-22",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1620453,
-      "title": "Après eux, qui va raconter l'histoire ? - Le documentaire",
-      "release_date": "2026-01-21",
+      "id": 1619665,
+      "title": "Too Many Cooks",
+      "release_date": "2026-01-22",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pvDxhn1coOCemgojtCONVgQJNCB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jtc9JWsIMTEkHEin06CBMIzVeCz.jpg",
       "genres": [
-        "документальный"
+        "комедия",
+        "музыка"
       ]
     },
     {
-      "id": 1620446,
-      "title": "Fræk fyr til Frede",
-      "release_date": "2026-01-21",
+      "id": 1619663,
+      "title": "The Circle of Yeah",
+      "release_date": "2026-01-22",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bsDOJBU5DHwNH1ycSy1PKBKdkQA.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1620436,
-      "title": "Générations burnout",
-      "release_date": "2026-01-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/etgQArRRmHNs8j0X2r80hPkYvrW.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1620288,
-      "title": "Straight Fire",
-      "release_date": "2026-01-21",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8ed5HsseAyfdcWQtFsuQGQJdcls.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2B9aN8t10LsSYCrdAAUv4M6HZsC.jpg",
       "genres": [
         "комедия"
       ]
     },
     {
-      "id": 1620255,
-      "title": "鬼月故事",
-      "release_date": "2026-01-21",
+      "id": 1619657,
+      "title": "Early Bird",
+      "release_date": "2026-01-22",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eRVoEAmtG5h7qMwnxjDr2Xfw9E.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zq9QzMcqX1uxrTsEU7TGdz2xvfW.jpg",
+      "genres": [
+        "ужасы",
+        "драма"
+      ]
+    },
+    {
+      "id": 1619652,
+      "title": "Conscious",
+      "release_date": "2026-01-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vcCcuAwSIWDM6RXDSigMiREYkpT.jpg",
+      "genres": [
+        "ужасы",
+        "драма"
+      ]
+    },
+    {
+      "id": 1619543,
+      "title": "Visitation",
+      "release_date": "2026-01-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lHlaw5vLtYAc5DaPOSal6oWZbMf.jpg",
+      "genres": [
+        "ужасы",
+        "драма"
+      ]
+    },
+    {
+      "id": 1619484,
+      "title": "Eine Krankheit wie ein Gedicht",
+      "release_date": "2026-01-22",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1619201,
+      "title": "Happy Birthday, Mark",
+      "release_date": "2026-01-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/y3Uk76gjlAtydPLhGSK7XoTsu4M.jpg",
       "genres": [
         "драма",
-        "ужасы"
+        "триллер"
       ]
     }
   ],

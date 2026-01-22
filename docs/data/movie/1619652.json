@@ -1,0 +1,25 @@
+{
+  "id": 1619652,
+  "title": "Conscious",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-22",
+  "runtime": 10,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/vcCcuAwSIWDM6RXDSigMiREYkpT.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/iOgu89uWAZ7CUZbaJzRudzRqxK2.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1619652",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-22T01:08:51.536337+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
