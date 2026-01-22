@@ -1,0 +1,27 @@
+{
+  "id": 1621108,
+  "title": "BOOTSTRAPS",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-22",
+  "runtime": 3,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "триллер",
+    "детектив",
+    "фэнтези"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "GB"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/vH5vTSXijv7z9OXTsESTsW5XPia.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/sgH2j5DaGszEJdpiWruAh6uffxR.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1621108",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-22T18:20:31.952730+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

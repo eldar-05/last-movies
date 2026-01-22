@@ -1,15 +1,67 @@
 {
-  "fetched_at_utc": "2026-01-22T12:32:07.868662+00:00",
+  "fetched_at_utc": "2026-01-22T18:20:32.955713+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1621185,
+      "title": "Sandhya Nama Upasate",
+      "release_date": "2026-01-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9SJLOSxoPEwtDkdxVTBYt4uBJWG.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1621156,
+      "title": "Tight Five",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1621122,
+      "title": "21.01.26.mov",
+      "release_date": "2026-01-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4I4GisVw5pHDJBkPWhrfYLDA6Qq.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1621108,
+      "title": "BOOTSTRAPS",
+      "release_date": "2026-01-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vH5vTSXijv7z9OXTsESTsW5XPia.jpg",
+      "genres": [
+        "ужасы",
+        "триллер",
+        "детектив",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1621033,
+      "title": "Performative",
+      "release_date": "2026-01-22",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vvRTg0mlCZWTFOMvpBRCOADkaq6.jpg",
+      "genres": []
+    },
+    {
       "id": 1620943,
       "title": "Welcome Jija Ji",
       "release_date": "2026-01-22",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7FYE1hRagiL7I4qlmPQtsNlow05.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zpNA8T0INCCTvRLyovGuAMFPiNC.jpg",
       "genres": [
         "комедия",
         "семейный"
@@ -51,59 +103,6 @@
       "genres": [
         "комедия",
         "музыка"
-      ]
-    },
-    {
-      "id": 1619663,
-      "title": "The Circle of Yeah",
-      "release_date": "2026-01-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2B9aN8t10LsSYCrdAAUv4M6HZsC.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1619657,
-      "title": "Early Bird",
-      "release_date": "2026-01-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zq9QzMcqX1uxrTsEU7TGdz2xvfW.jpg",
-      "genres": [
-        "ужасы",
-        "драма"
-      ]
-    },
-    {
-      "id": 1619652,
-      "title": "Conscious",
-      "release_date": "2026-01-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vcCcuAwSIWDM6RXDSigMiREYkpT.jpg",
-      "genres": [
-        "ужасы",
-        "драма"
-      ]
-    },
-    {
-      "id": 1619543,
-      "title": "Visitation",
-      "release_date": "2026-01-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lHlaw5vLtYAc5DaPOSal6oWZbMf.jpg",
-      "genres": [
-        "ужасы",
-        "драма"
-      ]
-    },
-    {
-      "id": 1619484,
-      "title": "Eine Krankheit wie ein Gedicht",
-      "release_date": "2026-01-22",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
       ]
     }
   ],
