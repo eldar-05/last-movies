@@ -1,0 +1,25 @@
+{
+  "id": 1620943,
+  "title": "Welcome Jija Ji",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-22",
+  "runtime": 90,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "семейный"
+  ],
+  "original_language": "pa",
+  "spoken_languages": [
+    "Punjabi"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/7FYE1hRagiL7I4qlmPQtsNlow05.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1620943",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-22T12:32:06.202283+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
