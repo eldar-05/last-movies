@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-01-23T01:08:32.867965+00:00",
+  "fetched_at_utc": "2026-01-23T06:23:19.829677+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -17,9 +17,9 @@
     {
       "id": 1621260,
       "title": "biarkan aku ganti",
-      "release_date": "2026-01-24",
+      "release_date": "2026-01-23",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cRZkQ6CdBsUxwLxYCm2HHAM6EUQ.jpg",
       "genres": [
         "ужасы"
       ]
