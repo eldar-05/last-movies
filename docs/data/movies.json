@@ -1,109 +1,109 @@
 {
-  "fetched_at_utc": "2026-01-22T18:20:32.955713+00:00",
+  "fetched_at_utc": "2026-01-23T01:08:32.867965+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1621185,
-      "title": "Sandhya Nama Upasate",
-      "release_date": "2026-01-22",
+      "id": 1621329,
+      "title": "Tokophobia",
+      "release_date": "2026-01-23",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9SJLOSxoPEwtDkdxVTBYt4uBJWG.jpg",
+      "poster_url": null,
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1621260,
+      "title": "biarkan aku ganti",
+      "release_date": "2026-01-24",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1620797,
+      "title": "Par ma fenêtre",
+      "release_date": "2026-01-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/w6W8P5h0lw9N71g2L0NLfgbwyR3.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1620378,
+      "title": "Akenkagnu",
+      "release_date": "2026-01-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cwlz8TZh82eMShSLDP0BD1Y2GeI.jpg",
       "genres": [
         "драма",
         "мелодрама"
       ]
     },
     {
-      "id": 1621156,
-      "title": "Tight Five",
-      "release_date": "",
+      "id": 1620347,
+      "title": "改邪归正",
+      "release_date": "2026-01-23",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zwoZqoujfddCZiyHsccl8g9YjQC.jpg",
       "genres": [
-        "комедия"
+        "комедия",
+        "мелодрама"
       ]
     },
     {
-      "id": 1621122,
-      "title": "21.01.26.mov",
-      "release_date": "2026-01-22",
+      "id": 1620327,
+      "title": "0009: Yesterday's Today Dies Again",
+      "release_date": "2026-01-23",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4I4GisVw5pHDJBkPWhrfYLDA6Qq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zwn01HCJDsp1MHCwVfAmkCfHSew.jpg",
       "genres": [
-        "ужасы"
+        "комедия",
+        "боевик"
       ]
     },
     {
-      "id": 1621108,
-      "title": "BOOTSTRAPS",
-      "release_date": "2026-01-22",
+      "id": 1620272,
+      "title": "Don't Breathe a Word",
+      "release_date": "2026-01-23",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vH5vTSXijv7z9OXTsESTsW5XPia.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sAnfRFBXuQ4gvCH386otqbqsTU5.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1620216,
+      "title": "Diário de Bordo",
+      "release_date": "2026-01-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5V2NeEeHuCvXIdaj26ihUlHgJmq.jpg",
       "genres": [
         "ужасы",
-        "триллер",
-        "детектив",
-        "фэнтези"
+        "фэнтези",
+        "детектив"
       ]
     },
     {
-      "id": 1621033,
-      "title": "Performative",
-      "release_date": "2026-01-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vvRTg0mlCZWTFOMvpBRCOADkaq6.jpg",
-      "genres": []
-    },
-    {
-      "id": 1620943,
-      "title": "Welcome Jija Ji",
-      "release_date": "2026-01-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zpNA8T0INCCTvRLyovGuAMFPiNC.jpg",
-      "genres": [
-        "комедия",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1620712,
-      "title": "Die Schlacht",
-      "release_date": "2026-01-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vZA1hmF5PTEJAAUudH9gGs7OLp4.jpg",
-      "genres": [
-        "драма",
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1620079,
-      "title": "Petrichor",
-      "release_date": "2026-01-22",
+      "id": 1620011,
+      "title": "Gefallen",
+      "release_date": "2026-01-23",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1620076,
-      "title": "Backstage",
-      "release_date": "2026-01-22",
+      "id": 1620010,
+      "title": "Le modèle des hommes",
+      "release_date": "2026-01-23",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
-    },
-    {
-      "id": 1619665,
-      "title": "Too Many Cooks",
-      "release_date": "2026-01-22",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jtc9JWsIMTEkHEin06CBMIzVeCz.jpg",
-      "genres": [
-        "комедия",
-        "музыка"
-      ]
     }
   ],
   "source": "TMDB",

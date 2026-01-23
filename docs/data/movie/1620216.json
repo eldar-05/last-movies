@@ -1,0 +1,28 @@
+{
+  "id": 1620216,
+  "title": "Diário de Bordo",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-23",
+  "runtime": 6,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "фэнтези",
+    "детектив"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/5V2NeEeHuCvXIdaj26ihUlHgJmq.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/wFRykzimuxiQeMea36PPaRZPbF6.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1620216",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-23T01:08:32.054732+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

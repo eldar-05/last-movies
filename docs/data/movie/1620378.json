@@ -1,0 +1,31 @@
+{
+  "id": 1620378,
+  "title": "Akenkagnu",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-23",
+  "runtime": 102,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "мелодрама"
+  ],
+  "original_language": "am",
+  "spoken_languages": [
+    "Amharic"
+  ],
+  "production_countries": [
+    "ET"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/cwlz8TZh82eMShSLDP0BD1Y2GeI.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/6ODcfkLxOzsQu6yCIKYhblP1taF.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1620378",
+  "trailer": {
+    "key": "cgt_bBj6HSc",
+    "name": "Akenkagnu",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-23T01:08:30.772212+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

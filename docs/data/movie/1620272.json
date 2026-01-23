@@ -1,0 +1,24 @@
+{
+  "id": 1620272,
+  "title": "Don't Breathe a Word",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-23",
+  "runtime": 90,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/sAnfRFBXuQ4gvCH386otqbqsTU5.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/2mMQZHloqN6JHIS0hW9G3wU76hc.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1620272",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-23T01:08:31.703833+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

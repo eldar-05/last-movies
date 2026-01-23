@@ -1,0 +1,29 @@
+{
+  "id": 1620327,
+  "title": "0009: Yesterday's Today Dies Again",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-23",
+  "runtime": 7,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "боевик"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "AU"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/zwn01HCJDsp1MHCwVfAmkCfHSew.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1620327",
+  "trailer": {
+    "key": "rfG9S_dQQdo",
+    "name": "0009: Yesterday's Today Dies Again | Official Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-23T01:08:31.352435+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
