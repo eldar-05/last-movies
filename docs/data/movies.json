@@ -1,15 +1,25 @@
 {
-  "fetched_at_utc": "2026-01-23T12:30:31.657191+00:00",
+  "fetched_at_utc": "2026-01-23T18:21:56.901903+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1621753,
+      "title": "France 2100, le pourquoi du comment",
+      "release_date": "2026-01-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qTwLqAL5iJGBEcUtgIzdTxnizHK.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
       "id": 1621525,
       "title": "我的中女时代",
       "release_date": "2026-01-23",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jbAE5TXwUhsvFsZuu1Q5SaxTrvo.jpg",
       "genres": [
         "комедия"
       ]
@@ -95,16 +105,6 @@
       "genres": [
         "комедия",
         "боевик"
-      ]
-    },
-    {
-      "id": 1620272,
-      "title": "Don't Breathe a Word",
-      "release_date": "2026-01-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sAnfRFBXuQ4gvCH386otqbqsTU5.jpg",
-      "genres": [
-        "триллер"
       ]
     }
   ],
