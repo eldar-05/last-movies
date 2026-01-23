@@ -1,6 +1,6 @@
 {
-  "id": 1620347,
-  "title": "改邪归正",
+  "id": 1621525,
+  "title": "我的中女时代",
   "tagline": "",
   "overview": "",
   "release_date": "2026-01-23",
@@ -8,18 +8,17 @@
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "комедия",
-    "мелодрама"
+    "комедия"
   ],
   "original_language": "zh",
   "spoken_languages": [
     "Mandarin"
   ],
   "production_countries": [],
-  "poster_url": "https://image.tmdb.org/t/p/w500/zwoZqoujfddCZiyHsccl8g9YjQC.jpg",
+  "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1620347",
+  "tmdb_url": "https://www.themoviedb.org/movie/1621525",
   "trailer": null,
-  "fetched_at_utc": "2026-01-23T12:30:31.333004+00:00",
+  "fetched_at_utc": "2026-01-23T12:30:29.905369+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

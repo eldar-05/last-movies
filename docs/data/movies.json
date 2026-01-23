@@ -1,9 +1,39 @@
 {
-  "fetched_at_utc": "2026-01-23T06:23:19.829677+00:00",
+  "fetched_at_utc": "2026-01-23T12:30:31.657191+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1621525,
+      "title": "我的中女时代",
+      "release_date": "2026-01-23",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1621512,
+      "title": "Zir-i Cin 4: Nesep Bağı",
+      "release_date": "2026-01-23",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6EjGvRMoDDqxqK46Myoqxbsa3VG.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1621375,
+      "title": "“Dog.”",
+      "release_date": "2026-01-23",
+      "vote_average": 7.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pNqcgEKcHqofZbNM108bzQgTaHL.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
     {
       "id": 1621329,
       "title": "Tokophobia",
@@ -76,34 +106,6 @@
       "genres": [
         "триллер"
       ]
-    },
-    {
-      "id": 1620216,
-      "title": "Diário de Bordo",
-      "release_date": "2026-01-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5V2NeEeHuCvXIdaj26ihUlHgJmq.jpg",
-      "genres": [
-        "ужасы",
-        "фэнтези",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1620011,
-      "title": "Gefallen",
-      "release_date": "2026-01-23",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1620010,
-      "title": "Le modèle des hommes",
-      "release_date": "2026-01-23",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
     }
   ],
   "source": "TMDB",
