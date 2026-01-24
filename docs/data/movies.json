@@ -1,9 +1,19 @@
 {
-  "fetched_at_utc": "2026-01-24T06:21:11.567811+00:00",
+  "fetched_at_utc": "2026-01-24T12:25:57.495101+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1622041,
+      "title": "\"The Noise of This Place\"",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
     {
       "id": 1621693,
       "title": "The Untold Story of No Retreat No Surrender",
@@ -90,17 +100,6 @@
       "poster_url": null,
       "genres": [
         "драма"
-      ]
-    },
-    {
-      "id": 1620267,
-      "title": "Horror-on-Sea: 13 Bloody Years",
-      "release_date": "2026-01-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oCYLhBZ18gX42eSBpULEEquvt4p.jpg",
-      "genres": [
-        "документальный",
-        "ужасы"
       ]
     }
   ],
