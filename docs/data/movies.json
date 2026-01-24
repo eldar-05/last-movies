@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-01-24T12:25:57.495101+00:00",
+  "fetched_at_utc": "2026-01-24T18:19:57.083181+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -7,12 +7,20 @@
     {
       "id": 1622041,
       "title": "\"The Noise of This Place\"",
-      "release_date": "",
+      "release_date": "2026-01-24",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4mXHQ9dKKzHvIyv4WFvv21jzZSH.jpg",
       "genres": [
         "драма"
       ]
+    },
+    {
+      "id": 1621740,
+      "title": "Ilhado",
+      "release_date": "2026-01-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4XyfTkOYkORjOq9NEvhFf0d5gbR.jpg",
+      "genres": []
     },
     {
       "id": 1621693,
@@ -90,16 +98,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/gFgcKRDHg9nUoewdyjo6kP5XmnE.jpg",
       "genres": [
         "ужасы"
-      ]
-    },
-    {
-      "id": 1620279,
-      "title": "Moving On in C Minor",
-      "release_date": "2026-01-24",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
       ]
     }
   ],

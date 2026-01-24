@@ -1,23 +1,22 @@
 {
-  "id": 1621532,
-  "title": "ψυχοσάββατα",
+  "id": 1621740,
+  "title": "Ilhado",
   "tagline": "",
   "overview": "",
   "release_date": "2026-01-24",
-  "runtime": 3,
+  "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [],
-  "original_language": "en",
+  "original_language": "pt",
   "spoken_languages": [],
   "production_countries": [
-    "GR",
-    "GB"
+    "BR"
   ],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/4XyfTkOYkORjOq9NEvhFf0d5gbR.jpg",
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1621532",
+  "tmdb_url": "https://www.themoviedb.org/movie/1621740",
   "trailer": null,
-  "fetched_at_utc": "2026-01-24T18:19:55.466327+00:00",
+  "fetched_at_utc": "2026-01-24T18:19:54.455318+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
