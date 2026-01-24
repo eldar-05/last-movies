@@ -1,110 +1,106 @@
 {
-  "fetched_at_utc": "2026-01-23T18:21:56.901903+00:00",
+  "fetched_at_utc": "2026-01-24T01:05:07.340337+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1621753,
-      "title": "France 2100, le pourquoi du comment",
-      "release_date": "2026-01-23",
+      "id": 1621693,
+      "title": "The Untold Story of No Retreat No Surrender",
+      "release_date": "2026-01-24",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qTwLqAL5iJGBEcUtgIzdTxnizHK.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eKEytE0z5qn39yNSkOq4uVDr20L.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1621525,
-      "title": "我的中女时代",
-      "release_date": "2026-01-23",
+      "id": 1621535,
+      "title": "I AM GOING TO DIE (THIS IS MY SIGN)",
+      "release_date": "2026-01-24",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jbAE5TXwUhsvFsZuu1Q5SaxTrvo.jpg",
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1621532,
+      "title": "ψυχοσάββατα",
+      "release_date": "2026-01-24",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1621531,
+      "title": "RNG",
+      "release_date": "2026-01-24",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1621244,
+      "title": "MARIGOLD New Year Golden Garden 〜岩谷麻優デビュー15周年記念〜",
+      "release_date": "2026-01-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/7crtRmJmxtvXAD35IKMqyizAdFR.jpg",
       "genres": [
-        "комедия"
+        "боевик",
+        "драма"
       ]
     },
     {
-      "id": 1621512,
-      "title": "Zir-i Cin 4: Nesep Bağı",
-      "release_date": "2026-01-23",
+      "id": 1621196,
+      "title": "DEPERSON",
+      "release_date": "2026-01-24",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6EjGvRMoDDqxqK46Myoqxbsa3VG.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8Z3cFsxgc9DC3M3Q5FY4xkkZy1p.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ]
+    },
+    {
+      "id": 1620774,
+      "title": "Contra Corrente",
+      "release_date": "2026-01-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9aBI8bEh9PvrCBjaicggTxuAede.jpg",
+      "genres": [
+        "драма",
+        "мультфильм",
+        "семейный"
+      ]
+    },
+    {
+      "id": 1620711,
+      "title": "Its Presence Between Us",
+      "release_date": "2026-01-24",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gFgcKRDHg9nUoewdyjo6kP5XmnE.jpg",
       "genres": [
         "ужасы"
       ]
     },
     {
-      "id": 1621375,
-      "title": "“Dog.”",
-      "release_date": "2026-01-23",
-      "vote_average": 7.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/pNqcgEKcHqofZbNM108bzQgTaHL.jpg",
+      "id": 1620279,
+      "title": "Moving On in C Minor",
+      "release_date": "2026-01-24",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1621329,
-      "title": "Tokophobia",
-      "release_date": "2026-01-23",
+      "id": 1620267,
+      "title": "Horror-on-Sea: 13 Bloody Years",
+      "release_date": "2026-01-24",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oCYLhBZ18gX42eSBpULEEquvt4p.jpg",
       "genres": [
+        "документальный",
         "ужасы"
-      ]
-    },
-    {
-      "id": 1621260,
-      "title": "biarkan aku ganti",
-      "release_date": "2026-01-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cRZkQ6CdBsUxwLxYCm2HHAM6EUQ.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1620797,
-      "title": "Par ma fenêtre",
-      "release_date": "2026-01-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/w6W8P5h0lw9N71g2L0NLfgbwyR3.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1620378,
-      "title": "Akenkagnu",
-      "release_date": "2026-01-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cwlz8TZh82eMShSLDP0BD1Y2GeI.jpg",
-      "genres": [
-        "драма",
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1620347,
-      "title": "改邪归正",
-      "release_date": "2026-01-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zwoZqoujfddCZiyHsccl8g9YjQC.jpg",
-      "genres": [
-        "комедия",
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1620327,
-      "title": "0009: Yesterday's Today Dies Again",
-      "release_date": "2026-01-23",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zwn01HCJDsp1MHCwVfAmkCfHSew.jpg",
-      "genres": [
-        "комедия",
-        "боевик"
       ]
     }
   ],
