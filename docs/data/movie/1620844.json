@@ -18,11 +18,7 @@
   "poster_url": null,
   "backdrop_url": null,
   "tmdb_url": "https://www.themoviedb.org/movie/1620844",
-  "trailer": {
-    "key": "5E2zu8cNYAs",
-    "name": "VỀ QUÊ CÓ GÌ VUI 2 - TRAILER | DUY KHÁNH || OFFICIAL 4K",
-    "type": "Trailer"
-  },
-  "fetched_at_utc": "2026-01-25T01:14:16.191288+00:00",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-25T06:21:06.483314+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
