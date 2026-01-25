@@ -1,15 +1,35 @@
 {
-  "fetched_at_utc": "2026-01-25T06:21:09.107499+00:00",
+  "fetched_at_utc": "2026-01-25T12:27:24.979680+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1622549,
+      "title": "Rio Vista",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1622431,
+      "title": "Usados",
+      "release_date": "2026-01-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4EkcqwzQa0k9bf83MsS3oPtP6MI.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
       "id": 1620844,
       "title": "Về Quê Có Gì Vui 2",
       "release_date": "2026-01-25",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/12Rx7s2k6VkHtstAZBT415PGNLY.jpg",
       "genres": []
     },
     {
@@ -77,29 +97,6 @@
         "боевик",
         "драма",
         "комедия"
-      ]
-    },
-    {
-      "id": 1618518,
-      "title": "STARDOM 15th ANNIVERSARY STARDOM AWARD 2025 in TAKADANOBABA DAY2 〜試合〜",
-      "release_date": "2026-01-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8VdEOmYaSrioJNTE1JxeicnJQOi.jpg",
-      "genres": [
-        "боевик",
-        "драма"
-      ]
-    },
-    {
-      "id": 1616600,
-      "title": "Trading Cards",
-      "release_date": "2026-01-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4RbyFHYrRwYzyb7cIVLvUIwikZQ.jpg",
-      "genres": [
-        "мультфильм",
-        "ужасы",
-        "фэнтези"
       ]
     }
   ],
