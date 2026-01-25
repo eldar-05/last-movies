@@ -1,13 +1,35 @@
 {
-  "fetched_at_utc": "2026-01-25T12:27:24.979680+00:00",
+  "fetched_at_utc": "2026-01-25T18:19:43.075106+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
+      "id": 1622758,
+      "title": "Sam Sauvage à l'Hyper Weekend Festival 2026",
+      "release_date": "2026-01-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ctwr6jBlis8sEw5yyMUZuVmXWHD.jpg",
+      "genres": [
+        "музыка"
+      ]
+    },
+    {
+      "id": 1622643,
+      "title": "Dark Delirium",
+      "release_date": "2026-01-25",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "криминал",
+        "драма",
+        "триллер"
+      ]
+    },
+    {
       "id": 1622549,
-      "title": "Rio Vista",
-      "release_date": "",
+      "title": "Little to No Meaning",
+      "release_date": "2026-01-25",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
@@ -76,28 +98,6 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/2PGcXzYf3BxzR87eQd1XwzKFSwp.jpg",
       "genres": []
-    },
-    {
-      "id": 1619193,
-      "title": "Kevlar Soul",
-      "release_date": "2026-01-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gGnNGlqz0y1qgfjcoP8vSDUp11o.jpg",
-      "genres": [
-        "криминал"
-      ]
-    },
-    {
-      "id": 1618524,
-      "title": "「MISSION IN BATTLE ～新春絢爛～」",
-      "release_date": "2026-01-25",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3pOyKAkDU95f1Lh5iXpEdsJoWCU.jpg",
-      "genres": [
-        "боевик",
-        "драма",
-        "комедия"
-      ]
     }
   ],
   "source": "TMDB",
