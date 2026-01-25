@@ -1,103 +1,105 @@
 {
-  "fetched_at_utc": "2026-01-24T18:19:57.083181+00:00",
+  "fetched_at_utc": "2026-01-25T01:14:17.764672+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1622041,
-      "title": "\"The Noise of This Place\"",
-      "release_date": "2026-01-24",
+      "id": 1620844,
+      "title": "Về Quê Có Gì Vui 2",
+      "release_date": "2026-01-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4mXHQ9dKKzHvIyv4WFvv21jzZSH.jpg",
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1620568,
+      "title": "TJPW The 6th \"Futari wa Princess\" Max Heart Tournament ~ Day 2",
+      "release_date": "2026-01-25",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
-        "драма"
+        "боевик",
+        "драма",
+        "комедия",
+        "музыка"
       ]
     },
     {
-      "id": 1621740,
-      "title": "Ilhado",
-      "release_date": "2026-01-24",
+      "id": 1619682,
+      "title": "Arsenal VS Manchester United PL 25/26",
+      "release_date": "2026-01-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4XyfTkOYkORjOq9NEvhFf0d5gbR.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jPiGNraV13Xz71VMowmST8Kiou6.jpg",
       "genres": []
     },
     {
-      "id": 1621693,
-      "title": "The Untold Story of No Retreat No Surrender",
-      "release_date": "2026-01-24",
+      "id": 1619680,
+      "title": "Newcastle VS Aston Villa PL 25/26",
+      "release_date": "2026-01-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/eKEytE0z5qn39yNSkOq4uVDr20L.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fOeCQGtStOkZcOo6fhxpcWkS5o7.jpg",
+      "genres": []
+    },
+    {
+      "id": 1619679,
+      "title": "Crystal Palace VS Chelsea PL 25/26",
+      "release_date": "2026-01-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oavpkm0Wb2NMtFQHTjFrSCxRzjR.jpg",
+      "genres": []
+    },
+    {
+      "id": 1619678,
+      "title": "Brentford VS Nottingham Forest PL 25/26",
+      "release_date": "2026-01-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2PGcXzYf3BxzR87eQd1XwzKFSwp.jpg",
+      "genres": []
+    },
+    {
+      "id": 1619193,
+      "title": "Kevlar Soul",
+      "release_date": "2026-01-25",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gGnNGlqz0y1qgfjcoP8vSDUp11o.jpg",
       "genres": [
-        "документальный"
+        "криминал"
       ]
     },
     {
-      "id": 1621535,
-      "title": "I AM GOING TO DIE (THIS IS MY SIGN)",
-      "release_date": "2026-01-24",
+      "id": 1618524,
+      "title": "「MISSION IN BATTLE ～新春絢爛～」",
+      "release_date": "2026-01-25",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/3pOyKAkDU95f1Lh5iXpEdsJoWCU.jpg",
+      "genres": [
+        "боевик",
+        "драма",
+        "комедия"
+      ]
     },
     {
-      "id": 1621532,
-      "title": "ψυχοσάββατα",
-      "release_date": "2026-01-24",
+      "id": 1618518,
+      "title": "STARDOM 15th ANNIVERSARY STARDOM AWARD 2025 in TAKADANOBABA DAY2 〜試合〜",
+      "release_date": "2026-01-25",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1621531,
-      "title": "RNG",
-      "release_date": "2026-01-24",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1621244,
-      "title": "MARIGOLD New Year Golden Garden 〜岩谷麻優デビュー15周年記念〜",
-      "release_date": "2026-01-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7crtRmJmxtvXAD35IKMqyizAdFR.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8VdEOmYaSrioJNTE1JxeicnJQOi.jpg",
       "genres": [
         "боевик",
         "драма"
       ]
     },
     {
-      "id": 1621196,
-      "title": "DEPERSON",
-      "release_date": "2026-01-24",
+      "id": 1616600,
+      "title": "Trading Cards",
+      "release_date": "2026-01-25",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8Z3cFsxgc9DC3M3Q5FY4xkkZy1p.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4RbyFHYrRwYzyb7cIVLvUIwikZQ.jpg",
       "genres": [
-        "комедия",
-        "драма"
-      ]
-    },
-    {
-      "id": 1620774,
-      "title": "Contra Corrente",
-      "release_date": "2026-01-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9aBI8bEh9PvrCBjaicggTxuAede.jpg",
-      "genres": [
-        "драма",
         "мультфильм",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1620711,
-      "title": "Its Presence Between Us",
-      "release_date": "2026-01-24",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gFgcKRDHg9nUoewdyjo6kP5XmnE.jpg",
-      "genres": [
-        "ужасы"
+        "ужасы",
+        "фэнтези"
       ]
     }
   ],
