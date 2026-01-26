@@ -1,0 +1,29 @@
+{
+  "id": 1622318,
+  "title": "The Cinephile - Monarchy of Madness",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-26",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "триллер"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "IN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/z4EqXhHHbI6CbaDkDEsZpsMPqj6.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/tsKkE1GT8ODyV3qPFEhbBZ5wHn9.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1622318",
+  "trailer": {
+    "key": "EcHis0YmZGg",
+    "name": "THE CINEPHILE - MONARCHY OF MADNESS | Official Trailer (with English subtitles) | Independent Film.",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-26T12:31:10.580094+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

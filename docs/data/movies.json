@@ -1,9 +1,19 @@
 {
-  "fetched_at_utc": "2026-01-26T06:26:34.091929+00:00",
+  "fetched_at_utc": "2026-01-26T12:31:12.561203+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1623002,
+      "title": "Artemis 2 - Zurück zum Mond",
+      "release_date": "2026-01-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/3FQ7q32rtBAgFxRNhwMCpO4sgwR.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1622520,
       "title": "biarkan aku ganti",
@@ -21,6 +31,17 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/ryx2lXVJ31kgDiAYpIAKFLC8cVo.jpg",
       "genres": []
+    },
+    {
+      "id": 1622318,
+      "title": "The Cinephile - Monarchy of Madness",
+      "release_date": "2026-01-26",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/z4EqXhHHbI6CbaDkDEsZpsMPqj6.jpg",
+      "genres": [
+        "драма",
+        "триллер"
+      ]
     },
     {
       "id": 1622124,
@@ -80,24 +101,6 @@
       "genres": [
         "документальный"
       ]
-    },
-    {
-      "id": 1621229,
-      "title": "Sticky Notes",
-      "release_date": "2026-01-26",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мультфильм"
-      ]
-    },
-    {
-      "id": 1621228,
-      "title": "Birthday Ticket",
-      "release_date": "2026-01-26",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
     }
   ],
   "source": "TMDB",

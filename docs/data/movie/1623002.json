@@ -1,26 +1,26 @@
 {
-  "id": 1621642,
-  "title": "Metaphysics of Accidental Pain",
+  "id": 1623002,
+  "title": "Artemis 2 - Zurück zum Mond",
   "tagline": "",
   "overview": "",
   "release_date": "2026-01-26",
-  "runtime": 6,
+  "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
     "документальный"
   ],
-  "original_language": "ar",
+  "original_language": "de",
   "spoken_languages": [
-    "English"
+    "German"
   ],
   "production_countries": [
-    "DZ"
+    "DE"
   ],
-  "poster_url": "https://image.tmdb.org/t/p/w500/hys0Aw5CWFzv02g99NNhRDvTba6.jpg",
+  "poster_url": "https://image.tmdb.org/t/p/w500/3FQ7q32rtBAgFxRNhwMCpO4sgwR.jpg",
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1621642",
+  "tmdb_url": "https://www.themoviedb.org/movie/1623002",
   "trailer": null,
-  "fetched_at_utc": "2026-01-26T12:31:11.574644+00:00",
+  "fetched_at_utc": "2026-01-26T12:31:09.749879+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
