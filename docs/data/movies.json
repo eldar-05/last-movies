@@ -1,9 +1,56 @@
 {
-  "fetched_at_utc": "2026-01-27T12:31:37.015057+00:00",
+  "fetched_at_utc": "2026-01-27T18:27:43.401287+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1623865,
+      "title": "Take That",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1623846,
+      "title": "Hemmeligheden om de danske SS-kvinder",
+      "release_date": "2026-01-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/a6d5ijjiwR3vsd80U85GOOgZme8.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1623804,
+      "title": "Room Light",
+      "release_date": "2026-01-27",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1623751,
+      "title": "La Grande Classe (Pierre Niney)",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rqW9h17Sekup89LFws5kmpgfh2E.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1623711,
+      "title": "Where Light Lands",
+      "release_date": "2026-01-27",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/20HZGJoisWemVs1t56LWVOS89Z.jpg",
+      "genres": []
+    },
     {
       "id": 1623649,
       "title": "Amazon, les secrets d'une logistique XXL",
@@ -55,50 +102,6 @@
       "genres": [
         "документальный"
       ]
-    },
-    {
-      "id": 1621667,
-      "title": "Vistillas [petites vues]",
-      "release_date": "2026-01-27",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1621584,
-      "title": "Никола, Никола",
-      "release_date": "2026-01-27",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1621305,
-      "title": "Out Of Office",
-      "release_date": "2026-01-27",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1621234,
-      "title": "Att bli påkörd av ett långsamtgående fordon",
-      "release_date": "2026-01-27",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1621233,
-      "title": "SOS, But Don't Worry If Not",
-      "release_date": "2026-01-27",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
     }
   ],
   "source": "TMDB",
