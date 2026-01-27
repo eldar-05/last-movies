@@ -1,9 +1,31 @@
 {
-  "fetched_at_utc": "2026-01-27T06:24:06.051844+00:00",
+  "fetched_at_utc": "2026-01-27T12:31:37.015057+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1623649,
+      "title": "Amazon, les secrets d'une logistique XXL",
+      "release_date": "2026-01-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xIIPwj8HIKudzryPy0zYhVpk2QW.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1623588,
+      "title": "Skid Marks",
+      "release_date": "2026-01-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oe0ePpj6JBmi2jYUL5VDxc7NA8R.jpg",
+      "genres": [
+        "триллер",
+        "ужасы",
+        "семейный"
+      ]
+    },
     {
       "id": 1623203,
       "title": "Duwa Ka Bilog",
@@ -12,17 +34,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/fuMoHUfQFV6fhzz5lYR0Mpm3eYH.jpg",
       "genres": [
         "драма"
-      ]
-    },
-    {
-      "id": 1623150,
-      "title": "Sweet, Mourning Lamb",
-      "release_date": "2026-01-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nfOn7qHf2cdhsRMpzlAG3fsE5OZ.jpg",
-      "genres": [
-        "ужасы",
-        "детектив"
       ]
     },
     {
@@ -87,14 +98,6 @@
       "release_date": "2026-01-27",
       "vote_average": 0.0,
       "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1619809,
-      "title": "Danny L Harle Cerulean",
-      "release_date": "2026-01-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oh0Fp4GOlbvK0WeHeRo5VBIiZCY.jpg",
       "genres": []
     }
   ],
