@@ -1,106 +1,101 @@
 {
-  "fetched_at_utc": "2026-01-26T18:24:31.034327+00:00",
+  "fetched_at_utc": "2026-01-27T01:11:41.232997+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1623002,
-      "title": "Artemis 2 - Zurück zum Mond",
-      "release_date": "2026-01-26",
+      "id": 1623203,
+      "title": "Duwa Ka Bilog",
+      "release_date": "2026-01-27",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3FQ7q32rtBAgFxRNhwMCpO4sgwR.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fuMoHUfQFV6fhzz5lYR0Mpm3eYH.jpg",
       "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1622520,
-      "title": "biarkan aku ganti",
-      "release_date": "2026-01-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cRZkQ6CdBsUxwLxYCm2HHAM6EUQ.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1622331,
-      "title": "Office Sirens",
-      "release_date": "2026-01-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ryx2lXVJ31kgDiAYpIAKFLC8cVo.jpg",
-      "genres": []
-    },
-    {
-      "id": 1622318,
-      "title": "The Cinephile - Monarchy of Madness",
-      "release_date": "2026-01-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/z4EqXhHHbI6CbaDkDEsZpsMPqj6.jpg",
-      "genres": [
-        "драма",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1622124,
-      "title": "My AI Election",
-      "release_date": "2026-01-26",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1622095,
-      "title": "Jules Massenet : Werther Opéra Comique, Paris",
-      "release_date": "2026-01-26",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mullc1OmBnsd7ba5vjGXiWpXY7C.jpg",
-      "genres": [
-        "музыка",
         "драма"
       ]
     },
     {
-      "id": 1621642,
-      "title": "Metaphysics of Accidental Pain",
-      "release_date": "2026-01-26",
+      "id": 1623150,
+      "title": "Sweet, Mourning Lamb",
+      "release_date": "2026-01-27",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/hys0Aw5CWFzv02g99NNhRDvTba6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nfOn7qHf2cdhsRMpzlAG3fsE5OZ.jpg",
+      "genres": [
+        "ужасы",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1622536,
+      "title": "Walking in Circles: Part 2",
+      "release_date": "2026-01-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/sbfgsDvYNYU4N81ey8AScmBKmpu.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1621585,
-      "title": "I Looked Outside and Saw Us All",
-      "release_date": "2026-01-26",
+      "id": 1622073,
+      "title": "Unidentified Followed Objects",
+      "release_date": "2026-01-27",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uW65VQYbcxN9y2bFiexbhBPfujW.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sbfgsDvYNYU4N81ey8AScmBKmpu.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1621232,
-      "title": "It's Not The Winning It's The Taking Part That Counts",
-      "release_date": "2026-01-26",
+      "id": 1621667,
+      "title": "Vistillas [petites vues]",
+      "release_date": "2026-01-27",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1621230,
-      "title": "Keeping Kenneth Quiet",
-      "release_date": "2026-01-26",
+      "id": 1621584,
+      "title": "Никола, Никола",
+      "release_date": "2026-01-27",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "документальный"
+        "триллер"
       ]
+    },
+    {
+      "id": 1621305,
+      "title": "Out Of Office",
+      "release_date": "2026-01-27",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1621234,
+      "title": "Att bli påkörd av ett långsamtgående fordon",
+      "release_date": "2026-01-27",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 1621233,
+      "title": "SOS, But Don't Worry If Not",
+      "release_date": "2026-01-27",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1619809,
+      "title": "Danny L Harle Cerulean",
+      "release_date": "2026-01-27",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oh0Fp4GOlbvK0WeHeRo5VBIiZCY.jpg",
+      "genres": []
     }
   ],
   "source": "TMDB",
