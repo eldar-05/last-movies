@@ -1,9 +1,19 @@
 {
-  "fetched_at_utc": "2026-01-28T12:32:25.255280+00:00",
+  "fetched_at_utc": "2026-01-28T18:27:38.366520+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1624331,
+      "title": "Bold",
+      "release_date": "2026-01-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fNDeMsWZKqFp9dSzdqqW36OV8yS.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
     {
       "id": 1624320,
       "title": "Je serai jamais parfaite - Le documentaire",
@@ -93,18 +103,6 @@
       "genres": [
         "драма",
         "документальный"
-      ]
-    },
-    {
-      "id": 1623907,
-      "title": "Encore une chanson",
-      "release_date": "2026-01-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9IwF5GfrWkn8hPo1Cg44elZu4Qc.jpg",
-      "genres": [
-        "документальный",
-        "драма",
-        "детектив"
       ]
     }
   ],

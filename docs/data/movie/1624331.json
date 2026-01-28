@@ -1,0 +1,26 @@
+{
+  "id": 1624331,
+  "title": "Bold",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-28",
+  "runtime": 3,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/fNDeMsWZKqFp9dSzdqqW36OV8yS.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/sAsK6nMf4ql6wQzFXNslL4h1HOS.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1624331",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-28T18:27:35.325923+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
