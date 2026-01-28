@@ -1,9 +1,68 @@
 {
-  "fetched_at_utc": "2026-01-28T06:25:54.000032+00:00",
+  "fetched_at_utc": "2026-01-28T12:32:25.255280+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1624320,
+      "title": "Je serai jamais parfaite - Le documentaire",
+      "release_date": "2026-01-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gSoRTohVlaS8KB95ojYOSLKWg8r.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1624244,
+      "title": "Wear The Right Uniform!",
+      "release_date": "2026-01-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lNEkDmCg8rTNYJJifBzrmbcZx63.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1624214,
+      "title": "Incidents on Set: The Quizzical Minds Murders",
+      "release_date": "2026-01-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/7XV6GjsflAMvZ7b0Glp3QuXJgDB.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1624209,
+      "title": "Kevin Nealon -  Loose in the Crotch",
+      "release_date": "2026-01-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/c42gXJyays5gXpOXCMf29DKZv8M.jpg",
+      "genres": []
+    },
+    {
+      "id": 1624204,
+      "title": "LA ÑIMPA",
+      "release_date": "2026-01-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/q0sn2u0zmAalcPtOMbjMQ3kmfod.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ]
+    },
+    {
+      "id": 1624200,
+      "title": "Emoji - It's Complicated",
+      "release_date": "2026-01-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lBUWMCT5BPb9246GWXpOZ59XPf1.jpg",
+      "genres": [
+        "мелодрама"
+      ]
+    },
     {
       "id": 1624005,
       "title": "Brume de Temps",
@@ -47,54 +106,6 @@
         "драма",
         "детектив"
       ]
-    },
-    {
-      "id": 1623502,
-      "title": "Union SG VS Atalanta CL 25/26",
-      "release_date": "2026-01-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rrke6jpBE8NfNtiOluRlnAM5aq0.jpg",
-      "genres": []
-    },
-    {
-      "id": 1623501,
-      "title": "Arsenal VS Kairat CL 25/26",
-      "release_date": "2026-01-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fmynUwQN9EnJTBpZLxZj28RuIDY.jpg",
-      "genres": []
-    },
-    {
-      "id": 1623499,
-      "title": "Pafos VS Slavia Prague CL 25/26",
-      "release_date": "2026-01-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/A5yMbOed4wur7USqfmFSGvd1OdO.jpg",
-      "genres": []
-    },
-    {
-      "id": 1623496,
-      "title": "Athletic Club VS Sporting CL 25/26",
-      "release_date": "2026-01-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aMTb4lQYeXAL6hVAQeyuzWAMroB.jpg",
-      "genres": []
-    },
-    {
-      "id": 1623494,
-      "title": "Paris Saint-Germain VS Newcastle United CL 25/26",
-      "release_date": "2026-01-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ts4513RxLzK3Cx7E6ys4rzfyEjy.jpg",
-      "genres": []
-    },
-    {
-      "id": 1623493,
-      "title": "Liverpool VS Qarabag CL 25/26",
-      "release_date": "2026-01-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ubnSxG3hXX5iUnNBuogRfL6kf1t.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",
