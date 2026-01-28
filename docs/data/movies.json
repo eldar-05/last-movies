@@ -1,107 +1,100 @@
 {
-  "fetched_at_utc": "2026-01-27T18:27:43.401287+00:00",
+  "fetched_at_utc": "2026-01-28T01:07:59.080041+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1623865,
-      "title": "Take That",
-      "release_date": "",
+      "id": 1624005,
+      "title": "Brume de Temps",
+      "release_date": "2026-01-28",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "документальный",
+        "мелодрама",
         "музыка"
       ]
     },
     {
-      "id": 1623846,
-      "title": "Hemmeligheden om de danske SS-kvinder",
-      "release_date": "2026-01-27",
+      "id": 1623977,
+      "title": "Comunhão",
+      "release_date": "2026-01-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/a6d5ijjiwR3vsd80U85GOOgZme8.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xxfz9CPWXow31jzLdQt2BUlzHrX.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1623804,
-      "title": "Room Light",
-      "release_date": "2026-01-27",
+      "id": 1623929,
+      "title": "Matanga",
+      "release_date": "2026-01-28",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ssO6eugccbHfAsDIgmMotYHRMmV.jpg",
+      "genres": [
+        "драма",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1623907,
+      "title": "Encore une chanson",
+      "release_date": "2026-01-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/9IwF5GfrWkn8hPo1Cg44elZu4Qc.jpg",
+      "genres": [
+        "документальный",
+        "драма",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1623502,
+      "title": "Union SG VS Atalanta CL 25/26",
+      "release_date": "2026-01-28",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/rrke6jpBE8NfNtiOluRlnAM5aq0.jpg",
       "genres": []
     },
     {
-      "id": 1623751,
-      "title": "La Grande Classe (Pierre Niney)",
-      "release_date": "",
+      "id": 1623501,
+      "title": "Arsenal VS Kairat CL 25/26",
+      "release_date": "2026-01-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rqW9h17Sekup89LFws5kmpgfh2E.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1623711,
-      "title": "Where Light Lands",
-      "release_date": "2026-01-27",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/20HZGJoisWemVs1t56LWVOS89Z.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fmynUwQN9EnJTBpZLxZj28RuIDY.jpg",
       "genres": []
     },
     {
-      "id": 1623649,
-      "title": "Amazon, les secrets d'une logistique XXL",
-      "release_date": "2026-01-27",
+      "id": 1623499,
+      "title": "Pafos VS Slavia Prague CL 25/26",
+      "release_date": "2026-01-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xIIPwj8HIKudzryPy0zYhVpk2QW.jpg",
-      "genres": [
-        "документальный"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/A5yMbOed4wur7USqfmFSGvd1OdO.jpg",
+      "genres": []
     },
     {
-      "id": 1623588,
-      "title": "Skid Marks",
-      "release_date": "2026-01-27",
+      "id": 1623496,
+      "title": "Athletic Club VS Sporting CL 25/26",
+      "release_date": "2026-01-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oe0ePpj6JBmi2jYUL5VDxc7NA8R.jpg",
-      "genres": [
-        "триллер",
-        "ужасы",
-        "семейный"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/aMTb4lQYeXAL6hVAQeyuzWAMroB.jpg",
+      "genres": []
     },
     {
-      "id": 1623203,
-      "title": "Duwa Ka Bilog",
-      "release_date": "2026-01-27",
+      "id": 1623494,
+      "title": "Paris Saint-Germain VS Newcastle United CL 25/26",
+      "release_date": "2026-01-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fuMoHUfQFV6fhzz5lYR0Mpm3eYH.jpg",
-      "genres": [
-        "драма"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/ts4513RxLzK3Cx7E6ys4rzfyEjy.jpg",
+      "genres": []
     },
     {
-      "id": 1622536,
-      "title": "Walking in Circles: Part 2",
-      "release_date": "2026-01-27",
+      "id": 1623493,
+      "title": "Liverpool VS Qarabag CL 25/26",
+      "release_date": "2026-01-28",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sbfgsDvYNYU4N81ey8AScmBKmpu.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1622073,
-      "title": "Unidentified Followed Objects",
-      "release_date": "2026-01-27",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sbfgsDvYNYU4N81ey8AScmBKmpu.jpg",
-      "genres": [
-        "документальный"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/ubnSxG3hXX5iUnNBuogRfL6kf1t.jpg",
+      "genres": []
     }
   ],
   "source": "TMDB",
