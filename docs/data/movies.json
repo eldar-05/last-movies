@@ -1,9 +1,19 @@
 {
-  "fetched_at_utc": "2026-01-29T06:36:26.646959+00:00",
+  "fetched_at_utc": "2026-01-29T12:37:52.489138+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1624807,
+      "title": "Chasing Butterflies",
+      "release_date": "2026-01-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oOx4AkSWtaHLQLx7M4HuKj2sjlo.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
     {
       "id": 1623740,
       "title": "大蛇5：怪兽都市",
@@ -93,17 +103,6 @@
       "poster_url": null,
       "genres": [
         "мультфильм"
-      ]
-    },
-    {
-      "id": 1620651,
-      "title": "Άγιος Παΐσιος",
-      "release_date": "2026-01-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6VJsJNr05yFgc8YISMiMN2l9U84.jpg",
-      "genres": [
-        "драма",
-        "история"
       ]
     }
   ],
