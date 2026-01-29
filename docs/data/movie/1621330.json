@@ -1,0 +1,25 @@
+{
+  "id": 1621330,
+  "title": "Dansa Nykter",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-29",
+  "runtime": 15,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "комедия"
+  ],
+  "original_language": "sv",
+  "spoken_languages": [
+    "Swedish"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/z9MD6vGqlDMgNhTpMkVyNj4FgKR.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/vdjRyQuhe7bts1w9yLFQlFWzoXz.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1621330",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-29T01:17:36.932981+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

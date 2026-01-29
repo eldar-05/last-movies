@@ -1,108 +1,109 @@
 {
-  "fetched_at_utc": "2026-01-28T18:27:38.366520+00:00",
+  "fetched_at_utc": "2026-01-29T01:17:37.258685+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1624331,
-      "title": "Bold",
-      "release_date": "2026-01-28",
+      "id": 1623740,
+      "title": "大蛇5：怪兽都市",
+      "release_date": "2026-01-29",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fNDeMsWZKqFp9dSzdqqW36OV8yS.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zNylFqyrmXiCSQ8x62ezq702wsV.jpg",
       "genres": [
-        "комедия"
+        "боевик",
+        "приключения",
+        "фэнтези"
       ]
     },
     {
-      "id": 1624320,
-      "title": "Je serai jamais parfaite - Le documentaire",
-      "release_date": "2026-01-28",
+      "id": 1623440,
+      "title": "The Ugly Show",
+      "release_date": "2026-01-29",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gSoRTohVlaS8KB95ojYOSLKWg8r.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xMetes59qltDDC5UbzZ1WLQs8fA.jpg",
       "genres": [
-        "документальный"
+        "драма"
       ]
     },
     {
-      "id": 1624244,
-      "title": "Wear The Right Uniform!",
-      "release_date": "2026-01-28",
+      "id": 1622699,
+      "title": "Արարատ 73",
+      "release_date": "2026-01-29",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lNEkDmCg8rTNYJJifBzrmbcZx63.jpg",
-      "genres": [
-        "документальный"
-      ]
+      "poster_url": "https://image.tmdb.org/t/p/w500/boFfZllXuUtOZzcUcLymfQ9jHkJ.jpg",
+      "genres": []
     },
     {
-      "id": 1624214,
-      "title": "Incidents on Set: The Quizzical Minds Murders",
-      "release_date": "2026-01-28",
+      "id": 1622502,
+      "title": "8118",
+      "release_date": "2026-01-29",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7XV6GjsflAMvZ7b0Glp3QuXJgDB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9j3A29plqJqKCtoPjjJZAIXQL0R.jpg",
       "genres": [
         "ужасы"
       ]
     },
     {
-      "id": 1624209,
-      "title": "Kevin Nealon -  Loose in the Crotch",
-      "release_date": "2026-01-28",
+      "id": 1622364,
+      "title": "Enough",
+      "release_date": "2026-01-29",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/c42gXJyays5gXpOXCMf29DKZv8M.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bHxORAof5QCrlSVOZlvxOcia98J.jpg",
       "genres": []
     },
     {
-      "id": 1624204,
-      "title": "LA ÑIMPA",
-      "release_date": "2026-01-28",
+      "id": 1621496,
+      "title": "猿山异闻录",
+      "release_date": "2026-01-29",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/q0sn2u0zmAalcPtOMbjMQ3kmfod.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dhk4xNejRdGKr9b7XXAOX77MLkq.jpg",
       "genres": [
-        "комедия",
+        "боевик",
+        "приключения",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1621394,
+      "title": "Sirena",
+      "release_date": "2026-01-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xKdU0NgH2kMRqWRJaFrXJCfS5cY.jpg",
+      "genres": [
         "драма"
       ]
     },
     {
-      "id": 1624200,
-      "title": "Emoji - It's Complicated",
-      "release_date": "2026-01-28",
+      "id": 1621330,
+      "title": "Dansa Nykter",
+      "release_date": "2026-01-29",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lBUWMCT5BPb9246GWXpOZ59XPf1.jpg",
-      "genres": [
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1624005,
-      "title": "Brume de Temps",
-      "release_date": "2026-01-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/moxOBO2rxVyWKQlV5J6Xq86UMVN.jpg",
-      "genres": [
-        "мелодрама",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1623977,
-      "title": "Comunhão",
-      "release_date": "2026-01-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xxfz9CPWXow31jzLdQt2BUlzHrX.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1623929,
-      "title": "Matanga",
-      "release_date": "2026-01-28",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ssO6eugccbHfAsDIgmMotYHRMmV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/z9MD6vGqlDMgNhTpMkVyNj4FgKR.jpg",
       "genres": [
         "драма",
-        "документальный"
+        "комедия"
+      ]
+    },
+    {
+      "id": 1621296,
+      "title": "Point",
+      "release_date": "2026-01-29",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1620651,
+      "title": "Άγιος Παΐσιος",
+      "release_date": "2026-01-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6VJsJNr05yFgc8YISMiMN2l9U84.jpg",
+      "genres": [
+        "драма",
+        "история"
       ]
     }
   ],

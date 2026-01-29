@@ -1,0 +1,31 @@
+{
+  "id": 1620651,
+  "title": "Άγιος Παΐσιος",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-29",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "история"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "Greek"
+  ],
+  "production_countries": [
+    "GR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/6VJsJNr05yFgc8YISMiMN2l9U84.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1620651",
+  "trailer": {
+    "key": "V7ZZiyZ0omk",
+    "name": "ΑΓΙΟΣ ΠΑΪΣΙΟΣ - trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-29T01:17:37.258414+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

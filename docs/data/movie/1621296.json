@@ -1,0 +1,24 @@
+{
+  "id": 1621296,
+  "title": "Point",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-29",
+  "runtime": 6,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [
+    "GB"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1621296",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-29T01:17:37.109126+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1621394,
+  "title": "Sirena",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-29",
+  "runtime": 94,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "tl",
+  "spoken_languages": [
+    "Tagalog"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/xKdU0NgH2kMRqWRJaFrXJCfS5cY.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/51JZOPYyXMkVKRyRHjJpWDj1z3S.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1621394",
+  "trailer": {
+    "key": "gBGYW4N8IXc",
+    "name": "SIRENA Official Trailer | VMX | #MicaellaRaz #RicaGonzales",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-29T01:17:36.703129+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
