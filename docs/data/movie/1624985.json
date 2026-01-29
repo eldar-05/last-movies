@@ -1,6 +1,6 @@
 {
-  "id": 1623440,
-  "title": "The Ugly Show",
+  "id": 1624985,
+  "title": "GRAND PIANO SHOW Koncerto Filmas",
   "tagline": "",
   "overview": "",
   "release_date": "2026-01-29",
@@ -8,17 +8,18 @@
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
-    "драма"
+    "документальный",
+    "музыка"
   ],
-  "original_language": "fr",
+  "original_language": "lt",
   "spoken_languages": [],
   "production_countries": [
-    "FR"
+    "LT"
   ],
-  "poster_url": "https://image.tmdb.org/t/p/w500/xMetes59qltDDC5UbzZ1WLQs8fA.jpg",
+  "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1623440",
+  "tmdb_url": "https://www.themoviedb.org/movie/1624985",
   "trailer": null,
-  "fetched_at_utc": "2026-01-29T18:33:14.868382+00:00",
+  "fetched_at_utc": "2026-01-29T18:33:13.833089+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

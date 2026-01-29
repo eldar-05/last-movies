@@ -1,9 +1,68 @@
 {
-  "fetched_at_utc": "2026-01-29T12:37:52.489138+00:00",
+  "fetched_at_utc": "2026-01-29T18:33:15.125026+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1625163,
+      "title": "Cachorro Meu!",
+      "release_date": "2026-01-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/if22EXwa1rJ0Fd97WW7GERDlRsu.jpg",
+      "genres": []
+    },
+    {
+      "id": 1625157,
+      "title": "Tomorrow",
+      "release_date": "2026-01-29",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1625143,
+      "title": "松田好花卒業セレモニー",
+      "release_date": "2026-01-29",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1625118,
+      "title": "RAGER",
+      "release_date": "2026-01-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/6L5ob2iFJlmItfxCyk22hdbU8Al.jpg",
+      "genres": [
+        "ужасы",
+        "триллер",
+        "боевик"
+      ]
+    },
+    {
+      "id": 1624985,
+      "title": "GRAND PIANO SHOW Koncerto Filmas",
+      "release_date": "2026-01-29",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1624818,
+      "title": "Fefe - Uma aventura fantástica",
+      "release_date": "2026-01-29",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/aswrQLz8pNORWcLc2upZNmxmpBa.jpg",
+      "genres": [
+        "семейный",
+        "приключения",
+        "фэнтези"
+      ]
+    },
     {
       "id": 1624807,
       "title": "Chasing Butterflies",
@@ -43,67 +102,6 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/boFfZllXuUtOZzcUcLymfQ9jHkJ.jpg",
       "genres": []
-    },
-    {
-      "id": 1622502,
-      "title": "8118",
-      "release_date": "2026-01-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9j3A29plqJqKCtoPjjJZAIXQL0R.jpg",
-      "genres": [
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1622364,
-      "title": "Enough",
-      "release_date": "2026-01-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bHxORAof5QCrlSVOZlvxOcia98J.jpg",
-      "genres": []
-    },
-    {
-      "id": 1621496,
-      "title": "猿山异闻录",
-      "release_date": "2026-01-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dhk4xNejRdGKr9b7XXAOX77MLkq.jpg",
-      "genres": [
-        "боевик",
-        "приключения",
-        "фэнтези"
-      ]
-    },
-    {
-      "id": 1621394,
-      "title": "Sirena",
-      "release_date": "2026-01-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xKdU0NgH2kMRqWRJaFrXJCfS5cY.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1621330,
-      "title": "Dansa Nykter",
-      "release_date": "2026-01-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/z9MD6vGqlDMgNhTpMkVyNj4FgKR.jpg",
-      "genres": [
-        "драма",
-        "комедия"
-      ]
-    },
-    {
-      "id": 1621296,
-      "title": "Point",
-      "release_date": "2026-01-29",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "мультфильм"
-      ]
     }
   ],
   "source": "TMDB",

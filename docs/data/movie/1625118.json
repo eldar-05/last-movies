@@ -1,0 +1,28 @@
+{
+  "id": 1625118,
+  "title": "RAGER",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-29",
+  "runtime": 1,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "триллер",
+    "боевик"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/6L5ob2iFJlmItfxCyk22hdbU8Al.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/v1c18cRcKFtKUEbu8oTLh4x28MV.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1625118",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-29T18:33:13.546814+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

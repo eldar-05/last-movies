@@ -1,0 +1,28 @@
+{
+  "id": 1624818,
+  "title": "Fefe - Uma aventura fantástica",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-29",
+  "runtime": 6,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "семейный",
+    "приключения",
+    "фэнтези"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/aswrQLz8pNORWcLc2upZNmxmpBa.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/nsHDj5J1x1AF6D0OF9mO9btIan2.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1624818",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-29T18:33:14.090795+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
