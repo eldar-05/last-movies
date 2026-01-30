@@ -1,0 +1,33 @@
+{
+  "id": 1624915,
+  "title": "Gecede Kısılanlar",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-30",
+  "runtime": 10,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "криминал",
+    "драма",
+    "боевик"
+  ],
+  "original_language": "tr",
+  "spoken_languages": [
+    "Turkish"
+  ],
+  "production_countries": [
+    "TR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/f86PQo6k1EwmlzH70Gb1PbA5V1N.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1624915",
+  "trailer": {
+    "key": "gV4FsQqAQ6Y",
+    "name": "Those Trapped at Night / Gecede Kısılanlar - Teaser",
+    "type": "Teaser"
+  },
+  "fetched_at_utc": "2026-01-30T01:17:19.482690+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

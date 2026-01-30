@@ -1,107 +1,107 @@
 {
-  "fetched_at_utc": "2026-01-29T18:33:15.125026+00:00",
+  "fetched_at_utc": "2026-01-30T01:17:19.483077+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1625163,
-      "title": "Cachorro Meu!",
-      "release_date": "2026-01-29",
+      "id": 1625289,
+      "title": "Corps en toile",
+      "release_date": "2026-01-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/if22EXwa1rJ0Fd97WW7GERDlRsu.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cfkd4VjVrjd3JqHA1xsDvrC1MX1.jpg",
       "genres": []
     },
     {
-      "id": 1625157,
-      "title": "Tomorrow",
-      "release_date": "2026-01-29",
+      "id": 1625288,
+      "title": "La Kilbe",
+      "release_date": "",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1625143,
-      "title": "松田好花卒業セレモニー",
-      "release_date": "2026-01-29",
+      "id": 1625266,
+      "title": "How I Started A Film Festival",
+      "release_date": "2026-01-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qPSpnvcInVaj1RDuWkkNzNQ1HZ7.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1625260,
+      "title": "Bechdel",
+      "release_date": "2026-01-30",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1625118,
-      "title": "RAGER",
-      "release_date": "2026-01-29",
+      "id": 1625189,
+      "title": "Ägg",
+      "release_date": "",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6L5ob2iFJlmItfxCyk22hdbU8Al.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mtZjLoRs7gtPagJ31wV0sTnX6JF.jpg",
       "genres": [
         "ужасы",
-        "триллер",
-        "боевик"
+        "детектив"
       ]
     },
     {
-      "id": 1624985,
-      "title": "GRAND PIANO SHOW Koncerto Filmas",
-      "release_date": "2026-01-29",
+      "id": 1625146,
+      "title": "Marigold New Years Golden Garden 2026 ~ Day 5",
+      "release_date": "2026-01-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/thoGIq0RgVxmQDF8L5FMXM6rnfi.jpg",
+      "genres": [
+        "боевик",
+        "драма"
+      ]
+    },
+    {
+      "id": 1625137,
+      "title": "\"A Good Man\"",
+      "release_date": "2026-01-30",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "документальный",
-        "музыка"
+        "документальный"
       ]
     },
     {
-      "id": 1624818,
-      "title": "Fefe - Uma aventura fantástica",
-      "release_date": "2026-01-29",
+      "id": 1625131,
+      "title": "12.9 Kilometer",
+      "release_date": "2026-01-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aswrQLz8pNORWcLc2upZNmxmpBa.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fcBG5HppZY5ieuBQ6AVMF5GxWhI.jpg",
       "genres": [
-        "семейный",
-        "приключения",
-        "фэнтези"
+        "комедия"
       ]
     },
     {
-      "id": 1624807,
-      "title": "Chasing Butterflies",
-      "release_date": "2026-01-29",
+      "id": 1625125,
+      "title": "N56",
+      "release_date": "2026-01-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/oOx4AkSWtaHLQLx7M4HuKj2sjlo.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gesluegbljaTS9oV3LmYslVzSsg.jpg",
       "genres": [
-        "драма"
+        "фантастика"
       ]
     },
     {
-      "id": 1623740,
-      "title": "大蛇5：怪兽都市",
-      "release_date": "2026-01-29",
+      "id": 1624915,
+      "title": "Gecede Kısılanlar",
+      "release_date": "2026-01-30",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zNylFqyrmXiCSQ8x62ezq702wsV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f86PQo6k1EwmlzH70Gb1PbA5V1N.jpg",
       "genres": [
-        "боевик",
-        "приключения",
-        "фэнтези"
+        "триллер",
+        "криминал",
+        "драма",
+        "боевик"
       ]
-    },
-    {
-      "id": 1623440,
-      "title": "The Ugly Show",
-      "release_date": "2026-01-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xMetes59qltDDC5UbzZ1WLQs8fA.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1622699,
-      "title": "Արարատ 73",
-      "release_date": "2026-01-29",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/boFfZllXuUtOZzcUcLymfQ9jHkJ.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",

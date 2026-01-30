@@ -1,0 +1,27 @@
+{
+  "id": 1625189,
+  "title": "Ägg",
+  "tagline": "",
+  "overview": "",
+  "release_date": "",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "детектив"
+  ],
+  "original_language": "sv",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "SE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/mtZjLoRs7gtPagJ31wV0sTnX6JF.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/8iFz7cel6HLL50oXKb0XlXzqvmR.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1625189",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-30T01:17:17.759191+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
