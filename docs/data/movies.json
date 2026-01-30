@@ -1,9 +1,38 @@
 {
-  "fetched_at_utc": "2026-01-30T06:37:21.237649+00:00",
+  "fetched_at_utc": "2026-01-30T12:36:12.330297+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1625555,
+      "title": "Funérailles d'un extraterrestre",
+      "release_date": "2026-01-30",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1625505,
+      "title": "Bout de Viande — Our Body has been taken from us",
+      "release_date": "2026-01-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/AhQ2jEqv1xPqpf3SDpp8Te4f5px.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1625474,
+      "title": "Away For The Day",
+      "release_date": "2026-01-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lNEkDmCg8rTNYJJifBzrmbcZx63.jpg",
+      "genres": [
+        "документальный",
+        "комедия"
+      ]
+    },
     {
       "id": 1625289,
       "title": "Corps en toile",
@@ -68,39 +97,6 @@
       "poster_url": null,
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1625131,
-      "title": "12.9 Kilometer",
-      "release_date": "2026-01-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/fcBG5HppZY5ieuBQ6AVMF5GxWhI.jpg",
-      "genres": [
-        "комедия"
-      ]
-    },
-    {
-      "id": 1625125,
-      "title": "N56",
-      "release_date": "2026-01-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gesluegbljaTS9oV3LmYslVzSsg.jpg",
-      "genres": [
-        "фантастика"
-      ]
-    },
-    {
-      "id": 1624915,
-      "title": "Gecede Kısılanlar",
-      "release_date": "2026-01-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/f86PQo6k1EwmlzH70Gb1PbA5V1N.jpg",
-      "genres": [
-        "триллер",
-        "криминал",
-        "драма",
-        "боевик"
       ]
     }
   ],
