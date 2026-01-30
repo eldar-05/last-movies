@@ -1,20 +1,22 @@
 {
-  "id": 1625555,
-  "title": "Funérailles d'un extraterrestre",
+  "id": 1625594,
+  "title": "Concert du Nouvel An 2026",
   "tagline": "",
   "overview": "",
-  "release_date": "2026-01-30",
+  "release_date": "",
   "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "музыка"
+  ],
   "original_language": "fr",
   "spoken_languages": [],
   "production_countries": [],
   "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1625555",
+  "tmdb_url": "https://www.themoviedb.org/movie/1625594",
   "trailer": null,
-  "fetched_at_utc": "2026-01-30T18:30:58.865352+00:00",
+  "fetched_at_utc": "2026-01-30T18:30:58.680781+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

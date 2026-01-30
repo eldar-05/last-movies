@@ -1,9 +1,50 @@
 {
-  "fetched_at_utc": "2026-01-30T12:36:12.330297+00:00",
+  "fetched_at_utc": "2026-01-30T18:30:59.761681+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1625806,
+      "title": "Tour Eiffel : les 10 secrets de l'icône de Paris",
+      "release_date": "2026-01-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/dOey9wIsfWE3WmkBvcoz4UxI6wc.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1625777,
+      "title": "Lux",
+      "release_date": "2026-01-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/foadVa2tb1u23j2Nmc8ViBxwBJv.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1625601,
+      "title": "Mono-Kage",
+      "release_date": "2026-01-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vTNXxok6Wcx8XZCxgx0bzI8NKvj.jpg",
+      "genres": [
+        "ужасы",
+        "детектив"
+      ]
+    },
+    {
+      "id": 1625594,
+      "title": "Concert du Nouvel An 2026",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "музыка"
+      ]
+    },
     {
       "id": 1625555,
       "title": "Funérailles d'un extraterrestre",
@@ -55,46 +96,6 @@
       "release_date": "2026-01-30",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/qPSpnvcInVaj1RDuWkkNzNQ1HZ7.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1625260,
-      "title": "Bechdel",
-      "release_date": "2026-01-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tzCOCU7h9pn9tGfaRMy9rVfiosX.jpg",
-      "genres": []
-    },
-    {
-      "id": 1625189,
-      "title": "Ägg",
-      "release_date": "2026-01-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/mtZjLoRs7gtPagJ31wV0sTnX6JF.jpg",
-      "genres": [
-        "ужасы",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1625146,
-      "title": "Marigold New Years Golden Garden 2026 ~ Day 5",
-      "release_date": "2026-01-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/thoGIq0RgVxmQDF8L5FMXM6rnfi.jpg",
-      "genres": [
-        "боевик",
-        "драма"
-      ]
-    },
-    {
-      "id": 1625137,
-      "title": "\"A Good Man\"",
-      "release_date": "2026-01-30",
-      "vote_average": 0.0,
-      "poster_url": null,
       "genres": [
         "документальный"
       ]

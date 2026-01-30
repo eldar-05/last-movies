@@ -1,0 +1,26 @@
+{
+  "id": 1625601,
+  "title": "Mono-Kage",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-30",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "ужасы",
+    "детектив"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [],
+  "production_countries": [
+    "FR",
+    "JP"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/vTNXxok6Wcx8XZCxgx0bzI8NKvj.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1625601",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-30T18:30:58.477478+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
