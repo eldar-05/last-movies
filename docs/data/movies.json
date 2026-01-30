@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-01-30T01:17:19.483077+00:00",
+  "fetched_at_utc": "2026-01-30T06:37:21.237649+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -15,9 +15,9 @@
     {
       "id": 1625288,
       "title": "La Kilbe",
-      "release_date": "",
+      "release_date": "2026-01-30",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/kHF3DjTRZIQ6nMV72lyWZNRrjGh.jpg",
       "genres": []
     },
     {
@@ -35,13 +35,13 @@
       "title": "Bechdel",
       "release_date": "2026-01-30",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tzCOCU7h9pn9tGfaRMy9rVfiosX.jpg",
       "genres": []
     },
     {
       "id": 1625189,
       "title": "Ägg",
-      "release_date": "",
+      "release_date": "2026-01-30",
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/mtZjLoRs7gtPagJ31wV0sTnX6JF.jpg",
       "genres": [
