@@ -1,0 +1,27 @@
+{
+  "id": 1626118,
+  "title": "Adiós Para Nunca",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-01-31",
+  "runtime": 8,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "US",
+    "MX"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/flxwEmjSjh2jlwtVQW3Ly9dPW1b.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1626118",
+  "trailer": null,
+  "fetched_at_utc": "2026-01-31T12:29:48.605107+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

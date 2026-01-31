@@ -1,9 +1,48 @@
 {
-  "fetched_at_utc": "2026-01-31T06:28:43.216616+00:00",
+  "fetched_at_utc": "2026-01-31T12:29:49.916817+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1626147,
+      "title": "\"Push and Pull\"",
+      "release_date": "2026-01-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/uA3NP13eIqKNSaUln8RuUHxIWXu.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ]
+    },
+    {
+      "id": 1626142,
+      "title": "phenomenon",
+      "release_date": "2026-01-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/dYAM7QRvl0dyDXexpVkqeByZi68.jpg",
+      "genres": []
+    },
+    {
+      "id": 1626118,
+      "title": "Adiós Para Nunca",
+      "release_date": "2026-01-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/flxwEmjSjh2jlwtVQW3Ly9dPW1b.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1626012,
+      "title": "Stubbed Toe",
+      "release_date": "2026-01-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/h4pwlNOBkYl6PKTyLgmJQvza7V1.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
     {
       "id": 1625858,
       "title": "Feedback",
@@ -33,6 +72,16 @@
       ]
     },
     {
+      "id": 1625736,
+      "title": "La Candidate",
+      "release_date": "2026-01-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gDG4f9d90kqbMwA3QmXWYX9dc8X.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 1625483,
       "title": "Otherway",
       "release_date": "2026-01-31",
@@ -47,59 +96,6 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/bj6Xy9xvK5yOxXXlCLzh1Np7buH.jpg",
       "genres": []
-    },
-    {
-      "id": 1625242,
-      "title": "слепая",
-      "release_date": "2026-01-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5OkQTHQky1KVXXfyoWC6ReYi3UF.jpg",
-      "genres": []
-    },
-    {
-      "id": 1625099,
-      "title": "Voices from the Chorus",
-      "release_date": "2026-01-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/yxveLHkWpm6kJzTMab4HdJJgRgj.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1625079,
-      "title": "TJPW The 6th \"Futari wa Princess\" Max Heart Tournament ~ Day 3",
-      "release_date": "2026-01-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ofEQZ8AWOzmqLPU1npo7Dj2KJjj.jpg",
-      "genres": [
-        "боевик",
-        "драма",
-        "комедия",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1624968,
-      "title": "Les Glucksmann, une histoire de famille",
-      "release_date": "2026-01-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/nxNPwTC6aLsKu5AxsG7TaK6syys.jpg",
-      "genres": [
-        "документальный",
-        "история",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1624473,
-      "title": "BICI",
-      "release_date": "2026-01-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iNUbiKLB1wqnNcjjpTpAh3cMYmb.jpg",
-      "genres": [
-        "мультфильм"
-      ]
     }
   ],
   "source": "TMDB",

@@ -1,26 +1,26 @@
 {
-  "id": 1625755,
-  "title": "Vigilantes",
+  "id": 1625736,
+  "title": "La Candidate",
   "tagline": "",
   "overview": "",
   "release_date": "2026-01-31",
-  "runtime": 4,
+  "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
   "genres": [
     "драма"
   ],
-  "original_language": "it",
+  "original_language": "fr",
   "spoken_languages": [
-    "Italian"
+    "French"
   ],
   "production_countries": [
-    "IT"
+    "US"
   ],
-  "poster_url": null,
+  "poster_url": "https://image.tmdb.org/t/p/w500/gDG4f9d90kqbMwA3QmXWYX9dc8X.jpg",
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1625755",
+  "tmdb_url": "https://www.themoviedb.org/movie/1625736",
   "trailer": null,
-  "fetched_at_utc": "2026-01-31T12:29:49.356787+00:00",
+  "fetched_at_utc": "2026-01-31T12:29:49.533037+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
