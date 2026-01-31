@@ -1,103 +1,104 @@
 {
-  "fetched_at_utc": "2026-01-30T18:30:59.761681+00:00",
+  "fetched_at_utc": "2026-01-31T01:14:28.284939+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1625806,
-      "title": "Tour Eiffel : les 10 secrets de l'icône de Paris",
-      "release_date": "2026-01-30",
+      "id": 1625858,
+      "title": "Feedback",
+      "release_date": "2026-01-31",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dOey9wIsfWE3WmkBvcoz4UxI6wc.jpg",
-      "genres": [
-        "документальный"
-      ]
+      "poster_url": null,
+      "genres": []
     },
     {
-      "id": 1625777,
-      "title": "Lux",
-      "release_date": "2026-01-30",
+      "id": 1625757,
+      "title": "Echoes Beneath The Hill",
+      "release_date": "2026-01-31",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/foadVa2tb1u23j2Nmc8ViBxwBJv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sBTG0ewCI6ilL42svp8VsBnLJC3.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1625601,
-      "title": "Mono-Kage",
-      "release_date": "2026-01-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vTNXxok6Wcx8XZCxgx0bzI8NKvj.jpg",
-      "genres": [
-        "ужасы",
-        "детектив"
-      ]
-    },
-    {
-      "id": 1625594,
-      "title": "Concert du Nouvel An 2026",
-      "release_date": "",
+      "id": 1625755,
+      "title": "Vigilantes",
+      "release_date": "2026-01-31",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1625483,
+      "title": "Otherway",
+      "release_date": "2026-01-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/sxHwdC4pchnPUnDerdEnXbYRbZL.jpg",
+      "genres": []
+    },
+    {
+      "id": 1625310,
+      "title": "My mums a cleaner",
+      "release_date": "2026-01-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bj6Xy9xvK5yOxXXlCLzh1Np7buH.jpg",
+      "genres": []
+    },
+    {
+      "id": 1625242,
+      "title": "слепая",
+      "release_date": "2026-01-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5OkQTHQky1KVXXfyoWC6ReYi3UF.jpg",
+      "genres": []
+    },
+    {
+      "id": 1625099,
+      "title": "Voices from the Chorus",
+      "release_date": "2026-01-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/yxveLHkWpm6kJzTMab4HdJJgRgj.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1625079,
+      "title": "TJPW The 6th \"Futari wa Princess\" Max Heart Tournament ~ Day 3",
+      "release_date": "2026-01-31",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/ofEQZ8AWOzmqLPU1npo7Dj2KJjj.jpg",
+      "genres": [
+        "боевик",
+        "драма",
+        "комедия",
         "музыка"
       ]
     },
     {
-      "id": 1625555,
-      "title": "Funérailles d'un extraterrestre",
-      "release_date": "2026-01-30",
+      "id": 1624968,
+      "title": "Les Glucksmann, une histoire de famille",
+      "release_date": "2026-01-31",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1625505,
-      "title": "Bout de Viande — Our Body has been taken from us",
-      "release_date": "2026-01-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/AhQ2jEqv1xPqpf3SDpp8Te4f5px.jpg",
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1625474,
-      "title": "Away For The Day",
-      "release_date": "2026-01-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lNEkDmCg8rTNYJJifBzrmbcZx63.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nxNPwTC6aLsKu5AxsG7TaK6syys.jpg",
       "genres": [
         "документальный",
-        "комедия"
+        "история",
+        "семейный"
       ]
     },
     {
-      "id": 1625289,
-      "title": "Corps en toile",
-      "release_date": "2026-01-30",
+      "id": 1624473,
+      "title": "BICI",
+      "release_date": "2026-01-31",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cfkd4VjVrjd3JqHA1xsDvrC1MX1.jpg",
-      "genres": []
-    },
-    {
-      "id": 1625288,
-      "title": "La Kilbe",
-      "release_date": "2026-01-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/kHF3DjTRZIQ6nMV72lyWZNRrjGh.jpg",
-      "genres": []
-    },
-    {
-      "id": 1625266,
-      "title": "How I Started A Film Festival",
-      "release_date": "2026-01-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qPSpnvcInVaj1RDuWkkNzNQ1HZ7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iNUbiKLB1wqnNcjjpTpAh3cMYmb.jpg",
       "genres": [
-        "документальный"
+        "мультфильм"
       ]
     }
   ],
