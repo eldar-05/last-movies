@@ -19,9 +19,9 @@
     "MX"
   ],
   "poster_url": "https://image.tmdb.org/t/p/w500/flxwEmjSjh2jlwtVQW3Ly9dPW1b.jpg",
-  "backdrop_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/81T58uuRiYVtTZPRPuHjXfvtmy.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1626118",
   "trailer": null,
-  "fetched_at_utc": "2026-01-31T12:29:48.605107+00:00",
+  "fetched_at_utc": "2026-01-31T18:21:38.568002+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

@@ -19,7 +19,11 @@
   "poster_url": "https://image.tmdb.org/t/p/w500/uA3NP13eIqKNSaUln8RuUHxIWXu.jpg",
   "backdrop_url": "https://image.tmdb.org/t/p/w780/1TvntRp71fWGtQBukdqiX6Pihns.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1626147",
-  "trailer": null,
-  "fetched_at_utc": "2026-01-31T12:29:48.235163+00:00",
+  "trailer": {
+    "key": "vZowk31rAVc",
+    "name": "Push and Pull Final",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-01-31T18:21:37.876360+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
