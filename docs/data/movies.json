@@ -1,101 +1,113 @@
 {
-  "fetched_at_utc": "2026-01-31T18:21:40.980179+00:00",
+  "fetched_at_utc": "2026-02-01T01:29:45.871753+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1626147,
-      "title": "\"Push and Pull\"",
-      "release_date": "2026-01-31",
+      "id": 1626678,
+      "title": "C-R-I-M-S-O-N 3",
+      "release_date": "2026-02-01",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uA3NP13eIqKNSaUln8RuUHxIWXu.jpg",
+      "poster_url": null,
       "genres": [
-        "комедия",
-        "драма"
+        "мультфильм"
       ]
     },
     {
-      "id": 1626142,
-      "title": "phenomenon",
-      "release_date": "2026-01-31",
+      "id": 1626234,
+      "title": "Conversations with Rasparagus Asparagus Baragus",
+      "release_date": "2026-02-01",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dYAM7QRvl0dyDXexpVkqeByZi68.jpg",
-      "genres": []
-    },
-    {
-      "id": 1626118,
-      "title": "Adiós Para Nunca",
-      "release_date": "2026-01-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/flxwEmjSjh2jlwtVQW3Ly9dPW1b.jpg",
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1626012,
-      "title": "Stubbed Toe",
-      "release_date": "2026-01-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/h4pwlNOBkYl6PKTyLgmJQvza7V1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/A4aM3E7RWEqiHKL30qaJAi4EtEQ.jpg",
       "genres": [
         "комедия"
       ]
     },
     {
-      "id": 1625858,
-      "title": "Feedback",
-      "release_date": "2026-01-31",
+      "id": 1626010,
+      "title": "Highway To Hell",
+      "release_date": "2026-02-01",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1625757,
-      "title": "Echoes Beneath The Hill",
-      "release_date": "2026-01-31",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sBTG0ewCI6ilL42svp8VsBnLJC3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1RGzDePNN0k156WorKsf4ogxili.jpg",
       "genres": [
-        "драма"
+        "комедия"
       ]
     },
     {
-      "id": 1625755,
-      "title": "Vigilantes",
-      "release_date": "2026-01-31",
+      "id": 1625602,
+      "title": "Coach Days",
+      "release_date": "2026-02-01",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
-        "драма"
+        "комедия"
       ]
     },
     {
-      "id": 1625736,
-      "title": "La Candidate",
-      "release_date": "2026-01-31",
+      "id": 1625551,
+      "title": "دختر پری خانوم",
+      "release_date": "2026-02-01",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gDG4f9d90kqbMwA3QmXWYX9dc8X.jpg",
+      "poster_url": null,
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1625483,
-      "title": "Otherway",
-      "release_date": "2026-01-31",
+      "id": 1625043,
+      "title": "اسکورت",
+      "release_date": "2026-02-01",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sxHwdC4pchnPUnDerdEnXbYRbZL.jpg",
-      "genres": []
+      "poster_url": null,
+      "genres": [
+        "боевик",
+        "драма",
+        "криминал"
+      ]
     },
     {
-      "id": 1625310,
-      "title": "My mums a cleaner",
-      "release_date": "2026-01-31",
+      "id": 1624457,
+      "title": "خواب",
+      "release_date": "2026-02-01",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bj6Xy9xvK5yOxXXlCLzh1Np7buH.jpg",
-      "genres": []
+      "poster_url": null,
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1624434,
+      "title": "زنده‌شور",
+      "release_date": "2026-02-01",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма",
+        "криминал"
+      ]
+    },
+    {
+      "id": 1624429,
+      "title": "قایق‌سواری در تهران",
+      "release_date": "2026-02-01",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1624424,
+      "title": "نیم‌شب",
+      "release_date": "2026-02-01",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "военный",
+        "драма"
+      ]
     }
   ],
   "source": "TMDB",

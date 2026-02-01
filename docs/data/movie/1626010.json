@@ -1,0 +1,24 @@
+{
+  "id": 1626010,
+  "title": "Highway To Hell",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-01",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/1RGzDePNN0k156WorKsf4ogxili.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1626010",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-01T01:29:44.598466+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

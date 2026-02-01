@@ -1,0 +1,28 @@
+{
+  "id": 1625043,
+  "title": "اسکورت",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-01",
+  "runtime": 96,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "боевик",
+    "драма",
+    "криминал"
+  ],
+  "original_language": "fa",
+  "spoken_languages": [
+    "Persian"
+  ],
+  "production_countries": [
+    "IR"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1625043",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-01T01:29:45.099708+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
