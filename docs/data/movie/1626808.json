@@ -1,0 +1,24 @@
+{
+  "id": 1626808,
+  "title": "EL ANILLO Y EL DECK",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-01",
+  "runtime": 5,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер",
+    "детектив",
+    "документальный"
+  ],
+  "original_language": "es",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/2WlmqSZYFmWJQsYkSLUbrLMHKGU.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/atcdaGs5WGnVu2Qx8dLZY13C32u.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1626808",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-01T12:31:21.916718+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

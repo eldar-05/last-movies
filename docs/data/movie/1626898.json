@@ -1,22 +1,20 @@
 {
-  "id": 1626678,
-  "title": "C-R-I-M-S-O-N 3",
+  "id": 1626898,
+  "title": "Aladdin",
   "tagline": "",
   "overview": "",
-  "release_date": "2026-02-01",
-  "runtime": 12,
+  "release_date": "",
+  "runtime": 2,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [
-    "мультфильм"
-  ],
+  "genres": [],
   "original_language": "en",
   "spoken_languages": [],
   "production_countries": [],
   "poster_url": null,
   "backdrop_url": null,
-  "tmdb_url": "https://www.themoviedb.org/movie/1626678",
+  "tmdb_url": "https://www.themoviedb.org/movie/1626898",
   "trailer": null,
-  "fetched_at_utc": "2026-02-01T12:31:22.181886+00:00",
+  "fetched_at_utc": "2026-02-01T12:31:21.652913+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

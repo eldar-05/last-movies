@@ -1,9 +1,53 @@
 {
-  "fetched_at_utc": "2026-02-01T06:39:46.184265+00:00",
+  "fetched_at_utc": "2026-02-01T12:31:23.567781+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1626914,
+      "title": "Cinderella",
+      "release_date": "2026-02-01",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1626913,
+      "title": "飞黄腾达",
+      "release_date": "2026-01-30",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5Ln4Gq5aeyPTVPYbDOjOKzsy51l.jpg",
+      "genres": [
+        "комедия",
+        "мелодрама",
+        "криминал"
+      ]
+    },
+    {
+      "id": 1626898,
+      "title": "Aladdin",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 1626808,
+      "title": "EL ANILLO Y EL DECK",
+      "release_date": "2026-02-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/2WlmqSZYFmWJQsYkSLUbrLMHKGU.jpg",
+      "genres": [
+        "триллер",
+        "детектив",
+        "документальный"
+      ]
+    },
     {
       "id": 1626678,
       "title": "C-R-I-M-S-O-N 3",
@@ -49,7 +93,7 @@
       "title": "دختر پری خانوم",
       "release_date": "2026-02-01",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zRddn6uiezDHwhDSZZJCW5uwKkn.jpg",
       "genres": [
         "драма"
       ]
@@ -59,54 +103,11 @@
       "title": "اسکورت",
       "release_date": "2026-02-01",
       "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/smXapZJBGY4Puixl2CXPKpw7lTK.jpg",
       "genres": [
         "боевик",
         "драма",
         "криминал"
-      ]
-    },
-    {
-      "id": 1624457,
-      "title": "خواب",
-      "release_date": "2026-02-01",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1624434,
-      "title": "زنده‌شور",
-      "release_date": "2026-02-01",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма",
-        "криминал"
-      ]
-    },
-    {
-      "id": 1624429,
-      "title": "قایق‌سواری در تهران",
-      "release_date": "2026-02-01",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма",
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1624424,
-      "title": "نیم‌شب",
-      "release_date": "2026-02-01",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "военный",
-        "драма"
       ]
     }
   ],
