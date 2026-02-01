@@ -1,0 +1,25 @@
+{
+  "id": 1627085,
+  "title": "غوطه ور",
+  "tagline": "",
+  "overview": "",
+  "release_date": "",
+  "runtime": 95,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "криминал"
+  ],
+  "original_language": "fa",
+  "spoken_languages": [
+    "Persian"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/oHtRAuSJdhbFMdKj4MfQKl9uZy2.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/7ISRKKzJyrs5JvQsnOoAKqZslCA.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1627085",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-01T18:23:26.304231+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

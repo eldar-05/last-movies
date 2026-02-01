@@ -1,9 +1,20 @@
 {
-  "fetched_at_utc": "2026-02-01T12:31:23.567781+00:00",
+  "fetched_at_utc": "2026-02-01T18:23:27.788893+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1627085,
+      "title": "غوطه ور",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/oHtRAuSJdhbFMdKj4MfQKl9uZy2.jpg",
+      "genres": [
+        "драма",
+        "криминал"
+      ]
+    },
     {
       "id": 1626914,
       "title": "Cinderella",
@@ -15,25 +26,24 @@
       ]
     },
     {
-      "id": 1626913,
-      "title": "飞黄腾达",
-      "release_date": "2026-01-30",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5Ln4Gq5aeyPTVPYbDOjOKzsy51l.jpg",
-      "genres": [
-        "комедия",
-        "мелодрама",
-        "криминал"
-      ]
-    },
-    {
       "id": 1626898,
       "title": "Aladdin",
-      "release_date": "",
+      "release_date": "2026-02-01",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": [
         "мультфильм"
+      ]
+    },
+    {
+      "id": 1626897,
+      "title": "Die Liga der außergewöhnlichen Arbeitnehmer",
+      "release_date": "2026-02-01",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/fYx0vFq1vBqHnZ5ttvUSteq0fSQ.jpg",
+      "genres": [
+        "фантастика",
+        "комедия"
       ]
     },
     {
@@ -96,18 +106,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/zRddn6uiezDHwhDSZZJCW5uwKkn.jpg",
       "genres": [
         "драма"
-      ]
-    },
-    {
-      "id": 1625043,
-      "title": "اسکورت",
-      "release_date": "2026-02-01",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/smXapZJBGY4Puixl2CXPKpw7lTK.jpg",
-      "genres": [
-        "боевик",
-        "драма",
-        "криминал"
       ]
     }
   ],
