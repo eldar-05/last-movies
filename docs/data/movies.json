@@ -1,9 +1,37 @@
 {
-  "fetched_at_utc": "2026-02-02T01:21:43.292101+00:00",
+  "fetched_at_utc": "2026-02-02T06:53:37.687141+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1627396,
+      "title": "Forging Champions",
+      "release_date": "2026-02-02",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1627352,
+      "title": "Time as a Landscape",
+      "release_date": "2026-02-02",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1627346,
+      "title": "Cinematic Melancholy",
+      "release_date": "2026-02-02",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": [
+        "документальный"
+      ]
+    },
     {
       "id": 1627192,
       "title": "Andy Warhol Exposed: Newly Processed Films from the 1960s",
@@ -20,6 +48,17 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/tBeWJOSVUSWyAykDl2ZaiHCdpjK.jpg",
       "genres": [
         "детектив"
+      ]
+    },
+    {
+      "id": 1626618,
+      "title": "meppets",
+      "release_date": "2026-02-02",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pv0avK8UmaoyV81zdDo9GHleP48.jpg",
+      "genres": [
+        "документальный",
+        "комедия"
       ]
     },
     {
@@ -62,48 +101,6 @@
       "genres": [
         "вестерн",
         "комедия"
-      ]
-    },
-    {
-      "id": 1618943,
-      "title": "Meu Avô Stanislau",
-      "release_date": "2026-02-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/ajm7rwrJB7OgUADLNInzs1r5gqx.jpg",
-      "genres": [
-        "драма",
-        "телевизионный фильм"
-      ]
-    },
-    {
-      "id": 1615945,
-      "title": "Le souffle de vie",
-      "release_date": "2026-02-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lS3dIG3yPrTKWLV80ItPHrbrl0o.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1614752,
-      "title": "The Fuel of Youth",
-      "release_date": "2026-02-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2at6MlOjVAk2v5OwvIJZ48S4j2U.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1614156,
-      "title": "Forget Me Not",
-      "release_date": "2026-02-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xY6uCHEngTDNGypSjUbaDUFMSGE.jpg",
-      "genres": [
-        "мелодрама",
-        "драма"
       ]
     }
   ],

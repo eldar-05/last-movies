@@ -1,0 +1,27 @@
+{
+  "id": 1626618,
+  "title": "meppets",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-02",
+  "runtime": 71,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/pv0avK8UmaoyV81zdDo9GHleP48.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1626618",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-02T06:53:35.548513+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
