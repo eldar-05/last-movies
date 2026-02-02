@@ -1,0 +1,29 @@
+{
+  "id": 1614156,
+  "title": "Forget Me Not",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-02",
+  "runtime": 20,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мелодрама",
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English",
+    "Hungarian",
+    "Romanian"
+  ],
+  "production_countries": [
+    "HU"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/xY6uCHEngTDNGypSjUbaDUFMSGE.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1614156",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-02T01:21:43.291783+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

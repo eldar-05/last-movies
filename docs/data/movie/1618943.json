@@ -1,0 +1,27 @@
+{
+  "id": 1618943,
+  "title": "Meu Avô Stanislau",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-02",
+  "runtime": 48,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "телевизионный фильм"
+  ],
+  "original_language": "pt",
+  "spoken_languages": [
+    "Portuguese"
+  ],
+  "production_countries": [
+    "BR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/ajm7rwrJB7OgUADLNInzs1r5gqx.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1618943",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-02T01:21:42.181619+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1621461,
+  "title": "Devil's Pardon",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-02",
+  "runtime": 96,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "вестерн",
+    "комедия"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/aFGoSsUW79ZhRYquSNDji8jlKmK.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/sQiQTEvaBC8mWTh4fkNrUb3EVbZ.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1621461",
+  "trailer": {
+    "key": "mMNycgy_li8",
+    "name": "Devil's Pardon - TRAILER",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-02-02T01:21:41.778142+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

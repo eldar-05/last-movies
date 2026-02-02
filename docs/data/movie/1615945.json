@@ -1,0 +1,28 @@
+{
+  "id": 1615945,
+  "title": "Le souffle de vie",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-02",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "French",
+    "Tahitian"
+  ],
+  "production_countries": [
+    "FR",
+    "PF"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/lS3dIG3yPrTKWLV80ItPHrbrl0o.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/3eeNP0uUs54gejJwIFxMNaPHfyI.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1615945",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-02T01:21:42.546279+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
