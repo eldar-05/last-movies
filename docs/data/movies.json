@@ -1,9 +1,25 @@
 {
-  "fetched_at_utc": "2026-02-02T12:39:19.798780+00:00",
+  "fetched_at_utc": "2026-02-02T18:32:26.844753+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1627726,
+      "title": "The future is virtual",
+      "release_date": "2026-02-02",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1627694,
+      "title": "Grenzschatten",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
     {
       "id": 1627396,
       "title": "Forging Champions",
@@ -62,6 +78,18 @@
       ]
     },
     {
+      "id": 1626386,
+      "title": "Head to Head",
+      "release_date": "2026-02-02",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/256eSbvFopi67hZ9OlaNva8z0DA.jpg",
+      "genres": [
+        "триллер",
+        "детектив",
+        "драма"
+      ]
+    },
+    {
       "id": 1626005,
       "title": "Everyone Was There",
       "release_date": "2026-02-02",
@@ -69,38 +97,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/m5OGC1PXXXP7CXZ9YAg1FQhbivo.jpg",
       "genres": [
         "драма"
-      ]
-    },
-    {
-      "id": 1625938,
-      "title": "The Seeds of Times - Compassion Circuit - Part 3-4",
-      "release_date": "2026-02-02",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "драма",
-        "ужасы"
-      ]
-    },
-    {
-      "id": 1625864,
-      "title": "D'istruzione pubblica",
-      "release_date": "2026-02-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/B2lDMY1mbtA0k2Odk8kAZ9sPyG.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1621461,
-      "title": "Devil's Pardon",
-      "release_date": "2026-02-02",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/aFGoSsUW79ZhRYquSNDji8jlKmK.jpg",
-      "genres": [
-        "вестерн",
-        "комедия"
       ]
     }
   ],

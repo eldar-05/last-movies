@@ -1,0 +1,28 @@
+{
+  "id": 1626386,
+  "title": "Head to Head",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-02",
+  "runtime": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "триллер",
+    "детектив",
+    "драма"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "GB"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/256eSbvFopi67hZ9OlaNva8z0DA.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1626386",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-02T18:32:26.484639+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
