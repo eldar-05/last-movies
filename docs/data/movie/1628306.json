@@ -1,0 +1,24 @@
+{
+  "id": 1628306,
+  "title": "Ночная прогулка",
+  "tagline": "",
+  "overview": "Девушка идет домой из метро ночью.",
+  "release_date": "2026-02-03",
+  "runtime": 4,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер"
+  ],
+  "original_language": "ru",
+  "spoken_languages": [],
+  "production_countries": [
+    "RU"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/chNZueyni0bYyNvk4MnGgwEIhNx.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1628306",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-03T18:44:31.342976+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

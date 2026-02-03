@@ -1,17 +1,66 @@
 {
-  "fetched_at_utc": "2026-02-03T06:39:43.098118+00:00",
+  "fetched_at_utc": "2026-02-03T18:44:32.272060+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1628194,
-      "title": "Value Stickers",
+      "id": 1628509,
+      "title": "La folle histoire de Nutella",
       "release_date": "2026-02-03",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lNEkDmCg8rTNYJJifBzrmbcZx63.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/96M73ewpZQNraluH4XJefJNihAv.jpg",
       "genres": [
         "документальный"
+      ]
+    },
+    {
+      "id": 1628468,
+      "title": "Unintended Consequences",
+      "release_date": "2026-02-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/zPsvobJb1x4eMRcieMcBnwSD9QN.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1628443,
+      "title": "Laurent Paquin - Crocodile Distrait",
+      "release_date": "2026-02-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qDitpAlOK2bVKKJMdPK5mXZCh2G.jpg",
+      "genres": []
+    },
+    {
+      "id": 1628379,
+      "title": "Incendie de Crans-Montana : révélations sur une tragédie",
+      "release_date": "2026-02-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/bRcgzaZxtbtbHTnBvIIhRXs37s3.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1628306,
+      "title": "Ночная прогулка",
+      "release_date": "2026-02-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/chNZueyni0bYyNvk4MnGgwEIhNx.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1628288,
+      "title": "Съедобное-несъедобное",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/a8BLWikd8qvZ9DsOrr85vorNEuD.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
       ]
     },
     {
@@ -49,54 +98,6 @@
       "genres": [
         "комедия",
         "криминал"
-      ]
-    },
-    {
-      "id": 1627261,
-      "title": "Sycamore",
-      "release_date": "2026-02-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/m1AoFFRAJYwufdFhYwIz1pTeOu0.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1627046,
-      "title": "CONTAMINATED: THE CARPET INDUSTRY'S TOXIC LEGACY",
-      "release_date": "2026-02-03",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1625436,
-      "title": "Vieillir et jouir sans entraves",
-      "release_date": "2026-02-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/9FbxbMh0qRF6ajACxRHsR3DohWs.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1622972,
-      "title": "玄机卫之镇国神鼎",
-      "release_date": "2026-02-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uQS2tBzfO98BtzMyyjbNVi058kE.jpg",
-      "genres": []
-    },
-    {
-      "id": 1622249,
-      "title": "Foreplay",
-      "release_date": "2026-02-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/v4jzzU0TNQH8lNqNiExXz46ZCqr.jpg",
-      "genres": [
-        "документальный"
       ]
     }
   ],
