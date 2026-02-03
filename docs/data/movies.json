@@ -1,9 +1,27 @@
 {
-  "fetched_at_utc": "2026-02-03T01:21:51.422622+00:00",
+  "fetched_at_utc": "2026-02-03T06:39:43.098118+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1628194,
+      "title": "Value Stickers",
+      "release_date": "2026-02-03",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lNEkDmCg8rTNYJJifBzrmbcZx63.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1628026,
+      "title": "Focus: Mens op de maan",
+      "release_date": "2026-02-03",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
     {
       "id": 1627811,
       "title": "Enrico Mattei, le rebelle du pétrole",
@@ -79,27 +97,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/v4jzzU0TNQH8lNqNiExXz46ZCqr.jpg",
       "genres": [
         "документальный"
-      ]
-    },
-    {
-      "id": 1620020,
-      "title": "Puuluup - kaablid autos veel",
-      "release_date": "2026-02-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6zmdzvfpJT9PxHOawuPzBHoO9je.jpg",
-      "genres": [
-        "документальный",
-        "музыка"
-      ]
-    },
-    {
-      "id": 1616700,
-      "title": "Mo Gilligan: In the Moment",
-      "release_date": "2026-02-03",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "комедия"
       ]
     }
   ],
