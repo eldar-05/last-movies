@@ -1,0 +1,30 @@
+{
+  "id": 1622249,
+  "title": "Foreplay",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-03",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "tl",
+  "spoken_languages": [
+    "Tagalog"
+  ],
+  "production_countries": [
+    "PH"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/v4jzzU0TNQH8lNqNiExXz46ZCqr.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/3R8o8kelqunze33PbpJ04eUYrJp.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1622249",
+  "trailer": {
+    "key": "M2JVXoCv750",
+    "name": "FOREPLAY Official Trailer | VMX | #Sheree",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-02-03T01:21:51.012311+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

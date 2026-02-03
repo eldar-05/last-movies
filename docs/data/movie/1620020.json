@@ -1,0 +1,27 @@
+{
+  "id": 1620020,
+  "title": "Puuluup - kaablid autos veel",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-03",
+  "runtime": 95,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "музыка"
+  ],
+  "original_language": "et",
+  "spoken_languages": [
+    "Estonian"
+  ],
+  "production_countries": [
+    "EE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/6zmdzvfpJT9PxHOawuPzBHoO9je.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/uNRJItw9OiQKTc8aoMtcfDv0TkV.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1620020",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-03T01:21:51.222585+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

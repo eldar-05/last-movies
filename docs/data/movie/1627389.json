@@ -1,0 +1,23 @@
+{
+  "id": 1627389,
+  "title": "Legitimate Transaction",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-03",
+  "runtime": 1,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "комедия",
+    "криминал"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/uZQ2InMaXIAWb6wOn1Gs3ANh7fS.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1627389",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-03T01:21:50.042175+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
