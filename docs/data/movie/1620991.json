@@ -1,0 +1,31 @@
+{
+  "id": 1620991,
+  "title": "The Investigation of Lucy Letby",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-04",
+  "runtime": 92,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный",
+    "криминал"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "GB"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/jgZWsr8W1raLdxzuznUJ0ExgNHz.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/qhSfXdkrIzwYsyQ3Z9ehFmO3zjy.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1620991",
+  "trailer": {
+    "key": "x93eZD1F4vs",
+    "name": "Official Trailer",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-02-04T01:17:28.195077+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

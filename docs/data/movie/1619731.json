@@ -1,0 +1,27 @@
+{
+  "id": 1619731,
+  "title": "This Didn't Happen",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-04",
+  "runtime": 9,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "мелодрама"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "ID"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/qM3wHH1FrAuUPunvAf5RwLSDfIb.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/6ReZb9h3ioZ0ybpHqg8QYFKynO.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1619731",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-04T01:17:28.551747+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

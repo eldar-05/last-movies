@@ -1,103 +1,106 @@
 {
-  "fetched_at_utc": "2026-02-03T18:44:32.272060+00:00",
+  "fetched_at_utc": "2026-02-04T01:17:28.552198+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1628509,
-      "title": "La folle histoire de Nutella",
-      "release_date": "2026-02-03",
+      "id": 1628282,
+      "title": "Égigérő",
+      "release_date": "2026-02-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/96M73ewpZQNraluH4XJefJNihAv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gE7hLYS7PGk1wWJxNJbmqBFP6Ls.jpg",
+      "genres": []
+    },
+    {
+      "id": 1628104,
+      "title": "블러디 플라워",
+      "release_date": "2026-02-04",
+      "vote_average": 0.0,
+      "poster_url": null,
       "genres": [
-        "документальный"
+        "криминал",
+        "триллер"
       ]
     },
     {
-      "id": 1628468,
-      "title": "Unintended Consequences",
-      "release_date": "2026-02-03",
+      "id": 1628082,
+      "title": "Gerta Schnirch",
+      "release_date": "2026-02-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/zPsvobJb1x4eMRcieMcBnwSD9QN.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rSuq8h3IyCzMLnNVvUptFSZWcLh.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1628443,
-      "title": "Laurent Paquin - Crocodile Distrait",
-      "release_date": "2026-02-03",
+      "id": 1628052,
+      "title": "SQUAT THE WORLD",
+      "release_date": "2026-02-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qDitpAlOK2bVKKJMdPK5mXZCh2G.jpg",
-      "genres": []
-    },
-    {
-      "id": 1628379,
-      "title": "Incendie de Crans-Montana : révélations sur une tragédie",
-      "release_date": "2026-02-03",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRcgzaZxtbtbHTnBvIIhRXs37s3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/r6ab5z8hgfK2XDZslgnRRWrcexZ.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1628306,
-      "title": "Ночная прогулка",
-      "release_date": "2026-02-03",
+      "id": 1626344,
+      "title": "Elliott: La camisa negra",
+      "release_date": "2026-02-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/chNZueyni0bYyNvk4MnGgwEIhNx.jpg",
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1628288,
-      "title": "Съедобное-несъедобное",
-      "release_date": "",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/a8BLWikd8qvZ9DsOrr85vorNEuD.jpg",
-      "genres": [
-        "ужасы",
-        "триллер"
-      ]
-    },
-    {
-      "id": 1628026,
-      "title": "Focus: Mens op de maan",
-      "release_date": "2026-02-03",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/iISwfQhsPH1lfWeS4DLskEgAYM1.jpg",
       "genres": []
     },
     {
-      "id": 1627811,
-      "title": "Enrico Mattei, le rebelle du pétrole",
-      "release_date": "2026-02-03",
+      "id": 1624452,
+      "title": "ROOM 110",
+      "release_date": "2026-02-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2LfJ4Dr8lYK3rJiWCeftZqgEC9n.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6yDaxa4JQMUVwN35CcdvRbFf9cf.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
+      "id": 1622852,
+      "title": "Dis-moi sur quel pied tu danses",
+      "release_date": "2026-02-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/jqb1TSc0YtqxMBM7Km33mz1kKyA.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1627808,
-      "title": "NJPW Road to The New Beginning 2026 - Day 7",
-      "release_date": "2026-02-03",
+      "id": 1622183,
+      "title": "Les Nocturnes",
+      "release_date": "2026-02-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/g9K9AbfdQDReBaaGywVxmHxlg3d.jpg",
-      "genres": []
+      "poster_url": "https://image.tmdb.org/t/p/w500/qemqt6yXcqV8TC1btsTa0mXa7DA.jpg",
+      "genres": [
+        "драма"
+      ]
     },
     {
-      "id": 1627389,
-      "title": "Legitimate Transaction",
-      "release_date": "2026-02-03",
+      "id": 1620991,
+      "title": "The Investigation of Lucy Letby",
+      "release_date": "2026-02-04",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/uZQ2InMaXIAWb6wOn1Gs3ANh7fS.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jgZWsr8W1raLdxzuznUJ0ExgNHz.jpg",
       "genres": [
-        "комедия",
+        "документальный",
         "криминал"
+      ]
+    },
+    {
+      "id": 1619731,
+      "title": "This Didn't Happen",
+      "release_date": "2026-02-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/qM3wHH1FrAuUPunvAf5RwLSDfIb.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
       ]
     }
   ],

@@ -1,0 +1,26 @@
+{
+  "id": 1624452,
+  "title": "ROOM 110",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-04",
+  "runtime": 7,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер"
+  ],
+  "original_language": "hi",
+  "spoken_languages": [
+    "Hindi"
+  ],
+  "production_countries": [
+    "IN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/6yDaxa4JQMUVwN35CcdvRbFf9cf.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/rqXOC55f1nNT2IdVmLRCdkw9usn.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1624452",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-04T01:17:27.210098+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

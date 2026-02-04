@@ -1,0 +1,22 @@
+{
+  "id": 1628282,
+  "title": "Égigérő",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-04",
+  "runtime": 32,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [],
+  "original_language": "hu",
+  "spoken_languages": [
+    "Hungarian"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/gE7hLYS7PGk1wWJxNJbmqBFP6Ls.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1628282",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-04T01:17:25.439727+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

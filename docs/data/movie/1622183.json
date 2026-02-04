@@ -1,0 +1,22 @@
+{
+  "id": 1622183,
+  "title": "Les Nocturnes",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-04",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/qemqt6yXcqV8TC1btsTa0mXa7DA.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/e4ICnpSSb8H69eKYZWxRq5JnVj4.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1622183",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-04T01:17:27.942336+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

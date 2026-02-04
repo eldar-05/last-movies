@@ -1,0 +1,27 @@
+{
+  "id": 1628104,
+  "title": "블러디 플라워",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-04",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "криминал",
+    "триллер"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "Korean"
+  ],
+  "production_countries": [
+    "KR"
+  ],
+  "poster_url": null,
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1628104",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-04T01:17:25.852716+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

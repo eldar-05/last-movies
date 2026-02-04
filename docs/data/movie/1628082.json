@@ -1,0 +1,29 @@
+{
+  "id": 1628082,
+  "title": "Gerta Schnirch",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-04",
+  "runtime": 170,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "cs",
+  "spoken_languages": [
+    "Czech",
+    "German"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/rSuq8h3IyCzMLnNVvUptFSZWcLh.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1628082",
+  "trailer": {
+    "key": "3LibTi8zelU",
+    "name": "Gerta Schnirch | Trailer | Serial Killer 2025",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-02-04T01:17:26.102744+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
