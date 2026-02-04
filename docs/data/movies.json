@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-02-04T06:40:03.454224+00:00",
+  "fetched_at_utc": "2026-02-04T12:40:03.506550+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -42,6 +42,14 @@
       "genres": [
         "документальный"
       ]
+    },
+    {
+      "id": 1627535,
+      "title": "猎枭风暴",
+      "release_date": "2026-02-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/A13DRSvcgTq6rss5MCVRbZLMDRG.jpg",
+      "genres": []
     },
     {
       "id": 1626344,
@@ -90,17 +98,6 @@
       "genres": [
         "документальный",
         "криминал"
-      ]
-    },
-    {
-      "id": 1619731,
-      "title": "This Didn't Happen",
-      "release_date": "2026-02-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qM3wHH1FrAuUPunvAf5RwLSDfIb.jpg",
-      "genres": [
-        "драма",
-        "мелодрама"
       ]
     }
   ],
