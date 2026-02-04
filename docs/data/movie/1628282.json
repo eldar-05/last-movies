@@ -14,9 +14,9 @@
   ],
   "production_countries": [],
   "poster_url": "https://image.tmdb.org/t/p/w500/gE7hLYS7PGk1wWJxNJbmqBFP6Ls.jpg",
-  "backdrop_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/gXjTkq27kj5NO2ehceCgsnqCXHf.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1628282",
   "trailer": null,
-  "fetched_at_utc": "2026-02-04T12:40:02.008747+00:00",
+  "fetched_at_utc": "2026-02-04T18:37:47.853124+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }

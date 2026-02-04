@@ -1,9 +1,61 @@
 {
-  "fetched_at_utc": "2026-02-04T12:40:03.506550+00:00",
+  "fetched_at_utc": "2026-02-04T18:37:49.168964+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1629103,
+      "title": "Fire Sleeps With Me",
+      "release_date": "2026-02-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/7DpI4bP3czFbyUqBmOh0qPDknks.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1629076,
+      "title": "Reform: Ready to Rule?",
+      "release_date": "2026-02-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/8YBfW425lBeL5gzXwoTzg8iEjQT.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1628995,
+      "title": "Abismo",
+      "release_date": "2026-02-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5jamsh8P2DQKXjvR8gOrqQn7yeT.jpg",
+      "genres": [
+        "триллер",
+        "драма"
+      ]
+    },
+    {
+      "id": 1628994,
+      "title": "Jordemoder mellem liv og død",
+      "release_date": "2026-02-04",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/55JsPopw5s5JsHnB3narfovlloX.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1628921,
+      "title": "Rainway",
+      "release_date": "2026-02-04",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cYDdQq4PQCSni88HNkbALOmAZYR.jpg",
+      "genres": [
+        "музыка",
+        "документальный"
+      ]
+    },
     {
       "id": 1628282,
       "title": "Égigérő",
@@ -27,7 +79,7 @@
       "id": 1628082,
       "title": "Gerta Schnirch",
       "release_date": "2026-02-04",
-      "vote_average": 0.0,
+      "vote_average": 9.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/rSuq8h3IyCzMLnNVvUptFSZWcLh.jpg",
       "genres": [
         "драма"
@@ -50,55 +102,6 @@
       "vote_average": 0.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/A13DRSvcgTq6rss5MCVRbZLMDRG.jpg",
       "genres": []
-    },
-    {
-      "id": 1626344,
-      "title": "Elliott: La camisa negra",
-      "release_date": "2026-02-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/iISwfQhsPH1lfWeS4DLskEgAYM1.jpg",
-      "genres": []
-    },
-    {
-      "id": 1624452,
-      "title": "ROOM 110",
-      "release_date": "2026-02-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/6yDaxa4JQMUVwN35CcdvRbFf9cf.jpg",
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1622852,
-      "title": "Dis-moi sur quel pied tu danses",
-      "release_date": "2026-02-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jqb1TSc0YtqxMBM7Km33mz1kKyA.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1622183,
-      "title": "Les Nocturnes",
-      "release_date": "2026-02-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qemqt6yXcqV8TC1btsTa0mXa7DA.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1620991,
-      "title": "The Investigation of Lucy Letby",
-      "release_date": "2026-02-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/jgZWsr8W1raLdxzuznUJ0ExgNHz.jpg",
-      "genres": [
-        "документальный",
-        "криминал"
-      ]
     }
   ],
   "source": "TMDB",
