@@ -1,0 +1,30 @@
+{
+  "id": 1628469,
+  "title": "48 Hours in Purgatory",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-05",
+  "runtime": 106,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "триллер"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "CA"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/sSMuL7cRSl90KTkilMoTTwM9xP6.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/9BzSAPAXkf0drieOMVduMxc158L.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1628469",
+  "trailer": {
+    "key": "sWFGb2kVHHY",
+    "name": "48 Hours in Purgatory ~ Emily Alatalo / Andrew Roth ~Teaser",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-02-05T01:18:02.544567+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

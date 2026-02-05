@@ -1,0 +1,29 @@
+{
+  "id": 1629011,
+  "title": "Trahison à Worms",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-05",
+  "runtime": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "комедия",
+    "приключения",
+    "фэнтези"
+  ],
+  "original_language": "fr",
+  "spoken_languages": [
+    "German",
+    "French"
+  ],
+  "production_countries": [
+    "FR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/xoQ3uGtFLKQliDVKXYhOCCv8yzl.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/yibVBhFRtAyIMOSrhqU6hDuCpxi.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1629011",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-05T01:18:02.214979+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

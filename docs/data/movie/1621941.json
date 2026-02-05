@@ -1,0 +1,26 @@
+{
+  "id": 1621941,
+  "title": "The Most Honest Actor",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-05",
+  "runtime": 17,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/hposmFtvLcLlOGYRrEMBaYA7OK1.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1621941",
+  "trailer": {
+    "key": "Y42NNyvqUnU",
+    "name": "the most honest actor - teaser",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-02-05T01:18:03.705861+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

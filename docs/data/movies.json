@@ -1,107 +1,109 @@
 {
-  "fetched_at_utc": "2026-02-04T18:37:49.168964+00:00",
+  "fetched_at_utc": "2026-02-05T01:18:03.706260+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1629103,
-      "title": "Fire Sleeps With Me",
-      "release_date": "2026-02-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/7DpI4bP3czFbyUqBmOh0qPDknks.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1629076,
-      "title": "Reform: Ready to Rule?",
-      "release_date": "2026-02-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/8YBfW425lBeL5gzXwoTzg8iEjQT.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1628995,
-      "title": "Abismo",
-      "release_date": "2026-02-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5jamsh8P2DQKXjvR8gOrqQn7yeT.jpg",
-      "genres": [
-        "триллер",
-        "драма"
-      ]
-    },
-    {
-      "id": 1628994,
-      "title": "Jordemoder mellem liv og død",
-      "release_date": "2026-02-04",
+      "id": 1629011,
+      "title": "Trahison à Worms",
+      "release_date": "2026-02-05",
       "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/55JsPopw5s5JsHnB3narfovlloX.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xoQ3uGtFLKQliDVKXYhOCCv8yzl.jpg",
       "genres": [
-        "документальный"
+        "комедия",
+        "приключения",
+        "фэнтези"
       ]
     },
     {
-      "id": 1628921,
-      "title": "Rainway",
-      "release_date": "2026-02-04",
+      "id": 1628635,
+      "title": "Тайна адмирала Ушакова",
+      "release_date": "2026-02-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/cYDdQq4PQCSni88HNkbALOmAZYR.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3O8kCyldHQf78LmOCAl7PFI9LNM.jpg",
       "genres": [
-        "музыка",
-        "документальный"
+        "история",
+        "приключения"
       ]
     },
     {
-      "id": 1628282,
-      "title": "Égigérő",
-      "release_date": "2026-02-04",
+      "id": 1628469,
+      "title": "48 Hours in Purgatory",
+      "release_date": "2026-02-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gE7hLYS7PGk1wWJxNJbmqBFP6Ls.jpg",
-      "genres": []
-    },
-    {
-      "id": 1628104,
-      "title": "블러디 플라워",
-      "release_date": "2026-02-04",
-      "vote_average": 0.0,
-      "poster_url": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/sSMuL7cRSl90KTkilMoTTwM9xP6.jpg",
       "genres": [
-        "криминал",
         "триллер"
       ]
     },
     {
-      "id": 1628082,
-      "title": "Gerta Schnirch",
-      "release_date": "2026-02-04",
-      "vote_average": 9.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/rSuq8h3IyCzMLnNVvUptFSZWcLh.jpg",
+      "id": 1628277,
+      "title": "MLW Battle Riot VIII",
+      "release_date": "2026-02-05",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1625969,
+      "title": "PAZ Y LIBERTAD",
+      "release_date": "2026-02-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tBDDOt40Mhu67NGvPbCSaxRpogz.jpg",
+      "genres": [
+        "триллер",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 1625963,
+      "title": "LOZA",
+      "release_date": "2026-02-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xwZ8DB5hdjSxgQInclK4P2Jc9YM.jpg",
+      "genres": [
+        "драма",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1625489,
+      "title": "Soy Inmortal",
+      "release_date": "2026-02-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/u2FrvAd2crOyUSJ0tVnYPk3cp8e.jpg",
+      "genres": [
+        "фантастика"
+      ]
+    },
+    {
+      "id": 1624745,
+      "title": "Guarda le stelle, amore mio",
+      "release_date": "2026-02-05",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
+    {
+      "id": 1623743,
+      "title": "Nem én vagyok",
+      "release_date": "2026-02-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/cgzJvnpkEootB46THk10HMhW90k.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1628052,
-      "title": "SQUAT THE WORLD",
-      "release_date": "2026-02-04",
+      "id": 1621941,
+      "title": "The Most Honest Actor",
+      "release_date": "2026-02-05",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/r6ab5z8hgfK2XDZslgnRRWrcexZ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hposmFtvLcLlOGYRrEMBaYA7OK1.jpg",
       "genres": [
         "документальный"
       ]
-    },
-    {
-      "id": 1627535,
-      "title": "猎枭风暴",
-      "release_date": "2026-02-04",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/A13DRSvcgTq6rss5MCVRbZLMDRG.jpg",
-      "genres": []
     }
   ],
   "source": "TMDB",

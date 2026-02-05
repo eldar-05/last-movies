@@ -1,0 +1,25 @@
+{
+  "id": 1625963,
+  "title": "LOZA",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-05",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма",
+    "документальный"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/xwZ8DB5hdjSxgQInclK4P2Jc9YM.jpg",
+  "backdrop_url": null,
+  "tmdb_url": "https://www.themoviedb.org/movie/1625963",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-05T01:18:03.085622+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
