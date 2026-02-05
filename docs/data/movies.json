@@ -1,9 +1,27 @@
 {
-  "fetched_at_utc": "2026-02-05T12:41:50.321537+00:00",
+  "fetched_at_utc": "2026-02-05T18:38:19.151873+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1629755,
+      "title": "A Glance at the Moon",
+      "release_date": "2026-02-05",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/A5prWnyTUHTEymxpNS4rwAv6rn.jpg",
+      "genres": [
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 1629621,
+      "title": "morgenstund hat gold im mund",
+      "release_date": "2026-02-05",
+      "vote_average": 0.0,
+      "poster_url": null,
+      "genres": []
+    },
     {
       "id": 1629475,
       "title": "一秒",
@@ -88,24 +106,6 @@
         "драма",
         "документальный"
       ]
-    },
-    {
-      "id": 1625489,
-      "title": "Soy Inmortal",
-      "release_date": "2026-02-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/u2FrvAd2crOyUSJ0tVnYPk3cp8e.jpg",
-      "genres": [
-        "фантастика"
-      ]
-    },
-    {
-      "id": 1624745,
-      "title": "Guarda le stelle, amore mio",
-      "release_date": "2026-02-05",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
     }
   ],
   "source": "TMDB",

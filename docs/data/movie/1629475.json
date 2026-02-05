@@ -7,14 +7,22 @@
   "runtime": 0,
   "vote_average": 0.0,
   "vote_count": 0,
-  "genres": [],
+  "genres": [
+    "мелодрама",
+    "драма",
+    "семейный"
+  ],
   "original_language": "zh",
-  "spoken_languages": [],
-  "production_countries": [],
+  "spoken_languages": [
+    "Mandarin"
+  ],
+  "production_countries": [
+    "CN"
+  ],
   "poster_url": "https://image.tmdb.org/t/p/w500/dGmOR1vIK4TeT3NqA5z3TjfJ2EB.jpg",
-  "backdrop_url": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/iejj8NvFakjtV36JGwM3VzsKM9F.jpg",
   "tmdb_url": "https://www.themoviedb.org/movie/1629475",
   "trailer": null,
-  "fetched_at_utc": "2026-02-05T12:41:47.313762+00:00",
+  "fetched_at_utc": "2026-02-05T18:38:16.703886+00:00",
   "notice": "This product uses the TMDB API but is not endorsed by TMDB."
 }
