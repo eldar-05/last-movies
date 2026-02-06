@@ -1,0 +1,26 @@
+{
+  "id": 1630468,
+  "title": "The Moment",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-06",
+  "runtime": 76,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/n5wqCXZtL188txOQb1Vt6v1V7qB.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/iIGtu9QrjQI4AqzDXyiaYIW4s2T.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1630468",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-06T18:37:16.105451+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,9 +1,59 @@
 {
-  "fetched_at_utc": "2026-02-06T12:40:10.815544+00:00",
+  "fetched_at_utc": "2026-02-06T18:37:17.774894+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
+    {
+      "id": 1630468,
+      "title": "The Moment",
+      "release_date": "2026-02-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/n5wqCXZtL188txOQb1Vt6v1V7qB.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 1630411,
+      "title": "Weight of Ribbons",
+      "release_date": "",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4whXKgYcDXF8fSQi37QPGau1I61.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1630331,
+      "title": "Opalite",
+      "release_date": "2026-02-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/sMXxhqhprgROrqUwErnymLKpHoW.jpg",
+      "genres": [
+        "музыка",
+        "мелодрама",
+        "комедия"
+      ]
+    },
+    {
+      "id": 1630155,
+      "title": "Antes",
+      "release_date": "2026-02-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/gIf9wgvM8meSDHW1vaCSYeX8tYS.jpg",
+      "genres": []
+    },
+    {
+      "id": 1630139,
+      "title": "Dear Josh,",
+      "release_date": "2026-02-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/5PMHc06fYyIWjDS61xL9apV4mSb.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
     {
       "id": 1629834,
       "title": "Blue",
@@ -50,59 +100,6 @@
       "genres": [
         "документальный",
         "музыка"
-      ]
-    },
-    {
-      "id": 1629279,
-      "title": "Contribution",
-      "release_date": "2026-02-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/lSxNhfrwTWEPK96mi5SsvXezw6E.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1629257,
-      "title": "Színház sárból",
-      "release_date": "2026-02-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/vLnUpOkyQbCu3RaFK3xx3cBr97I.jpg",
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1628964,
-      "title": "Lagnacha Shot",
-      "release_date": "2026-02-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/g9HZNWceR17jXgHmgDubmJlH7Br.jpg",
-      "genres": [
-        "драма"
-      ]
-    },
-    {
-      "id": 1628900,
-      "title": "Vida y milagros",
-      "release_date": "2026-02-06",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xelbdO7WoHArD8wzrRKEhNPKtnN.jpg",
-      "genres": [
-        "музыка",
-        "мелодрама"
-      ]
-    },
-    {
-      "id": 1628777,
-      "title": "Trash Attack",
-      "release_date": "2026-02-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4sHlwFtSIgCAEKrxtfVEQNOUiJq.jpg",
-      "genres": [
-        "ужасы",
-        "комедия",
-        "фантастика"
       ]
     }
   ],
