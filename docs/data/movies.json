@@ -1,110 +1,108 @@
 {
-  "fetched_at_utc": "2026-02-05T18:38:19.151873+00:00",
+  "fetched_at_utc": "2026-02-06T01:17:51.215863+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1629755,
-      "title": "A Glance at the Moon",
-      "release_date": "2026-02-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/A5prWnyTUHTEymxpNS4rwAv6rn.jpg",
-      "genres": [
-        "фэнтези"
-      ]
-    },
-    {
-      "id": 1629621,
-      "title": "morgenstund hat gold im mund",
-      "release_date": "2026-02-05",
+      "id": 1629834,
+      "title": "Blue",
+      "release_date": "2026-02-06",
       "vote_average": 0.0,
       "poster_url": null,
       "genres": []
     },
     {
-      "id": 1629475,
-      "title": "一秒",
-      "release_date": "2026-02-05",
+      "id": 1629774,
+      "title": "ဧည့်ဂေဟာ",
+      "release_date": "2026-02-06",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/dGmOR1vIK4TeT3NqA5z3TjfJ2EB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2uk0nhW2HSS3izqRk3bkUh1mSOg.jpg",
       "genres": [
-        "мелодрама",
-        "драма",
-        "семейный"
-      ]
-    },
-    {
-      "id": 1629333,
-      "title": "Theo Does Some Editing",
-      "release_date": "2026-02-05",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": [
-        "документальный"
-      ]
-    },
-    {
-      "id": 1629011,
-      "title": "Trahison à Worms",
-      "release_date": "2026-02-05",
-      "vote_average": 10.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xoQ3uGtFLKQliDVKXYhOCCv8yzl.jpg",
-      "genres": [
-        "комедия",
-        "приключения",
-        "фэнтези"
-      ]
-    },
-    {
-      "id": 1628635,
-      "title": "Тайна адмирала Ушакова",
-      "release_date": "2026-02-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/3O8kCyldHQf78LmOCAl7PFI9LNM.jpg",
-      "genres": [
-        "история",
-        "приключения"
-      ]
-    },
-    {
-      "id": 1628469,
-      "title": "48 Hours in Purgatory",
-      "release_date": "2026-02-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sSMuL7cRSl90KTkilMoTTwM9xP6.jpg",
-      "genres": [
-        "триллер"
-      ]
-    },
-    {
-      "id": 1628277,
-      "title": "MLW Battle Riot VIII",
-      "release_date": "2026-02-05",
-      "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1625969,
-      "title": "PAZ Y LIBERTAD",
-      "release_date": "2026-02-05",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/tBDDOt40Mhu67NGvPbCSaxRpogz.jpg",
-      "genres": [
-        "триллер",
         "ужасы"
       ]
     },
     {
-      "id": 1625963,
-      "title": "LOZA",
-      "release_date": "2026-02-05",
+      "id": 1629729,
+      "title": "Blood Roses",
+      "release_date": "2026-02-06",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/xwZ8DB5hdjSxgQInclK4P2Jc9YM.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qKjkk9Y4SwOI930uRs5yWFMJzqV.jpg",
       "genres": [
-        "драма",
+        "боевик",
+        "триллер"
+      ]
+    },
+    {
+      "id": 1629725,
+      "title": "Rubaab",
+      "release_date": "2026-02-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/63NlzyTQYkXGl2a2YKIBVQEQZ6k.jpg",
+      "genres": []
+    },
+    {
+      "id": 1629600,
+      "title": "Life Will Return By Painted Faces Gallery",
+      "release_date": "2026-02-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/KJeB6XRW7s72DCHcMycAvhbHCP.jpg",
+      "genres": [
+        "документальный",
+        "музыка"
+      ]
+    },
+    {
+      "id": 1629279,
+      "title": "Contribution",
+      "release_date": "2026-02-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/lSxNhfrwTWEPK96mi5SsvXezw6E.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1629257,
+      "title": "Színház sárból",
+      "release_date": "2026-02-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/vLnUpOkyQbCu3RaFK3xx3cBr97I.jpg",
+      "genres": [
         "документальный"
+      ]
+    },
+    {
+      "id": 1628964,
+      "title": "Lagnacha Shot",
+      "release_date": "2026-02-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/g9HZNWceR17jXgHmgDubmJlH7Br.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 1628900,
+      "title": "Vida y milagros",
+      "release_date": "2026-02-06",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/xelbdO7WoHArD8wzrRKEhNPKtnN.jpg",
+      "genres": [
+        "музыка",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1628777,
+      "title": "Trash Attack",
+      "release_date": "2026-02-06",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/4sHlwFtSIgCAEKrxtfVEQNOUiJq.jpg",
+      "genres": [
+        "ужасы",
+        "комедия",
+        "фантастика"
       ]
     }
   ],

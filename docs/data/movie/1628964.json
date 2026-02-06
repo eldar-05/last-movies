@@ -1,0 +1,30 @@
+{
+  "id": 1628964,
+  "title": "Lagnacha Shot",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-06",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "mr",
+  "spoken_languages": [
+    "Marathi"
+  ],
+  "production_countries": [
+    "IN"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/g9HZNWceR17jXgHmgDubmJlH7Br.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/uy4fMMztummNHo8Q9Eh6MFGJ0Cc.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1628964",
+  "trailer": {
+    "key": "GI2tXrAtebo",
+    "name": "Lagnacha Shot - Trailer | Priyadarshini Indalkar, Abhijit Amkar, Prabhakar More | Akshay Gore |6 Feb",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-02-06T01:17:50.848308+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

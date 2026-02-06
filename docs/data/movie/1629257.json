@@ -1,0 +1,28 @@
+{
+  "id": 1629257,
+  "title": "Színház sárból",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-06",
+  "runtime": 54,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "Hungarian"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/vLnUpOkyQbCu3RaFK3xx3cBr97I.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/pdC1rISCf4KuoDLM8P9nPGjX9JW.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1629257",
+  "trailer": {
+    "key": "eEgG6Foky6s",
+    "name": "Színház sárból (előzetes)",
+    "type": "Trailer"
+  },
+  "fetched_at_utc": "2026-02-06T01:17:50.715366+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

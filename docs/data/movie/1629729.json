@@ -1,0 +1,25 @@
+{
+  "id": 1629729,
+  "title": "Blood Roses",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-06",
+  "runtime": 149,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "боевик",
+    "триллер"
+  ],
+  "original_language": "te",
+  "spoken_languages": [
+    "Telugu"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/qKjkk9Y4SwOI930uRs5yWFMJzqV.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/rqw71OYWPUkHxc0dwvtP12A46gV.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1629729",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-06T01:17:50.015303+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
