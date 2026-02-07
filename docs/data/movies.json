@@ -1,105 +1,114 @@
 {
-  "fetched_at_utc": "2026-02-06T18:37:17.774894+00:00",
+  "fetched_at_utc": "2026-02-07T01:16:27.945368+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
   "items": [
     {
-      "id": 1630468,
-      "title": "The Moment",
-      "release_date": "2026-02-06",
+      "id": 1630561,
+      "title": "SEXO: La Pelicula",
+      "release_date": "2026-02-07",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/n5wqCXZtL188txOQb1Vt6v1V7qB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/q8TpDEZPbPLnOLxWwV4eaJSAAsZ.jpg",
+      "genres": [
+        "боевик",
+        "военный",
+        "фантастика",
+        "документальный",
+        "история"
+      ]
+    },
+    {
+      "id": 1630514,
+      "title": "Chérie",
+      "release_date": "2026-02-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/pSPzYYNCpuwfvREO05ISDCeKQU5.jpg",
       "genres": [
         "документальный"
       ]
     },
     {
-      "id": 1630411,
-      "title": "Weight of Ribbons",
-      "release_date": "",
+      "id": 1630438,
+      "title": "Contact (Blood On The Ice)",
+      "release_date": "2026-02-07",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/4whXKgYcDXF8fSQi37QPGau1I61.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/byGvuf5cYoa63qOG0e8xZhBEk0Y.jpg",
+      "genres": [
+        "мультфильм",
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 1630428,
+      "title": "Crónica de una Desdicha Hereditaria",
+      "release_date": "2026-02-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/tUKNh4JAmc6XrttntQANoHAv33W.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1630331,
-      "title": "Opalite",
-      "release_date": "2026-02-06",
+      "id": 1629781,
+      "title": "Champ de Mars",
+      "release_date": "2026-02-07",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/sMXxhqhprgROrqUwErnymLKpHoW.jpg",
+      "poster_url": null,
       "genres": [
-        "музыка",
-        "мелодрама",
+        "документальный"
+      ]
+    },
+    {
+      "id": 1629753,
+      "title": "Aymeric Lompret & Pierre-Emmanuel Barré : Woke me up !",
+      "release_date": "2026-02-07",
+      "vote_average": 0.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/dyfwBmPZ2wjTcENQh8lsKs1hqc4.jpg",
+      "genres": [
         "комедия"
       ]
     },
     {
-      "id": 1630155,
-      "title": "Antes",
-      "release_date": "2026-02-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/gIf9wgvM8meSDHW1vaCSYeX8tYS.jpg",
-      "genres": []
-    },
-    {
-      "id": 1630139,
-      "title": "Dear Josh,",
-      "release_date": "2026-02-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/5PMHc06fYyIWjDS61xL9apV4mSb.jpg",
+      "id": 1629592,
+      "title": "Der entscheidende Moment",
+      "release_date": "2026-02-07",
+      "vote_average": 10.0,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mZG4lllnsolByUeRGhouZ9wxdT1.jpg",
       "genres": [
         "драма"
       ]
     },
     {
-      "id": 1629834,
-      "title": "Blue",
-      "release_date": "2026-02-06",
+      "id": 1629442,
+      "title": "Patrañas",
+      "release_date": "2026-02-07",
       "vote_average": 0.0,
-      "poster_url": null,
-      "genres": []
-    },
-    {
-      "id": 1629774,
-      "title": "ဧည့်ဂေဟာ",
-      "release_date": "2026-02-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/2uk0nhW2HSS3izqRk3bkUh1mSOg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/veMhnE9JQzepQSfw1c9zvEs47IB.jpg",
       "genres": [
-        "ужасы"
+        "комедия"
       ]
     },
     {
-      "id": 1629729,
-      "title": "Blood Roses",
-      "release_date": "2026-02-06",
+      "id": 1629435,
+      "title": "Toda la luz mala",
+      "release_date": "2026-02-07",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/qKjkk9Y4SwOI930uRs5yWFMJzqV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dVxtNGV9t9FYfAMkebus9fHuV8e.jpg",
       "genres": [
-        "боевик",
-        "триллер"
+        "фэнтези"
       ]
     },
     {
-      "id": 1629725,
-      "title": "Rubaab",
-      "release_date": "2026-02-06",
+      "id": 1629425,
+      "title": "Palabras de amor",
+      "release_date": "2026-02-07",
       "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/63NlzyTQYkXGl2a2YKIBVQEQZ6k.jpg",
-      "genres": []
-    },
-    {
-      "id": 1629600,
-      "title": "Life Will Return By Painted Faces Gallery",
-      "release_date": "2026-02-06",
-      "vote_average": 0.0,
-      "poster_url": "https://image.tmdb.org/t/p/w500/KJeB6XRW7s72DCHcMycAvhbHCP.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/67KIwN86VnAAkkXUsOOLwHYMpQW.jpg",
       "genres": [
-        "документальный",
-        "музыка"
+        "мелодрама",
+        "комедия"
       ]
     }
   ],

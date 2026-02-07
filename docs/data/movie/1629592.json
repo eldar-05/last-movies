@@ -1,0 +1,27 @@
+{
+  "id": 1629592,
+  "title": "Der entscheidende Moment",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-07",
+  "runtime": 0,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "genres": [
+    "драма"
+  ],
+  "original_language": "de",
+  "spoken_languages": [
+    "German",
+    "English"
+  ],
+  "production_countries": [
+    "DE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/mZG4lllnsolByUeRGhouZ9wxdT1.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/nQPzi8G3KnSt7sstEdYiGpVWwK0.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1629592",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-07T01:16:26.881416+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

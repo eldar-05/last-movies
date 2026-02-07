@@ -1,0 +1,26 @@
+{
+  "id": 1630438,
+  "title": "Contact (Blood On The Ice)",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-07",
+  "runtime": 2,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мультфильм",
+    "драма",
+    "мелодрама"
+  ],
+  "original_language": "en",
+  "spoken_languages": [
+    "English"
+  ],
+  "production_countries": [],
+  "poster_url": "https://image.tmdb.org/t/p/w500/byGvuf5cYoa63qOG0e8xZhBEk0Y.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/pEaafCi0WOEiyh6XpxHXXsIxpus.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1630438",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-07T01:16:25.451371+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1630514,
+  "title": "Chérie",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-07",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "документальный"
+  ],
+  "original_language": "nl",
+  "spoken_languages": [
+    "Dutch"
+  ],
+  "production_countries": [
+    "BE"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/pSPzYYNCpuwfvREO05ISDCeKQU5.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/wPsVz01uJqTwFHthWiilKn8uara.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1630514",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-07T01:16:25.090799+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}

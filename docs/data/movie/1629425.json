@@ -1,0 +1,27 @@
+{
+  "id": 1629425,
+  "title": "Palabras de amor",
+  "tagline": "",
+  "overview": "",
+  "release_date": "2026-02-07",
+  "runtime": 0,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "genres": [
+    "мелодрама",
+    "комедия"
+  ],
+  "original_language": "es",
+  "spoken_languages": [
+    "Spanish"
+  ],
+  "production_countries": [
+    "AR"
+  ],
+  "poster_url": "https://image.tmdb.org/t/p/w500/67KIwN86VnAAkkXUsOOLwHYMpQW.jpg",
+  "backdrop_url": "https://image.tmdb.org/t/p/w780/wHKi9hR15eAHPZbivG8ljJcmHNx.jpg",
+  "tmdb_url": "https://www.themoviedb.org/movie/1629425",
+  "trailer": null,
+  "fetched_at_utc": "2026-02-07T01:16:27.944911+00:00",
+  "notice": "This product uses the TMDB API but is not endorsed by TMDB."
+}
