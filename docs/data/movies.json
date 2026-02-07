@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-02-07T01:16:27.945368+00:00",
+  "fetched_at_utc": "2026-02-07T06:32:31.637161+00:00",
   "region": null,
   "days_back": 30,
   "count": 10,
@@ -8,7 +8,7 @@
       "id": 1630561,
       "title": "SEXO: La Pelicula",
       "release_date": "2026-02-07",
-      "vote_average": 0.0,
+      "vote_average": 10.0,
       "poster_url": "https://image.tmdb.org/t/p/w500/q8TpDEZPbPLnOLxWwV4eaJSAAsZ.jpg",
       "genres": [
         "боевик",
